@@ -66,4 +66,6 @@ jobs:
           git add docs/
           # Only commit if there are changes
           git diff --cached --quiet || git commit -m "chore: update dashboard $(date -u '+%Y-%m-%d %H:%M UTC')"
+          # Pull remote changes (rebase keeps history clean) then push
+          git pull --rebase origin main
           git push
