@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>NewsWatch</title>
+    <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
+    <description>Keyword-monitored news feed</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jun 2026 23:30:19 +0000</lastBuildDate>
+    <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>5 million have dropped ACA insurance after Trump and the GOP let prices skyrocket</title>
+      <link>https://www.npr.org/2026/06/26/nx-s1-5860746/aca-health-insurance-subsidies-rates-premiums</link>
+      <guid>https://www.npr.org/2026/06/26/nx-s1-5860746/aca-health-insurance-subsidies-rates-premiums</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — Enrollment in Affordable Care Act insurance fell much more sharply in the first months of 2026 than it has in years past. Trump officials blame fraud. Health policy experts blame costs.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Fri, 26 Jun 2026 18:54:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>How to Use AI to Help Find Civilian Harm</title>
+      <link>https://www.bellingcat.com/resources/2026/06/25/how-to-use-ai-to-help-find-civilian-harm-conflict-report-monitor-war-machine-learning-telegram/</link>
+      <guid>https://www.bellingcat.com/resources/2026/06/25/how-to-use-ai-to-help-find-civilian-harm-conflict-report-monitor-war-machine-learning-telegram/</guid>
+      <description>[AI &amp; Automation] Keyword: machine learning — Between February 2022 and September 2025, Bellingcat staff and volunteers collected, geolocated, and shared more than 2,500 incidents of civilian harm following Russia’s full-scale invasion of Ukraine.&amp;#160; As part of this effort, Bellingcat tested a new machine learning model intended to rank Telegram social media posts on their likelihood of containing incidents of civilian harm.&amp;#160; [&amp;#8230;]
+The post How to Use AI to Help Find Civilian Harm appeared first on bellingcat.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Thu, 25 Jun 2026 13:59:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peptide alternative to antibiotics could combat antimicrobial resistance crisis</title>
+      <link>https://phys.org/news/2026-06-peptide-alternative-antibiotics-combat-antimicrobial.html</link>
+      <guid>https://phys.org/news/2026-06-peptide-alternative-antibiotics-combat-antimicrobial.html</guid>
+      <description>[Mycology &amp; Mushrooms] Keyword: fungal — A University of Alberta research team has designed a promising alternative for treating antimicrobial-resistant infections, a pressing global health issue. In a paper recently published in Cell Biomaterials, the team describes preclinical testing results for its human-derived peptide treatment, D-GK17. The peptide is stable and nontoxic to humans and is synthesized to attack the surfaces of bacterial or fungal cells that create biofilms, a sticky matrix that is often impenetrable to antibiotic t</description>
+      <category>Mycology &amp; Mushrooms</category>
+      <pubDate>Sat, 27 Jun 2026 17:00:03 EDT</pubDate>
+    </item>
+    <item>
+      <title>How young coquí frogs balance the competing demands of growth and fighting disease</title>
+      <link>https://theconversation.com/how-young-coqui-frogs-balance-the-competing-demands-of-growth-and-fighting-disease-283552</link>
+      <guid>https://theconversation.com/how-young-coqui-frogs-balance-the-competing-demands-of-growth-and-fighting-disease-283552</guid>
+      <description>[Mycology &amp; Mushrooms] Keyword: fungal — A new study tracks how young frogs are trying to avoid a deadly fungal infection.</description>
+      <category>Mycology &amp; Mushrooms</category>
+      <pubDate>2026-06-24T12:30:54Z</pubDate>
+    </item>
+  </channel>
+</rss>
