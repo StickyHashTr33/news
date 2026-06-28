@@ -1,0 +1,54 @@
+topics:
+
+  - name: "Mycology & Mushrooms"
+    keywords:
+      - "mushroom cultivation"
+      - "mycology"
+      - "gourmet mushrooms"
+      - "lion's mane"
+      - "oyster mushroom"
+      - "mycelium"
+      - "fungal"
+      - "psilocybin"
+    outputs:
+      discord: true
+      email: true
+      rss: true
+
+  - name: "Texas Surveillance"
+    keywords:
+      - "Texas surveillance"
+      - "San Antonio police"
+      - "facial recognition Texas"
+      - "Texas procurement"
+      - "Texas contract"
+      - "surveillance technology"
+      - "predictive policing"
+    outputs:
+      discord: true
+      email: false
+      rss: true
+
+  - name: "AI & Automation"
+    keywords:
+      - "python automation"
+      - "AI workflow"
+      - "large language model"
+      - "LLM"
+      - "AI integration"
+      - "open source AI"
+      - "machine learning"
+    outputs:
+      discord: true
+      email: true
+      rss: true
+
+  # Add more topics below
+  # - name: "My Topic"
+  #   keywords:
+  #     - "keyword one"
+  #     - "another phrase"
+  #   outputs:
+  #     discord: true
+  #     email: false
+  #     rss: true

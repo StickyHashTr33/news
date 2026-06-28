@@ -1,0 +1,69 @@
+name: NewsWatch Monitor
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours: 00:00, 06:00, 12:00, 18:00 UTC
+  workflow_dispatch:          # also allows manual trigger from Actions tab
+
+permissions:
+  contents: write             # needed to commit docs/ back to the repo
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────────────
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── 2. Python setup ──────────────────────────────────────────────────
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # ── 3. Restore SQLite DB from cache ──────────────────────────────────
+      - name: Restore article DB cache
+        uses: actions/cache@v4
+        with:
+          path: data/seen.db
+          # Key rotates monthly so the DB doesn't grow forever
+          key: newswatch-db-${{ github.run_id }}
+          restore-keys: |
+            newswatch-db-
+
+      - name: Create data dir if missing
+        run: mkdir -p data docs
+
+      # ── 4. Install dependencies ──────────────────────────────────────────
+      - name: Install dependencies
+        run: |
+          pip install --quiet feedparser pyyaml requests
+
+      # ── 5. Run monitor ───────────────────────────────────────────────────
+      - name: Run NewsWatch
+        env:
+          DB_PATH: data/seen.db
+          DOCS_DIR: docs
+          SITE_URL: https://${{ github.repository_owner }}.github.io/news-keyword-monitor
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          CONFIG_PATH: config/topics.yml
+          SOURCES_PATH: config/sources.yml
+        run: python src/main.py
+
+      # ── 6. Commit dashboard + RSS to docs/ ──────────────────────────────
+      - name: Commit generated docs
+        run: |
+          git config user.name  "NewsWatch Bot"
+          git config user.email "actions@github.com"
+          git add docs/
+          # Only commit if there are changes
+          git diff --cached --quiet || git commit -m "chore: update dashboard $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

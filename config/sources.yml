@@ -1,0 +1,116 @@
+# sources.yml — Curated RSS feed allowlist
+# Only these outlets will ever appear in NewsWatch results.
+# Add or remove feeds freely. Each entry needs a name and url.
+# category is just for your reference — not used by the code.
+
+sources:
+
+  # ── Wire / Non-profit ────────────────────────────────────────────────────
+  - name: "AP News"
+    url: "https://feeds.apnews.com/apnews/topnews"
+    category: wire
+
+  - name: "AP News - Science"
+    url: "https://feeds.apnews.com/apnews/science"
+    category: wire
+
+  - name: "AP News - Technology"
+    url: "https://feeds.apnews.com/apnews/technology"
+    category: wire
+
+  - name: "ProPublica"
+    url: "https://www.propublica.org/feeds/propublica/main"
+    category: investigative
+
+  - name: "ProPublica - Texas"
+    url: "https://www.propublica.org/feeds/propublica/series/propublica-texas"
+    category: investigative
+
+  # ── Independent / Investigative ─────────────────────────────────────────
+  - name: "The Intercept"
+    url: "https://theintercept.com/feed/?rss"
+    category: investigative
+
+  - name: "Bellingcat"
+    url: "https://www.bellingcat.com/feed/"
+    category: osint
+
+  - name: "Democracy Now"
+    url: "https://www.democracynow.org/democracynow.rss"
+    category: independent
+
+  - name: "Truthout"
+    url: "https://truthout.org/feed/"
+    category: independent
+
+  - name: "Common Dreams"
+    url: "https://www.commondreams.org/rss.xml"
+    category: independent
+
+  - name: "The Guardian - World"
+    url: "https://www.theguardian.com/world/rss"
+    category: independent
+
+  - name: "The Guardian - Technology"
+    url: "https://www.theguardian.com/technology/rss"
+    category: independent
+
+  - name: "The Guardian - Environment"
+    url: "https://www.theguardian.com/environment/rss"
+    category: independent
+
+  # ── Public / Academic ───────────────────────────────────────────────────
+  - name: "NPR News"
+    url: "https://feeds.npr.org/1001/rss.xml"
+    category: public
+
+  - name: "NPR - Science"
+    url: "https://feeds.npr.org/1007/rss.xml"
+    category: public
+
+  - name: "NPR - Health"
+    url: "https://feeds.npr.org/1128/rss.xml"
+    category: public
+
+  - name: "BBC News"
+    url: "https://feeds.bbci.co.uk/news/rss.xml"
+    category: public
+
+  - name: "BBC - Technology"
+    url: "https://feeds.bbci.co.uk/news/technology/rss.xml"
+    category: public
+
+  - name: "The Conversation - US"
+    url: "https://theconversation.com/us/articles.atom"
+    category: academic
+
+  - name: "The Conversation - Science"
+    url: "https://theconversation.com/us/technology/articles.atom"
+    category: academic
+
+  # ── Texas / Civic ────────────────────────────────────────────────────────
+  - name: "Texas Tribune"
+    url: "https://www.texastribune.org/feeds/latest/"
+    category: civic
+
+  - name: "San Antonio Report"
+    url: "https://sanantonioreport.org/feed/"
+    category: civic
+
+  - name: "KUT Austin (NPR)"
+    url: "https://www.kut.org/rss.xml"
+    category: civic
+
+  # ── Science / Nature ─────────────────────────────────────────────────────
+  - name: "Science Daily"
+    url: "https://www.sciencedaily.com/rss/all.xml"
+    category: science
+
+  - name: "Phys.org"
+    url: "https://phys.org/rss-feed/"
+    category: science
+
+  # ── Add your own feeds below ─────────────────────────────────────────────
+  # - name: "My Source"
+  #   url: "https://example.com/feed.xml"
+  #   category: other
