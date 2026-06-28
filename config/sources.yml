@@ -18,6 +18,11 @@ sources:
     url: "https://feeds.apnews.com/apnews/technology"
     category: wire
 
+  - name: "IPS News"
+    url: "https://ipsnews.net/feed/"
+    category: wire
+
+  # ── Investigative / Watchdog ─────────────────────────────────────────────
   - name: "ProPublica"
     url: "https://www.propublica.org/feeds/propublica/main"
     category: investigative
@@ -26,15 +31,59 @@ sources:
     url: "https://www.propublica.org/feeds/propublica/series/propublica-texas"
     category: investigative
 
-  # ── Independent / Investigative ─────────────────────────────────────────
   - name: "The Intercept"
     url: "https://theintercept.com/feed/?rss"
     category: investigative
 
   - name: "Bellingcat"
     url: "https://www.bellingcat.com/feed/"
-    category: osint
+    category: investigative
 
+  - name: "Mother Jones"
+    url: "https://motherjones.com/feed/"
+    category: investigative
+
+  - name: "The Marshall Project"
+    url: "https://www.themarshallproject.org/feed.xml"
+    category: investigative
+
+  - name: "Reveal News"
+    url: "https://revealnews.org/feed/"
+    category: investigative
+
+  - name: "ICIJ"
+    url: "https://www.icij.org/feed/"
+    category: investigative
+
+  - name: "Center for Public Integrity"
+    url: "https://publicintegrity.org/feed/"
+    category: investigative
+
+  - name: "OpenSecrets"
+    url: "https://opensecrets.org/news/feed/"
+    category: investigative
+
+  - name: "American Oversight"
+    url: "https://americanoversight.org/feed/"
+    category: investigative
+
+  - name: "MuckRock"
+    url: "https://www.muckrock.com/news/feed/"
+    category: investigative
+
+  - name: "Injustice Watch"
+    url: "https://injusticewatch.org/feed/"
+    category: investigative
+
+  - name: "Coda Story"
+    url: "https://codastory.com/feed/"
+    category: investigative
+
+  - name: "The War Horse"
+    url: "https://thewarhorse.org/feed/"
+    category: investigative
+
+  # ── Independent ──────────────────────────────────────────────────────────
   - name: "Democracy Now"
     url: "https://www.democracynow.org/democracynow.rss"
     category: independent
@@ -45,6 +94,26 @@ sources:
 
   - name: "Common Dreams"
     url: "https://www.commondreams.org/rss.xml"
+    category: independent
+
+  - name: "YES! Magazine"
+    url: "https://yesmagazine.org/feed/"
+    category: independent
+
+  - name: "The Real News Network"
+    url: "https://therealnews.com/feed"
+    category: independent
+
+  - name: "In These Times"
+    url: "https://inthesetimes.com/feed"
+    category: independent
+
+  - name: "Current Affairs"
+    url: "https://currentaffairs.org/feed"
+    category: independent
+
+  - name: "AlterNet"
+    url: "https://alternet.org/feeds/feed.rss"
     category: independent
 
   - name: "The Guardian - World"
@@ -59,7 +128,7 @@ sources:
     url: "https://www.theguardian.com/environment/rss"
     category: independent
 
-  # ── Public / Academic ───────────────────────────────────────────────────
+  # ── Public / Academic ────────────────────────────────────────────────────
   - name: "NPR News"
     url: "https://feeds.npr.org/1001/rss.xml"
     category: public
@@ -88,9 +157,43 @@ sources:
     url: "https://theconversation.com/us/technology/articles.atom"
     category: academic
 
+  # ── Environment / Climate ────────────────────────────────────────────────
+  - name: "Inside Climate News"
+    url: "https://insideclimatenews.org/feed/"
+    category: environment
+
+  - name: "Grist"
+    url: "https://grist.org/feed/"
+    category: environment
+
+  - name: "DeSmog"
+    url: "https://www.desmog.com/feed/"
+    category: environment
+
+  - name: "Environmental Health News"
+    url: "https://www.ehn.org/feed"
+    category: environment
+
+  # ── Tech / Digital Rights ────────────────────────────────────────────────
+  - name: "EFF (Electronic Frontier Foundation)"
+    url: "https://www.eff.org/rss/updates.xml"
+    category: tech
+
+  - name: "The Register"
+    url: "https://www.theregister.com/headlines.atom"
+    category: tech
+
+  - name: "Rest of World"
+    url: "https://restofworld.org/feed/"
+    category: tech
+
   # ── Texas / Civic ────────────────────────────────────────────────────────
   - name: "Texas Tribune"
     url: "https://www.texastribune.org/feeds/latest/"
+    category: civic
+
+  - name: "Texas Observer"
+    url: "https://www.texasobserver.org/feed/"
     category: civic
 
   - name: "San Antonio Report"
@@ -109,6 +212,23 @@ sources:
   - name: "Phys.org"
     url: "https://phys.org/rss-feed/"
     category: science
+
+  # ── International ────────────────────────────────────────────────────────
+  - name: "DW (Deutsche Welle)"
+    url: "https://rss.dw.com/rdf/rss-en-all"
+    category: international
+
+  - name: "Al Jazeera English"
+    url: "https://www.aljazeera.com/xml/rss/all.xml"
+    category: international
+
+  - name: "Hong Kong Free Press"
+    url: "https://hongkongfp.com/feed/"
+    category: international
+
+  - name: "Fair Observer"
+    url: "https://fairobserver.com/feed/"
+    category: international
 
   # ── Add your own feeds below ─────────────────────────────────────────────
   # - name: "My Source"
