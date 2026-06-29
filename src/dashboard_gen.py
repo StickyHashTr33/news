@@ -158,6 +158,13 @@ def generate_dashboard(articles: list[dict], stats: dict = None):
     last24h = stats.get('last_24h', '—') if stats else '—'
     updated = datetime.utcnow().strftime('%B %d, %Y · %H:%M UTC')
 
+    empty_state = (
+        '<div style="text-align:center;padding:60px 20px;color:#aaa;">'
+        '<p style="font-family:Playfair Display,serif;font-size:20px;color:#555;">No articles yet</p>'
+        '<p>Run the monitor to start collecting.</p></div>'
+    )
+    main_content = empty_state if not articles else all_sections
+
     html = f'''<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -342,7 +349,7 @@ def generate_dashboard(articles: list[dict], stats: dict = None):
   </nav>
 
   <main class="main-col">
-    {'<div style="text-align:center;padding:60px 20px;color:#aaa;"><p style=\'font-family:Playfair Display,serif;font-size:20px;color:#555;\'>No articles yet</p><p>Run the monitor to start collecting.</p></div>' if not articles else all_sections}
+    {main_content}
   </main>
 
 </div>
