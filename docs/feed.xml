@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 21:22:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 22:52:49 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5400 VERBENA RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0882867</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0882867</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0882867 | PRUE Division | 6/29/2026 5:39:34 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>6/29/2026 5:39:34 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 6900 OAK DR (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0882884</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0882884</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0882884 | PRUE Division | 6/29/2026 5:42:05 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>6/29/2026 5:42:05 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 6900 OAK DR (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0882886</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0882886</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0882886 | PRUE Division | 6/29/2026 5:42:40 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>6/29/2026 5:42:40 PM</pubDate>
+    </item>
+    <item>
+      <title>Deep inside crocodile skulls, 100 million years of brain evolution barely registers</title>
+      <link>https://phys.org/news/2026-06-deep-crocodile-skulls-million-years.html</link>
+      <guid>https://phys.org/news/2026-06-deep-crocodile-skulls-million-years.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — Although modern crocodiles, alligators, caimans and gharials are restricted to the tropics, their fossil record tells a very different story. Ancient crocodylians once inhabited much of the globe and exhibited a remarkable diversity of skull shapes and ecological adaptations.</description>
+      <category>Open Source Software</category>
+      <pubDate>Mon, 29 Jun 2026 18:50:02 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 12600 JUDSON RD (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0882453</link>
@@ -858,38 +890,6 @@ The post He Almost Died From A Burst Appendix. A For-Profit Jail Medical Provide
       <description>[Open Source Software] Keyword: FOSS — Now with Markdown support and smarter formula error handling – plus integrated AI, though it's off by default</description>
       <category>Open Source Software</category>
       <pubDate>Thu, 25 Jun 2026 13:47:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>FOSS dev builds a BASIC compiler using LLVM</title>
-      <link>https://www.theregister.com/personal-tech/2026/06/25/foss-dev-builds-a-basic-compiler-using-llvm/5262171</link>
-      <guid>https://www.theregister.com/personal-tech/2026/06/25/foss-dev-builds-a-basic-compiler-using-llvm/5262171</guid>
-      <description>[Open Source Software] Keyword: FOSS — Not just any old BASIC, either: OS-9’s BASIC09</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 25 Jun 2026 17:10:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Three FOSS projects for developers, procrastinators, and media wranglers</title>
-      <link>https://www.theregister.com/software/2026/06/26/three-foss-projects-for-developers-procrastinators-and-media-wranglers/5261631</link>
-      <guid>https://www.theregister.com/software/2026/06/26/three-foss-projects-for-developers-procrastinators-and-media-wranglers/5261631</guid>
-      <description>[Open Source Software] Keyword: FOSS — Prism tracks AI emissions, Super Productivity keeps tasks local, and TAMOSS brings the BBC's media API to Kubernetes</description>
-      <category>Open Source Software</category>
-      <pubDate>Fri, 26 Jun 2026 11:15:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Oracle promises to open up MySQL governance, but the community wants guarantees</title>
-      <link>https://www.theregister.com/databases/2026/06/26/oracle-promises-to-open-up-mysql-governance-but-the-community-wants-guarantees/5263106</link>
-      <guid>https://www.theregister.com/databases/2026/06/26/oracle-promises-to-open-up-mysql-governance-but-the-community-wants-guarantees/5263106</guid>
-      <description>[Open Source Software] Keyword: open source — Open source advocates remain concerned over lack of binding commitments</description>
-      <category>Open Source Software</category>
-      <pubDate>Fri, 26 Jun 2026 16:42:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Is there anything GLP-1 agonist drugs cannot do?</title>
-      <link>https://www.dw.com/en/is-there-anything-glp-1-agonist-drugs-cannot-do/a-77499450?maca=en-rss-en-all-1573-rdf</link>
-      <guid>https://www.dw.com/en/is-there-anything-glp-1-agonist-drugs-cannot-do/a-77499450?maca=en-rss-en-all-1573-rdf</guid>
-      <description>[Diabetes &amp; Kidney Disease] Keyword: GLP-1 — Every other month, researchers find new uses for GLP-1 agonist drugs, like Mounjaro and Ozempic — now even as a treatment for substance abuse. It's classic drug repurposing, a technique that saved lives during COVID.</description>
-      <category>Diabetes &amp; Kidney Disease</category>
-      <pubDate>2026-06-11T19:53:00Z</pubDate>
     </item>
   </channel>
 </rss>
