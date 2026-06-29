@@ -2,11 +2,12 @@ name: NewsWatch Monitor
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every 6 hours: 00:00, 06:00, 12:00, 18:00 UTC
-  workflow_dispatch:          # also allows manual trigger from Actions tab
+    - cron: '0 14 * * *'    # 8:00 AM CDT (14:00 UTC)
+    - cron: '0 2 * * *'     # 8:00 PM CDT (02:00 UTC)
+  workflow_dispatch:          # manual trigger from Actions tab
 
 permissions:
-  contents: write             # needed to commit docs/ back to the repo
+  contents: write
 
 jobs:
   monitor:
@@ -14,24 +15,20 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      # ── 1. Checkout ──────────────────────────────────────────────────────
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # ── 2. Python setup ──────────────────────────────────────────────────
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      # ── 3. Restore SQLite DB from cache ──────────────────────────────────
       - name: Restore article DB cache
         uses: actions/cache@v4
         with:
           path: data/seen.db
-          # Key rotates monthly so the DB doesn't grow forever
           key: newswatch-db-${{ github.run_id }}
           restore-keys: |
             newswatch-db-
@@ -39,12 +36,9 @@ jobs:
       - name: Create data dir if missing
         run: mkdir -p data docs
 
-      # ── 4. Install dependencies ──────────────────────────────────────────
       - name: Install dependencies
-        run: |
-          pip install --quiet feedparser pyyaml requests
+        run: pip install --quiet feedparser pyyaml requests
 
-      # ── 5. Run monitor ───────────────────────────────────────────────────
       - name: Run NewsWatch
         env:
           DB_PATH: data/seen.db
@@ -56,15 +50,15 @@ jobs:
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
           CONFIG_PATH: config/topics.yml
           SOURCES_PATH: config/sources.yml
+          SAPD_CONFIG_PATH: config/sapd_config.yml
+          ENABLE_SAPD: "true"
         run: python src/main.py
 
-      # ── 6. Commit dashboard + RSS to docs/ ──────────────────────────────
       - name: Commit generated docs
         run: |
           git config user.name  "NewsWatch Bot"
           git config user.email "actions@github.com"
           git add docs/
-          # Only commit if there are changes
           git diff --cached --quiet || git commit -m "chore: update dashboard $(date -u '+%Y-%m-%d %H:%M UTC')"
           git pull --rebase origin main
           git push

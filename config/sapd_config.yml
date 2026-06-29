@@ -1,0 +1,71 @@
+# sapd_config.yml — SAPD Calls for Service monitor config
+#
+# Data source: data.sanantonio.gov (Socrata SODA API)
+# Dataset: SAPD Calls for Service
+# Verify/update the endpoint at:
+#   https://data.sanantonio.gov/dataset/sapd-calls-for-service
+#
+# To find your exact 4x4 ID: go to the dataset page, click API,
+# copy the endpoint — it looks like /resource/xxxx-xxxx.json
+# The resource UUID below also works directly with the Socrata API.
+
+api:
+  endpoint: "https://data.sanantonio.gov/resource/9cb17985-ac16-49a6-ad69-6fe5ad8f2bf5.json"
+  # How many hours back to look on each run
+  lookback_hours: 13   # slightly more than 12 to avoid gaps between runs
+  # Max records per pull (Socrata default limit is 1000)
+  limit: 500
+
+# Field name mapping — adjust if the dataset schema changes
+# Check actual field names at the dataset's API page
+fields:
+  incident_number: "incident_number"
+  call_type:       "problem"          # the type of call/incident
+  date_time:       "call_date_time"   # ISO timestamp of the call
+  address:         "blk_address"      # block-level address (privacy)
+  district:        "district"
+  priority:        "priority"
+  disposition:     "disposition"
+  council_district: "council_district"
+
+# ── Call types that trigger a Discord alert ──────────────────────────────────
+# Add or remove types freely. Case-insensitive partial match.
+# Leave empty ([]) to alert on ALL call types.
+alert_on:
+  - "ASSAULT"
+  - "FAMILY DISTURBANCE"
+  - "SHOOTING"
+  - "STABBING"
+  - "ROBBERY"
+  - "HOMICIDE"
+  - "SEXUAL ASSAULT"
+  - "KIDNAPPING"
+  - "SHOTS FIRED"
+  - "MISSING PERSON"
+  - "PURSUIT"
+  - "OFFICER NEEDS HELP"
+  - "USE OF FORCE"
+  - "MENTAL CRISIS"
+  - "SUICIDAL PERSON"
+  - "OVERDOSE"
+  - "BURGLARY"
+  - "AUTO THEFT"
+  - "BOMB THREAT"
+  - "ACTIVE SHOOTER"
+
+# ── Geographic filters (optional) ────────────────────────────────────────────
+# Filter by police district number, or leave empty to monitor all districts.
+# SAPD districts: 1–9 (check your district at sapd.org)
+watch_districts: []   # e.g. [3, 7] to watch only districts 3 and 7
+
+# ── Priority filter ──────────────────────────────────────────────────────────
+# 1 = highest priority. Leave empty to capture all priorities.
+# Only alert on priority 1 and 2 calls:
+min_priority: 1
+max_priority: 2
+
+# ── Output settings ──────────────────────────────────────────────────────────
+outputs:
+  discord: true
+  rss: true          # SAPD calls appear in the main RSS feed tagged [SAPD]
+  dashboard: true    # shows in a dedicated section on the dashboard
