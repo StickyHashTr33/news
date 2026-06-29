@@ -37,7 +37,7 @@ jobs:
         run: mkdir -p data docs
 
       - name: Install dependencies
-        run: pip install --quiet feedparser pyyaml requests
+        run: pip install --quiet feedparser pyyaml requests beautifulsoup4
 
       - name: Run NewsWatch
         env:
