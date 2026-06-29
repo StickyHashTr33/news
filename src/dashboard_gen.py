@@ -158,6 +158,12 @@ def generate_dashboard(articles: list[dict], stats: dict = None):
     last24h = stats.get('last_24h', '—') if stats else '—'
     updated = datetime.utcnow().strftime('%B %d, %Y · %H:%M UTC')
 
+    n_sources = len(set(
+        a.get('publisher', {}).get('title', '') if isinstance(a.get('publisher'), dict)
+        else str(a.get('publisher', ''))
+        for a in news_articles
+    ))
+
     empty_state = (
         '<div style="text-align:center;padding:60px 20px;color:#aaa;">'
         '<p style="font-family:Playfair Display,serif;font-size:20px;color:#555;">No articles yet</p>'
@@ -338,7 +344,7 @@ def generate_dashboard(articles: list[dict], stats: dict = None):
   <span class="live-dot"></span>
   <span>Updated {updated}</span>
   <span style="color:#ddd">·</span>
-  <span>{len(topic_list)} topics · {len(set(a.get("publisher","") if isinstance(a.get("publisher"),"") else (a.get("publisher") or {{}}).get("title","") for a in news_articles))} sources</span>
+  <span>{len(topic_list)} topics · {n_sources} sources</span>
 </div>
 
 <div class="layout">
@@ -361,18 +367,6 @@ def generate_dashboard(articles: list[dict], stats: dict = None):
 
 </body>
 </html>'''
-
-    # Fix the source count expression in the dateline (can't use set comprehension in f-string easily)
-    import re
-    n_sources = len(set(
-        (a.get('publisher') or {}).get('title', '') if isinstance(a.get('publisher'), dict)
-        else str(a.get('publisher', ''))
-        for a in news_articles
-    ))
-    html = html.replace(
-        'len(set(a.get("publisher","") if isinstance(a.get("publisher"),"") else (a.get("publisher") or {{}}).get("title","") for a in news_articles))',
-        str(n_sources)
-    )
 
     out_path = os.path.join(DOCS_DIR, 'index.html')
     with open(out_path, 'w', encoding='utf-8') as f:
