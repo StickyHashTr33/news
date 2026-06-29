@@ -1,12 +1,17 @@
 # ============================================================
 # NewsWatch — topics.yml
-# Each topic = a named keyword group + output destinations.
-# Articles match if ANY keyword appears in title or description.
+# Discord ON: Mycology, Psilocybin, TX Surveillance, USDA Grants,
+#             Digital Rights, Cybersecurity, AI, TX Local, OSINT,
+#             Housing, Data Center/Grid, Immigration
+# Schedule: 8am & 8pm CDT (14:00 & 02:00 UTC)
 # ============================================================
 
 topics:
 
-  # ── MYCOLOGY & MUSHROOMS ─────────────────────────────────────────────────
+  # ══════════════════════════════════════════════════════════════════════════
+  # DISCORD ON
+  # ══════════════════════════════════════════════════════════════════════════
+
   - name: "Mycology & Mushrooms"
     keywords:
       - "mushroom cultivation"
@@ -15,35 +20,16 @@ topics:
       - "lion's mane"
       - "oyster mushroom"
       - "mycelium"
-      - "fungal"
-      - "psilocybin"
+      - "fungal research"
+      - "psilocybin research"
       - "shiitake"
       - "mushroom farming"
-      - "mushroom research"
+      - "bioremediation fungal"
     outputs:
       discord: true
       email: true
       rss: true
 
-  # ── FORAGING & WILD PLANTS ───────────────────────────────────────────────
-  - name: "Foraging & Wild Plants"
-    keywords:
-      - "foraging"
-      - "wild edibles"
-      - "plant identification"
-      - "wildcrafting"
-      - "ethnobotany"
-      - "wild mushroom"
-      - "edible plants"
-      - "forager"
-      - "food forest"
-      - "permaculture"
-    outputs:
-      discord: true
-      email: false
-      rss: true
-
-  # ── PSYCHEDELICS & PSILOCYBIN ────────────────────────────────────────────
   - name: "Psychedelics & Psilocybin Research"
     keywords:
       - "psilocybin"
@@ -60,108 +46,65 @@ topics:
       email: false
       rss: true
 
-  # ── HERMETICISM & ESOTERIC ───────────────────────────────────────────────
-  - name: "Hermeticism & Esoteric"
+  - name: "Cannabis, Hemp & Drug Policy"
     keywords:
-      - "hermeticism"
-      - "hermetic philosophy"
-      - "alchemy"
-      - "esotericism"
-      - "sacred geometry"
-      - "occult history"
-      - "gnosticism"
-      - "kabbalah"
-      - "theosophy"
-      - "mystery traditions"
+      - "marijuana legalization"
+      - "cannabis legislation"
+      - "hemp farming"
+      - "hemp industry"
+      - "CBD regulation"
+      - "cannabis decriminalization"
+      - "drug policy reform"
+      - "cannabis Texas"
+      - "medical marijuana"
+      - "recreational cannabis"
+      - "hemp license"
+      - "THC regulation"
+      - "cannabis market"
+      - "THCA"
+      - "delta-8"
+      - "delta-9"
     outputs:
       discord: true
       email: false
       rss: true
 
-  # ── STOICISM & PHILOSOPHY ────────────────────────────────────────────────
-  - name: "Stoicism & Philosophy"
-    keywords:
-      - "stoicism"
-      - "stoic philosophy"
-      - "Marcus Aurelius"
-      - "Epictetus"
-      - "Seneca"
-      - "virtue ethics"
-      - "practical philosophy"
-      - "philosophical practice"
-    outputs:
-      discord: false
-      email: false
-      rss: true
-
-  # ── TABLETOP RPG / D&D ───────────────────────────────────────────────────
-  - name: "Tabletop RPG & D&D"
-    keywords:
-      - "Dungeons and Dragons"
-      - "D&D"
-      - "tabletop RPG"
-      - "TTRPG"
-      - "Pathfinder"
-      - "game master"
-      - "role-playing game"
-      - "worldbuilding"
-    outputs:
-      discord: true
-      email: false
-      rss: true
-
-  # ── TEXAS SURVEILLANCE ───────────────────────────────────────────────────
   - name: "Texas Surveillance"
     keywords:
       - "Texas surveillance"
       - "San Antonio police"
       - "facial recognition Texas"
       - "Texas procurement"
-      - "Texas contract"
-      - "surveillance technology"
       - "predictive policing"
       - "Texas DPS technology"
       - "law enforcement technology Texas"
+      - "license plate scanner Texas"
+      - "287(g) enforcement"
+      - "data broker procurement"
+      - "biometric surveillance Texas"
     outputs:
       discord: true
       email: false
       rss: true
 
-  # ── GOVERNMENT ACCOUNTABILITY / FOIA ────────────────────────────────────
-  - name: "Government Accountability"
+  - name: "USDA & Farm Grants"
     keywords:
-      - "FOIA"
-      - "public records"
-      - "government transparency"
-      - "whistleblower"
-      - "dark money"
-      - "corporate lobbying"
-      - "government corruption"
-      - "accountability journalism"
-      - "government waste"
+      - "USDA grant"
+      - "FSA loan"
+      - "farm loan"
+      - "farm bill"
+      - "beginning farmer"
+      - "USDA program"
+      - "agricultural grant"
+      - "rural development grant"
+      - "USDA funding"
+      - "conservation easement"
+      - "crop insurance"
     outputs:
       discord: true
-      email: false
+      email: true
       rss: true
 
-  # ── POLICE & CRIMINAL JUSTICE ────────────────────────────────────────────
-  - name: "Police & Criminal Justice"
-    keywords:
-      - "police accountability"
-      - "criminal justice reform"
-      - "mass incarceration"
-      - "prison reform"
-      - "police brutality"
-      - "qualified immunity"
-      - "cash bail"
-      - "civil asset forfeiture"
-      - "solitary confinement"
-    outputs:
-      discord: true
-      email: false
-      rss: true
-
-  # ── DIGITAL RIGHTS & PRIVACY ─────────────────────────────────────────────
   - name: "Digital Rights & Privacy"
     keywords:
       - "digital rights"
@@ -173,12 +116,62 @@ topics:
       - "location tracking"
       - "net neutrality"
       - "right to repair"
+      - "keystroke logging"
+      - "session monitoring"
     outputs:
       discord: true
       email: false
       rss: true
 
-  # ── OSINT & OPEN SOURCE INTELLIGENCE ────────────────────────────────────
+  - name: "Cybersecurity"
+    keywords:
+      - "data breach"
+      - "zero day"
+      - "ransomware"
+      - "cybersecurity vulnerability"
+      - "supply chain attack"
+      - "CVE"
+      - "security researcher"
+      - "phishing attack"
+      - "digital forensics"
+      - "critical infrastructure vulnerability"
+    outputs:
+      discord: true
+      email: false
+      rss: true
+
+  - name: "AI & Automation"
+    keywords:
+      - "python automation"
+      - "AI workflow"
+      - "large language model"
+      - "LLM"
+      - "AI integration"
+      - "open source AI"
+      - "AI agent"
+      - "local LLM"
+      - "retrieval augmented generation"
+      - "AI token consumption"
+    outputs:
+      discord: true
+      email: true
+      rss: true
+
+  - name: "Texas & San Antonio Local"
+    keywords:
+      - "San Antonio"
+      - "Bexar County"
+      - "Texas legislature"
+      - "Texas politics"
+      - "Texas governor"
+      - "Texas economy"
+      - "Texas housing"
+      - "CPS Energy"
+    outputs:
+      discord: true
+      email: false
+      rss: true
+
   - name: "OSINT & Open Source Intelligence"
     keywords:
       - "open source intelligence"
@@ -193,56 +186,241 @@ topics:
       email: false
       rss: true
 
-  # ── AI & AUTOMATION ──────────────────────────────────────────────────────
-  - name: "AI & Automation"
+  - name: "Housing & Gentrification"
     keywords:
-      - "python automation"
-      - "AI workflow"
-      - "large language model"
-      - "LLM"
-      - "AI integration"
-      - "open source AI"
-      - "machine learning"
-      - "AI agent"
-      - "local AI"
-      - "retrieval augmented generation"
+      - "affordable housing shortage"
+      - "displacement"
+      - "gentrification"
+      - "tenant protection"
+      - "zoning board"
+      - "short-term rental impact"
+      - "homelessness response"
+      - "inner-city development"
+      - "downtown real estate"
+      - "community land trust"
     outputs:
       discord: true
-      email: true
+      email: false
       rss: true
 
-  # ── OPEN SOURCE SOFTWARE ─────────────────────────────────────────────────
+  - name: "Data Center & Grid Infrastructure"
+    keywords:
+      - "data center zoning"
+      - "grid power demand"
+      - "industrial water cooling"
+      - "server farm utility"
+      - "CPS Energy grid"
+      - "substation load"
+      - "high-density computing"
+      - "advanced nuclear data center"
+      - "ERCOT"
+    outputs:
+      discord: true
+      email: false
+      rss: true
+
+  - name: "Immigration & Border"
+    keywords:
+      - "asylum processing"
+      - "immigration detention"
+      - "refugee resettlement"
+      - "border wall"
+      - "ICE operation"
+      - "undocumented worker"
+      - "visa program"
+      - "287(g)"
+      - "border enforcement"
+    outputs:
+      discord: true
+      email: false
+      rss: true
+
+
+  - name: "Opioid Treatment & Methadone"
+    keywords:
+      - "methadone"
+      - "opioid treatment"
+      - "opioid crisis"
+      - "opioid use disorder"
+      - "medication assisted treatment"
+      - "MAT program"
+      - "buprenorphine"
+      - "naloxone"
+      - "fentanyl"
+      - "harm reduction"
+      - "opioid epidemic"
+    outputs:
+      discord: true
+      email: false
+      rss: true
+
+  - name: "Diabetes & Kidney Disease"
+    keywords:
+      - "diabetes research"
+      - "type 2 diabetes"
+      - "type 1 diabetes"
+      - "insulin access"
+      - "insulin pricing"
+      - "kidney disease"
+      - "chronic kidney disease"
+      - "dialysis"
+      - "renal failure"
+      - "diabetes management"
+      - "GLP-1"
+      - "blood sugar"
+      - "diabetic kidney"
+    outputs:
+      discord: true
+      email: false
+      rss: true
+
+  # ══════════════════════════════════════════════════════════════════════════
+  # RSS-ONLY
+  # ══════════════════════════════════════════════════════════════════════════
+
+  - name: "Foraging & Wild Plants"
+    keywords:
+      - "foraging"
+      - "wild edibles"
+      - "plant identification"
+      - "wildcrafting"
+      - "ethnobotany"
+      - "wild mushroom"
+      - "edible plants"
+      - "forager"
+      - "food forest"
+      - "permaculture"
+    outputs:
+      discord: false
+      email: false
+      rss: true
+
+  - name: "Hermeticism & Esoteric"
+    keywords:
+      - "hermeticism"
+      - "hermetic philosophy"
+      - "alchemy"
+      - "esotericism"
+      - "sacred geometry"
+      - "occult history"
+      - "gnosticism"
+      - "kabbalah"
+      - "theosophy"
+      - "mystery traditions"
+    outputs:
+      discord: false
+      email: false
+      rss: true
+
+  - name: "Stoicism & Philosophy"
+    keywords:
+      - "stoicism"
+      - "stoic philosophy"
+      - "Marcus Aurelius"
+      - "Epictetus"
+      - "Seneca"
+      - "virtue ethics"
+      - "practical philosophy"
+    outputs:
+      discord: false
+      email: false
+      rss: true
+
+  - name: "Tabletop RPG & D&D"
+    keywords:
+      - "Dungeons and Dragons"
+      - "D&D"
+      - "tabletop RPG"
+      - "TTRPG"
+      - "Pathfinder"
+      - "game master"
+      - "role-playing game"
+      - "worldbuilding"
+    outputs:
+      discord: false
+      email: false
+      rss: true
+
+  - name: "Government Accountability"
+    keywords:
+      - "FOIA"
+      - "public records"
+      - "government transparency"
+      - "whistleblower protection"
+      - "dark money"
+      - "corporate lobbying"
+      - "government corruption"
+      - "ethics violation"
+      - "campaign donor disclosure"
+      - "government waste"
+    outputs:
+      discord: false
+      email: false
+      rss: true
+
+  - name: "Police & Criminal Justice"
+    keywords:
+      - "police accountability"
+      - "criminal justice reform"
+      - "mass incarceration"
+      - "prison reform"
+      - "police brutality"
+      - "qualified immunity"
+      - "cash bail"
+      - "civil asset forfeiture"
+      - "solitary confinement"
+      - "inmate healthcare"
+    outputs:
+      discord: false
+      email: false
+      rss: true
+
   - name: "Open Source Software"
     keywords:
       - "open source"
       - "free software"
       - "self-hosted"
-      - "open source license"
       - "FOSS"
       - "copyleft"
       - "Linux kernel"
+      - "open source license"
     outputs:
-      discord: true
+      discord: false
       email: false
       rss: true
 
-  # ── CYBERSECURITY ────────────────────────────────────────────────────────
-  - name: "Cybersecurity"
+  - name: "Worker Cooperatives & Solidarity Economy"
     keywords:
-      - "data breach"
-      - "zero day"
-      - "ransomware"
-      - "cybersecurity vulnerability"
-      - "supply chain attack"
-      - "CVE"
-      - "security researcher"
-      - "phishing attack"
+      - "worker cooperative"
+      - "solidarity economy"
+      - "employee ownership"
+      - "democratic workplace"
+      - "worker-owned"
+      - "co-op"
+      - "community land trust"
+      - "union organizing"
+      - "collective bargaining"
+      - "workplace democracy"
     outputs:
-      discord: true
+      discord: false
       email: false
       rss: true
 
-  # ── SFL / SMALL FARM / URBAN AG ─────────────────────────────────────────
+  - name: "Labor & Worker Rights"
+    keywords:
+      - "workers rights"
+      - "labor movement"
+      - "minimum wage"
+      - "gig worker classification"
+      - "strike wave"
+      - "wage theft"
+      - "labor notes"
+      - "minimum wage legislation"
+    outputs:
+      discord: false
+      email: false
+      rss: true
+
   - name: "Small Farm & Urban Agriculture"
     keywords:
       - "urban agriculture"
@@ -255,59 +433,28 @@ topics:
       - "regenerative agriculture"
       - "vertical farming"
     outputs:
-      discord: true
-      email: true
-      rss: true
-
-  # ── USDA / FSA / FARM GRANTS ─────────────────────────────────────────────
-  - name: "USDA & Farm Grants"
-    keywords:
-      - "USDA grant"
-      - "FSA loan"
-      - "farm loan"
-      - "beginning farmer"
-      - "USDA program"
-      - "agricultural grant"
-      - "rural development grant"
-      - "USDA funding"
-    outputs:
-      discord: true
-      email: true
-      rss: true
-
-  # ── TEXAS & SAN ANTONIO LOCAL ────────────────────────────────────────────
-  - name: "Texas & San Antonio Local"
-    keywords:
-      - "San Antonio"
-      - "Bexar County"
-      - "Texas legislature"
-      - "Texas politics"
-      - "Texas governor"
-      - "Texas school"
-      - "Texas economy"
-      - "Texas housing"
-    outputs:
-      discord: true
+      discord: false
       email: false
       rss: true
 
-  # ── TEXAS ENVIRONMENT & WATER ────────────────────────────────────────────
   - name: "Texas Environment & Water"
     keywords:
       - "Texas water"
       - "Texas drought"
       - "Edwards Aquifer"
+      - "aquifer depletion"
+      - "water allocation litigation"
+      - "drought mitigation"
       - "Texas environment"
       - "Texas pollution"
       - "Texas wildfire"
       - "Texas flood"
-      - "ERCOT"
+      - "environmental justice runoff"
     outputs:
-      discord: true
+      discord: false
       email: false
       rss: true
 
-  # ── CLIMATE & ENVIRONMENT ────────────────────────────────────────────────
   - name: "Climate & Environment"
     keywords:
       - "climate change"
@@ -320,11 +467,10 @@ topics:
       - "environmental justice"
       - "plastic pollution"
     outputs:
-      discord: true
+      discord: false
       email: false
       rss: true
 
-  # ── ECOLOGY & CONSERVATION ───────────────────────────────────────────────
   - name: "Ecology & Conservation"
     keywords:
       - "ecosystem restoration"
@@ -337,11 +483,10 @@ topics:
       - "wetland restoration"
       - "citizen science"
     outputs:
-      discord: true
+      discord: false
       email: false
       rss: true
 
-  # ── SCIENCE & RESEARCH ───────────────────────────────────────────────────
   - name: "Science & Research"
     keywords:
       - "peer reviewed"
@@ -357,19 +502,32 @@ topics:
       email: false
       rss: true
 
-  # ── LABOR & WORKER RIGHTS ────────────────────────────────────────────────
-  - name: "Labor & Worker Rights"
+  - name: "Indigenous News & Tribal Sovereignty"
     keywords:
-      - "union organizing"
-      - "workers rights"
-      - "labor movement"
-      - "minimum wage"
-      - "gig worker"
-      - "worker cooperative"
-      - "strike"
-      - "collective bargaining"
-      - "wage theft"
+      - "tribal nation sovereignty"
+      - "treaty rights"
+      - "Native food systems"
+      - "Indigenous land restoration"
+      - "reservation resource rights"
+      - "American Indian"
+      - "BIA funding"
+      - "Indigenous"
     outputs:
-      discord: true
+      discord: false
+      email: false
+      rss: true
+
+  - name: "Public Health & Health Equity"
+    keywords:
+      - "health equity"
+      - "food desert"
+      - "mental health safety net"
+      - "environmental toxin"
+      - "maternal mortality"
+      - "community health"
+      - "clinical trial accessibility"
+      - "public health inequity"
+    outputs:
+      discord: false
       email: false
       rss: true
