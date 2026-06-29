@@ -137,7 +137,7 @@ def generate_dashboard(articles: list[dict], stats: dict = None):
     .ticker-track {{
       display: inline-flex;
       gap: 0;
-      animation: ticker 60s linear infinite;
+      animation: ticker 180s linear infinite;
     }}
     .tick-item {{
       display: inline-flex;
