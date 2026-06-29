@@ -2,8 +2,8 @@ name: NewsWatch Monitor
 
 on:
   schedule:
-    - cron: '0 14 * * *'    # 8:00 AM CDT (14:00 UTC)
-    - cron: '0 2 * * *'     # 8:00 PM CDT (02:00 UTC)
+    - cron: '0 * * * *'     # every hour
+    
   workflow_dispatch:          # manual trigger from Actions tab
 
 permissions:
