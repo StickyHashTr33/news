@@ -91,13 +91,18 @@ def _normalize(record: dict) -> dict:
     division = record['division']
     dt_str   = record['dt_str']
 
-    url   = f"https://webapp3.sanantonio.gov/policecalls/incident/{incident}"
+    # Link to Google Maps for the address — no individual incident page exists
+    maps_query = (address + ' San Antonio TX').replace(' ', '+')
+    url = f"https://maps.google.com/maps?q={maps_query}"
+    # Use incident number as dedup key in a stable synthetic URI
+    dedup_url = f"https://webapp3.sanantonio.gov/policecalls/Calls.aspx#{incident}"
     title = f"[SAPD] {problem} — {address} ({division})"
     desc  = f"Incident #{incident} | {division} Division | {dt_str}"
 
     return {
         'title':           title,
-        'url':             url,
+        'url':             dedup_url,
+        'maps_url':        url,
         'description':     desc,
         'published date':  dt_str,
         'publisher':       {'title': 'SAPD Calls for Service'},
@@ -175,7 +180,8 @@ def build_sapd_discord_payload(calls: list[dict]) -> list[dict]:
         )
         embeds.append({
             "title":       call['title'][:256],
-            "description": call['description'][:400],
+            "url":         call.get('maps_url', ''),
+            "description": call['description'][:400] + "\n[View on map](" + call.get('maps_url','') + ")",
             "color":       color,
             "footer":      {"text": call.get('published date', '')},
         })

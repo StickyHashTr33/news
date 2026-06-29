@@ -274,6 +274,26 @@ topics:
       email: false
       rss: true
 
+
+  - name: "ALPR & Flock Cameras"
+    keywords:
+      - "Flock Safety"
+      - "license plate reader"
+      - "ALPR"
+      - "automated license plate"
+      - "DeFlock"
+      - "license plate surveillance"
+      - "Flock camera"
+      - "plate reader San Antonio"
+      - "Flock Safety San Antonio"
+      - "Flock Safety Texas"
+      - "ALPR San Antonio"
+      - "haveibeenflocked"
+    outputs:
+      discord: true
+      email: false
+      rss: true
+
   # ══════════════════════════════════════════════════════════════════════════
   # RSS-ONLY
   # ══════════════════════════════════════════════════════════════════════════
@@ -377,13 +397,16 @@ topics:
 
   - name: "Open Source Software"
     keywords:
-      - "open source"
-      - "free software"
-      - "self-hosted"
+      - "open source software"
+      - "open source project"
+      - "open source tool"
+      - "free and open source"
+      - "self-hosted software"
       - "FOSS"
-      - "copyleft"
+      - "copyleft license"
       - "Linux kernel"
       - "open source license"
+      - "GitHub open source"
     outputs:
       discord: false
       email: false
