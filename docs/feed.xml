@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 11:42:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 14:09:54 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 4800 SINCLAIR RD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0885450</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0885450</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0885450 | EAST Division | 6/30/2026 8:52:47 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>6/30/2026 8:52:47 AM</pubDate>
+    </item>
+    <item>
+      <title>Climate change, ‘super-strong’ El Niño may push Hong Kong to record-high temperatures, Observatory warns</title>
+      <link>https://hongkongfp.com/2026/06/30/climate-change-super-strong-el-nino-may-push-hong-kong-to-record-high-temperatures-observatory-warns/</link>
+      <guid>https://hongkongfp.com/2026/06/30/climate-change-super-strong-el-nino-may-push-hong-kong-to-record-high-temperatures-observatory-warns/</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — The Hong Kong Observatory (HKO) has warned that the city may experience record-breaking high temperatures this year and next year due to climate change and forecasts of a &amp;#8220;super-strong&amp;#8221; El Niño event. &amp;#8220;According to the latest forecasts from multiple climate models, sea temperatures in the central and eastern equatorial Pacific will continue to rise, developing [&amp;#8230;]</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Tue, 30 Jun 2026 12:52:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Californians can protect their personal data with one click. Help us test if it works</title>
+      <link>https://themarkup.org/hello-world/2026/06/30/californians-can-protect-their-personal-data-with-one-click-help-us-test-if-it-works</link>
+      <guid>https://themarkup.org/hello-world/2026/06/30/californians-can-protect-their-personal-data-with-one-click-help-us-test-if-it-works</guid>
+      <description>[Digital Rights &amp; Privacy] Keyword: data broker — A new state tool lets you tell data brokers to stop tracking you. Will they comply? Help us investigate.</description>
+      <category>Digital Rights &amp; Privacy</category>
+      <pubDate>Tue, 30 Jun 2026 08:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 2500 CLARA LN (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0884985</link>
@@ -854,33 +878,6 @@ The post Development Profile: 121-room Artista Hotel approved by San Antonio des
 The post UTSA receives funding for next Dolorosa building in downtown San Antonio appeared first on San Antonio Heron.</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Fri, 18 Nov 2022 22:25:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Houston developer Urban Genesis prepares to start 3 apartment projects in Tobin Hill</title>
-      <link>https://saheron.com/urban-genesis-apartment-projects-tobin-hill/</link>
-      <guid>https://saheron.com/urban-genesis-apartment-projects-tobin-hill/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Houston developer Urban Genesis says it’s on schedule to start construction on its holdings on and off North St. Mary’s Street—overall, a $45 million series of developments for a total of 178 market-rate apartments—by first quarter 2023.
-The post Houston developer Urban Genesis prepares to start 3 apartment projects in Tobin Hill appeared first on San Antonio Heron.</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Mon, 21 Nov 2022 16:03:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alazan Courts, Cattleman Square Lofts among 14 projects set to receive $44M in San Antonio bond funding</title>
-      <link>https://saheron.com/housing-bond-cc-b-update/</link>
-      <guid>https://saheron.com/housing-bond-cc-b-update/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The city of San Antonio is preparing to disburse nearly $44 million to housing developers and landlords for the production of 686 apartments, the repair of another 1,775 units, and the construction of 71 single-family homes.
-The post Alazan Courts, Cattleman Square Lofts among 14 projects set to receive $44M in San Antonio bond funding appeared first on San Antonio Heron.</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Fri, 09 Dec 2022 16:19:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Freetail Brewing Co. beer tasting to benefit Heron journalism</title>
-      <link>https://saheron.com/freetail-brewing-co-beer-tasting-benefit-heron-journalism/</link>
-      <guid>https://saheron.com/freetail-brewing-co-beer-tasting-benefit-heron-journalism/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The San Antonio Heron and Freetail Brewing Co. are teaming up for a beer tasting event this Thursday in support of local journalism.
-The post Freetail Brewing Co. beer tasting to benefit Heron journalism appeared first on San Antonio Heron.</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Wed, 14 Dec 2022 16:27:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
