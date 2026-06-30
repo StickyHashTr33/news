@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 19:49:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 21:25:48 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 1400 N HAMILTON AVE (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0887783</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0887783</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0887783 | CENTRAL Division | 6/30/2026 4:13:14 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>6/30/2026 4:13:14 PM</pubDate>
+    </item>
+    <item>
+      <title>Mice actively seek better views to make visual decisions, virtual reality experiments show</title>
+      <link>https://phys.org/news/2026-06-mice-views-visual-decisions-virtual.html</link>
+      <guid>https://phys.org/news/2026-06-mice-views-visual-decisions-virtual.html</guid>
+      <description>[Science &amp; Research] Keyword: neuroscience — Animals don't experience the world passively. A hawk tilts its head to track prey. A person leans forward to read a sign. Scientists call this &quot;active sensing&quot;: moving the body to gather better information. A specific version of active sensing is infotaxis, which describes how animals move strategically to maximize the information they gain from their surroundings. Whether mice use this strategy has remained an open question, despite their central role in neuroscience research.</description>
+      <category>Science &amp; Research</category>
+      <pubDate>Tue, 30 Jun 2026 16:20:05 EDT</pubDate>
+    </item>
+    <item>
+      <title>Warming can shift freshwater crustaceans to a 'greener' diet</title>
+      <link>https://phys.org/news/2026-06-shift-freshwater-crustaceans-greener-diet.html</link>
+      <guid>https://phys.org/news/2026-06-shift-freshwater-crustaceans-greener-diet.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Climate change is not only warming our lakes and rivers, it is also changing what invasive species eat. A new experimental study published in Limnology and Oceanography Letters shows that temperature-driven diet shifts in an invasive crustacean could alter its ecological role in freshwater food webs.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Tue, 30 Jun 2026 17:20:10 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — TOWNE LAKE DR / WAYWARD DR (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0887228</link>
@@ -841,30 +865,6 @@ Yesterday the federal government arrested and indicted 15 people, many of them u
 After a years-long campaign by unions, Virginia’s General Assembly passed legislation to extend collective bargaining rights to nearly </description>
       <category>Worker Cooperatives &amp; Solidarity Economy</category>
       <pubDate>Tue, 14 Apr 2026 13:53:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Texas Organizers Go to Tokyo to Tell Japan and its Banks: Stop Funding U.S. LNG</title>
-      <link>https://deceleration.news/texas-organizers-go-to-tokyo-to-tell-japan-and-its-banks-stop-funding-us-lng/</link>
-      <guid>https://deceleration.news/texas-organizers-go-to-tokyo-to-tell-japan-and-its-banks-stop-funding-us-lng/</guid>
-      <description>[Open Source Software] Keyword: FOSS — Seeking fossil fuel superpower status, Japan and its megabanks have spent at least $38B on natural gas projects in Texas alone.</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 20 May 2026 21:37:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025's Hill County Floods Are Our State's New 'Whiplash Weather.' There Will be More.</title>
-      <link>https://deceleration.news/texas-hill-county-floods-whiplash-weather/</link>
-      <guid>https://deceleration.news/texas-hill-county-floods-whiplash-weather/</guid>
-      <description>[Open Source Software] Keyword: FOSS — Rapid shifts from extreme drought to deadly floods is a feature, not a bug, in our new fossil-fuels modified climate. Here's what you need to know.</description>
-      <category>Open Source Software</category>
-      <pubDate>Sat, 23 May 2026 14:14:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dozens of Countries Just Met to Chart a Path off Fossil Fuels—No Lobbyists Invited</title>
-      <link>https://deceleration.news/transitioning-off-fossil-fuels-no-lobbyists-allowed/</link>
-      <guid>https://deceleration.news/transitioning-off-fossil-fuels-no-lobbyists-allowed/</guid>
-      <description>[Open Source Software] Keyword: FOSS — At the first international conference of its kind, almost 60 nations shared ideas, exchanged best practices, and discussed the hurdles they face in their effort to end their dependence on oil, gas, and coal.</description>
-      <category>Open Source Software</category>
-      <pubDate>Fri, 29 May 2026 19:06:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
