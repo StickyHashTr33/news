@@ -5,8 +5,34 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 04:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:27:31 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 1000 MALTESE GARDEN (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0884686</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0884686</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0884686 | NORTH Division | 6/30/2026 3:00:51 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>6/30/2026 3:00:51 AM</pubDate>
+    </item>
+    <item>
+      <title>Scientists say creatine may help fight depression</title>
+      <link>https://www.sciencedaily.com/releases/2026/06/260630020231.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/06/260630020231.htm</guid>
+      <description>[Science &amp; Research] Keyword: clinical trial — Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.</description>
+      <category>Science &amp; Research</category>
+      <pubDate>Tue, 30 Jun 2026 02:28:57 EDT</pubDate>
+    </item>
+    <item>
+      <title>LGBT Q&amp;A: What Data Are Companies in the UK Collecting When Verifying My Age?</title>
+      <link>https://www.eff.org/deeplinks/2026/06/lgbt-qa-what-data-are-companies-uk-collecting-when-verifying-my-age</link>
+      <guid>https://www.eff.org/deeplinks/2026/06/lgbt-qa-what-data-are-companies-uk-collecting-when-verifying-my-age</guid>
+      <description>[Digital Rights &amp; Privacy] Keyword: digital rights — This Pride, we’re answering all your digital rights questions in season two of our initiative, LGBT Q&amp;amp;A. 
+You Asked: I live in the UK, and we have age verification now on a bunch of websites (including Reddit) and now on iPhones. Can you explain what sort of data companies are actually collecting when they check for age and whether there are any real threats to my safety? 
+EFF’s Answer: Age verification is a process where a website or service checks your age to determine whether a user is ov</description>
+      <category>Digital Rights &amp; Privacy</category>
+      <pubDate>Tue, 30 Jun 2026 08:08:47 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 3200 E SOUTHCROSS BLVD (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0884046</link>
@@ -865,31 +891,6 @@ for the project. After some discus</description>
       <description>[Digital Rights &amp; Privacy] Keyword: data broker — A congressional investigation estimates broker breaches have cost consumers $20 billion in identity theft. Major brokers now promise to make it easier to opt out of their databases.</description>
       <category>Digital Rights &amp; Privacy</category>
       <pubDate>Fri, 27 Feb 2026 13:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>It’s easier for Californians to escape data brokers following a Markup investigation</title>
-      <link>https://themarkup.org/privacy/2026/05/22/its-easier-for-californians-to-escape-data-brokers-following-a-markup-investigation</link>
-      <guid>https://themarkup.org/privacy/2026/05/22/its-easier-for-californians-to-escape-data-brokers-following-a-markup-investigation</guid>
-      <description>[Digital Rights &amp; Privacy] Keyword: data broker — The Markup and CalMatters showed how website code could make it harder for Californians to exercise their right to remove personal data. Now much of that code has disappeared.</description>
-      <category>Digital Rights &amp; Privacy</category>
-      <pubDate>Fri, 22 May 2026 08:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>The form asked my permission to share my health data. Then it wouldn’t let me say no.</title>
-      <link>https://themarkup.org/privacy/2026/05/27/opt-out-dark-patterns</link>
-      <guid>https://themarkup.org/privacy/2026/05/27/opt-out-dark-patterns</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Dark patterns force patients to share their data with big healthcare networks, even when the privacy form they’re signing explicitly says they can opt-out.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Wed, 27 May 2026 08:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>He Almost Died From A Burst Appendix. A For-Profit Jail Medical Provider Dismissed It As Heartburn.</title>
-      <link>https://theappeal.org/york-county-prime-care-medical-negligence-lawsuit-appendicitis/</link>
-      <guid>https://theappeal.org/york-county-prime-care-medical-negligence-lawsuit-appendicitis/</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — A new lawsuit in York County, Pennsylvania, highlights a pattern of allegations of medical neglect by for-profit correctional healthcare company PrimeCare.
-The post He Almost Died From A Burst Appendix. A For-Profit Jail Medical Provider Dismissed It As Heartburn. appeared first on The Appeal.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Tue, 03 Mar 2026 17:53:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
