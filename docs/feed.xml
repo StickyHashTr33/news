@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2026 21:27:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 23:09:54 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 3600 TWINING DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0893512</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0893512</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-0893512 | SOUTH Division | 7/1/2026 5:54:35 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/1/2026 5:54:35 PM</pubDate>
+    </item>
+    <item>
+      <title>Cutting emissions more, removing carbon less could save 33,000 U.S. lives yearly</title>
+      <link>https://phys.org/news/2026-07-emissions-carbon-yearly.html</link>
+      <guid>https://phys.org/news/2026-07-emissions-carbon-yearly.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Published in Nature Climate Change, new research from the University of Wisconsin–Madison finds that reaching net-zero emissions by midcentury would substantially improve public health in the United States. However, climate strategies that heavily depend on carbon dioxide removal are likely to lead to worse pollution, air quality and climate-related premature deaths than scenarios that prioritize direct emissions reductions and rely less on carbon dioxide removal (CDR).</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 01 Jul 2026 18:20:04 EDT</pubDate>
+    </item>
     <item>
       <title>A New Mexico Town Is Running Dry. An Immigration Detention Center Is Its Biggest Water Customer.</title>
       <link>https://insideclimatenews.org/news/01072026/new-mexico-immigration-detention-center-water-use/</link>
@@ -796,22 +812,6 @@ EFF’s Answer: Age verification is a process where a website or service checks 
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0882474 | NORTH Division | 6/29/2026 4:11:12 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>6/29/2026 4:11:12 PM</pubDate>
-    </item>
-    <item>
-      <title>Q&amp;A: What happens when warming streams push young salmon beyond their limits</title>
-      <link>https://phys.org/news/2026-06-qa-streams-young-salmon-limits.html</link>
-      <guid>https://phys.org/news/2026-06-qa-streams-young-salmon-limits.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — As climate change warms rivers across British Columbia, young salmon are facing increasing heat stress at vulnerable stages of their lives. Two studies from UBC's Pacific Salmon Ecology and Conservation Lab have found that younger fish cope with heat differently than older fish and that current methods may be underestimating the risks salmon face in warming waterways.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Mon, 29 Jun 2026 16:50:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>The military used the technology to scan for land mines. San Antonio is using it to detect lead pipes.</title>
-      <link>https://sanantonioreport.org/saws-military-land-mine-tech-drinking-water-contamination-san-antonio/</link>
-      <guid>https://sanantonioreport.org/saws-military-land-mine-tech-drinking-water-contamination-san-antonio/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A technology first used to scan for land mines will soon be coming to San Antonio front yards to help identify lead pipes.The military used the technology to scan for land mines. San Antonio is using it to detect lead pipes. was first posted on June 29, 2026 at 2:21 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at </description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Mon, 29 Jun 2026 19:21:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
