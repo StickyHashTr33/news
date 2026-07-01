@@ -4,6 +4,7 @@ Layout: left topic nav | main content (SAPD → Latest → Topics)
 """
 
 import os
+import re
 from datetime import datetime
 from collections import defaultdict
 
@@ -23,9 +24,70 @@ TOPIC_COLORS = [
 
 SAPD_COLOR = {"bg":"#FEF2F2","text":"#991B1B","border":"#FCA5A5"}
 
+# Macro-groups for the sidebar nav — collapses the flat topic list from
+# config/topics.yml into a handful of sections. Any topic not listed here
+# (e.g. a newly added one) falls into an auto-generated "Other" group so
+# nothing silently disappears from the nav.
+TOPIC_GROUPS = {
+    "Local & Texas": [
+        "Texas Surveillance",
+        "Texas & San Antonio Local",
+        "ALPR & Flock Cameras",
+        "Housing & Gentrification",
+        "Texas Environment & Water",
+    ],
+    "Tech, Privacy & Security": [
+        "AI & Automation",
+        "Cybersecurity",
+        "Digital Rights & Privacy",
+        "OSINT & Open Source Intelligence",
+        "Open Source Software",
+        "Data Center & Grid Infrastructure",
+    ],
+    "Environment & Nature": [
+        "Climate & Environment",
+        "Ecology & Conservation",
+        "Foraging & Wild Plants",
+        "Small Farm & Urban Agriculture",
+        "Mycology & Mushrooms",
+    ],
+    "Health & Medicine": [
+        "Diabetes & Kidney Disease",
+        "Opioid Treatment & Methadone",
+        "Public Health & Health Equity",
+        "Psychedelics & Psilocybin Research",
+    ],
+    "Policy, Justice & Labor": [
+        "Immigration & Border",
+        "Police & Criminal Justice",
+        "Government Accountability",
+        "Labor & Worker Rights",
+        "Worker Cooperatives & Solidarity Economy",
+        "Cannabis, Hemp & Drug Policy",
+        "USDA & Farm Grants",
+        "Indigenous News & Tribal Sovereignty",
+    ],
+    "Culture & Ideas": [
+        "Hermeticism & Esoteric",
+        "Stoicism & Philosophy",
+        "Tabletop RPG & D&D",
+        "Science & Research",
+    ],
+}
+
 
 def _topic_color(index: int) -> dict:
     return TOPIC_COLORS[index % len(TOPIC_COLORS)]
+
+
+def _slug(s: str) -> str:
+    return re.sub(r'[^a-z0-9]+', '-', (s or '').lower()).strip('-')
+
+
+def _reading_time(text: str) -> str:
+    words = len((text or '').split())
+    minutes = max(1, round(words / 200))
+    return f"{minutes} min read"
 
 
 def _time_ago(dt_str: str) -> str:
@@ -48,7 +110,8 @@ def _time_ago(dt_str: str) -> str:
 def _article_card(a: dict, color: dict) -> str:
     title     = (a.get('title') or 'Untitled')
     url       = a.get('url', '#')
-    desc      = (a.get('description') or '')[:160]
+    desc_full = (a.get('description') or '')
+    desc      = desc_full[:160]
     publisher = a.get('publisher', '')
     if isinstance(publisher, dict):
         publisher = publisher.get('title', '')
@@ -57,17 +120,21 @@ def _article_card(a: dict, color: dict) -> str:
     seen_at   = a.get('seen_at', '')
     timeago   = _time_ago(seen_at)
     is_sapd   = a.get('is_sapd', False)
+    read_time = _reading_time(f"{title} {desc_full}")
+    card_id   = _slug(f"{title}-{seen_at}") or _slug(url)
 
     maps_url  = a.get('maps_url', url) if is_sapd else url
 
     return f'''
-    <article class="card" style="border-left:3px solid {color['border']};">
+    <article class="card" data-topic="{_slug(topic)}" data-id="{card_id}" style="border-left:3px solid {color['border']};">
+      <button class="bookmark-btn" data-id="{card_id}" title="Save for later" aria-label="Save for later">☆</button>
       <a class="card-title" href="{maps_url}" target="_blank" rel="noopener">{title}</a>
       {f'<p class="card-desc">{desc}</p>' if desc and not is_sapd else ''}
       <div class="card-meta">
         {f'<span class="kw-pill" style="background:{color["bg"]};color:{color["text"]};">{keyword or topic}</span>'}
         {f'<span class="publisher">{publisher}</span>' if publisher and not is_sapd else ''}
         {f'<span class="timeago">{timeago}</span>' if timeago else ''}
+        {f'<span class="readtime">{read_time}</span>' if not is_sapd else ''}
       </div>
     </article>'''
 
@@ -99,6 +166,24 @@ def generate_dashboard(articles: list[dict], stats: dict = None):
     topic_list      = list(by_topic.keys())
     topic_color_map = {t: _topic_color(i) for i, t in enumerate(topic_list)}
 
+    # ── Controls bar: search, SAPD toggle, topic chips, saved-only ───────────
+    chips_html = ''.join(
+        f'<button class="chip" data-topic="{_slug(t)}" aria-pressed="true">{t}</button>'
+        for t in topic_list
+    )
+    controls = f'''
+    <div class="controls">
+      <input id="q" class="search" type="search" placeholder="Search headlines… (press /)" autocomplete="off">
+      <label class="sapd-toggle"><input type="checkbox" id="sapdToggle" checked> SAPD calls</label>
+      <button class="chip-reset" id="savedToggle" aria-pressed="false">☆ Saved only</button>
+      <details class="filter-menu">
+        <summary>Topics</summary>
+        <div class="chip-row">{chips_html}
+          <button class="chip-reset" id="chipReset">Reset all</button>
+        </div>
+      </details>
+    </div>'''
+
     # ── Left sidebar nav ─────────────────────────────────────────────────────
     def nav_item(href: str, label: str, color: dict, count: int = 0) -> str:
         badge = f'<span class="nav-badge" style="background:{color["border"]};color:#fff;">{count}</span>' if count else ''
@@ -108,9 +193,37 @@ def generate_dashboard(articles: list[dict], stats: dict = None):
 
     nav_html = nav_item('sapd', '🚨 SAPD Calls', SAPD_COLOR, len(sapd_articles))
     nav_html += nav_item('latest', '⚡ Latest', {"bg":"#f3f4f6","text":"#374151","border":"#1a1a18"}, len(news_articles[:30]))
-    for i, t in enumerate(topic_list):
-        c = topic_color_map[t]
-        nav_html += nav_item(f'topic-{i}', t, c, len(by_topic[t]))
+
+    # ── Grouped topic nav: macro-categories, collapsible ──────────────────────
+    topic_index = {t: i for i, t in enumerate(topic_list)}
+    grouped_seen = set()
+    nav_groups_html = ''
+
+    def _group_block(group_name: str, topics_in_group: list) -> str:
+        items_html = ''
+        group_count = 0
+        for t in topics_in_group:
+            if t not in by_topic:
+                continue
+            i = topic_index[t]
+            c = topic_color_map[t]
+            items_html += nav_item(f'topic-{i}', t, c, len(by_topic[t]))
+            group_count += len(by_topic[t])
+            grouped_seen.add(t)
+        if not items_html:
+            return ''
+        return f'''
+        <details class="nav-group" data-group="{_slug(group_name)}">
+          <summary class="nav-group-summary">{group_name}<span class="nav-group-count">{group_count}</span></summary>
+          <div class="nav-group-items">{items_html}</div>
+        </details>'''
+
+    for group_name, topics_in_group in TOPIC_GROUPS.items():
+        nav_groups_html += _group_block(group_name, topics_in_group)
+
+    leftover = [t for t in topic_list if t not in grouped_seen]
+    if leftover:
+        nav_groups_html += _group_block('Other', leftover)
 
     # ── SAPD section ─────────────────────────────────────────────────────────
     if sapd_articles:
@@ -215,6 +328,29 @@ def generate_dashboard(articles: list[dict], stats: dict = None):
     .live-dot{{width:6px;height:6px;background:#2ecc71;border-radius:50%;display:inline-block;animation:pulse 2s ease-in-out infinite}}
     @keyframes pulse{{0%,100%{{opacity:1}}50%{{opacity:0.3}}}}
 
+    /* Controls bar */
+    .controls{{position:sticky;top:0;z-index:20;display:flex;flex-wrap:wrap;gap:12px;align-items:center;
+      padding:10px 24px;background:#FAFAF8;border-bottom:1px solid #E8E5DF}}
+    .search{{flex:1;min-width:200px;max-width:420px;padding:8px 12px;border:1px solid #ddd;border-radius:6px;
+      font-family:'Inter',sans-serif;font-size:13px;background:#fff;color:#1a1a18}}
+    .search:focus{{outline:none;border-color:#1a1a18}}
+    .sapd-toggle{{font-size:12px;color:#666;display:flex;align-items:center;gap:5px;cursor:pointer}}
+    .filter-menu summary{{cursor:pointer;font-size:12px;color:#666;list-style:none;
+      border:1px solid #ddd;padding:6px 12px;border-radius:6px}}
+    .filter-menu summary::-webkit-details-marker{{display:none}}
+    .filter-menu[open] summary{{border-color:#1a1a18;color:#1a1a18}}
+    .chip-row{{display:flex;flex-wrap:wrap;gap:6px;padding:12px 0;max-width:720px}}
+    .chip{{font-size:11px;padding:4px 10px;border:1px solid #ddd;border-radius:14px;background:#fff;cursor:pointer;
+      font-family:'Inter',sans-serif;color:#333;transition:all .1s}}
+    .chip[aria-pressed="false"]{{opacity:.4;text-decoration:line-through}}
+    .chip-reset{{font-size:11px;padding:4px 10px;border:1px solid #c0392b;color:#c0392b;border-radius:14px;
+      background:#fff;cursor:pointer;font-family:'Inter',sans-serif}}
+    #savedToggle{{border-color:#ddd;color:#666}}
+    #savedToggle[aria-pressed="true"]{{border-color:#e0a800;color:#a67c00;background:#fffbea}}
+    .load-more{{grid-column:1/-1;justify-self:center;margin-top:8px;padding:8px 20px;border:1px solid #ddd;
+      background:#fff;border-radius:6px;font-family:'JetBrains Mono',monospace;font-size:11px;cursor:pointer;color:#555}}
+    .load-more:hover{{border-color:#1a1a18;color:#1a1a18}}
+
     /* Layout: left nav + main */
     .layout{{display:grid;grid-template-columns:220px 1fr;min-height:calc(100vh - 120px)}}
 
@@ -260,6 +396,30 @@ def generate_dashboard(articles: list[dict], stats: dict = None):
       min-width:18px;
       text-align:center;
     }}
+    .nav-group{{margin:0 8px}}
+    .nav-group-summary{{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      list-style:none;
+      cursor:pointer;
+      padding:8px 6px 8px 8px;
+      font-size:11px;
+      font-weight:600;
+      color:#555;
+      border-radius:4px;
+    }}
+    .nav-group-summary::-webkit-details-marker{{display:none}}
+    .nav-group-summary::before{{content:'▸';font-size:9px;color:#bbb;margin-right:6px}}
+    .nav-group[open] > .nav-group-summary::before{{content:'▾'}}
+    .nav-group-summary:hover{{background:#f5f4f1}}
+    .nav-group-count{{
+      font-size:9px;
+      font-family:'JetBrains Mono',monospace;
+      color:#bbb;
+      margin-left:auto;
+    }}
+    .nav-group-items{{display:flex;flex-direction:column;gap:2px;padding-left:6px}}
 
     /* Main content */
     .main-col{{padding:24px 28px}}
@@ -272,8 +432,9 @@ def generate_dashboard(articles: list[dict], stats: dict = None):
     .card-grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}}
 
     /* Cards */
-    .card{{background:#fff;border:1px solid #E8E5DF;border-radius:6px;padding:13px 13px 11px 15px;transition:border-color 0.15s}}
+    .card{{position:relative;background:#fff;border:1px solid #E8E5DF;border-radius:6px;padding:13px 30px 11px 15px;transition:border-color 0.15s}}
     .card:hover{{border-color:#bbb}}
+    .card.kb-focus{{border-color:#1a1a18;box-shadow:0 0 0 2px rgba(26,26,24,0.12)}}
     .card-title{{display:block;font-size:13px;font-weight:500;line-height:1.45;color:#1a1a18;margin-bottom:6px}}
     .card-title:hover{{text-decoration:underline}}
     .card-desc{{font-size:12px;color:#888;line-height:1.5;margin-bottom:8px}}
@@ -281,6 +442,11 @@ def generate_dashboard(articles: list[dict], stats: dict = None):
     .kw-pill{{font-size:10px;font-family:'JetBrains Mono',monospace;padding:2px 6px;border-radius:3px}}
     .publisher{{font-size:11px;color:#bbb}}
     .timeago{{font-size:10px;color:#ccc;margin-left:auto;font-family:'JetBrains Mono',monospace}}
+    .readtime{{font-size:10px;color:#ccc;font-family:'JetBrains Mono',monospace}}
+    .bookmark-btn{{position:absolute;top:10px;right:8px;border:none;background:none;cursor:pointer;
+      font-size:15px;line-height:1;color:#ccc;padding:2px}}
+    .bookmark-btn:hover{{color:#e0a800}}
+    .bookmark-btn.is-saved{{color:#e0a800}}
 
     /* Footer */
     .footer{{
@@ -346,12 +512,14 @@ def generate_dashboard(articles: list[dict], stats: dict = None):
   <span style="color:#ddd">·</span>
   <span>{len(topic_list)} topics · {n_sources} sources</span>
 </div>
-
+{controls}
 <div class="layout">
 
   <nav class="left-nav" aria-label="Topics">
     <div class="nav-section-label">Sections</div>
     {nav_html}
+    <div class="nav-section-label">Topics</div>
+    {nav_groups_html}
   </nav>
 
   <main class="main-col">
@@ -364,6 +532,123 @@ def generate_dashboard(articles: list[dict], stats: dict = None):
   <div class="built-by">Built by <span>Lou</span> · NewsWatch · GitHub Actions</div>
   <a href="feed.xml" style="color:#bbb;">Subscribe via RSS</a>
 </footer>
+
+<script>
+(function(){{
+  const PAGE = 15, HIDDEN_KEY = 'nw_hidden_topics', SAVED_KEY = 'nw_saved';
+  let hidden = new Set(); try {{ hidden = new Set(JSON.parse(localStorage.getItem(HIDDEN_KEY)||'[]')); }} catch(e){{}}
+  let saved  = new Set(); try {{ saved  = new Set(JSON.parse(localStorage.getItem(SAVED_KEY)||'[]')); }} catch(e){{}}
+  const saveHidden = () => localStorage.setItem(HIDDEN_KEY, JSON.stringify([...hidden]));
+  const saveSaved  = () => localStorage.setItem(SAVED_KEY, JSON.stringify([...saved]));
+
+  const q = document.getElementById('q');
+  const cards = [...document.querySelectorAll('.card')];
+  let savedOnly = false;
+
+  // pagination: hide overflow per grid, add a Load More button
+  document.querySelectorAll('.card-grid').forEach(grid => {{
+    const c = [...grid.querySelectorAll('.card')];
+    if (c.length <= PAGE) return;
+    c.slice(PAGE).forEach(x => x.dataset.paged = '0');
+    const btn = document.createElement('button');
+    btn.className = 'load-more';
+    btn.textContent = 'Load ' + (c.length - PAGE) + ' more';
+    btn.onclick = () => {{ c.forEach(x => x.dataset.paged = '1'); btn.remove(); refresh(); }};
+    grid.appendChild(btn);
+  }});
+
+  function visible(card){{
+    const term = (q.value||'').trim().toLowerCase();
+    if (hidden.has(card.dataset.topic)) return false;
+    if (savedOnly && !saved.has(card.dataset.id)) return false;
+    if (term && !card.textContent.toLowerCase().includes(term)) return false;
+    if (!term && card.dataset.paged === '0') return false;   // pagination only when not searching
+    return true;
+  }}
+  function refresh(){{ cards.forEach(c => c.style.display = visible(c) ? '' : 'none'); }}
+
+  q.addEventListener('input', refresh);
+
+  document.querySelectorAll('.chip').forEach(chip => {{
+    const t = chip.dataset.topic;
+    if (hidden.has(t)) chip.setAttribute('aria-pressed','false');
+    chip.onclick = () => {{
+      if (hidden.has(t)) {{ hidden.delete(t); chip.setAttribute('aria-pressed','true'); }}
+      else {{ hidden.add(t); chip.setAttribute('aria-pressed','false'); }}
+      saveHidden(); refresh();
+    }};
+  }});
+  const reset = document.getElementById('chipReset');
+  if (reset) reset.onclick = () => {{
+    hidden.clear(); saveHidden();
+    document.querySelectorAll('.chip').forEach(c => c.setAttribute('aria-pressed','true'));
+    refresh();
+  }};
+
+  const sapd = document.getElementById('sapdToggle'), sapdSec = document.getElementById('sapd');
+  if (sapd && sapdSec) sapd.onchange = () => {{ sapdSec.style.display = sapd.checked ? '' : 'none'; }};
+
+  // Bookmarks
+  document.querySelectorAll('.bookmark-btn').forEach(btn => {{
+    const id = btn.dataset.id;
+    if (saved.has(id)) {{ btn.textContent = '★'; btn.classList.add('is-saved'); }}
+    btn.onclick = (e) => {{
+      e.preventDefault(); e.stopPropagation();
+      if (saved.has(id)) {{ saved.delete(id); btn.textContent = '☆'; btn.classList.remove('is-saved'); }}
+      else {{ saved.add(id); btn.textContent = '★'; btn.classList.add('is-saved'); }}
+      saveSaved(); if (savedOnly) refresh();
+    }};
+  }});
+  const savedToggle = document.getElementById('savedToggle');
+  if (savedToggle) savedToggle.onclick = () => {{
+    savedOnly = !savedOnly;
+    savedToggle.setAttribute('aria-pressed', String(savedOnly));
+    savedToggle.textContent = savedOnly ? '★ Saved only' : '☆ Saved only';
+    refresh();
+  }};
+
+  // Keyboard shortcuts: j/k move between visible cards, Enter opens, / focuses search
+  let focusIdx = -1;
+  function visibleCards(){{ return cards.filter(c => c.style.display !== 'none'); }}
+  function setFocus(idx){{
+    const vc = visibleCards();
+    if (!vc.length) return;
+    if (focusIdx >= 0 && vc[focusIdx]) vc[focusIdx].classList.remove('kb-focus');
+    focusIdx = ((idx % vc.length) + vc.length) % vc.length;
+    const el = vc[focusIdx];
+    el.classList.add('kb-focus');
+    el.scrollIntoView({{block:'center', behavior:'smooth'}});
+  }}
+  document.addEventListener('keydown', (e) => {{
+    if (e.target === q) {{
+      if (e.key === 'Escape') q.blur();
+      return;
+    }}
+    if (e.key === '/') {{ e.preventDefault(); q.focus(); return; }}
+    if (e.key === 'j') {{ setFocus(focusIdx + 1); return; }}
+    if (e.key === 'k') {{ setFocus(focusIdx - 1); return; }}
+    if (e.key === 'Enter') {{
+      const vc = visibleCards();
+      const el = vc[focusIdx];
+      if (el) {{ const a = el.querySelector('.card-title'); if (a) window.open(a.href, '_blank'); }}
+    }}
+  }});
+
+  // Nav group accordion state
+  const GROUPS_KEY = 'nw_open_groups';
+  let openGroups = new Set(); try {{ openGroups = new Set(JSON.parse(localStorage.getItem(GROUPS_KEY)||'[]')); }} catch(e){{}}
+  document.querySelectorAll('.nav-group').forEach((grp, idx) => {{
+    const key = grp.dataset.group;
+    if (openGroups.has(key)) grp.setAttribute('open', '');
+    grp.addEventListener('toggle', () => {{
+      if (grp.open) openGroups.add(key); else openGroups.delete(key);
+      localStorage.setItem(GROUPS_KEY, JSON.stringify([...openGroups]));
+    }});
+  }});
+
+  refresh();
+}})();
+</script>
 
 </body>
 </html>'''
