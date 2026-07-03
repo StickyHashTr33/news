@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2026 19:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 20:59:47 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 9600 IH 35 N (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0902884</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0902884</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0902884 | NORTH Division | 7/3/2026 3:49:10 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/3/2026 3:49:10 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 9900 WURZBACH RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0902377</link>
@@ -824,14 +832,6 @@ The post The New Five Forces, Part 5: Economy and Building for a Volatile World 
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0889162 | CENTRAL Division | 6/30/2026 9:41:38 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>6/30/2026 9:41:38 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 100 CASANOVA (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0889164</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0889164</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0889164 | CENTRAL Division | 6/30/2026 9:42:08 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>6/30/2026 9:42:08 PM</pubDate>
     </item>
   </channel>
 </rss>
