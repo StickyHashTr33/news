@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 17:08:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 19:04:27 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — HAVEN FOR HOPE WAY (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0907094</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0907094</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0907094 | CENTRAL Division | 7/4/2026 1:49:29 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/4/2026 1:49:29 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 3800 W TRAVIS ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0907102</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0907102</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0907102 | CENTRAL Division | 7/4/2026 1:53:33 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/4/2026 1:53:33 PM</pubDate>
+    </item>
+    <item>
+      <title>Methodist Healthcare System plans freestanding ER and outpatient clinic on South Side</title>
+      <link>https://sanantonioreport.org/methodist-healthcare-freestanding-er-outpatient-clinic-south-side/</link>
+      <guid>https://sanantonioreport.org/methodist-healthcare-freestanding-er-outpatient-clinic-south-side/</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Methodist Healthcare System is planning a new freestanding emergency room and outpatient clinic at the corner of South Zarzamora Street and Southwest Loop 410 as the system looks to expand access points on the South Side. The medical center includes an $8.5 million, 11-bed freestanding ER totaling over 11,000 square feet. A three-story, 60,000 square-foot [&amp;#8230;]Methodist Healthcare System plans freestanding ER and outpatient clinic on South Side was first posted on July 4, 2026 at 2:00 pm.&amp;co</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Sat, 04 Jul 2026 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 4200 TIMBERBROOK (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0906751</link>
@@ -816,30 +840,6 @@ The post Rural Texas Is Losing Affordable Care Access Coverage Even as Statewide
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The Bexar County Hospital District Board of Managers approved on Tuesday $90 million to add on more inpatient bed capacity and outpatient exam rooms at Palo Alto Hospital on the South Side and Retama Hospital on the far Northeast side. University Health&amp;#8217;s 2 new hospitals haven&amp;#8217;t opened yet, but officials are already adding extra beds was first posted on July 1, 2026 at 4:05 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you </description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Wed, 01 Jul 2026 21:05:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Somebody told DeepSeek to build in-browser ransomware and it gleefully complied</title>
-      <link>https://www.theregister.com/security/2026/07/01/somebody-told-deepseek-to-build-in-browser-ransomware-and-it-gleefully-complied/5265311</link>
-      <guid>https://www.theregister.com/security/2026/07/01/somebody-told-deepseek-to-build-in-browser-ransomware-and-it-gleefully-complied/5265311</guid>
-      <description>[Cybersecurity] Keyword: ransomware — 'The original incomplete DeepSeek sample can be transformed into a fully functional attack with minimal effort,' Check Point researcher tells The Reg</description>
-      <category>Cybersecurity</category>
-      <pubDate>Wed, 01 Jul 2026 21:57:48 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 900 KING AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0892485</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0892485</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0892485 | SOUTH Division | 7/1/2026 2:33:14 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/1/2026 2:33:14 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 600 SAIPAN PLACE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0892499</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0892499</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0892499 | SOUTH Division | 7/1/2026 2:35:46 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/1/2026 2:35:46 PM</pubDate>
     </item>
   </channel>
 </rss>
