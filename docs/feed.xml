@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 22:54:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 23:58:44 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5300 N LOOP 1604 W (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0908121</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0908121</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0908121 | PRUE Division | 7/4/2026 6:41:23 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/4/2026 6:41:23 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 2700 SE MILITARY DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0908123</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0908123</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0908123 | SOUTH Division | 7/4/2026 6:41:38 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/4/2026 6:41:38 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 5500 BABCOCK RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0908139</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0908139</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0908139 | PRUE Division | 7/4/2026 6:47:37 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/4/2026 6:47:37 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 2100 VERA CRUZ ST (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0907433</link>
@@ -816,30 +840,6 @@ The post Rural Texas Is Losing Affordable Care Access Coverage Even as Statewide
       <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-0894453 | NORTH Division | 7/1/2026 9:37:12 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/1/2026 9:37:12 PM</pubDate>
-    </item>
-    <item>
-      <title>Huge, specially designed heat pump saves a Norwegian agricultural cooperative millions</title>
-      <link>https://phys.org/news/2026-07-huge-specially-norwegian-agricultural-cooperative.html</link>
-      <guid>https://phys.org/news/2026-07-huge-specially-norwegian-agricultural-cooperative.html</guid>
-      <description>[Climate &amp; Environment] Keyword: renewable energy — There are some magical limits to how much energy we can get out of a heat pump. This story is about pushing the technical limits. It is about getting more energy out than you put in. And it's about how SINTEF—one of Europe's largest applied research organizations—the renewable energy company Aneo, and the Norwegian agricultural cooperative Felleskjøpet together managed to shift the recovery of process heat from theoretical calculations in researchers' notebooks to becoming an industrial electric</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 01 Jul 2026 21:00:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Don't expect trackers to save your stolen car, experts say</title>
-      <link>https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Digital Rights &amp; Privacy] Keyword: location tracking — Kia told the BBC UK law prevented its location tracking function being used to live track vehicles.</description>
-      <category>Digital Rights &amp; Privacy</category>
-      <pubDate>Wed, 01 Jul 2026 23:31:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — 3600 TWINING DR (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0893512</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0893512</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-0893512 | SOUTH Division | 7/1/2026 5:54:35 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/1/2026 5:54:35 PM</pubDate>
     </item>
   </channel>
 </rss>
