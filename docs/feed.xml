@@ -5,8 +5,49 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 15:58:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 17:08:54 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 4200 TIMBERBROOK (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0906751</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0906751</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0906751 | WEST Division | 7/4/2026 11:49:46 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/4/2026 11:49:46 AM</pubDate>
+    </item>
+    <item>
+      <title>A rare dinosaur fossil from Antarctica is found tucked away in a drawer</title>
+      <link>https://phys.org/news/2026-06-rare-dinosaur-fossil-antarctica-tucked.html</link>
+      <guid>https://phys.org/news/2026-06-rare-dinosaur-fossil-antarctica-tucked.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — Scientists have stumbled on a rare dinosaur fossil from Antarctica, tucked away for decades in a drawer.</description>
+      <category>Open Source Software</category>
+      <pubDate>Sat, 04 Jul 2026 12:00:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>From Public Flogging to Flock Cameras: How the U.S. Justice System Evolved Over 250 Years</title>
+      <link>https://www.themarshallproject.org/2026/07/04/independence-day-250-criminal-justice</link>
+      <guid>https://www.themarshallproject.org/2026/07/04/independence-day-250-criminal-justice</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: Flock camera — As the nation celebrates two and a half centuries of independence, we put together a syllabus of some essential criminal justice reading.</description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>Sat, 04 Jul 2026 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Seven stable kernels for Saturday including two security fixes</title>
+      <link>https://lwn.net/Articles/1081230/</link>
+      <guid>https://lwn.net/Articles/1081230/</guid>
+      <description>[Cybersecurity] Keyword: CVE — Greg Kroah-Hartman has announced the release of the 7.1.3, 6.18.38, 6.12.95, 6.6.144, 6.1.177, 5.15.211, and 5.10.260 stable kernels. Several kernels
+in this batch include a
+fix for a vulnerability introduced in the 6.0 kernel in IPv6 (CVE-2026-53362),
+which could
+allow an attacker to escape a container and gain root access.
+
+There is also a
+fix for a use-after-free bug in KVM (CVE-2026-53359)
+that was introduced in the 2.6.36 kernel. As usual, each stable kernel includes
+a number of fixes throu</description>
+      <category>Cybersecurity</category>
+      <pubDate>Sat, 04 Jul 2026 16:46:31 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 2200 TPC PKWY (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0906550</link>
@@ -799,38 +840,6 @@ The post Rural Texas Is Losing Affordable Care Access Coverage Even as Statewide
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0892499 | SOUTH Division | 7/1/2026 2:35:46 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/1/2026 2:35:46 PM</pubDate>
-    </item>
-    <item>
-      <title>Modern neuroscience is rediscovering an idea Freud had 130 years ago</title>
-      <link>https://www.sciencedaily.com/releases/2026/06/260625014811.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/06/260625014811.htm</guid>
-      <description>[Science &amp; Research] Keyword: neuroscience — What if Sigmund Freud was onto something that modern neuroscience is only now beginning to explain? A new paper argues that today's leading theory of the brain—as a prediction machine constantly anticipating the world—closely mirrors ideas psychoanalysis has explored for more than a century.</description>
-      <category>Science &amp; Research</category>
-      <pubDate>Wed, 01 Jul 2026 03:24:56 EDT</pubDate>
-    </item>
-    <item>
-      <title>Nanotubes and nanosheets boost fast energy storage</title>
-      <link>https://phys.org/news/2026-07-nanotubes-nanosheets-boost-fast-energy.html</link>
-      <guid>https://phys.org/news/2026-07-nanotubes-nanosheets-boost-fast-energy.html</guid>
-      <description>[Climate &amp; Environment] Keyword: renewable energy — The growing use of renewable energy sources, such as solar and wind power, requires energy storage systems that can charge quickly, deliver power efficiently and remain stable over long-term use. Batteries can store large amounts of energy, but they often take longer to charge.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 01 Jul 2026 15:00:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Single-atom catalyst turns lignin into valuable chemicals with near-complete conversion</title>
-      <link>https://phys.org/news/2026-07-atom-catalyst-lignin-valuable-chemicals.html</link>
-      <guid>https://phys.org/news/2026-07-atom-catalyst-lignin-valuable-chemicals.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — Researchers at The University of Manchester and Hebei University of Technology have identified how a new class of catalyst can break down lignin into useful chemical building blocks, offering a more sustainable route to replace fossil-based materials.</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 01 Jul 2026 13:40:07 EDT</pubDate>
-    </item>
-    <item>
-      <title>Governments Are Spending $1.1 Trillion Propping Up the Fossil Fuel Industry While Households Pay the Price</title>
-      <link>https://www.commondreams.org/newswire/governments-are-spending-1-1-trillion-propping-up-the-fossil-fuel-industry-while-households-pay-the-price</link>
-      <guid>https://www.commondreams.org/newswire/governments-are-spending-1-1-trillion-propping-up-the-fossil-fuel-industry-while-households-pay-the-price</guid>
-      <description>[Open Source Software] Keyword: FOSS — As 350.org, Fuel Poverty Action and coalition partners today demonstrate against rising energy prices outside the Department for Energy Security and Net Zero, a new report from the UN Development Programme (UNDP) lays bare the true scale of the fossil fuel subsidy crisis: governments worldwide are on course to spend $1.1 trillion propping up the fossil fuel industry in 2026, a figure that could rise to $1.43 trillion if oil prices reach $110 a barrel. The UNDP report, Military Escalation in the </description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 01 Jul 2026 15:34:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
