@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 14:26:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 15:58:22 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 2200 TPC PKWY (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0906550</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0906550</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0906550 | NORTH Division | 7/4/2026 10:35:42 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/4/2026 10:35:42 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 4200 GLENCREST (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0906553</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0906553</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-0906553 | PRUE Division | 7/4/2026 10:36:35 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/4/2026 10:36:35 AM</pubDate>
+    </item>
+    <item>
+      <title>Rising seas make once-rare coastal floods 12 times more likely</title>
+      <link>https://phys.org/news/2026-06-seas-rare-coastal.html</link>
+      <guid>https://phys.org/news/2026-06-seas-rare-coastal.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Extreme floods that once swamped coastal communities only rarely are becoming far more common as climate change caused by humans pushes sea levels higher, according to new research published Wednesday. Experts say the findings are crucial for making plans about floods and coastal infrastructure as the planet warms.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sat, 04 Jul 2026 10:30:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 8300 REED RD (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0906328</link>
@@ -807,30 +831,6 @@ The post Rural Texas Is Losing Affordable Care Access Coverage Even as Statewide
       <description>[Open Source Software] Keyword: FOSS — As 350.org, Fuel Poverty Action and coalition partners today demonstrate against rising energy prices outside the Department for Energy Security and Net Zero, a new report from the UN Development Programme (UNDP) lays bare the true scale of the fossil fuel subsidy crisis: governments worldwide are on course to spend $1.1 trillion propping up the fossil fuel industry in 2026, a figure that could rise to $1.43 trillion if oil prices reach $110 a barrel. The UNDP report, Military Escalation in the </description>
       <category>Open Source Software</category>
       <pubDate>Wed, 01 Jul 2026 15:34:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Middle East Conflict Fallout Pushes Countries toward US$1 Trillion Fossil Fuel Subsidy Bill, warns UN Development Programme</title>
-      <link>https://www.ipsnews.net/2026/07/middle-east-conflict-fallout-pushes-countries-toward-us1-trillion-fossil-fuel-subsidy-bill-warns-un-development-programme/</link>
-      <guid>https://www.ipsnews.net/2026/07/middle-east-conflict-fallout-pushes-countries-toward-us1-trillion-fossil-fuel-subsidy-bill-warns-un-development-programme/</guid>
-      <description>[Open Source Software] Keyword: FOSS — Ripple effects from the Middle East conflict force developing countries to burn fiscal space on fossil fuel subsidies, wiping out investment in health, education and climate, according to new report.</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 01 Jul 2026 18:41:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seven more sentenced to prison over protest outside Texas detention center</title>
-      <link>https://www.theguardian.com/us-news/2026/jul/01/protest-shooting-texas-detention-center</link>
-      <guid>https://www.theguardian.com/us-news/2026/jul/01/protest-shooting-texas-detention-center</guid>
-      <description>[Immigration &amp; Border] Keyword: immigration detention — Judge hands down 50-year sentence to defendant Ines Soto, whose wife Elizabeth was sentenced to same prison termSeven more people were sentenced to prison Wednesday over a shooting outside a Texas immigration detention center that wounded a police officer and has left many protesters facing decades behind bars.All but one of the defendants sentenced in Fort Worth courtrooms pleaded guilty to charges related to the shooting outside the Prairieland detention center near Dallas last July 4. They ea</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Wed, 01 Jul 2026 18:52:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Black-box optimization weather intervention method supports future disaster mitigation</title>
-      <link>https://phys.org/news/2026-07-black-optimization-weather-intervention-method.html</link>
-      <guid>https://phys.org/news/2026-07-black-optimization-weather-intervention-method.html</guid>
-      <description>[Climate &amp; Environment] Keyword: global warming — In recent years, the frequency of weather-related natural disasters—cyclones, torrential rains, floods—has increased as a consequence of global warming. These disasters cause billions of dollars in damage and losses every year. As a result, there is great interest in weather control, the process by which human intervention can deliberately alter the weather.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 01 Jul 2026 10:35:39 EDT</pubDate>
     </item>
   </channel>
 </rss>
