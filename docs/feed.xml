@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 10:04:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 12:04:22 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 6400 WURZBACH RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0906046</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0906046</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0906046 | PRUE Division | 7/4/2026 6:51:28 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/4/2026 6:51:28 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 6600 W COMMERCE ST (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0905853</link>
@@ -823,14 +831,6 @@ The post Rural Texas Is Losing Affordable Care Access Coverage Even as Statewide
       <description>[Open Source Software] Keyword: FOSS — The earliest evidence of spiders' fangs has been identified in a 518-million-year-old fossil by scientists at the University of Leicester and Yunnan University.</description>
       <category>Open Source Software</category>
       <pubDate>Wed, 01 Jul 2026 11:00:10 EDT</pubDate>
-    </item>
-    <item>
-      <title>Tooth fossil analysis suggests 'brawn before bite' in early Asian mammals</title>
-      <link>https://phys.org/news/2026-07-tooth-fossil-analysis-brawn-early.html</link>
-      <guid>https://phys.org/news/2026-07-tooth-fossil-analysis-brawn-early.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — An analysis of fossil teeth from mammals that lived in China following the most recent major mass extinction suggests size came before both shape and function as diets diversified.</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 01 Jul 2026 12:00:05 EDT</pubDate>
     </item>
   </channel>
 </rss>
