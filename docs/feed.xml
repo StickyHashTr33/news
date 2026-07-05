@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2026 17:59:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 19:24:59 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 100 GENERAL ENT (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0912615</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0912615</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0912615 | SOUTH Division | 7/5/2026 1:59:19 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/5/2026 1:59:19 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 1300 SALTILLO ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0912617</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0912617</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0912617 | CENTRAL Division | 7/5/2026 2:03:07 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/5/2026 2:03:07 PM</pubDate>
+    </item>
+    <item>
+      <title>Texas Biomed teams up with UK-based biotech company to fight screwworm</title>
+      <link>https://sanantonioreport.org/texas-biomed-uk-based-biotech-company-fight-screwworm/</link>
+      <guid>https://sanantonioreport.org/texas-biomed-uk-based-biotech-company-fight-screwworm/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Texas Biomed plans on partnering with Flyttr, formerly known as Oxitec, a private biotech company based in England that specializes in pest management. Texas Biomed teams up with UK-based biotech company to fight screwworm was first posted on July 5, 2026 at 2:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hel</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sun, 05 Jul 2026 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 9100 EVERTON (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0912362</link>
@@ -792,30 +816,6 @@ The post Q&amp;#038;A: What Do Farmers Have to Say About Climate Change? appeare
       <description>[Climate &amp; Environment] Keyword: climate change — Coral reef decline driven by climate change could cost Hawaiʻi residents between $1.8 billion and $3 billion in lost reef-related activities by 2100, according to a new study published in Ecological Economics. The research projects that these burdens will not fall equally, with lower-income and disadvantaged communities in the state facing disproportionate impacts.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Thu, 02 Jul 2026 19:00:04 EDT</pubDate>
-    </item>
-    <item>
-      <title>Will the end of TPS for Haitians mean a caregiving crisis in US?</title>
-      <link>https://www.aljazeera.com/news/2026/7/2/will-the-end-of-tps-for-haitians-mean-a-caregiving-crisis-in-us?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/7/2/will-the-end-of-tps-for-haitians-mean-a-caregiving-crisis-in-us?traffic_source=rss</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Immigrants with temporary protection more likely to work in healthcare, representing 15 percent of noncitizen workers.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Thu, 02 Jul 2026 23:26:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 1100 KENTUCKY AVE (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0898331</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0898331</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0898331 | WEST Division | 7/2/2026 5:01:48 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/2/2026 5:01:48 PM</pubDate>
-    </item>
-    <item>
-      <title>Compromise drives shared risky decisions, but biased blame and credit can break teamwork</title>
-      <link>https://phys.org/news/2026-07-compromise-risky-decisions-biased-blame.html</link>
-      <guid>https://phys.org/news/2026-07-compromise-risky-decisions-biased-blame.html</guid>
-      <description>[Science &amp; Research] Keyword: neuroscience — Relationships are all about compromise. From deciding on where to eat dinner with a friend to negotiating chore lists at home, we often experience situations that require some flexibility. But what happens when we must work with others—especially people we don't know—to make a risky decision? That's what Caltech's Dean Mobbs, professor of cognitive neuroscience, and members of his lab set out to explore in a recent study.</description>
-      <category>Science &amp; Research</category>
-      <pubDate>Thu, 02 Jul 2026 17:30:02 EDT</pubDate>
     </item>
   </channel>
 </rss>
