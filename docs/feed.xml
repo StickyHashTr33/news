@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2026 20:54:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 21:58:12 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 7800 RIATA DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0913281</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0913281</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0913281 | WEST Division | 7/5/2026 4:44:58 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/5/2026 4:44:58 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 9000 WURZBACH RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0913305</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0913305</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0913305 | PRUE Division | 7/5/2026 4:48:05 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/5/2026 4:48:05 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 4000 MEDICAL DR (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0912936</link>
@@ -800,22 +816,6 @@ The post Q&amp;#038;A: What Do Farmers Have to Say About Climate Change? appeare
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0899788 | SOUTH Division | 7/2/2026 11:26:35 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/2/2026 11:26:35 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 22900 US HWY 281 N (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0899802</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0899802</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0899802 | NORTH Division | 7/2/2026 11:28:56 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/2/2026 11:28:56 PM</pubDate>
-    </item>
-    <item>
-      <title>Climate scientist who “proved” humanity is warming Earth says government report got it wrong</title>
-      <link>https://www.sciencedaily.com/releases/2026/06/260625060214.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/06/260625060214.htm</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — A pioneering climate scientist is challenging a U.S. government report that cited his research while reaching what he says is the exact opposite conclusion. Benjamin Santer and his colleagues say decades of satellite data clearly reveal the atmospheric “fingerprint” of human-caused climate change. Their new peer-reviewed analysis argues the report contains major scientific errors and should not be relied upon in climate policy decisions.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 02 Jul 2026 03:33:03 EDT</pubDate>
     </item>
   </channel>
 </rss>
