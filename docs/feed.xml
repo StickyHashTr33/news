@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2026 12:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 14:29:09 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — N MEDINA / W HOUSTON ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0911659</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0911659</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0911659 | CENTRAL Division | 7/5/2026 9:15:03 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/5/2026 9:15:03 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 300 W CHERYL DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0911660</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0911660</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0911660 | WEST Division | 7/5/2026 9:15:14 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/5/2026 9:15:14 AM</pubDate>
+    </item>
+    <item>
+      <title>Rare 309-million-year-old fossils suggest early tetrapods developed without tadpole phase</title>
+      <link>https://phys.org/news/2026-06-rare-million-year-fossils-early.html</link>
+      <guid>https://phys.org/news/2026-06-rare-million-year-fossils-early.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — Scientists have long posited that the earliest water animals to transition to land had amphibious tadpole features, going through a metamorphosis akin to that of today's frogs.</description>
+      <category>Open Source Software</category>
+      <pubDate>Sun, 05 Jul 2026 09:20:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 900 WAVERLY AVE (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0911381</link>
@@ -804,30 +828,6 @@ The post Q&amp;#038;A: What Do Farmers Have to Say About Climate Change? appeare
 In a time when there’s real cause for fear and</description>
       <category>Labor &amp; Worker Rights</category>
       <pubDate>Thu, 02 Jul 2026 14:12:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can you pop fireworks in San Antonio? Here’s what to know before celebrating the Fourth of July</title>
-      <link>https://sanantonioreport.org/can-you-pop-fireworks-in-san-antonio-heres-what-to-know-before-celebrating-the-fourth-of-july/</link>
-      <guid>https://sanantonioreport.org/can-you-pop-fireworks-in-san-antonio-heres-what-to-know-before-celebrating-the-fourth-of-july/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Here’s where fireworks are legal in San Antonio and Bexar County, the safety rules to know and the dangers of celebratory gunfire.Can you pop fireworks in San Antonio? Here’s what to know before celebrating the Fourth of July was first posted on July 2, 2026 at 1:33 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at </description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Thu, 02 Jul 2026 18:33:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smooth AI criminal drives 'first' end-to-end agentic ransomware attack</title>
-      <link>https://www.theregister.com/security/2026/07/02/smooth-ai-criminal-drives-first-end-to-end-agentic-ransomware-attack/5266073</link>
-      <guid>https://www.theregister.com/security/2026/07/02/smooth-ai-criminal-drives-first-end-to-end-agentic-ransomware-attack/5266073</guid>
-      <description>[Cybersecurity] Keyword: ransomware — Don't count on the LLM to return your data - even if you pay up</description>
-      <category>Cybersecurity</category>
-      <pubDate>Thu, 02 Jul 2026 20:05:50 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 6100 VANCE JACKSON (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0897052</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0897052</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0897052 | PRUE Division | 7/2/2026 12:27:31 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/2/2026 12:27:31 PM</pubDate>
     </item>
   </channel>
 </rss>
