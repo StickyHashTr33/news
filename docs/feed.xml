@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2026 19:24:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 20:54:23 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 4000 MEDICAL DR (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0912936</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0912936</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0912936 | PRUE Division | 7/5/2026 3:31:47 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/5/2026 3:31:47 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 100 GENERAL ENT (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0912615</link>
@@ -808,14 +816,6 @@ The post Q&amp;#038;A: What Do Farmers Have to Say About Climate Change? appeare
       <description>[Climate &amp; Environment] Keyword: climate change — A pioneering climate scientist is challenging a U.S. government report that cited his research while reaching what he says is the exact opposite conclusion. Benjamin Santer and his colleagues say decades of satellite data clearly reveal the atmospheric “fingerprint” of human-caused climate change. Their new peer-reviewed analysis argues the report contains major scientific errors and should not be relied upon in climate policy decisions.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Thu, 02 Jul 2026 03:33:03 EDT</pubDate>
-    </item>
-    <item>
-      <title>Coral loss may erase up to $3 billion in Hawaiʻi reef recreation by 2100</title>
-      <link>https://phys.org/news/2026-07-coral-loss-erase-billion-hawaii.html</link>
-      <guid>https://phys.org/news/2026-07-coral-loss-erase-billion-hawaii.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Coral reef decline driven by climate change could cost Hawaiʻi residents between $1.8 billion and $3 billion in lost reef-related activities by 2100, according to a new study published in Ecological Economics. The research projects that these burdens will not fall equally, with lower-income and disadvantaged communities in the state facing disproportionate impacts.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 02 Jul 2026 19:00:04 EDT</pubDate>
     </item>
   </channel>
 </rss>
