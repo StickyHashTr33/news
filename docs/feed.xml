@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2026 03:41:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 07:21:52 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 8000 N LOOP 1604 W (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0910692</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0910692</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0910692 | PRUE Division | 7/5/2026 2:04:41 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/5/2026 2:04:41 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5800 NW LOOP 410 (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0910704</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0910704</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0910704 | WEST Division | 7/5/2026 2:07:47 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/5/2026 2:07:47 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 3600 HALLIE AVE (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0909421</link>
@@ -823,23 +839,6 @@ developers.  The rather different reception accorded to that w</description>
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The de la Torre family serves up a hot dog that evokes memories of the Windy City on Lake Michigan, but here on Jones Maltsberger Road.‘Chicago Hot Dogs’ fires up grill for Independence Day dogs, San Antonio-style  was first posted on July 2, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivar</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Thu, 02 Jul 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rural Texas Is Losing Affordable Care Access Coverage Even as Statewide Enrollment Rises</title>
-      <link>https://dailyyonder.com/rural-texas-is-losing-affordable-care-access-coverage-even-as-statewide-enrollment-rises/2026/07/02/</link>
-      <guid>https://dailyyonder.com/rural-texas-is-losing-affordable-care-access-coverage-even-as-statewide-enrollment-rises/2026/07/02/</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — Recent headlines have highlighted rising Affordable Care Act (ACA) plan enrollment in Texas, but statewide gains mask uneven trends across different communities. While overall enrollment in Texas increased by about 5%, enrollment fell more than 3% in rural areas and dropped roughly 5% in exurban counties, or metropolitan counties where at least one-third of residents [&amp;#8230;]
-The post Rural Texas Is Losing Affordable Care Access Coverage Even as Statewide Enrollment Rises appeared first on The </description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Thu, 02 Jul 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 100 EMERALD ASH (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0895433</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0895433</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-0895433 | SOUTH Division | 7/2/2026 3:53:31 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/2/2026 3:53:31 AM</pubDate>
     </item>
   </channel>
 </rss>
