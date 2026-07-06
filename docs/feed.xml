@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 02:43:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 07:08:26 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 9900 HYATT RESORT DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0915131</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0915131</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0915131 | WEST Division | 7/6/2026 1:56:31 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/6/2026 1:56:31 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 4700 BRIERBROOK DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0915133</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0915133</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0915133 | WEST Division | 7/6/2026 1:57:09 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/6/2026 1:57:09 AM</pubDate>
+    </item>
+    <item>
+      <title>Labour groups demand minimum wage hike, higher food allowance for migrant domestic workers</title>
+      <link>https://hongkongfp.com/2026/07/06/labour-groups-demand-minimum-wage-hike-higher-food-allowance-for-migrant-domestic-workers/</link>
+      <guid>https://hongkongfp.com/2026/07/06/labour-groups-demand-minimum-wage-hike-higher-food-allowance-for-migrant-domestic-workers/</guid>
+      <description>[Labor &amp; Worker Rights] Keyword: minimum wage — Labour groups have urged Hong Kong authorities to raise the minimum wage for migrant domestic workers, increase the food allowance and require employers to provide fans or air conditioning. The Hong Kong Federation of Asian Domestic Workers Unions (FADWU) and the Asian Migrant Coordinating Body (AMCB) issued their demands separately on Sunday after attending a [&amp;#8230;]</description>
+      <category>Labor &amp; Worker Rights</category>
+      <pubDate>Mon, 06 Jul 2026 05:16:45 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 4000 DUNMORE DR (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0914300</link>
@@ -791,30 +815,6 @@ a number of fixes throu</description>
       <description>[Climate &amp; Environment] Keyword: climate change — Europe's summer heat wave has exposed tens of millions of people to temperatures above 35°C, broken records and claimed hundreds of lives. Early climate attribution studies suggest Europe's event would have been &quot;virtually impossible&quot; just 50 years ago without human-caused climate change.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Fri, 03 Jul 2026 08:40:07 EDT</pubDate>
-    </item>
-    <item>
-      <title>Ph.D. project gives critical insights into vulnerable green turtles</title>
-      <link>https://phys.org/news/2026-07-phd-critical-insights-vulnerable-green.html</link>
-      <guid>https://phys.org/news/2026-07-phd-critical-insights-vulnerable-green.html</guid>
-      <description>[Foraging &amp; Wild Plants] Keyword: foraging — A study into the foraging habits of green turtles in the Northern Territory has used an innovative surveying technique that could become a critical tool in monitoring marine habitats in remote and challenging environments.</description>
-      <category>Foraging &amp; Wild Plants</category>
-      <pubDate>Fri, 03 Jul 2026 07:20:06 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 10400 RED SHINER DR (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0900583</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0900583</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0900583 | SOUTH Division | 7/3/2026 4:59:23 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/3/2026 4:59:23 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 1300 CLOWER ST (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0900607</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0900607</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0900607 | CENTRAL Division | 7/3/2026 5:16:15 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/3/2026 5:16:15 AM</pubDate>
     </item>
   </channel>
 </rss>
