@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2026 23:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 02:43:46 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 4000 DUNMORE DR (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0914300</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0914300</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0914300 | PRUE Division | 7/5/2026 9:31:59 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/5/2026 9:31:59 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 10800 ROCKY TRL (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0913508</link>
@@ -807,14 +815,6 @@ a number of fixes throu</description>
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0900607 | CENTRAL Division | 7/3/2026 5:16:15 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/3/2026 5:16:15 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 700 HOT WELLS (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0900618</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0900618</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-0900618 | SOUTH Division | 7/3/2026 5:21:44 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/3/2026 5:21:44 AM</pubDate>
     </item>
   </channel>
 </rss>
