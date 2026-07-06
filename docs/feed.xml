@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 20:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 22:10:51 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 1000 EL PASO ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0918255</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0918255</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0918255 | CENTRAL Division | 7/6/2026 4:57:39 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/6/2026 4:57:39 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 8800 VILLAGE DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0918256</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0918256</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-0918256 | NORTH Division | 7/6/2026 4:57:44 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/6/2026 4:57:44 PM</pubDate>
+    </item>
+    <item>
+      <title>Modeling reveals Sydney's 1789 smallpox outbreak killed as many as 220,000 indigenous Australians</title>
+      <link>https://phys.org/news/2026-07-reveals-sydney-smallpox-outbreak-indigenous.html</link>
+      <guid>https://phys.org/news/2026-07-reveals-sydney-smallpox-outbreak-indigenous.html</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Groundbreaking modeling has revealed that as many as 220,000 Indigenous Australians died in a devastating 1789 smallpox outbreak that originated in Sydney, tracing its origins to the First Fleet. Soon after British ships arrived, smallpox swept through First Nations communities in the Sydney area, and many died as a result. The study found that the epidemic had a devastating demographic impact and ramifications for how First Nations people resisted colonization and their capacity to manage the c</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Mon, 06 Jul 2026 17:00:13 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 100 BRANIFF (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0917877</link>
@@ -792,30 +816,6 @@ a number of fixes throu</description>
       <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0906046 | PRUE Division | 7/4/2026 6:51:28 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/4/2026 6:51:28 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 6600 W COMMERCE ST (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0905853</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0905853</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0905853 | WEST Division | 7/4/2026 4:24:27 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/4/2026 4:24:27 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 200 MENLO BLVD (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0905857</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0905857</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0905857 | EAST Division | 7/4/2026 4:26:10 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/4/2026 4:26:10 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 400 QUENTIN DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0905887</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0905887</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0905887 | WEST Division | 7/4/2026 4:41:06 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/4/2026 4:41:06 AM</pubDate>
     </item>
   </channel>
 </rss>
