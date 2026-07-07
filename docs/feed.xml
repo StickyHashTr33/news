@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 19:49:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 21:20:16 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — E NUEVA / MAIN PLAZA (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0922866</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0922866</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0922866 | DOWNTOWN Division | 7/7/2026 4:03:30 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/7/2026 4:03:30 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 1300 ALAMETOS ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0922876</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0922876</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0922876 | CENTRAL Division | 7/7/2026 4:05:23 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/7/2026 4:05:23 PM</pubDate>
+    </item>
+    <item>
+      <title>GitHub AI agent leaks private repos when asked nicely</title>
+      <link>https://www.theregister.com/security/2026/07/07/github-ai-agent-leaks-private-repos-when-asked-nicely/5267924</link>
+      <guid>https://www.theregister.com/security/2026/07/07/github-ai-agent-leaks-private-repos-when-asked-nicely/5267924</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — Per usual, there's no fix - or even any documentation - for GitLost</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Tue, 07 Jul 2026 21:49:01 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 14200 FAIRWAY HILL (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0922434</link>
@@ -784,30 +808,6 @@ The post Rhino Horn, Leopard Skin and Tiger Claws Sold Openly on Facebook appear
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0911387 | CENTRAL Division | 7/5/2026 6:53:04 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/5/2026 6:53:04 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 17800 LA CANTERA TERRACE (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0911391</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0911391</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0911391 | PRUE Division | 7/5/2026 6:54:18 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/5/2026 6:54:18 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Robbery of Individual — 5300 GREYROCK DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0911395</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0911395</guid>
-      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-0911395 | WEST Division | 7/5/2026 6:54:45 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/5/2026 6:54:45 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 11600 SE LOOP 410 (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0911405</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0911405</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0911405 | SOUTH Division | 7/5/2026 7:02:16 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/5/2026 7:02:16 AM</pubDate>
     </item>
   </channel>
 </rss>
