@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 04:47:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 08:19:18 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle In Progress — 17800 LA CANTERA TERRACE (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0920212</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0920212</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-0920212 | PRUE Division | 7/7/2026 3:02:26 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/7/2026 3:02:26 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 5400 EVERS RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0920219</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0920219</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0920219 | PRUE Division | 7/7/2026 3:06:45 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/7/2026 3:06:45 AM</pubDate>
+    </item>
+    <item>
+      <title>NSW’s top prosecutor gave false evidence on media leak about young Indigenous offender, inquiry finds</title>
+      <link>https://www.theguardian.com/australia-news/2026/jul/07/nsws-top-prosecutor-gave-false-evidence-on-media-leak-about-young-indigenous-offender-inquiry-finds-ntwnfb</link>
+      <guid>https://www.theguardian.com/australia-news/2026/jul/07/nsws-top-prosecutor-gave-false-evidence-on-media-leak-about-young-indigenous-offender-inquiry-finds-ntwnfb</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Sally Dowling admits her office pitched the story but says it was not authorised by her, while her colleagues call her ‘a person of integrity’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA New South Wales parliamentary committee report has made findings accusing the state’s top prosecutor of giving false evidence under oath to an inquiry and recommended the attorney general investigate whether there are grounds to remove her fro</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Tue, 07 Jul 2026 07:03:29 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 5400 S ZARZAMORA ST (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0919714</link>
@@ -783,39 +807,6 @@ The post Rhino Horn, Leopard Skin and Tiger Claws Sold Openly on Facebook appear
       <description>[ALPR &amp; Flock Cameras] Keyword: Flock camera — As the nation celebrates two and a half centuries of independence, we put together a syllabus of some essential criminal justice reading.</description>
       <category>ALPR &amp; Flock Cameras</category>
       <pubDate>Sat, 04 Jul 2026 12:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Seven stable kernels for Saturday including two security fixes</title>
-      <link>https://lwn.net/Articles/1081230/</link>
-      <guid>https://lwn.net/Articles/1081230/</guid>
-      <description>[Cybersecurity] Keyword: CVE — Greg Kroah-Hartman has announced the release of the 7.1.3, 6.18.38, 6.12.95, 6.6.144, 6.1.177, 5.15.211, and 5.10.260 stable kernels. Several kernels
-in this batch include a
-fix for a vulnerability introduced in the 6.0 kernel in IPv6 (CVE-2026-53362),
-which could
-allow an attacker to escape a container and gain root access.
-
-There is also a
-fix for a use-after-free bug in KVM (CVE-2026-53359)
-that was introduced in the 2.6.36 kernel. As usual, each stable kernel includes
-a number of fixes throu</description>
-      <category>Cybersecurity</category>
-      <pubDate>Sat, 04 Jul 2026 16:46:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 2200 TPC PKWY (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0906550</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0906550</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0906550 | NORTH Division | 7/4/2026 10:35:42 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/4/2026 10:35:42 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 4200 GLENCREST (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0906553</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0906553</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-0906553 | PRUE Division | 7/4/2026 10:36:35 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/4/2026 10:36:35 AM</pubDate>
     </item>
   </channel>
 </rss>
