@@ -5,8 +5,48 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 14:22:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 17:10:18 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 3400 FREDERICKSBURG RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0921652</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0921652</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0921652 | WEST Division | 7/7/2026 11:52:15 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/7/2026 11:52:15 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 15100 VIGIL VW (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0921675</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0921675</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0921675 | NORTH Division | 7/7/2026 11:55:46 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/7/2026 11:55:46 AM</pubDate>
+    </item>
+    <item>
+      <title>Conflict, climate change, cash-strapped: Why poverty persists</title>
+      <link>https://www.dw.com/en/conflict-climate-change-cash-strapped-why-poverty-persists/a-77863904?maca=en-rss-en-all-1573-rdf</link>
+      <guid>https://www.dw.com/en/conflict-climate-change-cash-strapped-why-poverty-persists/a-77863904?maca=en-rss-en-all-1573-rdf</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — With just under five years left to complete the UN's Sustainable Development Goals, a new report shows what's hampering progress. And what the solutions are.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>2026-07-07T16:45:00Z</pubDate>
+    </item>
+    <item>
+      <title>Ancient jaw wound reveals possible violence in Homo sapiens 90,000 years ago</title>
+      <link>https://phys.org/news/2026-07-ancient-jaw-wound-reveals-violence.html</link>
+      <guid>https://phys.org/news/2026-07-ancient-jaw-wound-reveals-violence.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — Violence, the care of injured or ill individuals, and funerary behavior are among the most challenging aspects of the human past to reconstruct. A study published in Scientific Reports and led by researchers from the Centro Nacional de Investigación sobre la Evolución Humana (CENIEH), in collaboration with colleagues from Tel Aviv University, provides new insights into these questions through the analysis of Qafzeh 25, a fossil human from Qafzeh Cave (Israel), dated to between 92,000 and 145,000</description>
+      <category>Open Source Software</category>
+      <pubDate>Tue, 07 Jul 2026 10:50:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>Obamacare Enrollment Declines Driven by Subsidy Cuts, Not Removing Fraudulent Enrollees</title>
+      <link>https://www.commondreams.org/newswire/obamacare-enrollment-declines-driven-by-subsidy-cuts-not-removing-fraudulent-enrollees</link>
+      <guid>https://www.commondreams.org/newswire/obamacare-enrollment-declines-driven-by-subsidy-cuts-not-removing-fraudulent-enrollees</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — Millions of low- and middle-income Americans are losing health coverage because the Trump administration allowed the subsidies that made it affordable to lapse, according to a new Public Citizen analysis of government data. The analysis contradicts claims by Trump administration health officials that removal of fraudulent enrollees is responsible for declining Obamacare enrollment.Enrollment in the Affordable Care Act marketplace decreased from 22.3 million people in 2025 to an estimated 17.5 mi</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Tue, 07 Jul 2026 13:59:12 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 70 NE LOOP 410 (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0920979</link>
@@ -768,46 +808,6 @@ The post Rhino Horn, Leopard Skin and Tiger Claws Sold Openly on Facebook appear
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — After a century in San Antonio, the Aztec Theatre's operators are trying to preserve the building while adding music, food and hospitality.A century of the Aztec: Historic downtown venue has evolved as it adds a hotel, rooftop restaurant was first posted on July 5, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please co</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Sun, 05 Jul 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 8000 N LOOP 1604 W (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0910692</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0910692</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0910692 | PRUE Division | 7/5/2026 2:04:41 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/5/2026 2:04:41 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 5800 NW LOOP 410 (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0910704</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0910704</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0910704 | WEST Division | 7/5/2026 2:07:47 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/5/2026 2:07:47 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 3600 HALLIE AVE (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0909421</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0909421</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0909421 | EAST Division | 7/4/2026 10:29:09 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/4/2026 10:29:09 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 1800 E SONTERRA BLVD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0909426</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0909426</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0909426 | NORTH Division | 7/4/2026 10:29:38 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/4/2026 10:29:38 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 10100 STATE HWY 151 (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0909442</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0909442</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0909442 | WEST Division | 7/4/2026 10:31:38 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/4/2026 10:31:38 PM</pubDate>
     </item>
   </channel>
 </rss>
