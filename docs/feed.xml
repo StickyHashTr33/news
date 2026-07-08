@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2026 21:03:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 23:01:54 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 4600 CLARK AVE (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0928267</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0928267</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0928267 | EAST Division | 7/8/2026 5:47:43 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/8/2026 5:47:43 PM</pubDate>
+    </item>
+    <item>
+      <title>Decoding of one of nature's largest enzymes reveals electron flow behind biological methane production</title>
+      <link>https://phys.org/news/2026-07-decoding-nature-largest-enzymes-reveals.html</link>
+      <guid>https://phys.org/news/2026-07-decoding-nature-largest-enzymes-reveals.html</guid>
+      <description>[Science &amp; Research] Keyword: microbiology — A research team at Marburg University has investigated one of the largest enzyme complexes found in nature to date and deciphered its remarkable structure. Under the supervision of Dr. Jan Schuller, Ph.D. student Sophia Paul from the Center for Synthetic Microbiology (SYNMIKRO) was able to characterize the so-called heterodisulfide reductase super-assembly in detail. The results of the study are now published in the journal Nature. They show how a molecular &quot;giant&quot; comprising hundreds of buildin</description>
+      <category>Science &amp; Research</category>
+      <pubDate>Wed, 08 Jul 2026 17:40:09 EDT</pubDate>
+    </item>
+    <item>
+      <title>Indigenous peoples in the Amazon face massive cultural and ecological loss due to climate change</title>
+      <link>https://phys.org/news/2026-07-indigenous-peoples-amazon-massive-cultural.html</link>
+      <guid>https://phys.org/news/2026-07-indigenous-peoples-amazon-massive-cultural.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — The Amazon region, Earth's most important ecosystem, is home to more than 400 Indigenous groups that use thousands of rainforest plant species. They pass on their knowledge of the flora primarily through oral tradition, usually from parents or other family members to their children. This creates a &quot;living library of knowledge&quot; about how to use native plants. Until now, little was known about how this treasure trove of knowledge is affected by the combined effects of climate change and language l</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 08 Jul 2026 17:20:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 4200 BLANCO RD (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0927677</link>
@@ -783,30 +807,6 @@ The post Deep Dive Into Local Data Shows Diversity of Rural Health Issues in Geo
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — State District Judge Laura Salinas has ordered the municipally-owned utility CPS Energy to pay nearly $400 million to two Energy Transfer subsidiaries after ruling it breached contracts for natural gas purchased during the February 2021 winter storm.Judge rules against CPS Energy in $400M 2021 winter storm gas contract dispute was first posted on July 6, 2026 at 1:02 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading thi</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Mon, 06 Jul 2026 18:02:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 21300 ENCINO COMMONS (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0916452</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0916452</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0916452 | NORTH Division | 7/6/2026 10:39:49 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/6/2026 10:39:49 AM</pubDate>
-    </item>
-    <item>
-      <title>From birdsong to galaxies: Unleashing the potential of citizen science</title>
-      <link>https://phys.org/news/2026-07-birdsong-galaxies-unleashing-potential-citizen.html</link>
-      <guid>https://phys.org/news/2026-07-birdsong-galaxies-unleashing-potential-citizen.html</guid>
-      <description>[Ecology &amp; Conservation] Keyword: citizen science — Everyone could contribute dramatically more to scientific knowledge if given better recognition, administrative support and funding stability, new research has found. An international collaboration of 16 organizations used surveys and group discussions to identify key challenges, opportunities and best practices in citizen science projects.</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Mon, 06 Jul 2026 08:40:04 EDT</pubDate>
-    </item>
-    <item>
-      <title>Climate change is silencing the Pilbara barking gecko</title>
-      <link>https://phys.org/news/2026-07-climate-silencing-pilbara-barking-gecko.html</link>
-      <guid>https://phys.org/news/2026-07-climate-silencing-pilbara-barking-gecko.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — New research from Monash University has provided the first comprehensive assessment of the Pilbara barking gecko (Underwoodisaurus seorsus) and revealed the species is facing a heightened risk of extinction under a rapidly warming climate.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Mon, 06 Jul 2026 10:00:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
