@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2026 19:18:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 21:03:04 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 4200 BLANCO RD (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0927677</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0927677</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0927677 | CENTRAL Division | 7/8/2026 3:51:40 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/8/2026 3:51:40 PM</pubDate>
+    </item>
+    <item>
+      <title>Woman accused of stealing ambulance while medics treated patient in downtown San Antonio</title>
+      <link>https://sanantonioreport.org/woman-accused-stealing-ambulance-medics-patient-downtown-san-antonio/</link>
+      <guid>https://sanantonioreport.org/woman-accused-stealing-ambulance-medics-patient-downtown-san-antonio/</guid>
+      <description>[Texas Surveillance] Keyword: San Antonio police — San Antonio police arrested a woman accused of stealing an ambulance while two paramedics treated a patient in the back. Woman accused of stealing ambulance while medics treated patient in downtown San Antonio was first posted on July 8, 2026 at 3:14 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardrepo</description>
+      <category>Texas Surveillance</category>
+      <pubDate>Wed, 08 Jul 2026 20:14:01 +0000</pubDate>
+    </item>
     <item>
       <title>International team says science alone won't save coral reefs</title>
       <link>https://phys.org/news/2026-07-international-team-science-wont-coral.html</link>
@@ -791,22 +807,6 @@ The post Deep Dive Into Local Data Shows Diversity of Rural Health Issues in Geo
       <description>[Climate &amp; Environment] Keyword: climate change — New research from Monash University has provided the first comprehensive assessment of the Pilbara barking gecko (Underwoodisaurus seorsus) and revealed the species is facing a heightened risk of extinction under a rapidly warming climate.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Mon, 06 Jul 2026 10:00:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Moving forests to save them: Here are the risks and rewards of assisted tree migration</title>
-      <link>https://phys.org/news/2026-07-forests-rewards-tree-migration.html</link>
-      <guid>https://phys.org/news/2026-07-forests-rewards-tree-migration.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Climate change is shifting forest conditions faster than local tree species can adapt. Higher temperatures, more frequent droughts and less predictable winters can weaken species that have been established in a region for centuries. In light of this, one idea is gaining ground: assisted migration.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Mon, 06 Jul 2026 11:00:10 EDT</pubDate>
-    </item>
-    <item>
-      <title>Climate change means an earlier spring, which can be disorienting and threatening for migrating birds</title>
-      <link>https://theconversation.com/climate-change-means-an-earlier-spring-which-can-be-disorienting-and-threatening-for-migrating-birds-282918</link>
-      <guid>https://theconversation.com/climate-change-means-an-earlier-spring-which-can-be-disorienting-and-threatening-for-migrating-birds-282918</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Birds that migrate longer distances are the ones having the most trouble keeping up with climate change.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>2026-07-06T12:14:53Z</pubDate>
     </item>
   </channel>
 </rss>
