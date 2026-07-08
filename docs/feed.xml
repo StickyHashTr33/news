@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 23:57:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 02:31:51 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 1200 ARIZONA ASH DR (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0924272</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0924272</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0924272 | PRUE Division | 7/7/2026 9:17:34 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/7/2026 9:17:34 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 2400 THOUSAND OAKS DR (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0923682</link>
@@ -800,14 +808,6 @@ The post Rhino Horn, Leopard Skin and Tiger Claws Sold Openly on Facebook appear
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0912362 | WEST Division | 7/5/2026 12:46:13 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/5/2026 12:46:13 PM</pubDate>
-    </item>
-    <item>
-      <title>Revealed: New report exposes how much MAGA has co-opted 'patriotism'</title>
-      <link>https://www.alternet.org/trump-maga-2677159837/</link>
-      <guid>https://www.alternet.org/trump-maga-2677159837/</guid>
-      <description>[Worker Cooperatives &amp; Solidarity Economy] Keyword: co-op — President Donald Trump and his MAGA movement have caused a major disruption in the partisan nature of &quot;patriotism,&quot; according to an extensive new report from Politico, mirroring a similar shift caused by the far right on a global scale.On Sunday, Politico reported on the findings of its latest poll, claiming that &quot;Patriotism has become partisan,&quot; according to respondents from all over the world, at least as far as expressions of national pride are concerned.&quot;It doesn’t matter that people across </description>
-      <category>Worker Cooperatives &amp; Solidarity Economy</category>
-      <pubDate>Sun, 05 Jul 2026 17:16:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
