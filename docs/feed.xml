@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 20:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 22:19:03 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 5000 PRUE RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0933141</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0933141</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-0933141 | PRUE Division | 7/9/2026 5:06:39 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/9/2026 5:06:39 PM</pubDate>
+    </item>
+    <item>
+      <title>Report on Elevated Lung Cancer Fails to Quell Uproar Around New York’s Largest Landfill</title>
+      <link>https://insideclimatenews.org/news/09072026/seneca-meadows-landfill-lung-cancer/</link>
+      <guid>https://insideclimatenews.org/news/09072026/seneca-meadows-landfill-lung-cancer/</guid>
+      <description>[Stoicism &amp; Philosophy] Keyword: Seneca — This&amp;#160;article&amp;#160;previously appeared in&amp;#160;Water Front.&amp;#160; SENECA FALLS, N.Y.—In its recent 20-page report on elevated lung cancer rates around Seneca Meadows Inc., the state Department of Health (DOH) officially declares that the state’s largest municipal waste landfill deserves no blame.  That conclusion has hardly soothed those who have long complained of sickening odors and respiratory ailments that have [&amp;#8230;]</description>
+      <category>Stoicism &amp; Philosophy</category>
+      <pubDate>Thu, 09 Jul 2026 21:30:54 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 2300 PINN RD (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0932710</link>
@@ -796,22 +812,6 @@ The post What Is (and Isn’t) Happening with the Border Wall in Big Bend appear
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0921675 | NORTH Division | 7/7/2026 11:55:46 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/7/2026 11:55:46 AM</pubDate>
-    </item>
-    <item>
-      <title>Conflict, climate change, cash-strapped: Why poverty persists</title>
-      <link>https://www.dw.com/en/conflict-climate-change-cash-strapped-why-poverty-persists/a-77863904?maca=en-rss-en-all-1573-rdf</link>
-      <guid>https://www.dw.com/en/conflict-climate-change-cash-strapped-why-poverty-persists/a-77863904?maca=en-rss-en-all-1573-rdf</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — With just under five years left to complete the UN's Sustainable Development Goals, a new report shows what's hampering progress. And what the solutions are.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>2026-07-07T16:45:00Z</pubDate>
-    </item>
-    <item>
-      <title>Ancient jaw wound reveals possible violence in Homo sapiens 90,000 years ago</title>
-      <link>https://phys.org/news/2026-07-ancient-jaw-wound-reveals-violence.html</link>
-      <guid>https://phys.org/news/2026-07-ancient-jaw-wound-reveals-violence.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — Violence, the care of injured or ill individuals, and funerary behavior are among the most challenging aspects of the human past to reconstruct. A study published in Scientific Reports and led by researchers from the Centro Nacional de Investigación sobre la Evolución Humana (CENIEH), in collaboration with colleagues from Tel Aviv University, provides new insights into these questions through the analysis of Qafzeh 25, a fossil human from Qafzeh Cave (Israel), dated to between 92,000 and 145,000</description>
-      <category>Open Source Software</category>
-      <pubDate>Tue, 07 Jul 2026 10:50:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
