@@ -5,8 +5,45 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2026 23:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 02:31:50 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 6200 S NEW BRAUNFELS AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0929114</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0929114</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0929114 | SOUTH Division | 7/8/2026 9:13:55 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/8/2026 9:13:55 PM</pubDate>
+    </item>
+    <item>
+      <title>Rare goblin shark filmed alive for the first time in the deep sea</title>
+      <link>https://www.sciencedaily.com/releases/2026/07/260708022208.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/07/260708022208.htm</guid>
+      <description>[Open Source Software] Keyword: FOSS — For the first time, researchers have filmed the elusive goblin shark alive in the deep ocean where it naturally lives. The remarkable sightings greatly expand the shark's known range and depth, showing that this 125-million-year-old &quot;living fossil&quot; still has plenty of secrets left to reveal.</description>
+      <category>Open Source Software</category>
+      <pubDate>Wed, 08 Jul 2026 19:00:05 EDT</pubDate>
+    </item>
+    <item>
+      <title>[$] LWN.net Weekly Edition for July 9, 2026</title>
+      <link>https://lwn.net/Articles/1080835/</link>
+      <guid>https://lwn.net/Articles/1080835/</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — Inside this week's LWN.net Weekly Edition:
+        
+        
+ Front: Cryptography API; Iomap explanation; Negative dentries; Faster RCUs and lockless allocation for BPF; Negative dentries; LLMs in memory-management code
+             Briefs: Guix vulnerabilities; OpenSSH 10.4; trusted publishing; kernel archive; CalyxOS; Quotes; ...
+             Announcements: Newsletters, conferences, security updates, patches, and more.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Thu, 09 Jul 2026 01:12:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Confirmed Ebola deaths in DR Congo hit 600</title>
+      <link>https://www.aljazeera.com/news/2026/7/9/confirmed-ebola-deaths-in-dr-congo-hit-600?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/news/2026/7/9/confirmed-ebola-deaths-in-dr-congo-hit-600?traffic_source=rss</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — The number of deaths comes as healthcare workers threaten to walk off the job over a delay in payments.</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Thu, 09 Jul 2026 01:48:42 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 4600 CLARK AVE (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0928267</link>
@@ -775,38 +812,6 @@ The post Deep Dive Into Local Data Shows Diversity of Rural Health Issues in Geo
       <description>[Ecology &amp; Conservation] Keyword: habitat loss — A new study published in the journal Alpine Entomology has found that alpine butterflies in the Swiss National Park are closely matching the pace of local warming in their range shift to higher elevations.</description>
       <category>Ecology &amp; Conservation</category>
       <pubDate>Mon, 06 Jul 2026 13:20:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Paleontologists make 'one in a million' discovery of soft tissue preserved in 450-million-year-old fossil</title>
-      <link>https://phys.org/news/2026-07-paleontologists-million-discovery-soft-tissue.html</link>
-      <guid>https://phys.org/news/2026-07-paleontologists-million-discovery-soft-tissue.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — Before the oldest dinosaur, before animals or even plants had expanded onto dry land, ancient relatives of starfish called crinoids, resembling stalked sea flowers, were among the first creatures to flourish in Earth's earliest coral reefs more than 450 million years ago. The study of fossilized crinoids helps scientists understand how these animals evolved and offers rare insight into the origins of complex life.</description>
-      <category>Open Source Software</category>
-      <pubDate>Mon, 06 Jul 2026 13:37:43 EDT</pubDate>
-    </item>
-    <item>
-      <title>Big Banks Are Accelerating Their Investments in the Fossil Fuel Industry</title>
-      <link>https://truthout.org/articles/big-banks-are-accelerating-their-investments-in-the-fossil-fuel-industry/</link>
-      <guid>https://truthout.org/articles/big-banks-are-accelerating-their-investments-in-the-fossil-fuel-industry/</guid>
-      <description>[Open Source Software] Keyword: FOSS — International banks are financing the industry’s pivot to petrochemical products like plastics and fertilizers.</description>
-      <category>Open Source Software</category>
-      <pubDate>Mon, 06 Jul 2026 17:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>From north to south, Africa braces for volatile El Nino year</title>
-      <link>https://www.dw.com/en/from-north-to-south-africa-braces-for-volatile-el-nino-year/a-77826694?maca=en-rss-en-all-1573-rdf</link>
-      <guid>https://www.dw.com/en/from-north-to-south-africa-braces-for-volatile-el-nino-year/a-77826694?maca=en-rss-en-all-1573-rdf</guid>
-      <description>[Housing &amp; Gentrification] Keyword: displacement — The World Meteorological Association warns that the El Nino climate phenomenon could bring drought, floods and displacement to parts of Africa later this year. Are governments prepared?</description>
-      <category>Housing &amp; Gentrification</category>
-      <pubDate>2026-07-06T13:59:00Z</pubDate>
-    </item>
-    <item>
-      <title>Judge rules against CPS Energy in $400M 2021 winter storm gas contract dispute</title>
-      <link>https://sanantonioreport.org/cps-energy-400m-2021-winter-storm-gas-contract-dispute/</link>
-      <guid>https://sanantonioreport.org/cps-energy-400m-2021-winter-storm-gas-contract-dispute/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — State District Judge Laura Salinas has ordered the municipally-owned utility CPS Energy to pay nearly $400 million to two Energy Transfer subsidiaries after ruling it breached contracts for natural gas purchased during the February 2021 winter storm.Judge rules against CPS Energy in $400M 2021 winter storm gas contract dispute was first posted on July 6, 2026 at 1:02 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading thi</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Mon, 06 Jul 2026 18:02:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
