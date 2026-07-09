@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 02:31:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 06:39:29 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 400 PRESTWICK BLVD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0929840</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0929840</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0929840 | EAST Division | 7/9/2026 1:05:14 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/9/2026 1:05:14 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 8100 MAINLAND (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0929854</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0929854</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0929854 | PRUE Division | 7/9/2026 1:10:31 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/9/2026 1:10:31 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 1300 MCCULLOUGH AVE (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0929861</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0929861</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0929861 | DOWNTOWN Division | 7/9/2026 1:12:23 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/9/2026 1:12:23 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 6200 S NEW BRAUNFELS AVE (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0929114</link>
@@ -788,30 +812,6 @@ The post Deep Dive Into Local Data Shows Diversity of Rural Health Issues in Geo
       <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0917071 | EAST Division | 7/6/2026 12:55:49 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/6/2026 12:55:49 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 2500 W CRAIG PLACE (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0917076</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0917076</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0917076 | WEST Division | 7/6/2026 12:56:43 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/6/2026 12:56:43 PM</pubDate>
-    </item>
-    <item>
-      <title>Four new groups of indigenous cacao varieties discovered in Peru</title>
-      <link>https://phys.org/news/2026-07-groups-indigenous-cacao-varieties-peru.html</link>
-      <guid>https://phys.org/news/2026-07-groups-indigenous-cacao-varieties-peru.html</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — A new genetic analysis of hundreds of cacao trees representing traditional Amazonian varieties grown on farms across Peru has revealed four previously unidentified, genetically distinct groups. Lambert Motilal, with colleagues from the Cocoa Research Center, The University of the West Indies, and Martha S. Calderon and Danilo E. Bustamante, with their colleagues from the Universidad Nacional Toribio Rodríguez de Mendoza, partnered to explore Peru's untapped cacao diversity.</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Mon, 06 Jul 2026 14:00:05 EDT</pubDate>
-    </item>
-    <item>
-      <title>Alpine butterflies track warming uphill, but habitat loss may pose bigger risk</title>
-      <link>https://phys.org/news/2026-07-alpine-butterflies-track-uphill-habitat.html</link>
-      <guid>https://phys.org/news/2026-07-alpine-butterflies-track-uphill-habitat.html</guid>
-      <description>[Ecology &amp; Conservation] Keyword: habitat loss — A new study published in the journal Alpine Entomology has found that alpine butterflies in the Swiss National Park are closely matching the pace of local warming in their range shift to higher elevations.</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Mon, 06 Jul 2026 13:20:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
