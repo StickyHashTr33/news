@@ -5,8 +5,64 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 14:12:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 16:52:42 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 1000 ELKHORN DR (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0936417</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0936417</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0936417 | EAST Division | 7/10/2026 11:32:52 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/10/2026 11:32:52 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 10900 LAFAYETTE LOOP (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0936451</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0936451</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0936451 | EAST Division | 7/10/2026 11:41:03 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/10/2026 11:41:03 AM</pubDate>
+    </item>
+    <item>
+      <title>FOIA Under Attack: Landmark Transparency Law Turns 60; Fed Gov't Blocking More Documents Than Ever</title>
+      <link>http://www.democracynow.org/2026/7/10/freedom_of_information_act_turns_60</link>
+      <guid>http://www.democracynow.org/2026/7/10/freedom_of_information_act_turns_60</guid>
+      <description>[Government Accountability] Keyword: FOIA — This month marks the 60th anniversary of the Freedom of Information Act, the landmark government transparency law that has helped reveal and publicize critical information about everything from the Vietnam War to FBI surveillance to CIA torture. For decades, FOIA has played a crucial role in uncovering and rectifying government wrongdoing. Today, however, advocates say that the government&amp;#8217;s resistance to fulfilling FOIA requests has grown, forcing applicants to file expensive lawsuits to o</description>
+      <category>Government Accountability</category>
+      <pubDate>Fri, 10 Jul 2026 08:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>As Texas governor’s race tightens, supporters rally behind Hinojosa in San Antonio</title>
+      <link>https://sanantonioreport.org/as-texas-governors-race-tightens-supporters-rally-behind-hinojosa-in-san-antonio/</link>
+      <guid>https://sanantonioreport.org/as-texas-governors-race-tightens-supporters-rally-behind-hinojosa-in-san-antonio/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Supporters packed the Paper Tiger on Thursday evening, waving &quot;Money in Your Pocket&quot; signs as Gina Hinojosa campaigned for governor.As Texas governor&amp;#8217;s race tightens, supporters rally behind Hinojosa in San Antonio was first posted on July 10, 2026 at 10:14 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hel</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Fri, 10 Jul 2026 15:14:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[$] An update on the scraper situation</title>
+      <link>https://lwn.net/Articles/1080822/</link>
+      <guid>https://lwn.net/Articles/1080822/</guid>
+      <description>[AI &amp; Automation] Keyword: large language model — Our article &quot;Fighting the AI scraper bot
+scourge&quot;, published in early 2025, discussed the problem of widespread
+scraping of web sites in search of training data for large language models
+and related projects.  This activity overwhelms sites with traffic.  Over a
+year after that article is published, the problem is still growing.  The
+hammering of sites by shadowy actors has reached new heights, and the open
+web is becoming increasingly difficult to maintain.  Where is this traffic
+coming from, a</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Fri, 10 Jul 2026 15:20:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Trump Administration Is Overhauling Birth Control Access for the Pronatalist Movement</title>
+      <link>https://theintercept.com/2026/07/10/rfk-jr-pronatalism-birth-control/</link>
+      <guid>https://theintercept.com/2026/07/10/rfk-jr-pronatalism-birth-control/</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Under RFK Jr., HHS is revamping a program that’s supposed to fund contraceptives and sexual healthcare to please a far-right movement with roots in eugenics.
+The post The Trump Administration Is Overhauling Birth Control Access for the Pronatalist Movement appeared first on The Intercept.</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Fri, 10 Jul 2026 15:40:59 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 5600 LANDMARK PKWY (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0935799</link>
@@ -765,54 +821,6 @@ The post What Is (and Isn’t) Happening with the Border Wall in Big Bend appear
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — The economic collapse of Venezuela has pushed its healthcare system to the brink. The disaster is now adding to the stress.</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Wed, 08 Jul 2026 07:06:26 -0400</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 200 NOLAN ST (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0925251</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0925251</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-0925251 | DOWNTOWN Division | 7/8/2026 4:36:43 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/8/2026 4:36:43 AM</pubDate>
-    </item>
-    <item>
-      <title>Hotter, drier weather could double water bills in some US cities, study finds</title>
-      <link>https://phys.org/news/2026-07-hotter-drier-weather-bills-cities.html</link>
-      <guid>https://phys.org/news/2026-07-hotter-drier-weather-bills-cities.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Hotter, drier weather threatens to double water bills by midcentury in some cities, according to a Stanford-led study. The research, published in Nature Sustainability, is the first to comprehensively model how climate change, infrastructure investment and household water demand can combine to compound an already growing affordability crisis.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 08 Jul 2026 05:00:09 EDT</pubDate>
-    </item>
-    <item>
-      <title>Climate Change Is Helping an Invasive Predator Wreak Havoc on Iconic Alaskan Fish</title>
-      <link>https://insideclimatenews.org/news/08072026/climate-change-helping-invasive-predator-alaskan-fish/</link>
-      <guid>https://insideclimatenews.org/news/08072026/climate-change-helping-invasive-predator-alaskan-fish/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — WILLOW, Alaska—Corey Ercolani pulled a northern pike from a gillnet and slit its belly with a knife. Inside its guts lay fresh evidence of a growing biological crime: a dead juvenile salmon. A coho, or silver salmon, to be exact. A technician with the Alaska Department of Fish and Game, Ercolani had set the net [&amp;#8230;]</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 08 Jul 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The oldest deliberately collected fossil ichthyosaur was discovered in Roman Britain around 1,800 years ago</title>
-      <link>https://phys.org/news/2026-07-oldest-deliberately-fossil-ichthyosaur-roman.html</link>
-      <guid>https://phys.org/news/2026-07-oldest-deliberately-fossil-ichthyosaur-roman.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — Around 1,800 years ago, a fossilized spinal bone lay on the windswept beaches of Roman Britain until a curious passerby picked it up and carried it far away, only to drop it in a pit.</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 08 Jul 2026 06:40:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>The great carbon capture con: behold the wasted billions Burnham could claw back | George Monbiot</title>
-      <link>https://www.theguardian.com/commentisfree/2026/jul/08/carbon-capture-con-andy-burnham-fossil-fuels-renewables</link>
-      <guid>https://www.theguardian.com/commentisfree/2026/jul/08/carbon-capture-con-andy-burnham-fossil-fuels-renewables</guid>
-      <description>[Open Source Software] Keyword: FOSS — There are far better ways to tackle climate breakdown, but successive governments have chosen to listen to the fossil fuel companies insteadThe new prime minister will be looking for money? Well, here’s £21.7bn lying on the ground. The government could cancel its deranged, disastrous carbon capture and storage (CCS) programme at no cost to public welfare: in fact, it would greatly reduce the harm we will suffer.Sorry, did I say £21.7bn? That’s the figure the government has been putting in its pr</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 08 Jul 2026 08:10:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>New weight loss pill beats oral Ozempic in major trial</title>
-      <link>https://www.sciencedaily.com/releases/2026/07/260707054111.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/07/260707054111.htm</guid>
-      <description>[Diabetes &amp; Kidney Disease] Keyword: blood sugar — A new once-daily weight-loss pill called orforglipron delivered better weight loss and blood sugar improvements than the leading oral semaglutide in a major clinical trial. The tablet could offer a more convenient alternative to injectable drugs like Ozempic and Wegovy because it doesn't require refrigeration or special timing with meals. It's also cheaper to manufacture, which could expand access globally.</description>
-      <category>Diabetes &amp; Kidney Disease</category>
-      <pubDate>Wed, 08 Jul 2026 01:16:53 EDT</pubDate>
     </item>
   </channel>
 </rss>
