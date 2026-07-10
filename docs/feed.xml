@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 20:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 21:58:04 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 700 KEATS AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0937642</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0937642</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-0937642 | SOUTH Division | 7/10/2026 4:45:11 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/10/2026 4:45:11 PM</pubDate>
+    </item>
+    <item>
+      <title>EPA to open habitats of endangered species to logging and mining</title>
+      <link>https://www.theguardian.com/us-news/2026/jul/10/epa-rollback-endangered-habitats-logging-mining</link>
+      <guid>https://www.theguardian.com/us-news/2026/jul/10/epa-rollback-endangered-habitats-logging-mining</guid>
+      <description>[Ecology &amp; Conservation] Keyword: endangered species — Habitat destruction strongest driver of species loss, with legislation keeping 99% of listed species from going extinctThe Trump administration repealed a crucial part of the Endangered Species Act (ESA) on Friday, finalizing a new rule that will open habitats of imperiled wildlife to development, logging, mining and other uses.For the last 50 years, the landmark environmental law included a broader understanding of the word “harm”, which ensured that not just the plants and animals themselves w</description>
+      <category>Ecology &amp; Conservation</category>
+      <pubDate>Fri, 10 Jul 2026 20:37:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>The UT San Antonio robotics team behind RoboRowdy wins global competition</title>
+      <link>https://sanantonioreport.org/utsa-san-antonio-robotics-team-roborowdy-global-competition/</link>
+      <guid>https://sanantonioreport.org/utsa-san-antonio-robotics-team-roborowdy-global-competition/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The all-freshman, multidisciplinary team, had been named the sole finalist to represent the U.S. in the global engineering competition. The UT San Antonio robotics team behind RoboRowdy wins global competition was first posted on July 10, 2026 at 3:48 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardrep</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Fri, 10 Jul 2026 20:48:31 +0000</pubDate>
+    </item>
     <item>
       <title>Moderate warming rewires one-third of microalga's genes, study finds</title>
       <link>https://phys.org/news/2026-07-moderate-rewires-microalga-genes.html</link>
@@ -797,30 +821,6 @@ The post What Is (and Isn’t) Happening with the Border Wall in Big Bend appear
       <description>[Psychedelics &amp; Psilocybin Research] Keyword: psychedelic medicine — Psychedelic drugs are known to make people highly sensitive to their surroundings. In other words, a user's mindset and immediate environment heavily shape the entire trippy experience. In a study published in the journal Psychedelic Medicine, scientists wanted to test a brand-new idea: whether an invisible backdrop of national culture, rather than just a person's local setting, could influence people's support for partisan violence after taking a psychedelic.</description>
       <category>Psychedelics &amp; Psilocybin Research</category>
       <pubDate>Wed, 08 Jul 2026 14:30:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — SW LOOP 410 / CARMONA PASS (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0926737</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0926737</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0926737 | SOUTH Division | 7/8/2026 12:34:30 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/8/2026 12:34:30 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 2000 HACKAMORE LN (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0926741</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0926741</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0926741 | WEST Division | 7/8/2026 12:35:10 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/8/2026 12:35:10 PM</pubDate>
-    </item>
-    <item>
-      <title>Large language model guides discovery of catalysts for clean energy tech</title>
-      <link>https://phys.org/news/2026-07-large-language-discovery-catalysts-energy.html</link>
-      <guid>https://phys.org/news/2026-07-large-language-discovery-catalysts-energy.html</guid>
-      <description>[AI &amp; Automation] Keyword: large language model — Designing high-performance catalysts is essential for cleaner energy technologies, but the behavior of multi-element modern catalyst materials is difficult to predict. In a new study, researchers at Tohoku University with international collaborators developed a collaborative framework that combines large language models with lab experiments to accelerate the discovery of high-entropy alloy catalysts for the oxygen reduction reaction, a key process in fuel cells.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Wed, 08 Jul 2026 12:20:05 EDT</pubDate>
     </item>
   </channel>
 </rss>
