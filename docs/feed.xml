@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 04:47:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 08:18:37 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 11500 WEST AVE (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0935131</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0935131</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0935131 | NORTH Division | 7/10/2026 3:00:25 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/10/2026 3:00:25 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 14500 ROADRUNNER WAY (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0935138</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0935138</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0935138 | PRUE Division | 7/10/2026 3:04:57 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/10/2026 3:04:57 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 100 HEFLIN CT (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0934627</link>
@@ -796,22 +812,6 @@ The post What Is (and Isn’t) Happening with the Border Wall in Big Bend appear
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0923405 | CENTRAL Division | 7/7/2026 5:45:30 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/7/2026 5:45:30 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 3200 MERRIWEATHER DR (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0923410</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0923410</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0923410 | SOUTH Division | 7/7/2026 5:46:01 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/7/2026 5:46:01 PM</pubDate>
-    </item>
-    <item>
-      <title>Satellite record reveals US tidal wetland productivity rose 6% in 20 years</title>
-      <link>https://phys.org/news/2026-07-satellite-reveals-tidal-wetland-productivity.html</link>
-      <guid>https://phys.org/news/2026-07-satellite-reveals-tidal-wetland-productivity.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Carbon sequestration, climate regulation, biodiversity support and shoreline protection: These are all benefits provided by tidal wetlands. As the climate changes, the amount of carbon captured by these vital ecosystems may be changing as well.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 07 Jul 2026 17:40:04 EDT</pubDate>
     </item>
   </channel>
 </rss>
