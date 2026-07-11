@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 18:55:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 20:04:48 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 13000 VISTA HAVEN (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0941890</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0941890</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0941890 | PRUE Division | 7/11/2026 2:52:12 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/11/2026 2:52:12 PM</pubDate>
+    </item>
+    <item>
+      <title>When species are forced to move: Prediction models underestimate climate-related extinction risk</title>
+      <link>https://phys.org/news/2026-07-species-underestimate-climate-extinction.html</link>
+      <guid>https://phys.org/news/2026-07-species-underestimate-climate-extinction.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Climate change threatens many plant and animal species not only when their habitats disappear as climatic conditions change, but also when those habitats shift. In a new study, a team of University of Potsdam researchers found that whether a species' habitat disappears or shifts has a significant impact on how accurately different models can predict its risk of extinction. However, this distinction is not reflected in the current standard methods used to assess extinction risk. Because identifyi</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sat, 11 Jul 2026 16:00:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>SeaWorld San Antonio to help rescue stranded beluga whales from shuttered Canadian marine park</title>
+      <link>https://sanantonioreport.org/seaworld-san-antonio-rescue-stranded-beluga-whales-canadian-marine-park/</link>
+      <guid>https://sanantonioreport.org/seaworld-san-antonio-rescue-stranded-beluga-whales-canadian-marine-park/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — SeaWorld San Antonio is joining an international effort to rescue stranded beluga whales from Marineland, a shuttered Canadian marine park.SeaWorld San Antonio to help rescue stranded beluga whales from shuttered Canadian marine park was first posted on July 11, 2026 at 2:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please conta</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sat, 11 Jul 2026 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person - Endangered — 700 CAVALIER AVE (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0941317</link>
@@ -792,30 +816,6 @@ The post Yonder Radio: Sale Barns, Regenerative Farming, and Midwestern Punk Roc
       <description>[Climate &amp; Environment] Keyword: climate change — If you visit the Royal Botanic Gardens at Kew, on the edge of London, you will see a brightly painted skeleton of a dead oak tree. The tree, known as the climate-changed oak, succumbed in the heat wave of 2022. Instead of removing it, Kew left it in place as a reminder that climate change is already taking its toll on Britain's trees.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Thu, 09 Jul 2026 14:00:22 EDT</pubDate>
-    </item>
-    <item>
-      <title>UK swelters in third heatwave of the year as western Europe counts cost of hottest-ever June</title>
-      <link>https://www.theguardian.com/environment/2026/jul/09/uk-swelters-third-heatwave-western-europe-counts-cost-hottest-ever-june</link>
-      <guid>https://www.theguardian.com/environment/2026/jul/09/uk-swelters-third-heatwave-western-europe-counts-cost-hottest-ever-june</guid>
-      <description>[Open Source Software] Keyword: FOSS — Britain expands heat alerts while estimates suggest June’s death toll could surpass 20,000 across continentThe UK is sweltering through the peak of its third heatwave of the year as countries around Europe struggle to recover from an early onslaught of baking summer heat.Punishing temperatures pushed higher by fossil fuel pollution have broken records across the continent in recent weeks. Western Europe experienced its hottest June on record, scientists confirmed on Thursday, accompanied by high</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 09 Jul 2026 17:39:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Earthquakes in Venezuela expose a severely under-resourced and unprepared healthcare system</title>
-      <link>https://theconversation.com/earthquakes-in-venezuela-expose-a-severely-under-resourced-and-unprepared-healthcare-system-287003</link>
-      <guid>https://theconversation.com/earthquakes-in-venezuela-expose-a-severely-under-resourced-and-unprepared-healthcare-system-287003</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Two physicians discuss the ongoing earthquake relief efforts in their home country of Venezuela and explain what the healthcare system was like before the disaster.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>2026-07-09T18:03:05Z</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Robbery of Individual — ROOSEVELT AVE / STEVES AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0931518</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0931518</guid>
-      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-0931518 | SOUTH Division | 7/9/2026 11:09:22 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/9/2026 11:09:22 AM</pubDate>
     </item>
   </channel>
 </rss>
