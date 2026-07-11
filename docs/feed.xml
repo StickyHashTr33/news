@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 15:51:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 16:52:36 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 9200 VISTA WEST DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0941135</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0941135</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0941135 | WEST Division | 7/11/2026 11:39:03 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/11/2026 11:39:03 AM</pubDate>
+    </item>
+    <item>
+      <title>Vaccines, transcripts and more: How educators combat the summer melt threatening college enrollment</title>
+      <link>https://sanantonioreport.org/saisd-foundation-summer-melt-threatening-college-enrollment/</link>
+      <guid>https://sanantonioreport.org/saisd-foundation-summer-melt-threatening-college-enrollment/</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — The summer melt phenomenon affects recent high school graduates who might find themselves alone in the transition to college.Vaccines, transcripts and more: How educators combat the summer melt threatening college enrollment was first posted on July 11, 2026 at 11:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Sat, 11 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 5700 RIM PASS (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0940923</link>
@@ -801,22 +817,6 @@ The post What Is (and Isn’t) Happening with the Border Wall in Big Bend appear
       <description>[AI &amp; Automation] Keyword: LLM — Pizza-making classes taught by Fife &amp;#038; Farro executive chef Josh Davis and Mariachi Nights at the Mezcalaria headline a busy month at Pullman Market.Fife &amp;amp; Farro pizza-making, Mariachi Nights head busy July calendar at Pullman Market was first posted on July 9, 2026 at 10:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Plea</description>
       <category>AI &amp; Automation</category>
       <pubDate>Thu, 09 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Farmers Finally Get a John Deere Right to Repair Agreement That Doesn’t Screw Them Over</title>
-      <link>https://www.404media.co/farmers-finally-get-a-john-deere-right-to-repair-agreement-that-doesnt-screw-them-over/</link>
-      <guid>https://www.404media.co/farmers-finally-get-a-john-deere-right-to-repair-agreement-that-doesnt-screw-them-over/</guid>
-      <description>[Digital Rights &amp; Privacy] Keyword: right to repair — The FTC's settlement with John Deere actually has teeth, unlike previous settlements that largely maintained the status quo.</description>
-      <category>Digital Rights &amp; Privacy</category>
-      <pubDate>Thu, 09 Jul 2026 14:09:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 700 N SAN MARCOS (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0930751</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0930751</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0930751 | CENTRAL Division | 7/9/2026 8:30:04 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/9/2026 8:30:04 AM</pubDate>
     </item>
   </channel>
 </rss>
