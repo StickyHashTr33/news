@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 14:49:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 15:51:59 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5700 RIM PASS (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0940923</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0940923</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0940923 | PRUE Division | 7/11/2026 10:38:06 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/11/2026 10:38:06 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 9200 POTRANCO RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0940929</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0940929</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0940929 | WEST Division | 7/11/2026 10:40:44 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/11/2026 10:40:44 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 9500 AMELIA PASS (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0940933</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0940933</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0940933 | PRUE Division | 7/11/2026 10:41:26 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/11/2026 10:41:26 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle In Progress — 100 VILLITA ST (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0940729</link>
@@ -793,30 +817,6 @@ The post What Is (and Isn’t) Happening with the Border Wall in Big Bend appear
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0930751 | CENTRAL Division | 7/9/2026 8:30:04 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/9/2026 8:30:04 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 500 OGDEN ST (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0930763</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0930763</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0930763 | DOWNTOWN Division | 7/9/2026 8:31:56 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/9/2026 8:31:56 AM</pubDate>
-    </item>
-    <item>
-      <title>Why removing a distinct religious code for Native American military service members will make their needs invisible</title>
-      <link>https://theconversation.com/why-removing-a-distinct-religious-code-for-native-american-military-service-members-will-make-their-needs-invisible-286226</link>
-      <guid>https://theconversation.com/why-removing-a-distinct-religious-code-for-native-american-military-service-members-will-make-their-needs-invisible-286226</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — The Pentagon recategorized Native religions as ‘other.’ A scholar of Native American and Indigenous Studies explains the implications of that change.</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>2026-07-09T12:04:51Z</pubDate>
-    </item>
-    <item>
-      <title>Species’ ingenious survival strategies no match for human destruction, red list reveals</title>
-      <link>https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list</link>
-      <guid>https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list</guid>
-      <description>[Ecology &amp; Conservation] Keyword: endangered species — Newly endangered animals include desert frogs and snails in extreme ocean depths, both threatened by miningLife has colonised every corner of the planet by evolving ingenious survival strategies but these are increasingly being overwhelmed by destructive human activities, this year’s red list of endangered species has revealed.Many snails, limpets and clams have adapted to life at crushing depths in the oceans on hydrothermal vents where water temperatures can reach 450C (842F). But an assessmen</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Thu, 09 Jul 2026 12:20:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
