@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 20:04:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 21:44:42 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 200 REGINA ST (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942231</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942231</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0942231 | SOUTH Division | 7/11/2026 4:23:43 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/11/2026 4:23:43 PM</pubDate>
+    </item>
+    <item>
+      <title>New exhibit pays tribute to a South Texas music legend</title>
+      <link>https://sanantonioreport.org/new-exhibit-pays-tribute-to-a-south-texas-music-legend/</link>
+      <guid>https://sanantonioreport.org/new-exhibit-pays-tribute-to-a-south-texas-music-legend/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — “From the West Side to the World: Un Homenaje a Flaco Jimenez,&quot; an exhibit that pays tribute to the multi-Grammy-winning artist, is now open.New exhibit pays tribute to a South Texas music legend was first posted on July 11, 2026 at 4:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sat, 11 Jul 2026 21:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>This English professor has run with the bulls in Spain for two decades</title>
+      <link>https://www.npr.org/2026/07/11/nx-s1-5887431/this-english-professor-has-run-with-the-bulls-in-spain-for-two-decades</link>
+      <guid>https://www.npr.org/2026/07/11/nx-s1-5887431/this-english-professor-has-run-with-the-bulls-in-spain-for-two-decades</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — When Bill Hillmann was 19 years old, he read Ernest Hemingway's The Sun Also Rises. That book inspired him to pursue two dreams: a career in literature and to run with the bulls in Pamplona, Spain.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Sat, 11 Jul 2026 17:08:27 -0400</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 13000 VISTA HAVEN (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0941890</link>
@@ -792,30 +816,6 @@ The post Yonder Radio: Sale Barns, Regenerative Farming, and Midwestern Punk Roc
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0932162 | PRUE Division | 7/9/2026 1:33:23 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/9/2026 1:33:23 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 13000 JONES MALTSBERGER RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0932169</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0932169</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0932169 | NORTH Division | 7/9/2026 1:35:59 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/9/2026 1:35:59 PM</pubDate>
-    </item>
-    <item>
-      <title>Florida Regulators Stood by as Dozens of Sloths Died, New Records Reveal</title>
-      <link>https://insideclimatenews.org/news/09072026/florida-regulators-stood-by-as-sloths-died/</link>
-      <guid>https://insideclimatenews.org/news/09072026/florida-regulators-stood-by-as-sloths-died/</guid>
-      <description>[Ecology &amp; Conservation] Keyword: wildlife conservation — The first warning reached the Florida Fish and Wildlife Conservation Commission before a single sloth had arrived in Orlando.&amp;#160; On Dec. 9, 2024, a member of the public called the agency after seeing advertisements for a new business called Sloth World. The caller said owner Benjamin Agresta was hiring employees and telling prospective workers that [&amp;#8230;]</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Thu, 09 Jul 2026 18:14:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Heat waves: Why British trees are shedding branches and dying</title>
-      <link>https://phys.org/news/2026-07-british-trees-dying.html</link>
-      <guid>https://phys.org/news/2026-07-british-trees-dying.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — If you visit the Royal Botanic Gardens at Kew, on the edge of London, you will see a brightly painted skeleton of a dead oak tree. The tree, known as the climate-changed oak, succumbed in the heat wave of 2022. Instead of removing it, Kew left it in place as a reminder that climate change is already taking its toll on Britain's trees.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 09 Jul 2026 14:00:22 EDT</pubDate>
     </item>
   </channel>
 </rss>
