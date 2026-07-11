@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 22:42:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 23:51:24 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 18100 TALAVERA RDG (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942638</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942638</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0942638 | PRUE Division | 7/11/2026 6:25:30 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/11/2026 6:25:30 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 900 BILLY MITCHELL BLVD (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942648</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942648</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0942648 | SOUTH Division | 7/11/2026 6:29:50 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/11/2026 6:29:50 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 100 CONTINENTAL AVE (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942675</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942675</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0942675 | WEST Division | 7/11/2026 6:36:34 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/11/2026 6:36:34 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 900 VFW BLVD (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942425</link>
@@ -792,30 +816,6 @@ The post Yonder Radio: Sale Barns, Regenerative Farming, and Midwestern Punk Roc
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Texas Biomedical Research Institute is partnering with the U.S. Department of Defense to protect soldiers and citizens from biothreats, including natural infectious diseases and the emerging threat of lab-engineered bioweapons. Texas Biomed to help Pentagon develop defenses against emerging biothreats was first posted on July 9, 2026 at 2:52 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed rea</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Thu, 09 Jul 2026 19:52:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>San Antonio mayor’s commission on voting issues recommendations</title>
-      <link>https://sanantonioreport.org/san-antonio-mayors-commission-on-voting-issues-recommendations/</link>
-      <guid>https://sanantonioreport.org/san-antonio-mayors-commission-on-voting-issues-recommendations/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A commission created by San Antonio Mayor Gina Ortiz Jones released a report on Wednesday highlighting ways to increase voter turnout in the city and county.San Antonio mayor&amp;#8217;s commission on voting issues recommendations was first posted on July 9, 2026 at 3:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Thu, 09 Jul 2026 20:00:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Project Marvel support holds steady as Spurs rebrand project ahead of listening tour</title>
-      <link>https://sanantonioreport.org/project-marvel-support-holds-steady-as-spurs-rebrand-project-ahead-of-listening-tour/</link>
-      <guid>https://sanantonioreport.org/project-marvel-support-holds-steady-as-spurs-rebrand-project-ahead-of-listening-tour/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A new UTSA poll shows support for Project Marvel has remained steady as the Spurs prepare a citywide public listening tour.Project Marvel support holds steady as Spurs rebrand project ahead of listening tour was first posted on July 9, 2026 at 3:24 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Thu, 09 Jul 2026 20:24:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>&quot;We Want Texans to Know Their Rights&quot;: Q&amp;A with Mayday Health on the Impact of Surveillance on Abortion Care</title>
-      <link>https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion</link>
-      <guid>https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Last May, EFF reported that a sheriff’s office in Texas searched data from more than 83,000 automated license plate reader (ALPR) cameras to track down a woman suspected of self-managing an abortion. ALPRs are promoted as tools for keeping communities safe by finding missing persons and locating stolen vehicles, but this case showed how ALPRS can be weaponized to investigate people’s private healthcare decisions. And these aren’t the only tools in the surveillance arsenal: others include locatio</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Wed, 08 Jul 2026 23:15:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
