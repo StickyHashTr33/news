@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 07:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 09:24:00 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 2000 ANCHOR DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0940075</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0940075</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0940075 | NORTH Division | 7/11/2026 4:07:35 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/11/2026 4:07:35 AM</pubDate>
+    </item>
+    <item>
+      <title>‘Like a sauna’: London tube travellers swelter in temperatures higher than legal limit for cattle</title>
+      <link>https://www.theguardian.com/uk-news/2026/jul/11/like-a-sauna-london-tube-travellers-swelter-in-temperatures-higher-than-legal-limit-for-cattle</link>
+      <guid>https://www.theguardian.com/uk-news/2026/jul/11/like-a-sauna-london-tube-travellers-swelter-in-temperatures-higher-than-legal-limit-for-cattle</guid>
+      <description>[Stoicism &amp; Philosophy] Keyword: stoicism — The tube cannot easily be adapted to cope with heatwaves, making conditions almost unbearableAs the escalator descends below ground at King’s Cross St Pancras station in London, the shift from what was already a hot station entrance to the furnace-like subterranean depths is perceptible.On the tube it’s worse: a man leans back in his seat, eyes closed, sweltering; people hold electric fans an inch away from their faces. London commuters are known for their stoicism and the heat appears to be ano</description>
+      <category>Stoicism &amp; Philosophy</category>
+      <pubDate>Sat, 11 Jul 2026 08:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Berlin hostage crisis: Woman freed after hourslong standoff</title>
+      <link>https://www.dw.com/en/berlin-hostage-crisis-woman-freed-after-hourslong-standoff/a-77913331?maca=en-rss-en-all-1573-rdf</link>
+      <guid>https://www.dw.com/en/berlin-hostage-crisis-woman-freed-after-hourslong-standoff/a-77913331?maca=en-rss-en-all-1573-rdf</guid>
+      <description>[Immigration &amp; Border] Keyword: ICE operation — A man allegedly took a woman hostage in a supermarket, prompting a major police operation. The suspect reportedly &quot;pulled out&quot; a big knife before the supermarket closed on Friday evening.</description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>2026-07-11T07:54:00Z</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 1100 LOMBRANO ST (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0939791</link>
@@ -797,30 +821,6 @@ The post What Is (and Isn’t) Happening with the Border Wall in Big Bend appear
              Announcements: Newsletters, conferences, security updates, patches, and more.</description>
       <category>AI &amp; Automation</category>
       <pubDate>Thu, 09 Jul 2026 01:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Confirmed Ebola deaths in DR Congo hit 600</title>
-      <link>https://www.aljazeera.com/news/2026/7/9/confirmed-ebola-deaths-in-dr-congo-hit-600?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/7/9/confirmed-ebola-deaths-in-dr-congo-hit-600?traffic_source=rss</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — The number of deaths comes as healthcare workers threaten to walk off the job over a delay in payments.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Thu, 09 Jul 2026 01:48:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 4600 CLARK AVE (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0928267</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0928267</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0928267 | EAST Division | 7/8/2026 5:47:43 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/8/2026 5:47:43 PM</pubDate>
-    </item>
-    <item>
-      <title>Decoding of one of nature's largest enzymes reveals electron flow behind biological methane production</title>
-      <link>https://phys.org/news/2026-07-decoding-nature-largest-enzymes-reveals.html</link>
-      <guid>https://phys.org/news/2026-07-decoding-nature-largest-enzymes-reveals.html</guid>
-      <description>[Science &amp; Research] Keyword: microbiology — A research team at Marburg University has investigated one of the largest enzyme complexes found in nature to date and deciphered its remarkable structure. Under the supervision of Dr. Jan Schuller, Ph.D. student Sophia Paul from the Center for Synthetic Microbiology (SYNMIKRO) was able to characterize the so-called heterodisulfide reductase super-assembly in detail. The results of the study are now published in the journal Nature. They show how a molecular &quot;giant&quot; comprising hundreds of buildin</description>
-      <category>Science &amp; Research</category>
-      <pubDate>Wed, 08 Jul 2026 17:40:09 EDT</pubDate>
     </item>
   </channel>
 </rss>
