@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:04:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 04:10:22 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 100 BASSWOOD DR (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0939155</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0939155</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-0939155 | CENTRAL Division | 7/10/2026 10:55:54 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/10/2026 10:55:54 PM</pubDate>
+    </item>
+    <item>
+      <title>Berlin hostage situation: Man holds woman in supermarket</title>
+      <link>https://www.dw.com/en/berlin-hostage-situation-man-holds-woman-in-supermarket/a-77913331?maca=en-rss-en-all-1573-rdf</link>
+      <guid>https://www.dw.com/en/berlin-hostage-situation-man-holds-woman-in-supermarket/a-77913331?maca=en-rss-en-all-1573-rdf</guid>
+      <description>[Immigration &amp; Border] Keyword: ICE operation — A police operation is underway in Berlin where a man has taken a woman hostage in a supermarket.</description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>2026-07-11T01:45:00Z</pubDate>
+    </item>
     <item>
       <title>[SAPD] Robbery of Individual — 1700 WACKER WAY (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0937920</link>
@@ -805,22 +821,6 @@ The post What Is (and Isn’t) Happening with the Border Wall in Big Bend appear
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0927677 | CENTRAL Division | 7/8/2026 3:51:40 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/8/2026 3:51:40 PM</pubDate>
-    </item>
-    <item>
-      <title>Woman accused of stealing ambulance while medics treated patient in downtown San Antonio</title>
-      <link>https://sanantonioreport.org/woman-accused-stealing-ambulance-medics-patient-downtown-san-antonio/</link>
-      <guid>https://sanantonioreport.org/woman-accused-stealing-ambulance-medics-patient-downtown-san-antonio/</guid>
-      <description>[Texas Surveillance] Keyword: San Antonio police — San Antonio police arrested a woman accused of stealing an ambulance while two paramedics treated a patient in the back. Woman accused of stealing ambulance while medics treated patient in downtown San Antonio was first posted on July 8, 2026 at 3:14 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardrepo</description>
-      <category>Texas Surveillance</category>
-      <pubDate>Wed, 08 Jul 2026 20:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>International team says science alone won't save coral reefs</title>
-      <link>https://phys.org/news/2026-07-international-team-science-wont-coral.html</link>
-      <guid>https://phys.org/news/2026-07-international-team-science-wont-coral.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Coral reefs are disappearing at an unprecedented rate as climate change, marine heat waves, pollution and coastal development threaten one of Earth's richest ecosystems. While scientific research has greatly advanced understanding of the crisis and ways to restore damaged reefs, a new international paper argues that science alone will not be enough to protect them.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 08 Jul 2026 14:00:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
