@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 04:10:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 07:09:49 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 1100 LOMBRANO ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0939791</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0939791</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0939791 | CENTRAL Division | 7/11/2026 1:58:19 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/11/2026 1:58:19 AM</pubDate>
+    </item>
+    <item>
+      <title>Trump administration rolls back a key protection for imperiled wildlife</title>
+      <link>https://www.npr.org/2026/07/11/nx-s1-5890025/trump-administration-imperiled-wildlife</link>
+      <guid>https://www.npr.org/2026/07/11/nx-s1-5890025/trump-administration-imperiled-wildlife</guid>
+      <description>[Ecology &amp; Conservation] Keyword: endangered species — The Trump administration finalized a rule Friday that changes how agencies enforce the Endangered Species Act. The administration narrowed the definition of &quot;harm&quot; under the landmark law.</description>
+      <category>Ecology &amp; Conservation</category>
+      <pubDate>Sat, 11 Jul 2026 01:48:40 -0400</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 100 BASSWOOD DR (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0939155</link>
@@ -805,22 +821,6 @@ The post What Is (and Isn’t) Happening with the Border Wall in Big Bend appear
       <description>[Science &amp; Research] Keyword: microbiology — A research team at Marburg University has investigated one of the largest enzyme complexes found in nature to date and deciphered its remarkable structure. Under the supervision of Dr. Jan Schuller, Ph.D. student Sophia Paul from the Center for Synthetic Microbiology (SYNMIKRO) was able to characterize the so-called heterodisulfide reductase super-assembly in detail. The results of the study are now published in the journal Nature. They show how a molecular &quot;giant&quot; comprising hundreds of buildin</description>
       <category>Science &amp; Research</category>
       <pubDate>Wed, 08 Jul 2026 17:40:09 EDT</pubDate>
-    </item>
-    <item>
-      <title>Indigenous peoples in the Amazon face massive cultural and ecological loss due to climate change</title>
-      <link>https://phys.org/news/2026-07-indigenous-peoples-amazon-massive-cultural.html</link>
-      <guid>https://phys.org/news/2026-07-indigenous-peoples-amazon-massive-cultural.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — The Amazon region, Earth's most important ecosystem, is home to more than 400 Indigenous groups that use thousands of rainforest plant species. They pass on their knowledge of the flora primarily through oral tradition, usually from parents or other family members to their children. This creates a &quot;living library of knowledge&quot; about how to use native plants. Until now, little was known about how this treasure trove of knowledge is affected by the combined effects of climate change and language l</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 08 Jul 2026 17:20:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 4200 BLANCO RD (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0927677</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0927677</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0927677 | CENTRAL Division | 7/8/2026 3:51:40 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/8/2026 3:51:40 PM</pubDate>
     </item>
   </channel>
 </rss>
