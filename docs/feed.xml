@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 21:44:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 22:42:36 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 900 VFW BLVD (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942425</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942425</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0942425 | SOUTH Division | 7/11/2026 5:21:18 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/11/2026 5:21:18 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 9400 CADIZ DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942435</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942435</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0942435 | SOUTH Division | 7/11/2026 5:26:44 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/11/2026 5:26:44 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 200 REGINA ST (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942231</link>
@@ -800,22 +816,6 @@ The post Yonder Radio: Sale Barns, Regenerative Farming, and Midwestern Punk Roc
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Last May, EFF reported that a sheriff’s office in Texas searched data from more than 83,000 automated license plate reader (ALPR) cameras to track down a woman suspected of self-managing an abortion. ALPRs are promoted as tools for keeping communities safe by finding missing persons and locating stolen vehicles, but this case showed how ALPRS can be weaponized to investigate people’s private healthcare decisions. And these aren’t the only tools in the surveillance arsenal: others include locatio</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Wed, 08 Jul 2026 23:15:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 900 SE MILITARY DR (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0932160</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0932160</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0932160 | SOUTH Division | 7/9/2026 1:32:17 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/9/2026 1:32:17 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 9600 BANDERA RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0932162</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0932162</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0932162 | PRUE Division | 7/9/2026 1:33:23 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/9/2026 1:33:23 PM</pubDate>
     </item>
   </channel>
 </rss>
