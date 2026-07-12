@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 02:14:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 05:53:30 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 3900 BARRINGTON (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0943849</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0943849</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0943849 | NORTH Division | 7/12/2026 12:43:10 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/12/2026 12:43:10 AM</pubDate>
+    </item>
     <item>
       <title>Common blood pressure drug could make cancer therapy far more powerful</title>
       <link>https://www.sciencedaily.com/releases/2026/07/260709160648.htm</link>
@@ -808,14 +816,6 @@ The post Yonder Radio: Sale Barns, Regenerative Farming, and Midwestern Punk Roc
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0932710 | WEST Division | 7/9/2026 3:28:58 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/9/2026 3:28:58 PM</pubDate>
-    </item>
-    <item>
-      <title>Western Europe Just Had Its Hottest June on Record — Climate Change Is to Blame</title>
-      <link>https://truthout.org/articles/western-europe-just-had-its-hottest-june-on-record-climate-change-is-to-blame/</link>
-      <guid>https://truthout.org/articles/western-europe-just-had-its-hottest-june-on-record-climate-change-is-to-blame/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Excess deaths in France, Belgium, Spain, and the Netherlands last month exceeded 4,600.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 09 Jul 2026 19:04:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
