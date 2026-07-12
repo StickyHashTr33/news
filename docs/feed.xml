@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 19:04:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 20:40:05 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Shooting — 700 VICKERS AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0946249</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0946249</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-0946249 | SOUTH Division | 7/12/2026 3:23:58 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/12/2026 3:23:58 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 300 W CHERYL DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0946264</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0946264</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0946264 | WEST Division | 7/12/2026 3:29:02 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/12/2026 3:29:02 PM</pubDate>
+    </item>
+    <item>
+      <title>Appeals court rejects effort to defend Texas law offering in-state tuition for undocumented students</title>
+      <link>https://sanantonioreport.org/appeals-court-rejects-effort-to-defend-texas-law-offering-in-state-tuition-for-undocumented-students/</link>
+      <guid>https://sanantonioreport.org/appeals-court-rejects-effort-to-defend-texas-law-offering-in-state-tuition-for-undocumented-students/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A federal judge blocked the law known as the Texas Dream Act in June after it was challenged by the Trump administration and state officials declined to defend it.Appeals court rejects effort to defend Texas law offering in-state tuition for undocumented students was first posted on July 12, 2026 at 2:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyri</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sun, 12 Jul 2026 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 400 BLUE STAR (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0945890</link>
@@ -791,31 +815,6 @@ The post The Trump Administration Is Overhauling Birth Control Access for the Pr
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0935443 | PRUE Division | 7/10/2026 6:28:20 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/10/2026 6:28:20 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Robbery of Individual — 3000 NE LOOP 410 (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0935446</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0935446</guid>
-      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-0935446 | NORTH Division | 7/10/2026 6:32:46 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/10/2026 6:32:46 AM</pubDate>
-    </item>
-    <item>
-      <title>Nature’s Ingenious Survival Strategies Are No Match for Human Destruction</title>
-      <link>https://www.motherjones.com/politics/2026/07/nature-survival-human-destruction-mining-red-list-threatened-endangered-species/</link>
-      <guid>https://www.motherjones.com/politics/2026/07/nature-survival-human-destruction-mining-red-list-threatened-endangered-species/</guid>
-      <description>[Ecology &amp; Conservation] Keyword: endangered species — This story was originally published by&amp;#160;the&amp;#160;Guardian&amp;#160;and&amp;#160;is reproduced here as part of the&amp;#160;Climate Desk&amp;#160;collaboration. Life has colonized every corner of the planet by evolving ingenious survival strategies, but these are increasingly being overwhelmed by destructive human activities, this year’s red list of endangered species has revealed. Many snails, limpets and clams have adapted to life at [&amp;#8230;]</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Fri, 10 Jul 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yonder Radio: Sale Barns, Regenerative Farming, and Midwestern Punk Rock</title>
-      <link>https://dailyyonder.com/yonder-radio-sale-barns-regenerative-farming-and-midwestern-punk-rock/2026/07/10/</link>
-      <guid>https://dailyyonder.com/yonder-radio-sale-barns-regenerative-farming-and-midwestern-punk-rock/2026/07/10/</guid>
-      <description>[Small Farm &amp; Urban Agriculture] Keyword: regenerative agriculture — Tune in for conversations about the social value of sale barns, regenerative agriculture in the corn belt, the Rural Health Transformation Program, and punk rock in Minot, North Dakota. Plus, music from Trevor McKenzie. 
-The post Yonder Radio: Sale Barns, Regenerative Farming, and Midwestern Punk Rock appeared first on The Daily Yonder.</description>
-      <category>Small Farm &amp; Urban Agriculture</category>
-      <pubDate>Fri, 10 Jul 2026 09:59:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
