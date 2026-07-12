@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 21:44:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 22:42:42 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 4700 WURZBACH RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0946641</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0946641</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0946641 | WEST Division | 7/12/2026 5:21:02 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/12/2026 5:21:02 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 7000 FM 78 (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0946645</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0946645</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0946645 | EAST Division | 7/12/2026 5:22:48 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/12/2026 5:22:48 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 3400 W WOODLAWN AVE (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0946440</link>
@@ -799,22 +815,6 @@ The post The Trump Administration Is Overhauling Birth Control Access for the Pr
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0935411 | EAST Division | 7/10/2026 5:58:38 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/10/2026 5:58:38 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 10100 US HWY 281 N (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0935423</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0935423</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0935423 | NORTH Division | 7/10/2026 6:13:40 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/10/2026 6:13:40 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 2800 SE MILITARY DR (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0935426</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0935426</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0935426 | SOUTH Division | 7/10/2026 6:15:02 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/10/2026 6:15:02 AM</pubDate>
     </item>
   </channel>
 </rss>
