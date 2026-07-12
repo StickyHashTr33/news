@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 15:56:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 16:55:18 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 2800 LAKE ARBOR (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0945425</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0945425</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0945425 | EAST Division | 7/12/2026 11:37:44 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/12/2026 11:37:44 AM</pubDate>
+    </item>
+    <item>
+      <title>As Tower Life developers convert historic building to apartments, next step is to make way for River Walk-facing retail</title>
+      <link>https://sanantonioreport.org/as-tower-life-developers-convert-historic-building-to-apartments-next-step-is-to-make-way-for-river-walk-facing-retail/</link>
+      <guid>https://sanantonioreport.org/as-tower-life-developers-convert-historic-building-to-apartments-next-step-is-to-make-way-for-river-walk-facing-retail/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Until now, flood-proof walls blocked the building's access to the San Antonio River Walk, but that will change with riverfront retail planned.As Tower Life developers convert historic building to apartments, next step is to make way for River Walk-facing retail was first posted on July 12, 2026 at 11:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyrig</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sun, 12 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 12800 US HWY 281 N (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0945227</link>
@@ -800,22 +816,6 @@ The post Yonder Radio: Sale Barns, Regenerative Farming, and Midwestern Punk Roc
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0935131 | NORTH Division | 7/10/2026 3:00:25 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/10/2026 3:00:25 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 14500 ROADRUNNER WAY (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0935138</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0935138</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0935138 | PRUE Division | 7/10/2026 3:04:57 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/10/2026 3:04:57 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 100 HEFLIN CT (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0934627</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0934627</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0934627 | EAST Division | 7/9/2026 11:32:58 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/9/2026 11:32:58 PM</pubDate>
     </item>
   </channel>
 </rss>
