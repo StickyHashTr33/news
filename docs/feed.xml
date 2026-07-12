@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 20:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 21:44:23 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 3400 W WOODLAWN AVE (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0946440</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0946440</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0946440 | WEST Division | 7/12/2026 4:24:01 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/12/2026 4:24:01 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 700 HALLIDAY AVE (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0946447</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0946447</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0946447 | EAST Division | 7/12/2026 4:26:33 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/12/2026 4:26:33 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Shooting — 700 VICKERS AVE (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0946249</link>
@@ -799,22 +815,6 @@ The post The Trump Administration Is Overhauling Birth Control Access for the Pr
       <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0935426 | SOUTH Division | 7/10/2026 6:15:02 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/10/2026 6:15:02 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 2300 QUINTANA RD (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0935430</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0935430</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0935430 | SOUTH Division | 7/10/2026 6:16:02 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/10/2026 6:16:02 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 9800 CAMINO VILLA (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0935443</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0935443</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0935443 | PRUE Division | 7/10/2026 6:28:20 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/10/2026 6:28:20 AM</pubDate>
     </item>
   </channel>
 </rss>
