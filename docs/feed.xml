@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 17:57:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 19:04:37 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 400 BLUE STAR (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0945890</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0945890</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0945890 | DOWNTOWN Division | 7/12/2026 1:42:33 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/12/2026 1:42:33 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 400 BLUE STAR (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0945914</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0945914</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0945914 | DOWNTOWN Division | 7/12/2026 1:53:13 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/12/2026 1:53:13 PM</pubDate>
+    </item>
+    <item>
+      <title>Climate change leaves northern tree swallows more vulnerable those in the southern US</title>
+      <link>https://phys.org/news/2026-07-climate-northern-tree-swallows-vulnerable.html</link>
+      <guid>https://phys.org/news/2026-07-climate-northern-tree-swallows-vulnerable.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Tree swallows in the northern U.S. and Canada face the greatest risk from climate change despite responding to temperature the same way as tree swallows in the southern U.S., according to a new study led by Cornell researchers that analyzed nearly 95,000 nests across five decades. The findings, published in Proceedings of the National Academy of Sciences, reveal a critical timing squeeze for tree swallows in the northern half of the United States and Canada, putting them at risk.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sun, 12 Jul 2026 15:00:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 7000 CULEBRA RD (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0945679</link>
@@ -792,30 +816,6 @@ The post The Trump Administration Is Overhauling Birth Control Access for the Pr
 The post Yonder Radio: Sale Barns, Regenerative Farming, and Midwestern Punk Rock appeared first on The Daily Yonder.</description>
       <category>Small Farm &amp; Urban Agriculture</category>
       <pubDate>Fri, 10 Jul 2026 09:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>US pushes for weaker truck pollution rules</title>
-      <link>https://phys.org/news/2026-07-weaker-truck-pollution.html</link>
-      <guid>https://phys.org/news/2026-07-weaker-truck-pollution.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — President Donald Trump's administration on Thursday moved to loosen truck pollution regulations put in place by his predecessor, Joe Biden, in its latest environmental rollback benefiting makers of fossil fuel-burning vehicles.</description>
-      <category>Open Source Software</category>
-      <pubDate>Fri, 10 Jul 2026 04:20:02 EDT</pubDate>
-    </item>
-    <item>
-      <title>‘He’s forcing higher bills’: Trump spends billions to kill clean energy and keep coal alive</title>
-      <link>https://www.theguardian.com/us-news/2026/jul/10/bills-trump-clean-energy-coal</link>
-      <guid>https://www.theguardian.com/us-news/2026/jul/10/bills-trump-clean-energy-coal</guid>
-      <description>[Open Source Software] Keyword: FOSS — Critics accuse president of ‘fattening the wallets of his cronies’ as working Americans face higher energy ratesThe Trump administration has directly spent $2.7bn of taxpayer money on its crusade against wind power while pouring $1.125bn into boosting coal, which critics say is pushing up Americans’ bills.They say the moves are evidence that the president aims to serve fossil-fuel companies like those which donated record sums to his presidential campaign, rather than the working-class Americans</description>
-      <category>Open Source Software</category>
-      <pubDate>Fri, 10 Jul 2026 11:30:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>One U.S. visa program is growing rapidly. No one is happy with it</title>
-      <link>https://www.npr.org/2026/07/10/g-s1-132915/congress-agriculture-h2a-visa-program</link>
-      <guid>https://www.npr.org/2026/07/10/g-s1-132915/congress-agriculture-h2a-visa-program</guid>
-      <description>[Immigration &amp; Border] Keyword: visa program — Republicans on Capitol Hill are starting to talk about one facet of immigration reform: how to expand the popular H-2A visa program for farm laborers. They face obstacles.</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Fri, 10 Jul 2026 05:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
