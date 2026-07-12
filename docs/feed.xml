@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 05:53:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 08:09:57 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 4500 N LOOP 1604 W (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0944262</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0944262</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0944262 | PRUE Division | 7/12/2026 2:54:34 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/12/2026 2:54:34 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5500 W LOOP 1604 N (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0944273</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0944273</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0944273 | WEST Division | 7/12/2026 2:57:50 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/12/2026 2:57:50 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 3900 BARRINGTON (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0943849</link>
@@ -800,22 +816,6 @@ The post Yonder Radio: Sale Barns, Regenerative Farming, and Midwestern Punk Roc
       <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-0933141 | PRUE Division | 7/9/2026 5:06:39 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/9/2026 5:06:39 PM</pubDate>
-    </item>
-    <item>
-      <title>Report on Elevated Lung Cancer Fails to Quell Uproar Around New York’s Largest Landfill</title>
-      <link>https://insideclimatenews.org/news/09072026/seneca-meadows-landfill-lung-cancer/</link>
-      <guid>https://insideclimatenews.org/news/09072026/seneca-meadows-landfill-lung-cancer/</guid>
-      <description>[Stoicism &amp; Philosophy] Keyword: Seneca — This&amp;#160;article&amp;#160;previously appeared in&amp;#160;Water Front.&amp;#160; SENECA FALLS, N.Y.—In its recent 20-page report on elevated lung cancer rates around Seneca Meadows Inc., the state Department of Health (DOH) officially declares that the state’s largest municipal waste landfill deserves no blame.  That conclusion has hardly soothed those who have long complained of sickening odors and respiratory ailments that have [&amp;#8230;]</description>
-      <category>Stoicism &amp; Philosophy</category>
-      <pubDate>Thu, 09 Jul 2026 21:30:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 2300 PINN RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0932710</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0932710</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0932710 | WEST Division | 7/9/2026 3:28:58 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/9/2026 3:28:58 PM</pubDate>
     </item>
   </channel>
 </rss>
