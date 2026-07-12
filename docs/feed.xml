@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 10:23:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 11:56:10 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle In Progress — 8800 STARCREST DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0944589</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0944589</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-0944589 | NORTH Division | 7/12/2026 6:09:21 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/12/2026 6:09:21 AM</pubDate>
+    </item>
+    <item>
+      <title>Experts warn of ways screwworm could spread in the US and new difficulties in keeping it at bay</title>
+      <link>https://www.theguardian.com/us-news/2026/jul/12/new-world-screwworm-infestation-cattle-industry</link>
+      <guid>https://www.theguardian.com/us-news/2026/jul/12/new-world-screwworm-infestation-cattle-industry</guid>
+      <description>[Climate &amp; Environment] Keyword: deforestation — Scientists worry that current eradication efforts won’t be able to contain parasitic infestation pushing into USWhen conservationists set up cameras in remote regions of Central American forests, they wanted to monitor illegal cattle movement, which can lead to deforestation. But in recent months, they discovered another alarming development: wildlife rapidly infected with the new world screwworm.It’s a warning sign of how the fly could spread in the US – and it signals new difficulties in pushi</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sun, 12 Jul 2026 11:00:17 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 1900 W ASHBY PLACE (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0944522</link>
@@ -800,22 +816,6 @@ The post Yonder Radio: Sale Barns, Regenerative Farming, and Midwestern Punk Roc
       <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0933575 | PRUE Division | 7/9/2026 6:48:45 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/9/2026 6:48:45 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 4900 WOODSTONE (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0933586</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0933586</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0933586 | PRUE Division | 7/9/2026 6:51:07 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/9/2026 6:51:07 PM</pubDate>
-    </item>
-    <item>
-      <title>Pressure builds on Europe's biggest port to be greener</title>
-      <link>https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Open Source Software] Keyword: FOSS — A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 09 Jul 2026 23:00:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
