@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 23:49:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 02:22:02 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 1700 THOUSAND OAKS (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0947469</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0947469</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0947469 | NORTH Division | 7/12/2026 9:09:29 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/12/2026 9:09:29 PM</pubDate>
+    </item>
+    <item>
+      <title>Want to own a real T. rex? It could cost you $30 million</title>
+      <link>https://www.npr.org/2026/07/12/nx-s1-5890988/t-rex-gus-dinosaur-auction-sothebys-millions</link>
+      <guid>https://www.npr.org/2026/07/12/nx-s1-5890988/t-rex-gus-dinosaur-auction-sothebys-millions</guid>
+      <description>[Open Source Software] Keyword: FOSS — The Tyrannosaurus rex fossil known as &quot;Gus&quot; will go up for auction on Tuesday. It's not the first time dinosaur bones have been sold to the highest bidder.</description>
+      <category>Open Source Software</category>
+      <pubDate>Sun, 12 Jul 2026 20:14:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Chinese graduate accused of being Mexico's 'fentanyl king'</title>
+      <link>https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[Opioid Treatment &amp; Methadone] Keyword: fentanyl — Cartel members and ex-colleagues describe how Zhang Zhidong allegedly linked Chinese chemicals to Mexican drug labs.</description>
+      <category>Opioid Treatment &amp; Methadone</category>
+      <pubDate>Mon, 13 Jul 2026 00:05:46 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 400 PARK PLAZA (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0946864</link>
@@ -783,38 +807,6 @@ The post India vs. Pakistan: Why Islamab</description>
       <description>[Government Accountability] Keyword: FOIA — This month marks the 60th anniversary of the Freedom of Information Act, the landmark government transparency law that has helped reveal and publicize critical information about everything from the Vietnam War to FBI surveillance to CIA torture. For decades, FOIA has played a crucial role in uncovering and rectifying government wrongdoing. Today, however, advocates say that the government&amp;#8217;s resistance to fulfilling FOIA requests has grown, forcing applicants to file expensive lawsuits to o</description>
       <category>Government Accountability</category>
       <pubDate>Fri, 10 Jul 2026 08:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>As Texas governor’s race tightens, supporters rally behind Hinojosa in San Antonio</title>
-      <link>https://sanantonioreport.org/as-texas-governors-race-tightens-supporters-rally-behind-hinojosa-in-san-antonio/</link>
-      <guid>https://sanantonioreport.org/as-texas-governors-race-tightens-supporters-rally-behind-hinojosa-in-san-antonio/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Supporters packed the Paper Tiger on Thursday evening, waving &quot;Money in Your Pocket&quot; signs as Gina Hinojosa campaigned for governor.As Texas governor&amp;#8217;s race tightens, supporters rally behind Hinojosa in San Antonio was first posted on July 10, 2026 at 10:14 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hel</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Fri, 10 Jul 2026 15:14:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[$] An update on the scraper situation</title>
-      <link>https://lwn.net/Articles/1080822/</link>
-      <guid>https://lwn.net/Articles/1080822/</guid>
-      <description>[AI &amp; Automation] Keyword: large language model — Our article &quot;Fighting the AI scraper bot
-scourge&quot;, published in early 2025, discussed the problem of widespread
-scraping of web sites in search of training data for large language models
-and related projects.  This activity overwhelms sites with traffic.  Over a
-year after that article is published, the problem is still growing.  The
-hammering of sites by shadowy actors has reached new heights, and the open
-web is becoming increasingly difficult to maintain.  Where is this traffic
-coming from, a</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Fri, 10 Jul 2026 15:20:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Trump Administration Is Overhauling Birth Control Access for the Pronatalist Movement</title>
-      <link>https://theintercept.com/2026/07/10/rfk-jr-pronatalism-birth-control/</link>
-      <guid>https://theintercept.com/2026/07/10/rfk-jr-pronatalism-birth-control/</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Under RFK Jr., HHS is revamping a program that’s supposed to fund contraceptives and sexual healthcare to please a far-right movement with roots in eugenics.
-The post The Trump Administration Is Overhauling Birth Control Access for the Pronatalist Movement appeared first on The Intercept.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Fri, 10 Jul 2026 15:40:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
