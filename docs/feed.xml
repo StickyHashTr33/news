@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 21:53:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 22:52:59 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The World’s Largest Meat Company Abandons Its Climate and Deforestation Goals</title>
+      <link>https://insideclimatenews.org/news/13072026/jbs-meat-company-abandons-climate-deforestation-goals/</link>
+      <guid>https://insideclimatenews.org/news/13072026/jbs-meat-company-abandons-climate-deforestation-goals/</guid>
+      <description>[Climate &amp; Environment] Keyword: deforestation — The world’s largest meat company is backing away from its climate and deforestation commitments after claiming for several years that reducing its greenhouse gas emissions was a key goal. In its recent annual sustainability report, released last week, JBS dropped its ambitious commitment to reach net-zero emissions by 2040 and omitted any mentions of its [&amp;#8230;]</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 13 Jul 2026 22:40:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mexico to file criminal complaints over migrants killed by ICE in US</title>
+      <link>https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths</link>
+      <guid>https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths</guid>
+      <description>[Immigration &amp; Border] Keyword: immigration detention — Claudia Sheinbaum says Mexicans ‘outraged’ over killing last week of Lorenzo Salgado Araujo by agents in HoustonClaudia Sheinbaum announced on Monday that Mexico would be filing criminal complaints in the US for the deaths of more than a dozen Mexican migrants in immigration detention and those killed in anti-migrant operations.The deaths include last week’s killing of Lorenzo Salgado Araujo in Houston, whom Sheinbaum said was “practically murdered”. Continue reading...</description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>Mon, 13 Jul 2026 22:06:01 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 300 LABOR ST (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0951578</link>
@@ -790,22 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0941135 | WEST Division | 7/11/2026 11:39:03 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/11/2026 11:39:03 AM</pubDate>
-    </item>
-    <item>
-      <title>Vaccines, transcripts and more: How educators combat the summer melt threatening college enrollment</title>
-      <link>https://sanantonioreport.org/saisd-foundation-summer-melt-threatening-college-enrollment/</link>
-      <guid>https://sanantonioreport.org/saisd-foundation-summer-melt-threatening-college-enrollment/</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — The summer melt phenomenon affects recent high school graduates who might find themselves alone in the transition to college.Vaccines, transcripts and more: How educators combat the summer melt threatening college enrollment was first posted on July 11, 2026 at 11:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Sat, 11 Jul 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 5700 RIM PASS (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0940923</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0940923</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0940923 | PRUE Division | 7/11/2026 10:38:06 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/11/2026 10:38:06 AM</pubDate>
     </item>
   </channel>
 </rss>
