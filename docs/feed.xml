@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 22:52:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 23:51:07 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 8500 EAGLE PEAK (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0952092</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0952092</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0952092 | PRUE Division | 7/13/2026 6:40:45 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/13/2026 6:40:45 PM</pubDate>
+    </item>
     <item>
       <title>The World’s Largest Meat Company Abandons Its Climate and Deforestation Goals</title>
       <link>https://insideclimatenews.org/news/13072026/jbs-meat-company-abandons-climate-deforestation-goals/</link>
@@ -798,14 +806,6 @@
       <description>[Ecology &amp; Conservation] Keyword: endangered species — The majority of endangered species listings over the years have involved habitat loss, from Chinook salmon to island foxes and many birds.</description>
       <category>Ecology &amp; Conservation</category>
       <pubDate>2026-07-11T16:55:30Z</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 9200 VISTA WEST DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0941135</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0941135</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0941135 | WEST Division | 7/11/2026 11:39:03 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/11/2026 11:39:03 AM</pubDate>
     </item>
   </channel>
 </rss>
