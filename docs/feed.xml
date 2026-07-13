@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 02:22:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 06:11:57 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 100 EMERALD ASH (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0948188</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0948188</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0948188 | SOUTH Division | 7/13/2026 12:48:06 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/13/2026 12:48:06 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5500 N LOOP 1604 W (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0948210</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0948210</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0948210 | PRUE Division | 7/13/2026 12:55:33 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/13/2026 12:55:33 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Robbery — 1900 S SAN MARCOS (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0948217</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0948217</guid>
+      <description>[SAPD Calls for Service] Keyword: Robbery — Incident #SAPD-2026-0948217 | CENTRAL Division | 7/13/2026 12:58:09 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/13/2026 12:58:09 AM</pubDate>
+    </item>
+    <item>
+      <title>Spider-like creatures help uncover the surprising origins of fatherhood</title>
+      <link>https://www.sciencedaily.com/releases/2026/07/260712011737.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/07/260712011737.htm</guid>
+      <description>[Ecology &amp; Conservation] Keyword: citizen science — Citizen scientists have helped researchers solve a long-standing mystery about how parental care evolved in harvestmen. Using photos and observations from iNaturalist, scientists more than doubled the known cases of egg-guarding behavior and discovered that maternal and paternal care followed different evolutionary paths. The project, completed in just days with help from public data, shows how citizen science is transforming biological research on a global scale.</description>
+      <category>Ecology &amp; Conservation</category>
+      <pubDate>Sun, 12 Jul 2026 19:49:47 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 1700 THOUSAND OAKS (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0947469</link>
@@ -775,38 +807,6 @@ The post India vs. Pakistan: Why Islamab</description>
       <description>[Foraging &amp; Wild Plants] Keyword: foraging — How do bees make group decisions without a leader? Math experts have determined that the best strategy is for a few to assume the risk of foraging under all conditions while the majority stay safely back and forage only when conditions are favorable.</description>
       <category>Foraging &amp; Wild Plants</category>
       <pubDate>Fri, 10 Jul 2026 13:20:06 EDT</pubDate>
-    </item>
-    <item>
-      <title>Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package</title>
-      <link>https://www.theregister.com/security/2026/07/10/destructive-windows-backdoor-stuffs-multiple-wipers-and-ransomware-code-into-a-single-package/5270053</link>
-      <guid>https://www.theregister.com/security/2026/07/10/destructive-windows-backdoor-stuffs-multiple-wipers-and-ransomware-code-into-a-single-package/5270053</guid>
-      <description>[Cybersecurity] Keyword: ransomware — Microsoft says GigaWiper combines at least 3 malware families into one modular tool</description>
-      <category>Cybersecurity</category>
-      <pubDate>Fri, 10 Jul 2026 19:35:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 1000 ELKHORN DR (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0936417</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0936417</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0936417 | EAST Division | 7/10/2026 11:32:52 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/10/2026 11:32:52 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 10900 LAFAYETTE LOOP (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0936451</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0936451</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0936451 | EAST Division | 7/10/2026 11:41:03 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/10/2026 11:41:03 AM</pubDate>
-    </item>
-    <item>
-      <title>FOIA Under Attack: Landmark Transparency Law Turns 60; Fed Gov't Blocking More Documents Than Ever</title>
-      <link>http://www.democracynow.org/2026/7/10/freedom_of_information_act_turns_60</link>
-      <guid>http://www.democracynow.org/2026/7/10/freedom_of_information_act_turns_60</guid>
-      <description>[Government Accountability] Keyword: FOIA — This month marks the 60th anniversary of the Freedom of Information Act, the landmark government transparency law that has helped reveal and publicize critical information about everything from the Vietnam War to FBI surveillance to CIA torture. For decades, FOIA has played a crucial role in uncovering and rectifying government wrongdoing. Today, however, advocates say that the government&amp;#8217;s resistance to fulfilling FOIA requests has grown, forcing applicants to file expensive lawsuits to o</description>
-      <category>Government Accountability</category>
-      <pubDate>Fri, 10 Jul 2026 08:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
