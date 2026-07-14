@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 07:55:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 09:54:08 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 100 MORRILL AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0953514</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0953514</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-0953514 | SOUTH Division | 7/14/2026 4:03:23 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/14/2026 4:03:23 AM</pubDate>
+    </item>
+    <item>
+      <title>A ‘crisis communication gap’ threatens Indigenous peoples</title>
+      <link>https://grist.org/global-indigenous-affairs-desk/a-crisis-communication-gap-threatens-indigenous-peoples/</link>
+      <guid>https://grist.org/global-indigenous-affairs-desk/a-crisis-communication-gap-threatens-indigenous-peoples/</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — </description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Germany set to restrict its Freedom of Information Act</title>
+      <link>https://www.dw.com/en/germany-set-to-restrict-its-freedom-of-information-act/a-77939695?maca=en-rss-en-all-1573-rdf</link>
+      <guid>https://www.dw.com/en/germany-set-to-restrict-its-freedom-of-information-act/a-77939695?maca=en-rss-en-all-1573-rdf</guid>
+      <description>[Government Accountability] Keyword: government transparency — Critics fear the reforms could weaken government transparency by curbing civil society's access to official information and limiting requests from foreigners.</description>
+      <category>Government Accountability</category>
+      <pubDate>2026-07-13T15:23:00Z</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person - Endangered — NOGALITOS ST / HEARNE (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0953372</link>
@@ -782,30 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0944273 | WEST Division | 7/12/2026 2:57:50 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/12/2026 2:57:50 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 3900 BARRINGTON (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0943849</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0943849</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0943849 | NORTH Division | 7/12/2026 12:43:10 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/12/2026 12:43:10 AM</pubDate>
-    </item>
-    <item>
-      <title>Common blood pressure drug could make cancer therapy far more powerful</title>
-      <link>https://www.sciencedaily.com/releases/2026/07/260709160648.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/07/260709160648.htm</guid>
-      <description>[Science &amp; Research] Keyword: clinical trial — Researchers found that the common blood pressure drug telmisartan can significantly improve the performance of the cancer drug olaparib, potentially expanding its benefits beyond patients with BRCA-related tumors. The combination is already being tested in human clinical trials after showing strong immune-boosting and anticancer effects in preclinical studies.</description>
-      <category>Science &amp; Research</category>
-      <pubDate>Sat, 11 Jul 2026 19:42:15 EDT</pubDate>
-    </item>
-    <item>
-      <title>T. rex could become most expensive fossil ever - but it's a ​problem for scientists</title>
-      <link>https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Open Source Software] Keyword: FOSS — A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.</description>
-      <category>Open Source Software</category>
-      <pubDate>Sat, 11 Jul 2026 23:58:40 GMT</pubDate>
     </item>
   </channel>
 </rss>
