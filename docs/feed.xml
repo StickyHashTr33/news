@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 20:56:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 21:55:30 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 100 W CESAR CHAVEZ BLVD (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0955984</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0955984</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0955984 | DOWNTOWN Division | 7/14/2026 4:45:00 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/14/2026 4:45:00 PM</pubDate>
+    </item>
+    <item>
+      <title>Are countries prepared to cope with extreme weather?</title>
+      <link>https://www.aljazeera.com/video/inside-story/2026/7/14/are-countries-prepared-to-cope-with-extreme-weather?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/video/inside-story/2026/7/14/are-countries-prepared-to-cope-with-extreme-weather?traffic_source=rss</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Severe weather conditions are likely to get worse due to climate change.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Tue, 14 Jul 2026 21:26:07 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 300 NATALEN AVE (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0955672</link>
@@ -791,22 +807,6 @@ The post ICE Orders Halt to Vehicle Stops After Deadly Shootings by Federal Agen
       <description>[SAPD Calls for Service] Keyword: Robbery — Incident #SAPD-2026-0948217 | CENTRAL Division | 7/13/2026 12:58:09 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/13/2026 12:58:09 AM</pubDate>
-    </item>
-    <item>
-      <title>Spider-like creatures help uncover the surprising origins of fatherhood</title>
-      <link>https://www.sciencedaily.com/releases/2026/07/260712011737.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/07/260712011737.htm</guid>
-      <description>[Ecology &amp; Conservation] Keyword: citizen science — Citizen scientists have helped researchers solve a long-standing mystery about how parental care evolved in harvestmen. Using photos and observations from iNaturalist, scientists more than doubled the known cases of egg-guarding behavior and discovered that maternal and paternal care followed different evolutionary paths. The project, completed in just days with help from public data, shows how citizen science is transforming biological research on a global scale.</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Sun, 12 Jul 2026 19:49:47 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 1700 THOUSAND OAKS (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0947469</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0947469</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0947469 | NORTH Division | 7/12/2026 9:09:29 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/12/2026 9:09:29 PM</pubDate>
     </item>
   </channel>
 </rss>
