@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 19:12:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 20:56:38 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 300 NATALEN AVE (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0955672</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0955672</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0955672 | DOWNTOWN Division | 7/14/2026 3:37:02 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/14/2026 3:37:02 PM</pubDate>
+    </item>
+    <item>
+      <title>San Antonio street nurses bring wound care to people experiencing homelessness</title>
+      <link>https://sanantonioreport.org/street-nurses-wound-care-people-experiencing-homelessness/</link>
+      <guid>https://sanantonioreport.org/street-nurses-wound-care-people-experiencing-homelessness/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Diana Cavazos, a registered nurse, is the founder of the Street Nursing Institute and a nursing professor at UT Health San Antonio.San Antonio street nurses bring wound care to people experiencing homelessness was first posted on July 14, 2026 at 2:24 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardrep</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Tue, 14 Jul 2026 19:24:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Charges against former San Antonio police officer dismissed ahead of trial</title>
+      <link>https://sanantonioreport.org/charges-against-former-san-antonio-police-officer-dismissed-ahead-of-trial/</link>
+      <guid>https://sanantonioreport.org/charges-against-former-san-antonio-police-officer-dismissed-ahead-of-trial/</guid>
+      <description>[Texas Surveillance] Keyword: San Antonio police — The criminal case against former police officer James Brennand has been dismissed. Brennand was charged with aggravated assault by a public servant in the 2022 shooting of then-17-year-old Erik Cantu.Charges against former San Antonio police officer dismissed ahead of trial was first posted on July 14, 2026 at 2:40 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilt</description>
+      <category>Texas Surveillance</category>
+      <pubDate>Tue, 14 Jul 2026 19:40:49 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 7500 SIDBURY CIR (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0955231</link>
@@ -783,30 +807,6 @@ The post ICE Orders Halt to Vehicle Stops After Deadly Shootings by Federal Agen
       <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0947469 | NORTH Division | 7/12/2026 9:09:29 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/12/2026 9:09:29 PM</pubDate>
-    </item>
-    <item>
-      <title>Want to own a real T. rex? It could cost you $30 million</title>
-      <link>https://www.npr.org/2026/07/12/nx-s1-5890988/t-rex-gus-dinosaur-auction-sothebys-millions</link>
-      <guid>https://www.npr.org/2026/07/12/nx-s1-5890988/t-rex-gus-dinosaur-auction-sothebys-millions</guid>
-      <description>[Open Source Software] Keyword: FOSS — The Tyrannosaurus rex fossil known as &quot;Gus&quot; will go up for auction on Tuesday. It's not the first time dinosaur bones have been sold to the highest bidder.</description>
-      <category>Open Source Software</category>
-      <pubDate>Sun, 12 Jul 2026 20:14:03 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Chinese graduate accused of being Mexico's 'fentanyl king'</title>
-      <link>https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Opioid Treatment &amp; Methadone] Keyword: fentanyl — Cartel members and ex-colleagues describe how Zhang Zhidong allegedly linked Chinese chemicals to Mexican drug labs.</description>
-      <category>Opioid Treatment &amp; Methadone</category>
-      <pubDate>Mon, 13 Jul 2026 00:05:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 400 PARK PLAZA (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0946864</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0946864</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0946864 | WEST Division | 7/12/2026 6:30:44 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/12/2026 6:30:44 PM</pubDate>
     </item>
   </channel>
 </rss>
