@@ -5,8 +5,64 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 05:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 07:55:23 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — NOGALITOS ST / HEARNE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0953372</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0953372</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-0953372 | SOUTH Division | 7/14/2026 2:24:38 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/14/2026 2:24:38 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 1200 BABCOCK RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0953376</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0953376</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0953376 | WEST Division | 7/14/2026 2:27:09 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/14/2026 2:27:09 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 7800 WOODCHASE DR (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0953387</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0953387</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0953387 | PRUE Division | 7/14/2026 2:35:27 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/14/2026 2:35:27 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 200 WHITEWOOD DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0953396</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0953396</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0953396 | SOUTH Division | 7/14/2026 2:40:25 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/14/2026 2:40:25 AM</pubDate>
+    </item>
+    <item>
+      <title>This dinosaur fossil captures the final moments of a T. rex attack</title>
+      <link>https://www.sciencedaily.com/releases/2026/07/260713000811.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/07/260713000811.htm</guid>
+      <description>[Open Source Software] Keyword: FOSS — A fossilized Edmontosaurus skull with a Tyrannosaurus tooth still embedded in its face has given scientists rare evidence of a dramatic predator-prey encounter. The discovery suggests the giant carnivore delivered an incredibly powerful face-to-face bite, offering new clues about how Tyrannosaurus hunted.</description>
+      <category>Open Source Software</category>
+      <pubDate>Tue, 14 Jul 2026 02:48:52 EDT</pubDate>
+    </item>
+    <item>
+      <title>Sale of multimillion-dollar T rex skeleton is big headache for scientists</title>
+      <link>https://www.theguardian.com/science/2026/jul/14/t-rex-skeleton-sothebys-auction-new-york-scientists</link>
+      <guid>https://www.theguardian.com/science/2026/jul/14/t-rex-skeleton-sothebys-auction-new-york-scientists</guid>
+      <description>[Open Source Software] Keyword: FOSS — Palaeontologists warn before auction at Sotheby’s in New York that super-rich collectors are harming researchWith its dagger-like teeth, bone-crushing bite and behemothic size, the fearsome Tyrannosaurus rex ruled western North America during the late Cretaceous period. Now its fossilised remains are about to dominate the auction house, with a price tag to terrify punters.On Tuesday, one of the largest and most complete T rex skeletons discovered to date is to be auctioned by Sotheby’s in New Yo</description>
+      <category>Open Source Software</category>
+      <pubDate>Tue, 14 Jul 2026 04:00:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alan Turing's biggest AI assumption may have been wrong</title>
+      <link>https://www.sciencedaily.com/releases/2026/07/260713084850.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/07/260713084850.htm</guid>
+      <description>[AI &amp; Automation] Keyword: large language model — A new book claims AI has been built on a flawed assumption dating back to Alan Turing's famous 1950 paper. Peter J. Denning argues that the most important parts of human intelligence, including common sense, intuition, culture, and practical know-how, cannot be encoded into computers. He believes this makes true human-level AI impossible, regardless of how large language models become.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Mon, 13 Jul 2026 23:12:35 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 5000 WISEMAN BLVD (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0953035</link>
@@ -750,62 +806,6 @@
       <description>[Open Source Software] Keyword: FOSS — A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.</description>
       <category>Open Source Software</category>
       <pubDate>Sat, 11 Jul 2026 23:58:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 18100 TALAVERA RDG (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942638</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942638</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0942638 | PRUE Division | 7/11/2026 6:25:30 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/11/2026 6:25:30 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 900 BILLY MITCHELL BLVD (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942648</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942648</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0942648 | SOUTH Division | 7/11/2026 6:29:50 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/11/2026 6:29:50 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 100 CONTINENTAL AVE (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942675</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942675</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0942675 | WEST Division | 7/11/2026 6:36:34 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/11/2026 6:36:34 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 900 VFW BLVD (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942425</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942425</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0942425 | SOUTH Division | 7/11/2026 5:21:18 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/11/2026 5:21:18 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 9400 CADIZ DR (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942435</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942435</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0942435 | SOUTH Division | 7/11/2026 5:26:44 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/11/2026 5:26:44 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 200 REGINA ST (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942231</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0942231</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0942231 | SOUTH Division | 7/11/2026 4:23:43 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/11/2026 4:23:43 PM</pubDate>
-    </item>
-    <item>
-      <title>New exhibit pays tribute to a South Texas music legend</title>
-      <link>https://sanantonioreport.org/new-exhibit-pays-tribute-to-a-south-texas-music-legend/</link>
-      <guid>https://sanantonioreport.org/new-exhibit-pays-tribute-to-a-south-texas-music-legend/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — “From the West Side to the World: Un Homenaje a Flaco Jimenez,&quot; an exhibit that pays tribute to the multi-Grammy-winning artist, is now open.New exhibit pays tribute to a South Texas music legend was first posted on July 11, 2026 at 4:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Sat, 11 Jul 2026 21:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
