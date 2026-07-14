@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 22:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 23:50:30 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 9200 SATELLITE CV (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0956439</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0956439</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0956439 | SOUTH Division | 7/14/2026 6:33:07 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/14/2026 6:33:07 PM</pubDate>
+    </item>
+    <item>
+      <title>How community generosity is transforming cardiovascular care in San Antonio</title>
+      <link>https://sanantonioreport.org/how-community-generosity-is-transforming-cardiovascular-care-in-san-antonio-sponsored/</link>
+      <guid>https://sanantonioreport.org/how-community-generosity-is-transforming-cardiovascular-care-in-san-antonio-sponsored/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — SPONSORED: The Medical Miracles Gala raised a record-breaking $927,000 to expand cardiovascular care for the people of South Texas.How community generosity is transforming cardiovascular care in San Antonio was first posted on July 14, 2026 at 6:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Tue, 14 Jul 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 23600 WILDERNESS OAK (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0956219</link>
@@ -791,22 +807,6 @@ The post ICE Orders Halt to Vehicle Stops After Deadly Shootings by Federal Agen
       <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — </description>
       <category>Indigenous News &amp; Tribal Sovereignty</category>
       <pubDate>Mon, 13 Jul 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘We should be dead’: Perth’s Indigenous community felt ignored after alleged Invasion Day bombing attempt, inquiry told</title>
-      <link>https://www.theguardian.com/australia-news/2026/jul/13/perth-alleged-invasion-day-bombing-attempt-indigenous-community-inquiry-ntwnfb</link>
-      <guid>https://www.theguardian.com/australia-news/2026/jul/13/perth-alleged-invasion-day-bombing-attempt-indigenous-community-inquiry-ntwnfb</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Police were told of unspecified threats before the 26 January rally but did not meet with organisers until after, parliamentary inquiry into racism toldFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastIndigenous community members who witnessed the alleged attempted terror attack at the Invasion Day rally in Perth have told a federal inquiry into racism and hate directed at First Nations people that they felt dismissed and ignored by</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Mon, 13 Jul 2026 07:53:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Colorado Voters Will Decide Whether a ‘Right to Natural Gas’ is Added to the State Constitution</title>
-      <link>https://insideclimatenews.org/news/13072026/colorado-right-to-natural-gas-amendment/</link>
-      <guid>https://insideclimatenews.org/news/13072026/colorado-right-to-natural-gas-amendment/</guid>
-      <description>[Open Source Software] Keyword: FOSS — A ballot measure written by a conservative nonprofit could amend the Colorado Constitution to enshrine fossil fuel companies&amp;#8217; right to sell methane gas and possibly force communities that have tried to eliminate gas appliances from new construction to back away from those efforts. Advance Colorado, which wrote the measure and led the effort to gather [&amp;#8230;]</description>
-      <category>Open Source Software</category>
-      <pubDate>Mon, 13 Jul 2026 08:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
