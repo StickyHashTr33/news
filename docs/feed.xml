@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 13:27:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 15:24:35 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 4100 ROGERS RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0958830</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0958830</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-0958830 | WEST Division | 7/15/2026 10:06:58 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/15/2026 10:06:58 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 300 SAN PEDRO AVE (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0958855</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0958855</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-0958855 | DOWNTOWN Division | 7/15/2026 10:14:16 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/15/2026 10:14:16 AM</pubDate>
+    </item>
+    <item>
+      <title>Bristol declared ‘city of harm reduction’ as Greens seek less punitive drug policy</title>
+      <link>https://www.theguardian.com/uk-news/2026/jul/15/bristol-drug-policy-city-of-harm-reduction-greens</link>
+      <guid>https://www.theguardian.com/uk-news/2026/jul/15/bristol-drug-policy-city-of-harm-reduction-greens</guid>
+      <description>[Opioid Treatment &amp; Methadone] Keyword: harm reduction — Councillors pass motion that paves way to setting up drugs-consumption facility where users can be helped and treatedUK politics live – latest updatesBristol has been formally declared a “city of harm reduction”, with local politicians pledging to focus on helping and treating users of illegal drugs rather than punishing them.Green councillors, who lead the city council, said the declaration was a clear signal that public health rather than criminal justice solutions were needed to tackle the UK</description>
+      <category>Opioid Treatment &amp; Methadone</category>
+      <pubDate>Wed, 15 Jul 2026 14:23:08 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 200 DWYER AVE (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0958429</link>
@@ -783,30 +807,6 @@ The post ICE Orders Halt to Vehicle Stops After Deadly Shootings by Federal Agen
       <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-0952597 | WEST Division | 7/13/2026 8:49:34 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/13/2026 8:49:34 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 5500 BABCOCK RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0952599</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0952599</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0952599 | PRUE Division | 7/13/2026 8:50:34 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/13/2026 8:50:34 PM</pubDate>
-    </item>
-    <item>
-      <title>How Kenyan volunteers hunt polio’s hidden trail</title>
-      <link>https://www.aljazeera.com/news/2026/7/14/how-kenyan-volunteers-hunt-polios-hidden-trail?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/7/14/how-kenyan-volunteers-hunt-polios-hidden-trail?traffic_source=rss</guid>
-      <description>[Public Health &amp; Health Equity] Keyword: community health — Community health volunteers travel across remote northern Kenya to detect poliovirus before it can spread.</description>
-      <category>Public Health &amp; Health Equity</category>
-      <pubDate>Tue, 14 Jul 2026 00:35:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>How redefining one word strips the Endangered Species Act's ability to protect vital habitat</title>
-      <link>https://phys.org/news/2026-07-redefining-word-endangered-species-ability.html</link>
-      <guid>https://phys.org/news/2026-07-redefining-word-endangered-species-ability.html</guid>
-      <description>[Ecology &amp; Conservation] Keyword: endangered species — It wouldn't make much sense to prohibit people from shooting a threatened woodpecker while allowing its forest to be cut down, or to bar killing endangered salmon while allowing a dam to dry out their habitat.</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Mon, 13 Jul 2026 20:40:04 EDT</pubDate>
     </item>
   </channel>
 </rss>
