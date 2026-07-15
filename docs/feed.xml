@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 19:04:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 20:56:28 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle In Progress — 2800 MABE RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0960076</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0960076</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-0960076 | WEST Division | 7/15/2026 3:40:20 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/15/2026 3:40:20 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 5600 BABCOCK RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0959631</link>
@@ -799,14 +807,6 @@ The post ICE Orders Halt to Vehicle Stops After Deadly Shootings by Federal Agen
       <description>[Government Accountability] Keyword: government transparency — Critics fear the reforms could weaken government transparency by curbing civil society's access to official information and limiting requests from foreigners.</description>
       <category>Government Accountability</category>
       <pubDate>2026-07-13T15:23:00Z</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — NOGALITOS ST / HEARNE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0953372</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0953372</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-0953372 | SOUTH Division | 7/14/2026 2:24:38 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/14/2026 2:24:38 AM</pubDate>
     </item>
   </channel>
 </rss>
