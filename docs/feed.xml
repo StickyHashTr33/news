@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 22:57:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 23:57:44 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Study finds carbon-based pricing encourages greener tourist intentions</title>
+      <link>https://phys.org/news/2026-07-carbon-based-pricing-greener-tourist.html</link>
+      <guid>https://phys.org/news/2026-07-carbon-based-pricing-greener-tourist.html</guid>
+      <description>[Climate &amp; Environment] Keyword: carbon emissions — Hotels have long encouraged guests to reuse towels, limit linen changes and conserve energy. Yet tourism remains a significant source of carbon emissions, and voluntary sustainability programs often struggle to achieve lasting behavior change. New research suggests a different approach may be more effective: connecting the environmental impact of a stay directly to what travelers pay.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 15 Jul 2026 19:00:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 8600 MARBACH RD (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0960335</link>
@@ -799,14 +807,6 @@ The post ICE Orders Halt to Vehicle Stops After Deadly Shootings by Federal Agen
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Healthcare workers at an Ebola treatment centre in the Democratic Republic of the Congo have gone on strike.</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Tue, 14 Jul 2026 10:53:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>PPE failures left NHS staff poorly protected and wasted billions, Covid inquiry finds</title>
-      <link>https://www.bbc.co.uk/news/articles/czrxrlydyzzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/czrxrlydyzzo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Healthcare staff were unable to properly protect themselves, or those in their care, from dangerous infections, says the latest inquiry report.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Tue, 14 Jul 2026 11:01:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
