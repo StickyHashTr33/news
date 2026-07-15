@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 20:56:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 21:56:45 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 8600 MARBACH RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0960335</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0960335</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0960335 | WEST Division | 7/15/2026 4:45:55 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/15/2026 4:45:55 PM</pubDate>
+    </item>
+    <item>
+      <title>Microplastics reach even 2,000 meters below the ocean surface, study finds</title>
+      <link>https://phys.org/news/2026-07-microplastics-meters-ocean-surface.html</link>
+      <guid>https://phys.org/news/2026-07-microplastics-meters-ocean-surface.html</guid>
+      <description>[Climate &amp; Environment] Keyword: plastic pollution — Plastic pollution has become a global environmental crisis, with an estimated 11 million tons of plastic entering the oceans each year. As larger plastic debris breaks down into microplastics, these tiny particles are transported throughout marine ecosystems by ocean currents, threatening marine life and ultimately entering the human food chain.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 15 Jul 2026 17:00:05 EDT</pubDate>
+    </item>
+    <item>
+      <title>Texas agencies must cut spending by 3% under new order from Abbott, Patrick and Burrows</title>
+      <link>https://sanantonioreport.org/texas-agencies-must-cut-spending-abbott-patrick-burrows/</link>
+      <guid>https://sanantonioreport.org/texas-agencies-must-cut-spending-abbott-patrick-burrows/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The Big Three framed the move as a way to keep Texas fiscally conservative and help fund priorities like property tax cuts.Texas agencies must cut spending by 3% under new order from Abbott, Patrick and Burrows was first posted on July 15, 2026 at 4:41 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardre</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Wed, 15 Jul 2026 21:41:38 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle In Progress — 2800 MABE RD (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0960076</link>
@@ -783,30 +807,6 @@ The post ICE Orders Halt to Vehicle Stops After Deadly Shootings by Federal Agen
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Healthcare staff were unable to properly protect themselves, or those in their care, from dangerous infections, says the latest inquiry report.</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Tue, 14 Jul 2026 11:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 100 MORRILL AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0953514</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0953514</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-0953514 | SOUTH Division | 7/14/2026 4:03:23 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/14/2026 4:03:23 AM</pubDate>
-    </item>
-    <item>
-      <title>A ‘crisis communication gap’ threatens Indigenous peoples</title>
-      <link>https://grist.org/global-indigenous-affairs-desk/a-crisis-communication-gap-threatens-indigenous-peoples/</link>
-      <guid>https://grist.org/global-indigenous-affairs-desk/a-crisis-communication-gap-threatens-indigenous-peoples/</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — </description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Germany set to restrict its Freedom of Information Act</title>
-      <link>https://www.dw.com/en/germany-set-to-restrict-its-freedom-of-information-act/a-77939695?maca=en-rss-en-all-1573-rdf</link>
-      <guid>https://www.dw.com/en/germany-set-to-restrict-its-freedom-of-information-act/a-77939695?maca=en-rss-en-all-1573-rdf</guid>
-      <description>[Government Accountability] Keyword: government transparency — Critics fear the reforms could weaken government transparency by curbing civil society's access to official information and limiting requests from foreigners.</description>
-      <category>Government Accountability</category>
-      <pubDate>2026-07-13T15:23:00Z</pubDate>
     </item>
   </channel>
 </rss>
