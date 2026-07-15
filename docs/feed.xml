@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 23:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 01:58:45 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 9600 BANDERA RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0956886</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0956886</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0956886 | PRUE Division | 7/14/2026 8:37:20 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/14/2026 8:37:20 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 900 CANTRELL DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0956908</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0956908</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0956908 | SOUTH Division | 7/14/2026 8:45:17 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/14/2026 8:45:17 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — GRISSOM RD / TIMBERHILL DR (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0956915</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0956915</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0956915 | PRUE Division | 7/14/2026 8:46:50 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/14/2026 8:46:50 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 9200 SATELLITE CV (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0956439</link>
@@ -783,30 +807,6 @@ The post ICE Orders Halt to Vehicle Stops After Deadly Shootings by Federal Agen
       <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0948653 | NORTH Division | 7/13/2026 5:03:30 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/13/2026 5:03:30 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 8100 SETTING MOON (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0948655</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0948655</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0948655 | PRUE Division | 7/13/2026 5:04:43 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/13/2026 5:04:43 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 800 N FRIO ST (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0948659</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0948659</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0948659 | CENTRAL Division | 7/13/2026 5:07:37 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/13/2026 5:07:37 AM</pubDate>
-    </item>
-    <item>
-      <title>As climate and conflict collide, Indigenous leaders confront overlapping crises at the UN</title>
-      <link>https://grist.org/global-indigenous-affairs-desk/as-climate-and-conflict-collide-indigenous-leaders-confront-overlapping-crises-at-the-un/</link>
-      <guid>https://grist.org/global-indigenous-affairs-desk/as-climate-and-conflict-collide-indigenous-leaders-confront-overlapping-crises-at-the-un/</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — </description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Mon, 13 Jul 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
