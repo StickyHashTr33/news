@@ -5,8 +5,64 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 04:55:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:13:18 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 100 DORIE ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0957744</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0957744</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-0957744 | EAST Division | 7/15/2026 1:35:27 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/15/2026 1:35:27 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 7700 WURZBACH RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0957747</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0957747</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0957747 | PRUE Division | 7/15/2026 1:36:05 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/15/2026 1:36:05 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle In Progress — 90 NE LOOP 410 (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0957780</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0957780</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-0957780 | NORTH Division | 7/15/2026 1:49:09 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/15/2026 1:49:09 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 5800 SLOAN DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0957785</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0957785</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-0957785 | WEST Division | 7/15/2026 1:52:48 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/15/2026 1:52:48 AM</pubDate>
+    </item>
+    <item>
+      <title>Australia demands AI companies must produce more energy than they consume, stop ‘theft’ of content</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/07/15/australia-demands-ai-companies-must-produce-more-energy-than-they-consume-stop-theft-of-content/5271535</link>
+      <guid>https://www.theregister.com/ai-and-ml/2026/07/15/australia-demands-ai-companies-must-produce-more-energy-than-they-consume-stop-theft-of-content/5271535</guid>
+      <description>[Labor &amp; Worker Rights] Keyword: minimum wage — PM frames sweeping new regulations as the equivalent of labour movement touchstones like winning a minimum wage</description>
+      <category>Labor &amp; Worker Rights</category>
+      <pubDate>Wed, 15 Jul 2026 05:40:17 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mystery bidder buys T. rex nicknamed 'Gus' for a record $50 million</title>
+      <link>https://www.npr.org/2026/07/15/nx-s1-5894586/mystery-bidder-buys-t-rex</link>
+      <guid>https://www.npr.org/2026/07/15/nx-s1-5894586/mystery-bidder-buys-t-rex</guid>
+      <description>[Open Source Software] Keyword: FOSS — A Tyrannosaurus rex fossil billed as one of the world's largest and most complete specimens was sold for a record $50.1 million Tuesday to a mystery bidder.</description>
+      <category>Open Source Software</category>
+      <pubDate>Wed, 15 Jul 2026 02:25:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>South Korea to launch universal basic AI chatbot</title>
+      <link>https://www.theregister.com/public-sector/2026/07/15/south-korea-to-launch-universal-basic-ai-chatbot/5271566</link>
+      <guid>https://www.theregister.com/public-sector/2026/07/15/south-korea-to-launch-universal-basic-ai-chatbot/5271566</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — Tender calls for providers to power free service with local LLMs, government to supply some GPUs</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Wed, 15 Jul 2026 06:54:11 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 7600 BANDERA RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0957442</link>
@@ -751,62 +807,6 @@ The post ICE Orders Halt to Vehicle Stops After Deadly Shootings by Federal Agen
       <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0949915 | EAST Division | 7/13/2026 11:10:27 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/13/2026 11:10:27 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 10400 COUNTRY BLF (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0949951</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0949951</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0949951 | PRUE Division | 7/13/2026 11:17:03 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/13/2026 11:17:03 AM</pubDate>
-    </item>
-    <item>
-      <title>Climate shocks are hitting South Africa's food businesses—study shows what they need to adapt</title>
-      <link>https://phys.org/news/2026-07-climate-south-africa-food-businesses.html</link>
-      <guid>https://phys.org/news/2026-07-climate-south-africa-food-businesses.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Climate change discussions in southern Africa often focus on farming, where the effects of environmental shocks are most visible. The debate frequently centers on droughts, floods, declining crop productivity and heat stress affecting livestock systems. This is largely because agriculture is a sector that's directly exposed to extreme weather events.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Mon, 13 Jul 2026 11:40:08 EDT</pubDate>
-    </item>
-    <item>
-      <title>Wealthier and more populated metropolitan areas respond more strongly to early drought news by saving water</title>
-      <link>https://phys.org/news/2026-07-wealthier-populated-metropolitan-areas-strongly.html</link>
-      <guid>https://phys.org/news/2026-07-wealthier-populated-metropolitan-areas-strongly.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — As climate change increases the risk of severe droughts, water resources management is an urgent challenge. Drought develops slowly, which can make it difficult for the public to recognize an ongoing drought. Governments rely on the media to communicate drought risks and encourage water conservation. However, it has remained unclear how much drought-related news actually contributes to water-saving behavior in different regions.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Mon, 13 Jul 2026 12:20:05 EDT</pubDate>
-    </item>
-    <item>
-      <title>Albanese to compare pivotal moment in AI to renewable energy transition as he outlines approach</title>
-      <link>https://www.theguardian.com/australia-news/2026/jul/14/anthony-albanese-ai-speech-safety-copyright-datacentres-social-licence</link>
-      <guid>https://www.theguardian.com/australia-news/2026/jul/14/anthony-albanese-ai-speech-safety-copyright-datacentres-social-licence</guid>
-      <description>[Climate &amp; Environment] Keyword: renewable energy — Labor sources say the PM will discuss safety concerns in speech this week but will not provide an update on copyright reforms to protect artistsGet our breaking news email, free app or daily news podcastAnthony Albanese will describe the progress of AI as an inflection point for society on par with the renewable energy transition, but is not expected to detail progress on copyright reforms to protect creative industries.The prime minister will deliver a highly anticipated speech in Sydney on Wed</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Mon, 13 Jul 2026 15:00:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Person reported killed during ICE operation in Maine, state house speaker says – US politics live</title>
-      <link>https://www.theguardian.com/us-news/live/2026/jul/13/congress-capitol-lindsey-graham-trump-republicans-democrats-us-politics-latest-news-updates</link>
-      <guid>https://www.theguardian.com/us-news/live/2026/jul/13/congress-capitol-lindsey-graham-trump-republicans-democrats-us-politics-latest-news-updates</guid>
-      <description>[Immigration &amp; Border] Keyword: ICE operation — Ryan Fecteau says person was reportedly shot in Biddeford, with authorities on the scene to investigateSign up for the Breaking News US emailThe Democrat’s outgoing senator for Michigan Gary Peters has endorsed member of Congress Haley Stevens to be his successor over Abdul El-Sayed in the state’s neck-and-neck primary race set for 4 August.“She has demonstrated to me time and time again that she’s a fighter,” Peters told the Detroit News. “We need workhorses in the Senate, and we need someone w</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Mon, 13 Jul 2026 16:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>SREs to AI agents: Prove yourself before you touch production</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/07/13/sres-to-ai-agents-prove-yourself-before-you-touch-production/5264658</link>
-      <guid>https://www.theregister.com/ai-and-ml/2026/07/13/sres-to-ai-agents-prove-yourself-before-you-touch-production/5264658</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — SPONSORED FEATURE: 696 experts find co-pilot welcome, autopilot not so much</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Mon, 13 Jul 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 8800 TIMBER PATH (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0948955</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0948955</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0948955 | PRUE Division | 7/13/2026 8:04:47 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/13/2026 8:04:47 AM</pubDate>
     </item>
   </channel>
 </rss>
