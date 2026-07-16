@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 18:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 20:00:13 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Living alligators expose why juvenile fossils can fool classification methods</title>
+      <link>https://phys.org/news/2026-07-alligators-expose-juvenile-fossils-classification.html</link>
+      <guid>https://phys.org/news/2026-07-alligators-expose-juvenile-fossils-classification.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — Fossil finds are exciting moments that sometimes introduce the world to an ancient mammal or dinosaur that existed millions of years ago. But a longstanding problem in paleontology is that fossils are often incomplete, and subtle differences between certain species, along with major changes that can occur as an animal grows, complicate species identification. A paper published this month in Paleobiology lays the groundwork for a new approach to correctly identifying ancient animal fossils, with </description>
+      <category>Open Source Software</category>
+      <pubDate>Thu, 16 Jul 2026 14:40:04 EDT</pubDate>
+    </item>
+    <item>
+      <title>New Landmark National Academies Report Affirms the Science Behind Holding Polluters Accountable for the Climate Crisis</title>
+      <link>https://www.commondreams.org/newswire/new-landmark-national-academies-report-affirms-the-science-behind-holding-polluters-accountable-for-the-climate-crisis</link>
+      <guid>https://www.commondreams.org/newswire/new-landmark-national-academies-report-affirms-the-science-behind-holding-polluters-accountable-for-the-climate-crisis</guid>
+      <description>[Open Source Software] Keyword: FOSS — The National Academies of Sciences, Engineering, and Medicine (NAS) today published an authoritative report, Attribution of Extreme Weather and Climate Events and Their Impacts, that validates the science connecting individual weather disasters and their lethal societal impacts directly to human-caused fossil fuel pollution. In response, Stephanie Brancaforte, climate accountability campaign director with Public Citizen’s Climate Program, issued the following statement:“For decades, Big Oil know</description>
+      <category>Open Source Software</category>
+      <pubDate>Thu, 16 Jul 2026 18:59:51 +0000</pubDate>
+    </item>
     <item>
       <title>Climate change, urban growth fuel Lagos flooding</title>
       <link>https://phys.org/news/2026-07-climate-urban-growth-fuel-lagos.html</link>
@@ -790,22 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0956908 | SOUTH Division | 7/14/2026 8:45:17 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/14/2026 8:45:17 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — GRISSOM RD / TIMBERHILL DR (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0956915</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0956915</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0956915 | PRUE Division | 7/14/2026 8:46:50 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/14/2026 8:46:50 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 9200 SATELLITE CV (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0956439</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0956439</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0956439 | SOUTH Division | 7/14/2026 6:33:07 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/14/2026 6:33:07 PM</pubDate>
     </item>
   </channel>
 </rss>
