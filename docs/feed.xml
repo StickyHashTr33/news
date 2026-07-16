@@ -5,8 +5,64 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 10:55:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 12:18:21 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5300 STONESHIRE (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0962478</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0962478</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0962478 | EAST Division | 7/16/2026 6:59:08 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/16/2026 6:59:08 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 400 THOMAS JEFFERSON DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0962490</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0962490</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0962490 | WEST Division | 7/16/2026 7:05:30 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/16/2026 7:05:30 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Shooting — 8700 FLOYD CURL DR (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0962494</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0962494</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-0962494 | PRUE Division | 7/16/2026 7:06:24 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/16/2026 7:06:24 AM</pubDate>
+    </item>
+    <item>
+      <title>Data centers are booming. Indigenous leaders want help protecting their lands.</title>
+      <link>https://grist.org/global-indigenous-affairs-desk/data-centers-are-booming-indigenous-leaders-want-help-protecting-their-lands/</link>
+      <guid>https://grist.org/global-indigenous-affairs-desk/data-centers-are-booming-indigenous-leaders-want-help-protecting-their-lands/</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — </description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Thu, 16 Jul 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coloradans to Vote on Whether They Have a “Right to Natural Gas”</title>
+      <link>https://www.motherjones.com/politics/2026/07/colorado-ballot-measure-right-natural-gas-conservative-building-codes-electrification/</link>
+      <guid>https://www.motherjones.com/politics/2026/07/colorado-ballot-measure-right-natural-gas-conservative-building-codes-electrification/</guid>
+      <description>[Open Source Software] Keyword: FOSS — This story was originally published by&amp;#160;Inside Climate News&amp;#160;and&amp;#160;is reproduced here as part of the&amp;#160;Climate Desk&amp;#160;collaboration. A ballot measure written by a conservative nonprofit could amend the Colorado Constitution to enshrine fossil fuel companies’ right to sell methane gas and possibly force communities that have tried to eliminate gas appliances from new construction to back away [&amp;#8230;]</description>
+      <category>Open Source Software</category>
+      <pubDate>Thu, 16 Jul 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Study finds LLMs nudge users toward smart savings and investing habits—but the guidance skews</title>
+      <link>https://phys.org/news/2026-07-llms-nudge-users-smart-investing.html</link>
+      <guid>https://phys.org/news/2026-07-llms-nudge-users-smart-investing.html</guid>
+      <description>[AI &amp; Automation] Keyword: large language model — Would you trust a large language model to help plan your financial future? Many Americans already do. In a 2025 survey, more than half said they'd asked AI for financial advice. By comparison, about 40% have worked with a human financial adviser, suggesting that when generative AI talks money, people listen.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Thu, 16 Jul 2026 08:00:03 EDT</pubDate>
+    </item>
+    <item>
+      <title>Why America's hospitals keep looking to India for nurses</title>
+      <link>https://www.dw.com/en/why-america-s-hospitals-keep-looking-to-india-for-nurses/a-77983988?maca=en-rss-en-all-1573-rdf</link>
+      <guid>https://www.dw.com/en/why-america-s-hospitals-keep-looking-to-india-for-nurses/a-77983988?maca=en-rss-en-all-1573-rdf</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Thousands of Indian nurses aspire to work in the US, navigating yearslong visa backlogs to fill a growing healthcare workforce shortage.</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>2026-07-16T11:59:00Z</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle In Progress — 5700 RIM PASS (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0962340</link>
@@ -750,63 +806,6 @@
       <description>[Foraging &amp; Wild Plants] Keyword: foraging — The age-old question asks, &quot;If a tree falls in a forest and no one is around to hear it, does it make a sound?&quot; While philosophers and scientists alike have pondered this question for centuries, the more relevant question for today's recreation and wildlife managers is: Does it matter what makes the sound?</description>
       <category>Foraging &amp; Wild Plants</category>
       <pubDate>Tue, 14 Jul 2026 14:40:05 EDT</pubDate>
-    </item>
-    <item>
-      <title>ICE Orders Halt to Vehicle Stops After Deadly Shootings by Federal Agents</title>
-      <link>https://theintercept.com/2026/07/14/ice-order-vehicle-stops-killings-shootings/</link>
-      <guid>https://theintercept.com/2026/07/14/ice-order-vehicle-stops-killings-shootings/</guid>
-      <description>[Immigration &amp; Border] Keyword: immigration detention — Five ICE officials said orders came down to stop vehicle stops, a go-to tactic that had helped lead to a spike in immigration detentions.
-The post ICE Orders Halt to Vehicle Stops After Deadly Shootings by Federal Agents appeared first on The Intercept.</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Tue, 14 Jul 2026 17:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>MAGA freaks out over new list of the worst states</title>
-      <link>https://www.alternet.org/maga-freak-out-worst-states/</link>
-      <guid>https://www.alternet.org/maga-freak-out-worst-states/</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — A new list ranking the 10 worst states to live in has just been released, and MAGA is not happy that the whole ranking is deep red. The list was compiled by CNBC, and according to the Daily Beast, it “factored in several ‘Quality of Life’ issues, such as healthcare and reproductive rights, crime rates, air quality, civil rights laws, and inclusivity.” Using this methodology, CNBC determined that Tennessee delivers the worst quality of life, followed by Texas, Indiana, Louisiana, Georgia, Utah, M</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Tue, 14 Jul 2026 17:17:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 20500 STONE OAK PKWY (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0954712</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0954712</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0954712 | NORTH Division | 7/14/2026 11:50:44 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/14/2026 11:50:44 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 300 W CHERYL DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0954718</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0954718</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0954718 | WEST Division | 7/14/2026 11:52:39 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/14/2026 11:52:39 AM</pubDate>
-    </item>
-    <item>
-      <title>Environmental groups sue government to stop a big change to the Endangered Species Act</title>
-      <link>https://www.npr.org/2026/07/14/nx-s1-5891858/trump-esa-harm-endangered-species-act-threatened-lawsuit</link>
-      <guid>https://www.npr.org/2026/07/14/nx-s1-5891858/trump-esa-harm-endangered-species-act-threatened-lawsuit</guid>
-      <description>[Ecology &amp; Conservation] Keyword: endangered species — By altering the definition of the word &quot;harm&quot; as used by the Endangered Species Act, the Trump administration may limit how wildlife is protected in the United States. Environmental groups are suing.</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Tue, 14 Jul 2026 12:46:18 -0400</pubDate>
-    </item>
-    <item>
-      <title>Moderate heat is enough to trigger signs of inflammation and coagulation in dairy cows</title>
-      <link>https://phys.org/news/2026-07-moderate-trigger-inflammation-coagulation-dairy.html</link>
-      <guid>https://phys.org/news/2026-07-moderate-trigger-inflammation-coagulation-dairy.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Climate change is transforming livestock farming—and at a faster rate than many anticipate. More frequent and intense heat waves place a heavy physiological strain on dairy cows.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 14 Jul 2026 13:00:05 EDT</pubDate>
-    </item>
-    <item>
-      <title>AI, Defense Spending Fuel the Rush to Mine Minerals, Report Says</title>
-      <link>https://insideclimatenews.org/news/14072026/ai-and-defense-spending-fuel-critical-mineral-rush/</link>
-      <guid>https://insideclimatenews.org/news/14072026/ai-and-defense-spending-fuel-critical-mineral-rush/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — The global rush to mine copper, lithium, cobalt and other so-called critical minerals has been framed by the mining industry as essential for addressing climate change. But a report released Tuesday says that much of the demand fueling today&amp;#8217;s mining boom comes from elsewhere.&amp;#160; The report, by the Oakland Institute, a progressive think tank, estimates [&amp;#8230;]</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 14 Jul 2026 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
