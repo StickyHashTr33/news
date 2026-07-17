@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 22:44:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 23:48:40 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — CITY-BASE WEST (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0969973</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0969973</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0969973 | SOUTH Division | 7/17/2026 6:35:50 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/17/2026 6:35:50 PM</pubDate>
+    </item>
+    <item>
+      <title>Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities</title>
+      <link>https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Fri, 17 Jul 2026 23:15:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Canadian PM ignites MAGA fury with science lesson</title>
+      <link>https://www.alternet.org/trump-canada-wildfire/</link>
+      <guid>https://www.alternet.org/trump-canada-wildfire/</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Canadian Prime Minister Mark Carney incited a MAGA meltdown after pointing out that the United States shared responsibility for the climate change currently dumping wildfire smoke all over the upper U.S.Nearly 900 wildfires were burning without control in the north, as of Friday, in the wake of an abnormally dry and hot summer. This led to air quality alerts throughout the northeast and the Midwest, with Chicago and Detroit having the worst air of any major cities in the world — and more US citi</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Fri, 17 Jul 2026 23:38:37 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 300 FREILING DR (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0969670</link>
@@ -786,30 +810,6 @@ The post Yonder Radio: Combatting Appalachian Stereotypes, Maternal Healthcare, 
       <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — </description>
       <category>Indigenous News &amp; Tribal Sovereignty</category>
       <pubDate>Thu, 16 Jul 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coloradans to Vote on Whether They Have a “Right to Natural Gas”</title>
-      <link>https://www.motherjones.com/politics/2026/07/colorado-ballot-measure-right-natural-gas-conservative-building-codes-electrification/</link>
-      <guid>https://www.motherjones.com/politics/2026/07/colorado-ballot-measure-right-natural-gas-conservative-building-codes-electrification/</guid>
-      <description>[Open Source Software] Keyword: FOSS — This story was originally published by&amp;#160;Inside Climate News&amp;#160;and&amp;#160;is reproduced here as part of the&amp;#160;Climate Desk&amp;#160;collaboration. A ballot measure written by a conservative nonprofit could amend the Colorado Constitution to enshrine fossil fuel companies’ right to sell methane gas and possibly force communities that have tried to eliminate gas appliances from new construction to back away [&amp;#8230;]</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 16 Jul 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Study finds LLMs nudge users toward smart savings and investing habits—but the guidance skews</title>
-      <link>https://phys.org/news/2026-07-llms-nudge-users-smart-investing.html</link>
-      <guid>https://phys.org/news/2026-07-llms-nudge-users-smart-investing.html</guid>
-      <description>[AI &amp; Automation] Keyword: large language model — Would you trust a large language model to help plan your financial future? Many Americans already do. In a 2025 survey, more than half said they'd asked AI for financial advice. By comparison, about 40% have worked with a human financial adviser, suggesting that when generative AI talks money, people listen.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Thu, 16 Jul 2026 08:00:03 EDT</pubDate>
-    </item>
-    <item>
-      <title>Why America's hospitals keep looking to India for nurses</title>
-      <link>https://www.dw.com/en/why-america-s-hospitals-keep-looking-to-india-for-nurses/a-77983988?maca=en-rss-en-all-1573-rdf</link>
-      <guid>https://www.dw.com/en/why-america-s-hospitals-keep-looking-to-india-for-nurses/a-77983988?maca=en-rss-en-all-1573-rdf</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Thousands of Indian nurses aspire to work in the US, navigating yearslong visa backlogs to fill a growing healthcare workforce shortage.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>2026-07-16T11:59:00Z</pubDate>
     </item>
   </channel>
 </rss>
