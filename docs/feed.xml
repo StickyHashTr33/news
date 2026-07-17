@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 18:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 20:03:11 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 100 LEWIS ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0969013</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0969013</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0969013 | DOWNTOWN Division | 7/17/2026 2:47:24 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/17/2026 2:47:24 PM</pubDate>
+    </item>
+    <item>
+      <title>Amazon soy pact collapse could add 1.4 million hectares of deforestation by 2036</title>
+      <link>https://phys.org/news/2026-07-amazon-soy-pact-collapse-million.html</link>
+      <guid>https://phys.org/news/2026-07-amazon-soy-pact-collapse-million.html</guid>
+      <description>[Climate &amp; Environment] Keyword: carbon emissions — The collapse of a landmark Amazon soy pact will drive at least 1.4 million hectares (3.5 million acres) of extra deforestation in Brazil over the next decade, releasing carbon emissions equal to Canada's annual output, according to an analysis published Thursday.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Fri, 17 Jul 2026 15:40:02 EDT</pubDate>
+    </item>
+    <item>
+      <title>AI spam filters are getting suckered by old-school text salting</title>
+      <link>https://www.theregister.com/security/2026/07/17/ai-spam-filters-are-getting-suckered-by-old-school-text-salting/5274434</link>
+      <guid>https://www.theregister.com/security/2026/07/17/ai-spam-filters-are-getting-suckered-by-old-school-text-salting/5274434</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — Turns out decades-old email tricks still work against some LLM-powered email filters</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Fri, 17 Jul 2026 18:15:22 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 5800 NW LOOP 410 (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0968511</link>
@@ -786,30 +810,6 @@ The post Yonder Radio: Combatting Appalachian Stereotypes, Maternal Healthcare, 
       <description>[Ecology &amp; Conservation] Keyword: endangered species — Many endangered species now live in the area that once formed the border between East and West Germany. Environment Minister Carsten Schneider recently visited the &quot;Green Belt,&quot; and DW went along for the ride.</description>
       <category>Ecology &amp; Conservation</category>
       <pubDate>2026-07-16T07:39:00Z</pubDate>
-    </item>
-    <item>
-      <title>Bananas! Surprise as back garden plant bears fruit</title>
-      <link>https://www.bbc.co.uk/news/articles/cp8r86k3np0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/cp8r86k3np0o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Stephen Hind believes the current hot temperatures and climate change have encouraged the fruit.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 16 Jul 2026 05:22:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Australian patients’ medical records could be sold on dark web after clinics’ data breach</title>
-      <link>https://www.theguardian.com/australia-news/2026/jul/16/partnered-health-data-breach-medical-centres-cyber-attack</link>
-      <guid>https://www.theguardian.com/australia-news/2026/jul/16/partnered-health-data-breach-medical-centres-cyber-attack</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — ‘Malicious actor’ obtains sensitive data including Medicare numbers, treatment details and pathology results in cyber-attack on Partnered HealthFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAustralians’ medical records and patient information could be sold on the hidden market, an expert has warned, after a cyber-attack at one of the nation’s biggest healthcare providers.Partnered Health revealed 21 clinics across several cities </description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Thu, 16 Jul 2026 05:46:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — MISTY LAKE / LAKE TAHOE (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0961826</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0961826</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0961826 | EAST Division | 7/16/2026 12:16:15 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/16/2026 12:16:15 AM</pubDate>
     </item>
   </channel>
 </rss>
