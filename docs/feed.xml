@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 02:11:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 05:38:06 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 1100 AUSTIN HWY (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0966403</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0966403</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-0966403 | NORTH Division | 7/17/2026 12:20:25 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/17/2026 12:20:25 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 400 STRATFORD CT (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0966408</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0966408</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0966408 | SOUTH Division | 7/17/2026 12:22:27 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/17/2026 12:22:27 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 2300 S WW WHITE RD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0966422</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0966422</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0966422 | EAST Division | 7/17/2026 12:27:58 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/17/2026 12:27:58 AM</pubDate>
+    </item>
+    <item>
+      <title>South Korea making its own security-centric AI model</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/07/17/south-korea-making-its-own-security-centric-ai-model/5274034</link>
+      <guid>https://www.theregister.com/ai-and-ml/2026/07/17/south-korea-making-its-own-security-centric-ai-model/5274034</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — Adapting existing local LLM project for security and sovereignty purposes and hopes to one day match Mythos</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Fri, 17 Jul 2026 03:56:40 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 200 ANTRIM DR (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0965718</link>
@@ -774,38 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0958195 | WEST Division | 7/15/2026 6:22:01 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/15/2026 6:22:01 AM</pubDate>
-    </item>
-    <item>
-      <title>A moment of silence, please, for the final release of Debian on x86-32</title>
-      <link>https://www.theregister.com/os-platforms/2026/07/15/a-moment-of-silence-please-for-the-final-release-of-debian-on-x86-32/5271198</link>
-      <guid>https://www.theregister.com/os-platforms/2026/07/15/a-moment-of-silence-please-for-the-final-release-of-debian-on-x86-32/5271198</guid>
-      <description>[Open Source Software] Keyword: FOSS — New Debian versions hit FOSSland in the form of 13.6 and 12.15</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 15 Jul 2026 12:44:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>US trial could reveal who paid hackers to target Exxon climate critics: ‘on the edge of our seats’</title>
-      <link>https://www.theguardian.com/us-news/ng-interactive/2026/jul/15/climate-activists-exxon-hired-hackers-trial</link>
-      <guid>https://www.theguardian.com/us-news/ng-interactive/2026/jul/15/climate-activists-exxon-hired-hackers-trial</guid>
-      <description>[Open Source Software] Keyword: FOSS — Oil giant has denied involvement, but climate activists are closely watching court case against Israeli private investigator for answersA group of American climate activists are closely watching a US court case that could reveal who hired hackers to target their inboxes a decade ago.In 2015, a set of explosive media reports revealed that ExxonMobil’s own scientists determined as early as 1982 that the extraction and burning of fossil fuels caused the climate crisis – but Exxon went on to fund cl</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 15 Jul 2026 10:00:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>‘Fear, intimidation, violence’: calls mount to remove ICE from US streets after agents killed two men</title>
-      <link>https://www.theguardian.com/us-news/2026/jul/15/remove-ice-us-streets-joan-sebastian-duran-guerrero-lorenzo-salgado-araujo</link>
-      <guid>https://www.theguardian.com/us-news/2026/jul/15/remove-ice-us-streets-joan-sebastian-duran-guerrero-lorenzo-salgado-araujo</guid>
-      <description>[Police &amp; Criminal Justice] Keyword: police accountability — Agents killed Johan Sebastián Durán Guerrero in Maine and Lorenzo Salgado Araujo in Texas, even though both were not targets of enforcement actionUS officials are facing mounting calls to remove US Immigration and Customs Enforcement (ICE) from American streets after federal agents killed two men who were not the target of enforcement action in less than a week.Advocacy groups, including the National Police Accountability Project and the Coalition for Humane Immigrant Rights, described the fatal</description>
-      <category>Police &amp; Criminal Justice</category>
-      <pubDate>Wed, 15 Jul 2026 10:00:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dough Baby rises from farmers market to Olmos Park brick-and-mortar</title>
-      <link>https://sanantonioreport.org/san-antonio-dough-baby-farmers-market-olmos-park/</link>
-      <guid>https://sanantonioreport.org/san-antonio-dough-baby-farmers-market-olmos-park/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Dough Baby, was a mere side gig designed to earn extra money. Two years and four months later, Dough Baby now stands as a brick-and-mortar on McCullough Avenue in Olmos Park. Dough Baby rises from farmers market to Olmos Park brick-and-mortar was first posted on July 15, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Ple</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Wed, 15 Jul 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
