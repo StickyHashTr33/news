@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 14:47:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 15:52:30 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 4900 MILITARY DR W (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972959</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972959</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0972959 | SOUTH Division | 7/18/2026 10:31:23 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/18/2026 10:31:23 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 5000 VON SCHEELE DR (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972996</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972996</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0972996 | PRUE Division | 7/18/2026 10:40:45 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/18/2026 10:40:45 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 80 TRAILCREST (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972758</link>
@@ -794,22 +810,6 @@ The post Yonder Radio: Combatting Appalachian Stereotypes, Maternal Healthcare, 
       <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0965069 | PRUE Division | 7/16/2026 5:36:33 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/16/2026 5:36:33 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — MERRIWEATHER DR / NATCHEZ TRAIL DR (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0965095</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0965095</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0965095 | SOUTH Division | 7/16/2026 5:42:26 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/16/2026 5:42:26 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 7400 PIPERS RUN (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0965099</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0965099</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0965099 | WEST Division | 7/16/2026 5:43:05 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/16/2026 5:43:05 PM</pubDate>
     </item>
   </channel>
 </rss>
