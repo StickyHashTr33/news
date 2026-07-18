@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 22:44:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 23:49:34 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 200 E BASSE RD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974651</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974651</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0974651 | NORTH Division | 7/18/2026 6:29:17 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/18/2026 6:29:17 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 100 MICKLEJOHN ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974670</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974670</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0974670 | CENTRAL Division | 7/18/2026 6:35:33 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/18/2026 6:35:33 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 3100 SW MILITARY DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974675</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974675</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0974675 | SOUTH Division | 7/18/2026 6:36:29 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/18/2026 6:36:29 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person - Endangered — 8700 PORT OF CALL DR (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974445</link>
@@ -786,30 +810,6 @@ The post Yonder Radio: Combatting Appalachian Stereotypes, Maternal Healthcare, 
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0966803 | EAST Division | 7/17/2026 2:46:56 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/17/2026 2:46:56 AM</pubDate>
-    </item>
-    <item>
-      <title>Texas floods ravage through southwestern areas of state</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/7/17/texas-floods-ravage-through-southwestern-areas-of-state?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/video/newsfeed/2026/7/17/texas-floods-ravage-through-southwestern-areas-of-state?traffic_source=rss</guid>
-      <description>[Texas Environment &amp; Water] Keyword: Texas flood — At least 2 people are dead, and over 200 were rescued in catastrophic floods in the Texas Hill Country region.</description>
-      <category>Texas Environment &amp; Water</category>
-      <pubDate>Fri, 17 Jul 2026 05:12:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Three years of War in Sudan: A Crisis the World Can’t Ignore</title>
-      <link>https://www.ipsnews.net/2026/07/three-years-of-war-in-sudan-a-crisis-the-world-cant-ignore/</link>
-      <guid>https://www.ipsnews.net/2026/07/three-years-of-war-in-sudan-a-crisis-the-world-cant-ignore/</guid>
-      <description>[Housing &amp; Gentrification] Keyword: displacement — Three years into the war in Sudan, survivors and human rights defenders are struggling to respond to overwhelming needs amid widespread violence, displacement, and limited global attention. As horrific violations and abuses intensify and those documenting them become targets, calls for accountability and sustained international engagement grow more urgent. “The violations are severe: torture, rape, [&amp;#8230;]</description>
-      <category>Housing &amp; Gentrification</category>
-      <pubDate>Fri, 17 Jul 2026 03:07:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘How’s this joker got my details?’: BrewDog founder faces complaints over emails to ‘equity punks’</title>
-      <link>https://www.theguardian.com/business/2026/jul/17/brewdog-founder-james-watt-faces-data-privacy-complaints-over-emails-to-equity-punks</link>
-      <guid>https://www.theguardian.com/business/2026/jul/17/brewdog-founder-james-watt-faces-data-privacy-complaints-over-emails-to-equity-punks</guid>
-      <description>[Digital Rights &amp; Privacy] Keyword: data privacy — Exclusive: Watchdog asked to look into how James Watt got data of ex-crowdfunders he invited to join buy-back bidJames Watt, the BrewDog founder who sold the debt-laden “punk” brewer earlier this year, is the subject of complaints to the UK’s data privacy watchdog linked to his surprise bid to buy the company back, the Guardian has learned.BrewDog’s brand, intellectual property, UK breweries and 11 bars were sold to the US cannabis and drinks firm Tilray in March for £33m, in a deal that rendere</description>
-      <category>Digital Rights &amp; Privacy</category>
-      <pubDate>Fri, 17 Jul 2026 06:00:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
