@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 04:55:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 06:59:08 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle In Progress — 2300 AUSTIN HWY (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0971698</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0971698</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-0971698 | EAST Division | 7/18/2026 1:46:32 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/18/2026 1:46:32 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 2200 S LAREDO ST (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0971228</link>
@@ -802,14 +810,6 @@ The post Yonder Radio: Combatting Appalachian Stereotypes, Maternal Healthcare, 
       <description>[Climate &amp; Environment] Keyword: climate change — Dung beetles are quietly performing a vital climate change mitigation service for Australia's livestock sector, slashing methane emissions from cattle manure by 85%, a new Southern Cross University study has found.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Thu, 16 Jul 2026 11:50:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Data breach reportedly targets India’s Kudankulam nuclear power plant</title>
-      <link>https://www.aljazeera.com/news/2026/7/16/data-breach-reportedly-targets-indias-kudankulam-nuclear-power-plant?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/7/16/data-breach-reportedly-targets-indias-kudankulam-nuclear-power-plant?traffic_source=rss</guid>
-      <description>[Cybersecurity] Keyword: data breach — Purported blueprints of parts of India&amp;#039;s largest plant exposed by World Leaks ransomware group, Reuters reports.</description>
-      <category>Cybersecurity</category>
-      <pubDate>Thu, 16 Jul 2026 14:46:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
