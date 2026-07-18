@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 16:52:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 17:53:49 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — W COMMERCE ST / N RICHTER ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0973366</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0973366</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0973366 | CENTRAL Division | 7/18/2026 12:29:27 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/18/2026 12:29:27 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 4400 MEEKS AVE (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0973386</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0973386</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0973386 | EAST Division | 7/18/2026 12:38:47 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/18/2026 12:38:47 PM</pubDate>
+    </item>
+    <item>
+      <title>Police Keep Losing Their Jobs For Using Flock Cameras To Stalk People</title>
+      <link>https://www.motherjones.com/politics/2026/07/police-losing-jobs-flock-cameras-alprs/</link>
+      <guid>https://www.motherjones.com/politics/2026/07/police-losing-jobs-flock-cameras-alprs/</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: license plate reader — Flock cameras—solar-powered, automated license plate readers, weighing less than 3 pounds and designed to be unobtrusive—can be found on 80,000 street corners throughout the country. The company behind the cameras built an $8.3 billion business empowering officers to track people’s movements. Nationwide, Flock cameras log billions of license plates each month. And now dozens of [&amp;#8230;]</description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>Sat, 18 Jul 2026 16:59:24 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Robbery of Individual — 900 W HOUSTON ST (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0973183</link>
@@ -786,30 +810,6 @@ The post Yonder Radio: Combatting Appalachian Stereotypes, Maternal Healthcare, 
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0965301 | NORTH Division | 7/16/2026 6:42:38 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/16/2026 6:42:38 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 5500 TIMBER MOSS (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0965307</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0965307</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0965307 | PRUE Division | 7/16/2026 6:44:59 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/16/2026 6:44:59 PM</pubDate>
-    </item>
-    <item>
-      <title>Tribes and Environmental Groups Push Back on Trump Rule to Diminish Habitat Protections for Endangered Species</title>
-      <link>https://insideclimatenews.org/news/16072026/groups-push-back-on-trump-endangered-species-act-rule/</link>
-      <guid>https://insideclimatenews.org/news/16072026/groups-push-back-on-trump-endangered-species-act-rule/</guid>
-      <description>[Ecology &amp; Conservation] Keyword: endangered species — Environmental groups and tribes are suing the Trump administration over a new rule eliminating the majority of habitat protections for imperiled wildlife protected by the Endangered Species Act.&amp;#160; Experts say the rule represents the most profound change to the law since it was first enacted in 1973, paving the way for more development and industrial [&amp;#8230;]</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Thu, 16 Jul 2026 23:31:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Democrats have a devastating weapon to trounce Republicans in 2026</title>
-      <link>https://www.alternet.org/minimum-wage-republicans-democrats/</link>
-      <guid>https://www.alternet.org/minimum-wage-republicans-democrats/</guid>
-      <description>[Labor &amp; Worker Rights] Keyword: minimum wage — President Donald Trump famously refused to support raising the minimum wage while campaigning at McDonald’s in 2024, rescinded a federal order raising the minimum wage for federal contractors during his second term and picked a Treasury Secretary (Scott Bessent) who staunchly opposed raising it despite being worth hundreds of millions himself.Now some Democrats are arguing that a focus on the minimum wage could be the key to defeating Republicans in the 2026 midterm elections.“Democrats have set</description>
-      <category>Labor &amp; Worker Rights</category>
-      <pubDate>Thu, 16 Jul 2026 23:02:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
