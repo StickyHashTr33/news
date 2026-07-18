@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 21:45:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 22:44:05 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 8700 PORT OF CALL DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974445</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974445</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-0974445 | SOUTH Division | 7/18/2026 5:30:11 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/18/2026 5:30:11 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 4300 HYATT PLACE DR (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974447</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974447</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0974447 | PRUE Division | 7/18/2026 5:30:42 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/18/2026 5:30:42 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 500 S GENERAL MCMULLEN (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974452</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974452</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0974452 | WEST Division | 7/18/2026 5:31:53 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/18/2026 5:31:53 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 100 FERNCROFT DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974462</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974462</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0974462 | SOUTH Division | 7/18/2026 5:33:37 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/18/2026 5:33:37 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 10800 WESTWOOD LOOP (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974218</link>
@@ -778,38 +810,6 @@ The post Yonder Radio: Combatting Appalachian Stereotypes, Maternal Healthcare, 
       <description>[Digital Rights &amp; Privacy] Keyword: data privacy — Exclusive: Watchdog asked to look into how James Watt got data of ex-crowdfunders he invited to join buy-back bidJames Watt, the BrewDog founder who sold the debt-laden “punk” brewer earlier this year, is the subject of complaints to the UK’s data privacy watchdog linked to his surprise bid to buy the company back, the Guardian has learned.BrewDog’s brand, intellectual property, UK breweries and 11 bars were sold to the US cannabis and drinks firm Tilray in March for £33m, in a deal that rendere</description>
       <category>Digital Rights &amp; Privacy</category>
       <pubDate>Fri, 17 Jul 2026 06:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — 1100 AUSTIN HWY (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0966403</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0966403</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-0966403 | NORTH Division | 7/17/2026 12:20:25 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/17/2026 12:20:25 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 400 STRATFORD CT (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0966408</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0966408</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0966408 | SOUTH Division | 7/17/2026 12:22:27 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/17/2026 12:22:27 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 2300 S WW WHITE RD (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0966422</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0966422</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0966422 | EAST Division | 7/17/2026 12:27:58 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/17/2026 12:27:58 AM</pubDate>
-    </item>
-    <item>
-      <title>South Korea making its own security-centric AI model</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/07/17/south-korea-making-its-own-security-centric-ai-model/5274034</link>
-      <guid>https://www.theregister.com/ai-and-ml/2026/07/17/south-korea-making-its-own-security-centric-ai-model/5274034</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — Adapting existing local LLM project for security and sovereignty purposes and hopes to one day match Mythos</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Fri, 17 Jul 2026 03:56:40 +0200</pubDate>
     </item>
   </channel>
 </rss>
