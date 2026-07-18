@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 20:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 21:45:57 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 10800 WESTWOOD LOOP (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974218</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974218</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0974218 | WEST Division | 7/18/2026 4:28:30 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/18/2026 4:28:30 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 12400 COMMAND POST (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974225</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974225</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-0974225 | NORTH Division | 7/18/2026 4:29:01 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/18/2026 4:29:01 PM</pubDate>
+    </item>
+    <item>
+      <title>UIW opens third university site in México with new campus in León, Guanajuato</title>
+      <link>https://sanantonioreport.org/uiw-opens-third-university-site-in-mexico-with-new-campus-in-leon-guanajuato/</link>
+      <guid>https://sanantonioreport.org/uiw-opens-third-university-site-in-mexico-with-new-campus-in-leon-guanajuato/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The University of the Incarnate Word expanded its offerings in the Bajío region with a new site in León, Guanajuato, México. UIW opens third university site in México with new campus in León, Guanajuato was first posted on July 18, 2026 at 4:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sat, 18 Jul 2026 21:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Brackenridge Park’s $2 million question</title>
       <link>https://sanantonioreport.org/brackenridge-parks-2-million-question-commentary/</link>
@@ -786,30 +810,6 @@ The post Yonder Radio: Combatting Appalachian Stereotypes, Maternal Healthcare, 
       <description>[AI &amp; Automation] Keyword: LLM — Adapting existing local LLM project for security and sovereignty purposes and hopes to one day match Mythos</description>
       <category>AI &amp; Automation</category>
       <pubDate>Fri, 17 Jul 2026 03:56:40 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 200 ANTRIM DR (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0965718</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0965718</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0965718 | EAST Division | 7/16/2026 8:52:58 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/16/2026 8:52:58 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 300 READWELL DR (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0965728</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0965728</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-0965728 | EAST Division | 7/16/2026 8:57:13 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/16/2026 8:57:13 PM</pubDate>
-    </item>
-    <item>
-      <title>UN report offers roadmap for sustainable blue economies</title>
-      <link>https://phys.org/news/2026-07-roadmap-sustainable-blue-economies.html</link>
-      <guid>https://phys.org/news/2026-07-roadmap-sustainable-blue-economies.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — A new United Nations report co-authored by researchers at the University of Portsmouth provides governments with a practical roadmap for building sustainable blue economies, as pollution, climate change and biodiversity loss place growing pressure on the marine and freshwater ecosystems that support billions of people and a global ocean economy worth US$2.2 trillion.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 16 Jul 2026 21:40:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
