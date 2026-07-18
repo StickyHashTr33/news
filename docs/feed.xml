@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 17:53:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 18:57:07 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trump Admin Guts Endangered Species Act to Prioritize Corporate Interests</title>
+      <link>https://truthout.org/articles/trump-admin-guts-endangered-species-act-to-prioritize-corporate-interests/</link>
+      <guid>https://truthout.org/articles/trump-admin-guts-endangered-species-act-to-prioritize-corporate-interests/</guid>
+      <description>[Ecology &amp; Conservation] Keyword: endangered species — “Yet again, the Trump administration has sold out our endangered wildlife to the highest bidder,” said one critic.</description>
+      <category>Ecology &amp; Conservation</category>
+      <pubDate>Sat, 18 Jul 2026 18:25:41 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — W COMMERCE ST / N RICHTER ST (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0973366</link>
@@ -802,14 +810,6 @@ The post Yonder Radio: Combatting Appalachian Stereotypes, Maternal Healthcare, 
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0965298 | SOUTH Division | 7/16/2026 6:42:21 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/16/2026 6:42:21 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 1100 AUSTIN HWY (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0965301</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0965301</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0965301 | NORTH Division | 7/16/2026 6:42:38 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/16/2026 6:42:38 PM</pubDate>
     </item>
   </channel>
 </rss>
