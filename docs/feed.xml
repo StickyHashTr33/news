@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 17:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 19:00:03 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5100 BLUE RANCH (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978233</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978233</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0978233 | EAST Division | 7/19/2026 1:43:42 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/19/2026 1:43:42 PM</pubDate>
+    </item>
+    <item>
+      <title>Burnham to say UK must be honest about its challenges as he prepares to become PM</title>
+      <link>https://www.theguardian.com/politics/2026/jul/19/burnham-warn-uk-honest-challenges-prepares-become-pm</link>
+      <guid>https://www.theguardian.com/politics/2026/jul/19/burnham-warn-uk-honest-challenges-prepares-become-pm</guid>
+      <description>[Open Source Software] Keyword: FOSS — Labour leader will visit king to accept role on Monday and will start making cabinet appointments that afternoon Andy Burnham will say Britain must be honest about the challenges it faces when he becomes its sixth prime minister in a decade on Monday, as he prepares to introduce measures to ease the cost of living and allow more North Sea fossil fuel drilling.The Labour leader is expected to start making appointments in the afternoon after going to Buckingham Palace to accept the role of prime m</description>
+      <category>Open Source Software</category>
+      <pubDate>Sun, 19 Jul 2026 18:32:36 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 1100 ACKERMAN RD (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978030</link>
@@ -790,22 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0969476 | NORTH Division | 7/17/2026 4:35:35 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/17/2026 4:35:35 PM</pubDate>
-    </item>
-    <item>
-      <title>Wildfire Smoke Chokes Eastern and Midwestern Cities As Air Quality Soars to Dangerously High Levels</title>
-      <link>https://insideclimatenews.org/news/17072026/wildfire-smoke-chokes-eastern-and-midwestern-cities/</link>
-      <guid>https://insideclimatenews.org/news/17072026/wildfire-smoke-chokes-eastern-and-midwestern-cities/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Smoke from climate change-fueled wildfires in Canada and northern Minnesota blanketed skies across much of the Midwest and East Coast, exposing millions of Americans to dangerous levels of air pollution. The National Weather Service warned residents in exposed areas to stay indoors as researchers began to assess the death toll.&amp;#160; One city particularly hard hit [&amp;#8230;]</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Fri, 17 Jul 2026 21:30:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Out-of-control Canadian wildfires prompt calls for ‘Nuremberg trials for big oil’</title>
-      <link>https://therealnews.com/out-of-control-canadian-wildfires-prompt-calls-for-nuremberg-trials-for-big-oil</link>
-      <guid>https://therealnews.com/out-of-control-canadian-wildfires-prompt-calls-for-nuremberg-trials-for-big-oil</guid>
-      <description>[Open Source Software] Keyword: FOSS — “Climate change isn’t a tragedy, it’s a crime. The fossil fuel industry are arsonists at a global scale. It’s their pollution that’s fueling these horrific wildfires,” one climate advocate told Common Dreams.</description>
-      <category>Open Source Software</category>
-      <pubDate>Fri, 17 Jul 2026 21:13:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
