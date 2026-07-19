@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 13:07:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 14:51:42 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 900 PATTON BLVD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977325</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977325</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0977325 | WEST Division | 7/19/2026 9:27:54 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/19/2026 9:27:54 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle In Progress — HIDALGO ST / SW 19TH ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977337</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977337</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-0977337 | CENTRAL Division | 7/19/2026 9:31:27 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/19/2026 9:31:27 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 4300 SPECTRUM ONE (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977356</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977356</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0977356 | PRUE Division | 7/19/2026 9:36:46 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/19/2026 9:36:46 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 100 E VESTAL PLACE (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977104</link>
@@ -784,31 +808,6 @@ In October 2025, EFF warned the public that Flock was rolling out a new feature 
 If you are committed to staying on the cutting edge of digital rights issues, I'd like to invite you to consider taking that commitment one step further by joining EFF’s Lighthouse Society, our way to</description>
       <category>Digital Rights &amp; Privacy</category>
       <pubDate>Fri, 17 Jul 2026 16:44:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reptile fossil found in Brazil helps shed light on the common origins of dinosaurs and crocodiles</title>
-      <link>https://phys.org/news/2026-07-reptile-fossil-brazil-common-dinosaurs.html</link>
-      <guid>https://phys.org/news/2026-07-reptile-fossil-brazil-common-dinosaurs.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — Long before dinosaurs ruled the continents and modern crocodiles first appeared, their ancestors were already going through a decisive phase in their evolutionary history. It was in this ancient world, shortly after the greatest mass extinction in Earth's history, that a new species of fossil reptile was discovered in Brazil's inland Rio Grande do Sul state.</description>
-      <category>Open Source Software</category>
-      <pubDate>Fri, 17 Jul 2026 12:00:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Calls Grow for Accountability From Fossil Fuel Execs Amid Climate-Fueled Fires</title>
-      <link>https://truthout.org/articles/calls-grow-for-accountability-from-fossil-fuel-execs-amid-climate-fueled-fires/</link>
-      <guid>https://truthout.org/articles/calls-grow-for-accountability-from-fossil-fuel-execs-amid-climate-fueled-fires/</guid>
-      <description>[Open Source Software] Keyword: FOSS — “We need Nuremberg trials for Big Oil,” the Sunrise Movement wrote on social media as wildfires rage across Canada.</description>
-      <category>Open Source Software</category>
-      <pubDate>Fri, 17 Jul 2026 14:50:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>How the Watch Dogs Video Game Series Mirrored and Predicted Real-World Digital Rights Issues</title>
-      <link>https://www.eff.org/deeplinks/2026/07/how-watch-dogs-video-game-series-mirrored-and-predicted-real-world-digital-rights</link>
-      <guid>https://www.eff.org/deeplinks/2026/07/how-watch-dogs-video-game-series-mirrored-and-predicted-real-world-digital-rights</guid>
-      <description>[Digital Rights &amp; Privacy] Keyword: digital rights — When Ubisoft's Watch Dogs 2 was released in 2016, it was a headtrip for those of us working on digital-rights issues in the Bay Area. During the day, I'd fight tech-authoritarianism from EFF's San Francisco offices and then, at night, I'd fight tech-authoritarianism in an uncanny simulation of San Francisco from my home gaming console.  
-Watch Dogs 2 is an open-world video game that follows a hacktivist collective called Dedsec as they take on surveillance tech and discriminatory AI systems that</description>
-      <category>Digital Rights &amp; Privacy</category>
-      <pubDate>Fri, 17 Jul 2026 15:01:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
