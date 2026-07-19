@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 23:49:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 02:12:28 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Common antidepressant may ease long COVID’s crushing fatigue</title>
+      <link>https://www.sciencedaily.com/releases/2026/07/260718010158.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/07/260718010158.htm</guid>
+      <description>[Science &amp; Research] Keyword: clinical trial — A low-cost antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved quality of life compared with a placebo, making it one of the first medications to show meaningful benefits for this disabling condition.</description>
+      <category>Science &amp; Research</category>
+      <pubDate>Sat, 18 Jul 2026 21:55:33 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 200 E BASSE RD (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974651</link>
@@ -802,14 +810,6 @@ The post Yonder Radio: Combatting Appalachian Stereotypes, Maternal Healthcare, 
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0966788 | EAST Division | 7/17/2026 2:34:38 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/17/2026 2:34:38 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 200 OMAHA ST (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0966803</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0966803</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0966803 | EAST Division | 7/17/2026 2:46:56 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/17/2026 2:46:56 AM</pubDate>
     </item>
   </channel>
 </rss>
