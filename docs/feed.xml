@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 11:53:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 13:07:02 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 100 E VESTAL PLACE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977104</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977104</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0977104 | SOUTH Division | 7/19/2026 7:45:37 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/19/2026 7:45:37 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 6200 S NEW BRAUNFELS AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977106</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977106</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0977106 | SOUTH Division | 7/19/2026 7:47:51 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/19/2026 7:47:51 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 11600 VANCE JACKSON (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977124</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977124</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0977124 | PRUE Division | 7/19/2026 7:55:00 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/19/2026 7:55:00 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 6100 VANCE JACKSON (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0976917</link>
@@ -785,30 +809,6 @@ If you are committed to staying on the cutting edge of digital rights issues, I'
 Watch Dogs 2 is an open-world video game that follows a hacktivist collective called Dedsec as they take on surveillance tech and discriminatory AI systems that</description>
       <category>Digital Rights &amp; Privacy</category>
       <pubDate>Fri, 17 Jul 2026 15:01:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Trump’s move to gut the Endangered Species Act likely won’t hold up in court</title>
-      <link>https://theconversation.com/why-trumps-move-to-gut-the-endangered-species-act-likely-wont-hold-up-in-court-287671</link>
-      <guid>https://theconversation.com/why-trumps-move-to-gut-the-endangered-species-act-likely-wont-hold-up-in-court-287671</guid>
-      <description>[Ecology &amp; Conservation] Keyword: endangered species — If Congress didn’t believe habitat destruction and degradation constitute ‘harm’ under the statute, why would it require permits and plans to offset habitat loss?</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>2026-07-17T12:13:47Z</pubDate>
-    </item>
-    <item>
-      <title>How an influx of salt may affect microbial ecosystems in rivers, estuaries and coastal waters worldwide</title>
-      <link>https://phys.org/news/2026-07-influx-salt-affect-microbial-ecosystems.html</link>
-      <guid>https://phys.org/news/2026-07-influx-salt-affect-microbial-ecosystems.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — As sea levels rise due to climate change, encroaching seawater will likely make freshwater environments saltier. In a new study, MIT researchers have shown how that increase in salinity might affect microbial ecosystems found in environments such as rivers and estuaries.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Fri, 17 Jul 2026 10:00:12 EDT</pubDate>
-    </item>
-    <item>
-      <title>New map shows which neighborhoods are at risk of climate gentrification</title>
-      <link>https://phys.org/news/2026-07-neighborhoods-climate-gentrification.html</link>
-      <guid>https://phys.org/news/2026-07-neighborhoods-climate-gentrification.html</guid>
-      <description>[Housing &amp; Gentrification] Keyword: gentrification — Extreme heat is not only making cities less livable; it is also reshaping who can afford to live where. The highest levels of vulnerability to climate gentrification are no longer found in the urban core, but in the metropolitan periphery. To help anticipate this process, researchers at the Institute of Environmental Science and Technology of the Universitat Autònoma de Barcelona (ICTA-UAB) have developed the first metropolitan climate and housing vulnerability index for Barcelona, with data tha</description>
-      <category>Housing &amp; Gentrification</category>
-      <pubDate>Fri, 17 Jul 2026 09:40:06 EDT</pubDate>
     </item>
   </channel>
 </rss>
