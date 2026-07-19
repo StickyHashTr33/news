@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 14:51:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 15:54:11 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5400 W LOOP 1604 N (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977572</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977572</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0977572 | WEST Division | 7/19/2026 10:38:34 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/19/2026 10:38:34 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 2800 W HUTCHINS PLACE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977575</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977575</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0977575 | SOUTH Division | 7/19/2026 10:38:49 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/19/2026 10:38:49 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 900 PATTON BLVD (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977325</link>
@@ -791,23 +807,6 @@
 In October 2025, EFF warned the public that Flock was rolling out a new feature called “Distress Detection” that would be deployed through their acoustic gunshot detection devices (formerly known as Flock Raven, now called Audio Detection). </description>
       <category>ALPR &amp; Flock Cameras</category>
       <pubDate>Fri, 17 Jul 2026 17:05:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>San Antonio, police union reach tentative agreement on new contract after months of negotiations</title>
-      <link>https://sanantonioreport.org/san-antonio-police-union-city-tentative-agreement-union-contract-bargaining/</link>
-      <guid>https://sanantonioreport.org/san-antonio-police-union-city-tentative-agreement-union-contract-bargaining/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — San Antonio and the city’s police union reached a tentative labor agreement that now heads to union members and City Council for approval.San Antonio, police union reach tentative agreement on new contract after months of negotiations was first posted on July 17, 2026 at 12:24 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please con</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Fri, 17 Jul 2026 17:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your Vision. Your Legacy. Your Future.</title>
-      <link>https://www.eff.org/deeplinks/2026/07/your-vision-your-legacy-your-future</link>
-      <guid>https://www.eff.org/deeplinks/2026/07/your-vision-your-legacy-your-future</guid>
-      <description>[Digital Rights &amp; Privacy] Keyword: digital rights — This month, we celebrate 36 years of EFF and a mission that is bigger than any one of us. Thanks to EFF, communities around the world are demanding that technology protects their freedom, advances justice, and opens doors to opportunity. That's not a small thing—it's a life's work worth continuing.
-If you are committed to staying on the cutting edge of digital rights issues, I'd like to invite you to consider taking that commitment one step further by joining EFF’s Lighthouse Society, our way to</description>
-      <category>Digital Rights &amp; Privacy</category>
-      <pubDate>Fri, 17 Jul 2026 16:44:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
