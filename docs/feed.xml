@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 02:12:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 05:47:40 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bank of England to stop accepting bonds linked to coal for key loans</title>
+      <link>https://www.theguardian.com/business/2026/jul/19/bank-of-england-bonds-coal-loans-assets</link>
+      <guid>https://www.theguardian.com/business/2026/jul/19/bank-of-england-bonds-coal-loans-assets</guid>
+      <description>[Open Source Software] Keyword: FOSS — Campaigners hope move will force commercial banks to rethink holding assets linked to the fossil fuelClimate campaigners have declared a victory after the Bank of England said it would no longer accept bonds linked to one of the most polluting industries on the planet for key loan arrangements.The ban, which comes into force in October, marks a fresh crackdown on thermal coal, which is burned in power plants to create electricity, and has long been a target of green policy activists. Continue re</description>
+      <category>Open Source Software</category>
+      <pubDate>Sun, 19 Jul 2026 05:00:17 GMT</pubDate>
+    </item>
     <item>
       <title>Common antidepressant may ease long COVID’s crushing fatigue</title>
       <link>https://www.sciencedaily.com/releases/2026/07/260718010158.htm</link>
@@ -802,14 +810,6 @@ Watch Dogs 2 is an open-world video game that follows a hacktivist collective ca
 The post Yonder Radio: Combatting Appalachian Stereotypes, Maternal Healthcare, and Art Church appeared first on The Daily Yonder.</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Fri, 17 Jul 2026 09:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 5000 GALAHAD DR (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0966788</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0966788</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0966788 | EAST Division | 7/17/2026 2:34:38 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/17/2026 2:34:38 AM</pubDate>
     </item>
   </channel>
 </rss>
