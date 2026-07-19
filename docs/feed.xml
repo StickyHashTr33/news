@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 19:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 20:10:11 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 100 WAUGH ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978470</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978470</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0978470 | EAST Division | 7/19/2026 2:54:42 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/19/2026 2:54:42 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 1500 W SUNSHINE (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978491</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978491</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-0978491 | WEST Division | 7/19/2026 2:58:19 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/19/2026 2:58:19 PM</pubDate>
+    </item>
+    <item>
+      <title>Proposed EPA rule could weaken Texans’ voice on certain air permits used by data centers</title>
+      <link>https://sanantonioreport.org/proposed-epa-rule-weaken-texans-voice-air-permits-data-centers/</link>
+      <guid>https://sanantonioreport.org/proposed-epa-rule-weaken-texans-voice-air-permits-data-centers/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The change would give states greater power on deciding how much notice and public input residents receive before such permits are approved or denied.Proposed EPA rule could weaken Texans’ voice on certain air permits used by data centers was first posted on July 19, 2026 at 2:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please c</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sun, 19 Jul 2026 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 5100 BLUE RANCH (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978233</link>
@@ -782,30 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0969698 | NORTH Division | 7/17/2026 5:32:03 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/17/2026 5:32:03 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 5500 WALZEM RD (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0969459</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0969459</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0969459 | EAST Division | 7/17/2026 4:30:50 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/17/2026 4:30:50 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 300 TORREON (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0969471</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0969471</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0969471 | CENTRAL Division | 7/17/2026 4:33:47 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/17/2026 4:33:47 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 18400 BLANCO RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0969476</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0969476</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0969476 | NORTH Division | 7/17/2026 4:35:35 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/17/2026 4:35:35 PM</pubDate>
     </item>
   </channel>
 </rss>
