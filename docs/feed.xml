@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 16:53:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 17:55:24 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 1100 ACKERMAN RD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978030</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978030</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0978030 | EAST Division | 7/19/2026 12:42:19 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/19/2026 12:42:19 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Robbery of Individual — 1000 BURLESON ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978032</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978032</guid>
+      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-0978032 | EAST Division | 7/19/2026 12:44:14 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/19/2026 12:44:14 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Shooting — 1500 CABLE RANCH RD (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977767</link>
@@ -790,22 +806,6 @@
       <description>[Open Source Software] Keyword: FOSS — “Climate change isn’t a tragedy, it’s a crime. The fossil fuel industry are arsonists at a global scale. It’s their pollution that’s fueling these horrific wildfires,” one climate advocate told Common Dreams.</description>
       <category>Open Source Software</category>
       <pubDate>Fri, 17 Jul 2026 21:13:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICE Contractor Arrested For Shooting Protester</title>
-      <link>https://www.motherjones.com/politics/2026/07/ice-geo-group-protest-shooting-employee-arrest-colorado-aurora/</link>
-      <guid>https://www.motherjones.com/politics/2026/07/ice-geo-group-protest-shooting-employee-arrest-colorado-aurora/</guid>
-      <description>[Immigration &amp; Border] Keyword: immigration detention — An ICE detention center employee shot a woman on Thursday night after a protest outside an ICE facility in Aurora, Colorado, according to an Aurora Police Department statement released Friday afternoon. The center is operated by the private prison firm GEO Group, the largest recipient of private contracts with ICE to run immigration detention centers. [&amp;#8230;]</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Fri, 17 Jul 2026 21:07:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 100 LEWIS ST (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0969013</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0969013</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0969013 | DOWNTOWN Division | 7/17/2026 2:47:24 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/17/2026 2:47:24 PM</pubDate>
     </item>
   </channel>
 </rss>
