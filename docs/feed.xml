@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 22:46:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 23:53:40 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 2200 N FLORES ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0979260</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0979260</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0979260 | DOWNTOWN Division | 7/19/2026 6:31:36 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/19/2026 6:31:36 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 16700 STONES THROW (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0979281</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0979281</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0979281 | PRUE Division | 7/19/2026 6:37:57 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/19/2026 6:37:57 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Shooting — 5700 REPEATING WAY (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0979043</link>
@@ -790,22 +806,6 @@
       <description>[Science &amp; Research] Keyword: genomics — South Africa is pioneering new ways to embed ethical benefit sharing in genomics research through community-led decision-making. Speaking at the World Congress of Bioethics (WCB) in Johannesburg on 8–10 July, Ngoni Ngwarai, assistant director of systems and operations at the SAMRC/Wits Rural Public Health and Health Transitions Research Unit (Agincourt), presented an operational blueprint for researchers, universities, funders and industry partners seeking to translate ethical principles into pr</description>
       <category>Science &amp; Research</category>
       <pubDate>Fri, 17 Jul 2026 22:20:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 100 PASO CHICO (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0970554</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0970554</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-0970554 | CENTRAL Division | 7/17/2026 8:46:51 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/17/2026 8:46:51 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 5000 N LOOP 1604 E (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0970557</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0970557</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0970557 | NORTH Division | 7/17/2026 8:47:51 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/17/2026 8:47:51 PM</pubDate>
     </item>
   </channel>
 </rss>
