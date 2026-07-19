@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 21:47:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 22:46:42 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Shooting — 5700 REPEATING WAY (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0979043</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0979043</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-0979043 | SOUTH Division | 7/19/2026 5:29:09 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/19/2026 5:29:09 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — HILLJE ST / E SOUTHCROSS BLVD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0979066</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0979066</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-0979066 | EAST Division | 7/19/2026 5:34:09 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/19/2026 5:34:09 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 14000 UNIVERSITY PASS (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0979075</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0979075</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0979075 | PRUE Division | 7/19/2026 5:36:38 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/19/2026 5:36:38 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 300 KOPPLOW (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978817</link>
@@ -782,30 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0970557 | NORTH Division | 7/17/2026 8:47:51 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/17/2026 8:47:51 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 3500 ROOSEVELT AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0970564</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0970564</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0970564 | SOUTH Division | 7/17/2026 8:49:40 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/17/2026 8:49:40 PM</pubDate>
-    </item>
-    <item>
-      <title>Paul Pelosi faces hit-and-run charge after he allegedly crashed into parked vehicle</title>
-      <link>https://www.theguardian.com/us-news/2026/jul/17/paul-pelosi-hit-and-run-charge</link>
-      <guid>https://www.theguardian.com/us-news/2026/jul/17/paul-pelosi-hit-and-run-charge</guid>
-      <description>[Government Accountability] Keyword: public records — Husband of Nancy Pelosi has traffic infractions in California stretching back at least to 2011, according to public recordsPaul Pelosi, husband of US congresswoman and former House speaker Nancy Pelosi, is facing a misdemeanor hit-and-run charge after he allegedly crashed into a parked vehicle and left the scene in early July, the Napa county district attorney announced on Friday.No passengers were in the struck car, authorities said, but the vehicle was left with “major” damage. A spokesperson </description>
-      <category>Government Accountability</category>
-      <pubDate>Sat, 18 Jul 2026 00:12:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — CITY-BASE WEST (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0969973</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0969973</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0969973 | SOUTH Division | 7/17/2026 6:35:50 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/17/2026 6:35:50 PM</pubDate>
     </item>
   </channel>
 </rss>
