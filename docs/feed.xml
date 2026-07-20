@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 17:57:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 19:40:36 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Move over quokkas—Rottnest's salt lake bacteria could be the island's next big claim to fame</title>
+      <link>https://phys.org/news/2026-07-quokkas-rottnest-salt-lake-bacteria.html</link>
+      <guid>https://phys.org/news/2026-07-quokkas-rottnest-salt-lake-bacteria.html</guid>
+      <description>[Science &amp; Research] Keyword: genomics — Scientists at Murdoch University have read the full genetic code of bacteria from the salt lakes of Wadjemup (Rottnest Island), giving them their clearest picture yet of how these tiny organisms could be used to make biodegradable plastic. Their research is published in the journal Microbial Genomics.</description>
+      <category>Science &amp; Research</category>
+      <pubDate>Mon, 20 Jul 2026 15:40:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>Japan's first mosasaur premaxilla fossil hints at a new species</title>
+      <link>https://phys.org/news/2026-07-japan-mosasaur-premaxilla-fossil-hints.html</link>
+      <guid>https://phys.org/news/2026-07-japan-mosasaur-premaxilla-fossil-hints.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — A research team from Okayama University of Science, Tokyo City University, the Natural History Museum, Kishiwada City (Osaka Prefecture), and other institutions has identified four previously unrecognized fossil bones from a rock containing mosasaur remains collected about 30 years ago in Kishiwada City, Osaka Prefecture.</description>
+      <category>Open Source Software</category>
+      <pubDate>Mon, 20 Jul 2026 14:40:05 EDT</pubDate>
+    </item>
+    <item>
+      <title>NISD picks longtime employee Jessica Palomares as interim superintendent</title>
+      <link>https://sanantonioreport.org/nisd-interim-superintendent-san-antonio/</link>
+      <guid>https://sanantonioreport.org/nisd-interim-superintendent-san-antonio/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Jessica Palomares is the assistant superintendent of elementary education. She first joined NISD in 1996 as a special ed teacher. NISD picks longtime employee Jessica Palomares as interim superintendent was first posted on July 20, 2026 at 1:11 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Mon, 20 Jul 2026 18:11:03 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Shooting — 400 8TH ST (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0982657</link>
@@ -782,30 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0973193 | NORTH Division | 7/18/2026 11:38:43 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/18/2026 11:38:43 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 4900 MILITARY DR W (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972959</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972959</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0972959 | SOUTH Division | 7/18/2026 10:31:23 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/18/2026 10:31:23 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 5000 VON SCHEELE DR (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972996</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972996</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0972996 | PRUE Division | 7/18/2026 10:40:45 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/18/2026 10:40:45 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 80 TRAILCREST (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972758</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972758</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0972758 | NORTH Division | 7/18/2026 9:33:28 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/18/2026 9:33:28 AM</pubDate>
     </item>
   </channel>
 </rss>
