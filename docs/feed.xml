@@ -5,8 +5,48 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 19:40:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 21:07:32 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 8000 MIDCROWN DR (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0983625</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0983625</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0983625 | EAST Division | 7/20/2026 3:56:19 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/20/2026 3:56:19 PM</pubDate>
+    </item>
+    <item>
+      <title>Ancestral variation, not new mutations, may impact survival of species facing climate change</title>
+      <link>https://phys.org/news/2026-07-ancestral-variation-mutations-impact-survival.html</link>
+      <guid>https://phys.org/news/2026-07-ancestral-variation-mutations-impact-survival.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Research co-authored by an Oklahoma Museum of Natural History curator, her graduate student and an international team of scientists has shed new light on the evolutionary &quot;toolkit&quot; animals use to survive environmental change.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 20 Jul 2026 17:00:05 EDT</pubDate>
+    </item>
+    <item>
+      <title>New web tool maps fossil locations across ancient continents in seconds</title>
+      <link>https://phys.org/news/2026-07-web-tool-fossil-ancient-continents.html</link>
+      <guid>https://phys.org/news/2026-07-web-tool-fossil-ancient-continents.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — Calculating a fossil's position throughout geological history is a complex process. In paleontology and other disciplines, determining a location in the past is a challenge that requires refined computational tools to process large volumes of data. Now, the BIOST3 Research Group at the University of Barcelona has designed an open-access web interface for the general public that simplifies this process and facilitates access to high-quality paleogeographic reconstructions.</description>
+      <category>Open Source Software</category>
+      <pubDate>Mon, 20 Jul 2026 16:00:07 EDT</pubDate>
+    </item>
+    <item>
+      <title>TxDOT ramps up Operation Slowdown, speeding enforcement across Texas</title>
+      <link>https://sanantonioreport.org/txdot-speeding-enforcement-texas-operation-slowdown/</link>
+      <guid>https://sanantonioreport.org/txdot-speeding-enforcement-texas-operation-slowdown/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Operation Slowdown is back. Here’s why Texas drivers will see more speed enforcement and what TxDOT wants motorists to know.TxDOT ramps up Operation Slowdown, speeding enforcement across Texas was first posted on July 20, 2026 at 3:28 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Mon, 20 Jul 2026 20:28:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Frontier LLMs couldn't help Hugging Face fight off evil agents</title>
+      <link>https://www.theregister.com/cyber-crime/2026/07/20/frontier-llms-couldnt-help-hugging-face-fight-off-evil-agents/5275168</link>
+      <guid>https://www.theregister.com/cyber-crime/2026/07/20/frontier-llms-couldnt-help-hugging-face-fight-off-evil-agents/5275168</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — Chinese open-weight model GLM 5.2 happily obliged</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Mon, 20 Jul 2026 20:46:47 +0200</pubDate>
+    </item>
     <item>
       <title>Move over quokkas—Rottnest's salt lake bacteria could be the island's next big claim to fame</title>
       <link>https://phys.org/news/2026-07-quokkas-rottnest-salt-lake-bacteria.html</link>
@@ -766,46 +806,6 @@
       <description>[Ecology &amp; Conservation] Keyword: endangered species — “Yet again, the Trump administration has sold out our endangered wildlife to the highest bidder,” said one critic.</description>
       <category>Ecology &amp; Conservation</category>
       <pubDate>Sat, 18 Jul 2026 18:25:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — W COMMERCE ST / N RICHTER ST (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0973366</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0973366</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0973366 | CENTRAL Division | 7/18/2026 12:29:27 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/18/2026 12:29:27 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 4400 MEEKS AVE (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0973386</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0973386</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0973386 | EAST Division | 7/18/2026 12:38:47 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/18/2026 12:38:47 PM</pubDate>
-    </item>
-    <item>
-      <title>Police Keep Losing Their Jobs For Using Flock Cameras To Stalk People</title>
-      <link>https://www.motherjones.com/politics/2026/07/police-losing-jobs-flock-cameras-alprs/</link>
-      <guid>https://www.motherjones.com/politics/2026/07/police-losing-jobs-flock-cameras-alprs/</guid>
-      <description>[ALPR &amp; Flock Cameras] Keyword: license plate reader — Flock cameras—solar-powered, automated license plate readers, weighing less than 3 pounds and designed to be unobtrusive—can be found on 80,000 street corners throughout the country. The company behind the cameras built an $8.3 billion business empowering officers to track people’s movements. Nationwide, Flock cameras log billions of license plates each month. And now dozens of [&amp;#8230;]</description>
-      <category>ALPR &amp; Flock Cameras</category>
-      <pubDate>Sat, 18 Jul 2026 16:59:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Robbery of Individual — 900 W HOUSTON ST (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0973183</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0973183</guid>
-      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-0973183 | CENTRAL Division | 7/18/2026 11:35:32 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/18/2026 11:35:32 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 15300 US HWY 281 N (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0973193</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0973193</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0973193 | NORTH Division | 7/18/2026 11:38:43 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/18/2026 11:38:43 AM</pubDate>
     </item>
   </channel>
 </rss>
