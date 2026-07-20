@@ -5,8 +5,64 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 15:08:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 17:57:11 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Shooting — 400 8TH ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0982657</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0982657</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-0982657 | DOWNTOWN Division | 7/20/2026 12:39:33 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/20/2026 12:39:33 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 2000 N ST MARY'S ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0982671</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0982671</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0982671 | DOWNTOWN Division | 7/20/2026 12:43:22 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/20/2026 12:43:22 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 1400 N MAIN AVE (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0982676</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0982676</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0982676 | DOWNTOWN Division | 7/20/2026 12:44:15 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/20/2026 12:44:15 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 9600 IH 35 N (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0982681</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0982681</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0982681 | NORTH Division | 7/20/2026 12:45:21 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/20/2026 12:45:21 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 2500 GREAT OAKS (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0982686</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0982686</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-0982686 | NORTH Division | 7/20/2026 12:46:55 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/20/2026 12:46:55 PM</pubDate>
+    </item>
+    <item>
+      <title>Civil rights groups sue Trump administration over childcare funding restrictions</title>
+      <link>https://www.theguardian.com/us-news/2026/jul/20/trump-administration-childcare-funding-restrictions-lawsuit</link>
+      <guid>https://www.theguardian.com/us-news/2026/jul/20/trump-administration-childcare-funding-restrictions-lawsuit</guid>
+      <description>[Government Accountability] Keyword: FOIA — HHS failed to respond to Foia request following claims of fraud against Somali childcare providers and DemocratsCivil rights groups have sued the US Department of Health and Human Services (HHS) after the agency failed to respond to a Freedom of Information Act request regarding the Trump administration’s restrictions on federal childcare and family assistance following claims of fraud against Somali childcare providers and Democratic state officials.The American Civil Liberties Union, the ACLU </description>
+      <category>Government Accountability</category>
+      <pubDate>Mon, 20 Jul 2026 16:00:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Antibiotic-resistant bacteria increasingly leaving children vulnerable to common infections, global study finds</title>
+      <link>https://www.theguardian.com/australia-news/2026/jul/21/antibiotic-resistant-bacteria-increasingly-leaving-children-vulnerable-to-common-infections-global-study-finds</link>
+      <guid>https://www.theguardian.com/australia-news/2026/jul/21/antibiotic-resistant-bacteria-increasingly-leaving-children-vulnerable-to-common-infections-global-study-finds</guid>
+      <description>[Diabetes &amp; Kidney Disease] Keyword: dialysis — Exclusive: Research spanning 82 countries finds antibiotic resistance increased in every region between 2004 and 2022Harry Booth has had a rough run through Australia’s coldest months. The 13-year-old has been in and out of hospital with a range of common chest and urinary tract infections that his doctors find challenging to treat.Harry was born with kidney failure and began dialysis at six months old, before receiving a kidney transplant from his father at age four. The surgery saved his life </description>
+      <category>Diabetes &amp; Kidney Disease</category>
+      <pubDate>Mon, 20 Jul 2026 16:00:45 GMT</pubDate>
+    </item>
     <item>
       <title>New machine-learning tool improves accuracy of genomics research</title>
       <link>https://phys.org/news/2026-07-machine-tool-accuracy-genomics.html</link>
@@ -750,62 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0972758 | NORTH Division | 7/18/2026 9:33:28 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/18/2026 9:33:28 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 7100 SAN PEDRO AVE (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972759</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972759</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0972759 | NORTH Division | 7/18/2026 9:33:33 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/18/2026 9:33:33 AM</pubDate>
-    </item>
-    <item>
-      <title>Many Call Authoritarianism “Un-American.” 250 Years of History Show Otherwise.</title>
-      <link>https://truthout.org/articles/many-call-authoritarianism-un-american-250-years-of-history-show-otherwise/</link>
-      <guid>https://truthout.org/articles/many-call-authoritarianism-un-american-250-years-of-history-show-otherwise/</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — A group of Indigenous scholars are countering erasures in US history in Rebecca Nagle’s new “First America” podcast.</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Sat, 18 Jul 2026 13:17:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>San Antonio hospital sees CAR T-cell therapy surge for cancer patients. Researchers are trying to find out if it could it be used to treat MS and lupus.</title>
-      <link>https://sanantonioreport.org/san-antonio-car-t-cell-therapy-autoimmune-methodist-healthcare/</link>
-      <guid>https://sanantonioreport.org/san-antonio-car-t-cell-therapy-autoimmune-methodist-healthcare/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — San Antonio hospital sees CAR T-cell therapy surge for cancer patients. Researchers are trying to find out if it could it be used to treat MS and lupus. San Antonio hospital sees CAR T-cell therapy surge for cancer patients. Researchers are trying to find out if it could it be used to treat MS and lupus. was first posted on July 18, 2026 at 9:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Sat, 18 Jul 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 500 IOWA ST (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972448</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972448</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0972448 | EAST Division | 7/18/2026 7:41:23 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/18/2026 7:41:23 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 5700 FOUNTAINWOOD DR (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972455</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972455</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0972455 | NORTH Division | 7/18/2026 7:44:39 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/18/2026 7:44:39 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 2200 LOTUS BLOSSOM (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972462</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972462</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0972462 | NORTH Division | 7/18/2026 7:48:10 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/18/2026 7:48:10 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 6100 LAKEFRONT (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972260</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972260</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0972260 | EAST Division | 7/18/2026 6:18:58 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/18/2026 6:18:58 AM</pubDate>
     </item>
   </channel>
 </rss>
