@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 09:56:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 12:14:29 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 4700 SHADY BREEZE (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0981213</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0981213</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-0981213 | NORTH Division | 7/20/2026 6:50:31 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/20/2026 6:50:31 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 10000 INGRAM RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0981214</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0981214</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0981214 | WEST Division | 7/20/2026 6:51:08 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/20/2026 6:51:08 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 3800 SAN PEDRO AVE (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0981243</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0981243</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0981243 | DOWNTOWN Division | 7/20/2026 7:04:03 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/20/2026 7:04:03 AM</pubDate>
+    </item>
+    <item>
+      <title>Who’s running in the midterm elections? Meet the candidates in our 2026 Voter Guide.</title>
+      <link>https://sanantonioreport.org/who-is-running-midterm-elections-bexar-county-texas/</link>
+      <guid>https://sanantonioreport.org/who-is-running-midterm-elections-bexar-county-texas/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The battle for the House runs through swingy South Texas, with two San Antonio-area districts projected to see as much as $30 million spent.Who&amp;#8217;s running in the midterm elections? Meet the candidates in our 2026 Voter Guide. was first posted on July 20, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact </description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Mon, 20 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 9200 VISTA WEST DR (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0980943</link>
@@ -774,38 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0972133 | DOWNTOWN Division | 7/18/2026 4:41:09 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/18/2026 4:41:09 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 16600 VANCE JACKSON (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972134</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972134</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0972134 | PRUE Division | 7/18/2026 4:42:03 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/18/2026 4:42:03 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 100 SALISBURY DR (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972146</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972146</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0972146 | NORTH Division | 7/18/2026 4:51:23 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/18/2026 4:51:23 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 2500 NE LOOP 410 (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972166</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0972166</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0972166 | NORTH Division | 7/18/2026 5:05:01 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/18/2026 5:05:01 AM</pubDate>
-    </item>
-    <item>
-      <title>UN to list more sites as 'in danger' from conflict or climate change</title>
-      <link>https://phys.org/news/2026-07-sites-danger-conflict-climate.html</link>
-      <guid>https://phys.org/news/2026-07-sites-danger-conflict-climate.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — The United Nations looks set to list a Biblical site, Lebanese castles, an antelope migration path and the world's deepest lake as world treasures under threat, including from war or climate change.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Sat, 18 Jul 2026 05:00:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
