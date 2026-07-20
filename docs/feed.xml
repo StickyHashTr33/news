@@ -5,8 +5,34 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 21:07:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 22:55:42 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 8200 MARBACH RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0984120</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0984120</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0984120 | WEST Division | 7/20/2026 5:43:24 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/20/2026 5:43:24 PM</pubDate>
+    </item>
+    <item>
+      <title>Pentagon Slashed Civilian Harm Reduction Staff and Is Instead Using AI</title>
+      <link>https://truthout.org/articles/pentagon-slashed-civilian-harm-reduction-staff-and-is-instead-using-ai/</link>
+      <guid>https://truthout.org/articles/pentagon-slashed-civilian-harm-reduction-staff-and-is-instead-using-ai/</guid>
+      <description>[Opioid Treatment &amp; Methadone] Keyword: harm reduction — CENTCOM, which oversees the war in Iran, has had its civilian harm reduction team slashed from 10 to just one.</description>
+      <category>Opioid Treatment &amp; Methadone</category>
+      <pubDate>Mon, 20 Jul 2026 21:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protect Your Privacy with California's DROP Tool</title>
+      <link>https://www.eff.org/deeplinks/2026/07/what-you-need-know-about-californias-drop-tool</link>
+      <guid>https://www.eff.org/deeplinks/2026/07/what-you-need-know-about-californias-drop-tool</guid>
+      <description>[Digital Rights &amp; Privacy] Keyword: data broker — Are you a California resident? Then we've got exciting news for you: there's a tool just for you that lets you take a single, relatively easy step to protect your privacy. 
+It's called a DROP request. (That's Delete Request and Opt-out Platform, if you're fancy). This one bit of paperwork lets you tell every data broker registered in the state of California that you'd like them to delete your information from their databases and request they stop selling and sharing your information. 
+Here are s</description>
+      <category>Digital Rights &amp; Privacy</category>
+      <pubDate>Mon, 20 Jul 2026 21:55:28 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 8000 MIDCROWN DR (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0983625</link>
@@ -782,30 +808,6 @@
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The University of the Incarnate Word expanded its offerings in the Bajío region with a new site in León, Guanajuato, México. UIW opens third university site in México with new campus in León, Guanajuato was first posted on July 18, 2026 at 4:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Sat, 18 Jul 2026 21:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brackenridge Park’s $2 million question</title>
-      <link>https://sanantonioreport.org/brackenridge-parks-2-million-question-commentary/</link>
-      <guid>https://sanantonioreport.org/brackenridge-parks-2-million-question-commentary/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Commentary: One hundred years ago, San Antonio built the walls in Lambert Beach to preserve the trees. Today, good engineering and design can preserve both. Brackenridge Park’s $2 million question was first posted on July 18, 2026 at 2:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Sat, 18 Jul 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indian Workers Are Resisting Efforts to Train Their AI Robot Replacements</title>
-      <link>https://truthout.org/articles/indian-workers-are-resisting-efforts-to-train-their-ai-robot-replacements/</link>
-      <guid>https://truthout.org/articles/indian-workers-are-resisting-efforts-to-train-their-ai-robot-replacements/</guid>
-      <description>[Digital Rights &amp; Privacy] Keyword: surveillance capitalism — The resistance offers lessons for workers elsewhere to disrupt the relentless onslaught of surveillance capitalism.</description>
-      <category>Digital Rights &amp; Privacy</category>
-      <pubDate>Sat, 18 Jul 2026 19:38:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Admin Guts Endangered Species Act to Prioritize Corporate Interests</title>
-      <link>https://truthout.org/articles/trump-admin-guts-endangered-species-act-to-prioritize-corporate-interests/</link>
-      <guid>https://truthout.org/articles/trump-admin-guts-endangered-species-act-to-prioritize-corporate-interests/</guid>
-      <description>[Ecology &amp; Conservation] Keyword: endangered species — “Yet again, the Trump administration has sold out our endangered wildlife to the highest bidder,” said one critic.</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Sat, 18 Jul 2026 18:25:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
