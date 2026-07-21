@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 19:13:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 21:02:56 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 6700 BELLA COLINA (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0988642</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0988642</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0988642 | PRUE Division | 7/21/2026 3:51:14 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/21/2026 3:51:14 PM</pubDate>
+    </item>
+    <item>
+      <title>Truffles are on the menu for threatened marsupials returning to a World Heritage area</title>
+      <link>https://phys.org/news/2026-07-truffles-menu-threatened-marsupials-world.html</link>
+      <guid>https://phys.org/news/2026-07-truffles-menu-threatened-marsupials-world.html</guid>
+      <description>[Ecology &amp; Conservation] Keyword: ecosystem restoration — A new study from Edith Cowan University (ECU) confirms that the presence of fungal food resources is important for supporting the reintroduction of two threatened marsupials to the Shark Bay World Heritage area, which could simultaneously advance species conservation and ecosystem restoration. This study, led by Edith Cowan University Ph.D. candidate Rebecca Quah, took place at six sites across Western Australia and the Northern Territory, including Dirk Hartog Island in Shark Bay.</description>
+      <category>Ecology &amp; Conservation</category>
+      <pubDate>Tue, 21 Jul 2026 17:00:09 EDT</pubDate>
+    </item>
+    <item>
+      <title>USAA pitches in $5 million for Alamo Plan to highlight San Antonio’s military community</title>
+      <link>https://sanantonioreport.org/usaa-alamo-trust-partnership-alamo-plan-honoring-military-city-usa/</link>
+      <guid>https://sanantonioreport.org/usaa-alamo-trust-partnership-alamo-plan-honoring-military-city-usa/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — USAA's contribution creates a resting area for veterans at the site, plus a mural to highlight San Antonio’s identity as Military City USA.USAA pitches in $5 million for Alamo Plan to highlight San Antonio&amp;#8217;s military community was first posted on July 21, 2026 at 2:37 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contac</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Tue, 21 Jul 2026 19:37:49 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 3500 WURZBACH RD (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0988070</link>
@@ -791,30 +815,6 @@ Here are s</description>
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0978030 | EAST Division | 7/19/2026 12:42:19 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/19/2026 12:42:19 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Robbery of Individual — 1000 BURLESON ST (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978032</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978032</guid>
-      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-0978032 | EAST Division | 7/19/2026 12:44:14 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/19/2026 12:44:14 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Shooting — 1500 CABLE RANCH RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977767</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977767</guid>
-      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-0977767 | WEST Division | 7/19/2026 11:32:20 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/19/2026 11:32:20 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 1200 ROOSEVELT AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977773</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977773</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0977773 | SOUTH Division | 7/19/2026 11:32:46 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/19/2026 11:32:46 AM</pubDate>
     </item>
   </channel>
 </rss>
