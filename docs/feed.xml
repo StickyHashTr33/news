@@ -5,8 +5,38 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:28:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 15:40:50 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5100 VANTAGE WAY (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0987040</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0987040</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0987040 | PRUE Division | 7/21/2026 10:21:28 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/21/2026 10:21:28 AM</pubDate>
+    </item>
+    <item>
+      <title>[$] Debating the role of large language models in the kernel community</title>
+      <link>https://lwn.net/Articles/1083275/</link>
+      <guid>https://lwn.net/Articles/1083275/</guid>
+      <description>[AI &amp; Automation] Keyword: large language model — Like many development communities, the kernel community has been struggling
+to determine how large language models will be used in its development
+process.  The news has been dominated recently by a strongly worded missive
+from Linus Torvalds on the subject, but the discussion has been rather more
+wide-ranging and nuanced than that.  Topics that have been considered
+recently include the LLM attribution requirement, code-review tools,
+dependence on proprietary tools, and whether there is a place </description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Tue, 21 Jul 2026 13:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI music platform Suno hits bum note as 55M users exposed in data breach, claims infosec expert</title>
+      <link>https://www.theregister.com/security/2026/07/21/breach-of-ai-music-platform-suno-affected-55m-user-accounts/5275514</link>
+      <guid>https://www.theregister.com/security/2026/07/21/breach-of-ai-music-platform-suno-affected-55m-user-accounts/5275514</guid>
+      <description>[Cybersecurity] Keyword: data breach — Have I Been Pwned confirms scale for first time</description>
+      <category>Cybersecurity</category>
+      <pubDate>Tue, 21 Jul 2026 15:45:00 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 100 ST CHRISTOPHER WALK (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0986490</link>
@@ -784,30 +814,6 @@ Here are s</description>
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0977104 | SOUTH Division | 7/19/2026 7:45:37 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/19/2026 7:45:37 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 6200 S NEW BRAUNFELS AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977106</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977106</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0977106 | SOUTH Division | 7/19/2026 7:47:51 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/19/2026 7:47:51 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 11600 VANCE JACKSON (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977124</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0977124</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0977124 | PRUE Division | 7/19/2026 7:55:00 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/19/2026 7:55:00 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 6100 VANCE JACKSON (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0976917</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0976917</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0976917 | PRUE Division | 7/19/2026 5:57:47 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/19/2026 5:57:47 AM</pubDate>
     </item>
   </channel>
 </rss>
