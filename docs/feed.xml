@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 02:11:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 05:46:15 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 2000 ESCALA PKWY (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0985584</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0985584</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0985584 | WEST Division | 7/21/2026 12:20:20 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/21/2026 12:20:20 AM</pubDate>
+    </item>
+    <item>
+      <title>Kumanjayi Little Baby’s mother was not supported to protect her children while escaping domestic violence, review finds</title>
+      <link>https://www.theguardian.com/australia-news/2026/jul/21/kumanjayi-little-babys-mother-was-not-supported-to-protect-her-children-while-escaping-domestic-violence-review-found-ntwnfb</link>
+      <guid>https://www.theguardian.com/australia-news/2026/jul/21/kumanjayi-little-babys-mother-was-not-supported-to-protect-her-children-while-escaping-domestic-violence-review-found-ntwnfb</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Interim report not able to draw ‘nexus’ between matters referred to child protection and circumstances leading to five-year-old’s alleged murder•Warning: This story contains references to Indigenous Australians who have diedFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastKumanjayi Little Baby’s mother was “effectively” left alone to protect her children while also experiencing domestic violence, because child protection authorities</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Tue, 21 Jul 2026 04:55:37 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 1100 E HIGHLAND BLVD (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0984954</link>
@@ -792,22 +808,6 @@ Here are s</description>
       <description>[Open Source Software] Keyword: FOSS — Campaigners hope move will force commercial banks to rethink holding assets linked to the fossil fuelClimate campaigners have declared a victory after the Bank of England said it would no longer accept bonds linked to one of the most polluting industries on the planet for key loan arrangements.The ban, which comes into force in October, marks a fresh crackdown on thermal coal, which is burned in power plants to create electricity, and has long been a target of green policy activists. Continue re</description>
       <category>Open Source Software</category>
       <pubDate>Sun, 19 Jul 2026 05:00:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Common antidepressant may ease long COVID’s crushing fatigue</title>
-      <link>https://www.sciencedaily.com/releases/2026/07/260718010158.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/07/260718010158.htm</guid>
-      <description>[Science &amp; Research] Keyword: clinical trial — A low-cost antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved quality of life compared with a placebo, making it one of the first medications to show meaningful benefits for this disabling condition.</description>
-      <category>Science &amp; Research</category>
-      <pubDate>Sat, 18 Jul 2026 21:55:33 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 200 E BASSE RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974651</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0974651</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0974651 | NORTH Division | 7/18/2026 6:29:17 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/18/2026 6:29:17 PM</pubDate>
     </item>
   </channel>
 </rss>
