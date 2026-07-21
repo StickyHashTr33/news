@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 22:51:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 23:53:35 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 3500 EL PASO ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0989446</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0989446</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0989446 | CENTRAL Division | 7/21/2026 6:34:21 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/21/2026 6:34:21 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 300 E BASSE RD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0989469</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0989469</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0989469 | NORTH Division | 7/21/2026 6:40:04 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/21/2026 6:40:04 PM</pubDate>
+    </item>
+    <item>
+      <title>Court Decision to Allow Nuclear Regulator to Ignore Climate Impacts on Future Reactor Operations Does Not Serve Public Safety</title>
+      <link>https://www.commondreams.org/newswire/court-decision-to-allow-nuclear-regulator-to-ignore-climate-impacts-on-future-reactor-operations-does-not-serve-public-safety</link>
+      <guid>https://www.commondreams.org/newswire/court-decision-to-allow-nuclear-regulator-to-ignore-climate-impacts-on-future-reactor-operations-does-not-serve-public-safety</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — A unanimous decision by three US Court Of Appeals judges in the District Of Columbia to deny an appeal based on the risks of climate change on nuclear reactor safety is a shocking disregard for the ever worsening weather conditions that could put reactor communities at grave risk, said Beyond Nuclear today, one of the groups that brought the appeal.The petition denied by the court was brought by Beyond Nuclear and the Sierra Club, against the US Nuclear Regulatory Commission (NRC), and the Nucle</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Tue, 21 Jul 2026 22:07:05 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 8500 TOM SLICK (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0989197</link>
@@ -791,30 +815,6 @@ Here are s</description>
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0979075 | PRUE Division | 7/19/2026 5:36:38 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/19/2026 5:36:38 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 300 KOPPLOW (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978817</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978817</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-0978817 | SOUTH Division | 7/19/2026 4:28:40 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/19/2026 4:28:40 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 4500 LAVENDER LN (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978823</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978823</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0978823 | EAST Division | 7/19/2026 4:29:52 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/19/2026 4:29:52 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 1500 GLADSTONE ST (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978834</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0978834</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-0978834 | SOUTH Division | 7/19/2026 4:33:19 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/19/2026 4:33:19 PM</pubDate>
     </item>
   </channel>
 </rss>
