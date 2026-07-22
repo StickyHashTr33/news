@@ -5,8 +5,56 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 19:07:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 21:01:22 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 15200 HUEBNER RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0993778</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0993778</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0993778 | PRUE Division | 7/22/2026 3:45:23 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/22/2026 3:45:23 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 500 S ACME RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0993800</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0993800</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0993800 | WEST Division | 7/22/2026 3:49:22 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/22/2026 3:49:22 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 300 VERNE ST (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0993809</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0993809</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0993809 | SOUTH Division | 7/22/2026 3:51:18 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/22/2026 3:51:18 PM</pubDate>
+    </item>
+    <item>
+      <title>Youth Orchestras of San Antonio finds a home for their music</title>
+      <link>https://sanantonioreport.org/youth-orchestras-of-san-antonio-finds-a-home-for-their-music/</link>
+      <guid>https://sanantonioreport.org/youth-orchestras-of-san-antonio-finds-a-home-for-their-music/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Rather than having parents take musicians to several practice locations, all the YOSA students will have one place to practice: YOSA Headquarters.Youth Orchestras of San Antonio finds a home for their music was first posted on July 22, 2026 at 2:50 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Wed, 22 Jul 2026 19:50:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI’s rogue AI agents are a wake-up call for its risks | Shakeel Hashim</title>
+      <link>https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks</link>
+      <guid>https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — Hacking of Hugging Face shows we do not seem to have reliable ways to curb extremely powerful AI systemsLast week Hugging Face – a company that hosts artificial intelligence models and datasets – was hacked.After it reported the incident to law enforcement, few would have predicted what came next: the culprits were revealed to be AI agents from OpenAI, which had broken out of containment and were acting of their own accord.Shakeel Hashim is the editor of Transformer, a publication about the powe</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Wed, 22 Jul 2026 20:40:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux kernel team publishes 432 CVEs in two days</title>
+      <link>https://www.theregister.com/security/2026/07/22/linux-kernel-team-publishes-432-cves-in-two-days/5276497</link>
+      <guid>https://www.theregister.com/security/2026/07/22/linux-kernel-team-publishes-432-cves-in-two-days/5276497</guid>
+      <description>[Cybersecurity] Keyword: CVE — Sunday-to-Monday onslaught fuels speculation over AI-assisted bug reports</description>
+      <category>Cybersecurity</category>
+      <pubDate>Wed, 22 Jul 2026 18:58:33 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 4900 WOODSTONE (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0993229</link>
@@ -766,56 +814,6 @@ dependence on proprietary tools, and whether there is a place </description>
       <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-0984386 | SOUTH Division | 7/20/2026 6:43:44 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/20/2026 6:43:44 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 8200 MARBACH RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0984120</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0984120</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0984120 | WEST Division | 7/20/2026 5:43:24 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/20/2026 5:43:24 PM</pubDate>
-    </item>
-    <item>
-      <title>Pentagon Slashed Civilian Harm Reduction Staff and Is Instead Using AI</title>
-      <link>https://truthout.org/articles/pentagon-slashed-civilian-harm-reduction-staff-and-is-instead-using-ai/</link>
-      <guid>https://truthout.org/articles/pentagon-slashed-civilian-harm-reduction-staff-and-is-instead-using-ai/</guid>
-      <description>[Opioid Treatment &amp; Methadone] Keyword: harm reduction — CENTCOM, which oversees the war in Iran, has had its civilian harm reduction team slashed from 10 to just one.</description>
-      <category>Opioid Treatment &amp; Methadone</category>
-      <pubDate>Mon, 20 Jul 2026 21:22:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Protect Your Privacy with California's DROP Tool</title>
-      <link>https://www.eff.org/deeplinks/2026/07/what-you-need-know-about-californias-drop-tool</link>
-      <guid>https://www.eff.org/deeplinks/2026/07/what-you-need-know-about-californias-drop-tool</guid>
-      <description>[Digital Rights &amp; Privacy] Keyword: data broker — Are you a California resident? Then we've got exciting news for you: there's a tool just for you that lets you take a single, relatively easy step to protect your privacy. 
-It's called a DROP request. (That's Delete Request and Opt-out Platform, if you're fancy). This one bit of paperwork lets you tell every data broker registered in the state of California that you'd like them to delete your information from their databases and request they stop selling and sharing your information. 
-Here are s</description>
-      <category>Digital Rights &amp; Privacy</category>
-      <pubDate>Mon, 20 Jul 2026 21:55:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 8000 MIDCROWN DR (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0983625</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0983625</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0983625 | EAST Division | 7/20/2026 3:56:19 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/20/2026 3:56:19 PM</pubDate>
-    </item>
-    <item>
-      <title>Ancestral variation, not new mutations, may impact survival of species facing climate change</title>
-      <link>https://phys.org/news/2026-07-ancestral-variation-mutations-impact-survival.html</link>
-      <guid>https://phys.org/news/2026-07-ancestral-variation-mutations-impact-survival.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Research co-authored by an Oklahoma Museum of Natural History curator, her graduate student and an international team of scientists has shed new light on the evolutionary &quot;toolkit&quot; animals use to survive environmental change.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Mon, 20 Jul 2026 17:00:05 EDT</pubDate>
-    </item>
-    <item>
-      <title>New web tool maps fossil locations across ancient continents in seconds</title>
-      <link>https://phys.org/news/2026-07-web-tool-fossil-ancient-continents.html</link>
-      <guid>https://phys.org/news/2026-07-web-tool-fossil-ancient-continents.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — Calculating a fossil's position throughout geological history is a complex process. In paleontology and other disciplines, determining a location in the past is a challenge that requires refined computational tools to process large volumes of data. Now, the BIOST3 Research Group at the University of Barcelona has designed an open-access web interface for the general public that simplifies this process and facilitates access to high-quality paleogeographic reconstructions.</description>
-      <category>Open Source Software</category>
-      <pubDate>Mon, 20 Jul 2026 16:00:07 EDT</pubDate>
     </item>
   </channel>
 </rss>
