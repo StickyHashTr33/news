@@ -5,8 +5,57 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 08:20:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 11:05:05 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 100 CALGARY AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0991356</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0991356</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0991356 | SOUTH Division | 7/22/2026 5:50:45 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/22/2026 5:50:45 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 2500 GOLIAD RD (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0991363</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0991363</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0991363 | SOUTH Division | 7/22/2026 5:53:27 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/22/2026 5:53:27 AM</pubDate>
+    </item>
+    <item>
+      <title>New review highlights gaps in care for First Nations children in Canada</title>
+      <link>https://phys.org/news/2026-07-highlights-gaps-nations-children-canada.html</link>
+      <guid>https://phys.org/news/2026-07-highlights-gaps-nations-children-canada.html</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — A new study finds that First Nations children still face long-standing inequalities in health care access in Canada despite improvements made through the application of Jordan's Principle—a policy designed to ensure First Nations children receive the services they need. The work is published in the Journal of Indigenous Social Development.</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Wed, 22 Jul 2026 07:00:09 EDT</pubDate>
+    </item>
+    <item>
+      <title>AI agent went rogue, hacked AI startup Hugging Face: OpenAI</title>
+      <link>https://www.dw.com/en/ai-agent-went-rogue-hacked-ai-startup-hugging-face-openai/a-78063624?maca=en-rss-en-all-1573-rdf</link>
+      <guid>https://www.dw.com/en/ai-agent-went-rogue-hacked-ai-startup-hugging-face-openai/a-78063624?maca=en-rss-en-all-1573-rdf</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — OpenAI called it an &quot;unprecedented cyber incident&quot; and pledged to support a joint investigation, with enewed attention to the risks of advanced artificial intelligence.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>2026-07-22T10:23:00Z</pubDate>
+    </item>
+    <item>
+      <title>AI agent went rogue and hacked startup by itself, OpenAI reveals</title>
+      <link>https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident</link>
+      <guid>https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — Firm behind ChatGPT reveals agent powered by its models chose to attack Hugging Face database by itselfOpenAI has revealed an autonomous AI agent powered by its technology went rogue during a test, accessed the open web and hacked a prominent startup by itself in an “unprecedented incident”.The company behind ChatGPT said the startup Hugging Face had detected and contained the agent – an AI tool designed to carry out tasks without human assistance – which had entered its systems. Continue readin</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Wed, 22 Jul 2026 08:37:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Tale of Two Behavioral Health Systems, or How the State Border Determines Who Gets Access to Mental Healthcare</title>
+      <link>https://dailyyonder.com/a-tale-of-two-behavioral-health-systems-or-how-the-state-border-determines-who-gets-access-to-mental-healthcare/2026/07/22/</link>
+      <guid>https://dailyyonder.com/a-tale-of-two-behavioral-health-systems-or-how-the-state-border-determines-who-gets-access-to-mental-healthcare/2026/07/22/</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — In July 2025, the One Big Beautiful Bill Act (OBBBA) mandated significant health care funding cuts and policy changes related to low-income health insurance programs like Medicaid and the Children’s Health Insurance Program (CHIP) administration.&amp;#160; As of April 2026, 1.59 million Americans had lost their Medicaid insurance because of OBBBA-related cuts. Because of the bill, [&amp;#8230;]
+The post A Tale of Two Behavioral Health Systems, or How the State Border Determines Who Gets Access to Mental</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Wed, 22 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle In Progress — 7800 BRAUN BEND (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0991090</link>
@@ -767,54 +816,6 @@ Here are s</description>
       <description>[AI &amp; Automation] Keyword: LLM — James Desborough was convicted in March of murdering Steven Kempster, Winchester crown court jurors hearA fan of a TV show about serial killers strangled a cellmate in prison while awaiting trial for allegedly murdering two men and hiding their remains in Cornish woodland, a jury has heard.James Desborough, 40, is accused of killing Claudio Aquilino and Daniel Coleman and concealing parts of their bodies in the dense undergrowth close to his cabin near St Austell. Continue reading...</description>
       <category>AI &amp; Automation</category>
       <pubDate>Mon, 20 Jul 2026 14:19:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 4700 SHADY BREEZE (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0981213</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0981213</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-0981213 | NORTH Division | 7/20/2026 6:50:31 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/20/2026 6:50:31 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 10000 INGRAM RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0981214</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0981214</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0981214 | WEST Division | 7/20/2026 6:51:08 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/20/2026 6:51:08 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 3800 SAN PEDRO AVE (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0981243</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0981243</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0981243 | DOWNTOWN Division | 7/20/2026 7:04:03 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/20/2026 7:04:03 AM</pubDate>
-    </item>
-    <item>
-      <title>Who’s running in the midterm elections? Meet the candidates in our 2026 Voter Guide.</title>
-      <link>https://sanantonioreport.org/who-is-running-midterm-elections-bexar-county-texas/</link>
-      <guid>https://sanantonioreport.org/who-is-running-midterm-elections-bexar-county-texas/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The battle for the House runs through swingy South Texas, with two San Antonio-area districts projected to see as much as $30 million spent.Who&amp;#8217;s running in the midterm elections? Meet the candidates in our 2026 Voter Guide. was first posted on July 20, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact </description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Mon, 20 Jul 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 9200 VISTA WEST DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0980943</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0980943</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0980943 | WEST Division | 7/20/2026 4:05:49 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/20/2026 4:05:49 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 2300 PINN RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0980974</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0980974</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0980974 | WEST Division | 7/20/2026 4:19:05 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/20/2026 4:19:05 AM</pubDate>
     </item>
   </channel>
 </rss>
