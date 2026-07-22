@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 21:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 22:58:00 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘Can You See Me?’ anti-human trafficking campaign launches in San Antonio</title>
+      <link>https://sanantonioreport.org/can-you-see-me-anti-human-trafficking-campaign-launches-in-san-antonio/</link>
+      <guid>https://sanantonioreport.org/can-you-see-me-anti-human-trafficking-campaign-launches-in-san-antonio/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A billboard campaign has launched near the Pearl, aiming to raise awareness, generate tips and connect human trafficking victims with help.‘Can You See Me?’ anti-human trafficking campaign launches in San Antonio was first posted on July 22, 2026 at 4:03 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivard</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Wed, 22 Jul 2026 21:03:32 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 15200 HUEBNER RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0993778</link>
@@ -806,14 +814,6 @@ dependence on proprietary tools, and whether there is a place </description>
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0984384 | SOUTH Division | 7/20/2026 6:43:24 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/20/2026 6:43:24 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — 300 FAIRVIEW AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0984386</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0984386</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-0984386 | SOUTH Division | 7/20/2026 6:43:44 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/20/2026 6:43:44 PM</pubDate>
     </item>
   </channel>
 </rss>
