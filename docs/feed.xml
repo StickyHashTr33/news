@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 15:29:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 17:12:27 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 5800 LARKSPUR VALLEY (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0992752</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0992752</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0992752 | EAST Division | 7/22/2026 11:55:02 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/22/2026 11:55:02 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 3900 NUTTALL OAK DR (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0992770</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0992770</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0992770 | EAST Division | 7/22/2026 11:59:41 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/22/2026 11:59:41 AM</pubDate>
+    </item>
+    <item>
+      <title>‘Our system is in dire straits’: progressive Democrats hold Medicare for All hearing</title>
+      <link>https://www.theguardian.com/us-news/2026/jul/22/healthcare-medicare-progressive-democrats</link>
+      <guid>https://www.theguardian.com/us-news/2026/jul/22/healthcare-medicare-progressive-democrats</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Congressional Progressive caucus say ‘healthcare should not be a privilege’ as they champions single payer systemThe Congressional Progressive caucus (CPC) held a shadow hearing on Medicare for All on Wednesday, led by Pramila Jayapal and Debbie Dingell.The hearing comes as over half of the House Democratic caucus has co-sponsored Medicare for All legislation, and Senator Andy Kim introduced legislation on Tuesday that would enroll all children into Medicare until the age of 26, while Republican</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Wed, 22 Jul 2026 16:18:31 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 100 SHERWOOD DR (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0992246</link>
@@ -792,30 +816,6 @@ Here are s</description>
       <description>[Open Source Software] Keyword: FOSS — A research team from Okayama University of Science, Tokyo City University, the Natural History Museum, Kishiwada City (Osaka Prefecture), and other institutions has identified four previously unrecognized fossil bones from a rock containing mosasaur remains collected about 30 years ago in Kishiwada City, Osaka Prefecture.</description>
       <category>Open Source Software</category>
       <pubDate>Mon, 20 Jul 2026 14:40:05 EDT</pubDate>
-    </item>
-    <item>
-      <title>NISD picks longtime employee Jessica Palomares as interim superintendent</title>
-      <link>https://sanantonioreport.org/nisd-interim-superintendent-san-antonio/</link>
-      <guid>https://sanantonioreport.org/nisd-interim-superintendent-san-antonio/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Jessica Palomares is the assistant superintendent of elementary education. She first joined NISD in 1996 as a special ed teacher. NISD picks longtime employee Jessica Palomares as interim superintendent was first posted on July 20, 2026 at 1:11 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Mon, 20 Jul 2026 18:11:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Shooting — 400 8TH ST (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0982657</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0982657</guid>
-      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-0982657 | DOWNTOWN Division | 7/20/2026 12:39:33 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/20/2026 12:39:33 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 2000 N ST MARY'S ST (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0982671</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0982671</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0982671 | DOWNTOWN Division | 7/20/2026 12:43:22 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/20/2026 12:43:22 PM</pubDate>
     </item>
   </channel>
 </rss>
