@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 17:16:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 19:08:01 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 5000 GLEN RDG (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0998619</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0998619</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0998619 | PRUE Division | 7/23/2026 1:43:40 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/23/2026 1:43:40 PM</pubDate>
+    </item>
+    <item>
+      <title>Recycling does not weaken support for broader climate action, survey finds</title>
+      <link>https://phys.org/news/2026-07-recycling-weaken-broader-climate-action.html</link>
+      <guid>https://phys.org/news/2026-07-recycling-weaken-broader-climate-action.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — In research published in npj Climate Action, UNSW Sydney behavioral scientists, in collaboration with researchers from Griffith University, say they found no evidence for claims that climate action at the individual level distracted from support for meaningful action on climate change.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 23 Jul 2026 14:20:01 EDT</pubDate>
+    </item>
     <item>
       <title>Training microbes to prepare soils for the impacts of climate change</title>
       <link>https://phys.org/news/2026-07-microbes-soils-impacts-climate.html</link>
@@ -818,22 +834,6 @@ The post A Tale of Two Behavioral Health Systems, or How the State Border Determ
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0988642 | PRUE Division | 7/21/2026 3:51:14 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/21/2026 3:51:14 PM</pubDate>
-    </item>
-    <item>
-      <title>Truffles are on the menu for threatened marsupials returning to a World Heritage area</title>
-      <link>https://phys.org/news/2026-07-truffles-menu-threatened-marsupials-world.html</link>
-      <guid>https://phys.org/news/2026-07-truffles-menu-threatened-marsupials-world.html</guid>
-      <description>[Ecology &amp; Conservation] Keyword: ecosystem restoration — A new study from Edith Cowan University (ECU) confirms that the presence of fungal food resources is important for supporting the reintroduction of two threatened marsupials to the Shark Bay World Heritage area, which could simultaneously advance species conservation and ecosystem restoration. This study, led by Edith Cowan University Ph.D. candidate Rebecca Quah, took place at six sites across Western Australia and the Northern Territory, including Dirk Hartog Island in Shark Bay.</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Tue, 21 Jul 2026 17:00:09 EDT</pubDate>
-    </item>
-    <item>
-      <title>USAA pitches in $5 million for Alamo Plan to highlight San Antonio’s military community</title>
-      <link>https://sanantonioreport.org/usaa-alamo-trust-partnership-alamo-plan-honoring-military-city-usa/</link>
-      <guid>https://sanantonioreport.org/usaa-alamo-trust-partnership-alamo-plan-honoring-military-city-usa/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — USAA's contribution creates a resting area for veterans at the site, plus a mural to highlight San Antonio’s identity as Military City USA.USAA pitches in $5 million for Alamo Plan to highlight San Antonio&amp;#8217;s military community was first posted on July 21, 2026 at 2:37 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contac</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Tue, 21 Jul 2026 19:37:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
