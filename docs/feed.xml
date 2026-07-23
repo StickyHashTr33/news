@@ -5,8 +5,73 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 11:48:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 13:46:34 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 15500 NACOGDOCHES RD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0997136</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0997136</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-0997136 | NORTH Division | 7/23/2026 8:27:23 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/23/2026 8:27:23 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5700 ESPADA CLIFF (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0997137</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0997137</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0997137 | EAST Division | 7/23/2026 8:27:34 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/23/2026 8:27:34 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 1500 NOLAN ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0997139</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0997139</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0997139 | EAST Division | 7/23/2026 8:27:36 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/23/2026 8:27:36 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 3400 TWINING DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0997170</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0997170</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0997170 | SOUTH Division | 7/23/2026 8:36:02 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/23/2026 8:36:02 AM</pubDate>
+    </item>
+    <item>
+      <title>The US has acknowledged Bears Ears and Grand Staircase as sacred for over a century, but keeps stripping away protections</title>
+      <link>https://theconversation.com/the-us-has-acknowledged-bears-ears-and-grand-staircase-as-sacred-for-over-a-century-but-keeps-stripping-away-protections-287624</link>
+      <guid>https://theconversation.com/the-us-has-acknowledged-bears-ears-and-grand-staircase-as-sacred-for-over-a-century-but-keeps-stripping-away-protections-287624</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Native religions are tied to living landscapes, not points on a map. A scholar of Indigenous studies explains why reducing the protected area has profound religious and cultural consequences.</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>2026-07-23T12:25:44Z</pubDate>
+    </item>
+    <item>
+      <title>Our New FOIA Forum! 7/30, 1PM ET</title>
+      <link>https://www.404media.co/our-new-foia-forum-7-30-1pm-et/</link>
+      <guid>https://www.404media.co/our-new-foia-forum-7-30-1pm-et/</guid>
+      <description>[Government Accountability] Keyword: FOIA — Join us for our latest FOIA Forum where we teach you how to pry records from the government.</description>
+      <category>Government Accountability</category>
+      <pubDate>Thu, 23 Jul 2026 11:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Codeberg: Protecting our FLOSS commons from LLMs</title>
+      <link>https://lwn.net/Articles/1084404/</link>
+      <guid>https://lwn.net/Articles/1084404/</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — The Codeberg forge has adopted a pair of new policies, promising not to use
+hosted projects to train LLMs and, more controversially, banning the
+hosting of LLM-generated software.  The site's blog describes
+and justifies these policies.
+
+
+	Although often well intentioned, sharing the result of a prompt
+	and calling it &quot;libre software&quot; does not make the world a better
+	place. Codeberg is not and does not want to be a place to dump such
+	generated single-use software that no one else will ever loo</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Thu, 23 Jul 2026 13:27:38 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 2100 S NUECES (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0996751</link>
@@ -757,68 +822,6 @@ The post Excerpt: How to Close a Camp appeared first on The Texas Observer.</des
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0987040 | PRUE Division | 7/21/2026 10:21:28 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/21/2026 10:21:28 AM</pubDate>
-    </item>
-    <item>
-      <title>[$] Debating the role of large language models in the kernel community</title>
-      <link>https://lwn.net/Articles/1083275/</link>
-      <guid>https://lwn.net/Articles/1083275/</guid>
-      <description>[AI &amp; Automation] Keyword: large language model — Like many development communities, the kernel community has been struggling
-to determine how large language models will be used in its development
-process.  The news has been dominated recently by a strongly worded missive
-from Linus Torvalds on the subject, but the discussion has been rather more
-wide-ranging and nuanced than that.  Topics that have been considered
-recently include the LLM attribution requirement, code-review tools,
-dependence on proprietary tools, and whether there is a place </description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Tue, 21 Jul 2026 13:48:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI music platform Suno hits bum note as 55M users exposed in data breach, claims infosec expert</title>
-      <link>https://www.theregister.com/security/2026/07/21/breach-of-ai-music-platform-suno-affected-55m-user-accounts/5275514</link>
-      <guid>https://www.theregister.com/security/2026/07/21/breach-of-ai-music-platform-suno-affected-55m-user-accounts/5275514</guid>
-      <description>[Cybersecurity] Keyword: data breach — Have I Been Pwned confirms scale for first time</description>
-      <category>Cybersecurity</category>
-      <pubDate>Tue, 21 Jul 2026 15:45:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 100 ST CHRISTOPHER WALK (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0986490</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0986490</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0986490 | CENTRAL Division | 7/21/2026 8:13:02 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/21/2026 8:13:02 AM</pubDate>
-    </item>
-    <item>
-      <title>Triassic inferno: Fires raged across Europe for millennia during past global warming</title>
-      <link>https://phys.org/news/2026-07-triassic-inferno-raged-europe-millennia.html</link>
-      <guid>https://phys.org/news/2026-07-triassic-inferno-raged-europe-millennia.html</guid>
-      <description>[Climate &amp; Environment] Keyword: global warming — The end-Triassic mass extinction, 201 million years ago, is linked to volcanism that resulted from the break-up of Pangea and which pumped out vast amounts of CO2 into the atmosphere, causing extreme global warming of 5 to 10 degrees Celsius. As a result, tree-dominated vegetation collapsed and the highly disturbed landscapes were colonized by ferns that formed savannahs across large swaths of what is now Northwest Europe.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 21 Jul 2026 09:20:05 EDT</pubDate>
-    </item>
-    <item>
-      <title>How AI may drive union-resistant tech workers to the bargaining table</title>
-      <link>https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize</link>
-      <guid>https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize</guid>
-      <description>[Worker Cooperatives &amp; Solidarity Economy] Keyword: collective bargaining — Tech workers are increasingly unionizing, trading Silicon Valley’s myth of exceptionalism for collective bargaining to contest the corporate deployment of artificial intelligenceFor decades, the technology industry was a fortress that labor unions couldn’t breach. Tech workers already had cushy compensation packages, dream benefits like unlimited vacation and free lunch, and a flat corporate hierarchy that made engineers feel as powerful as their bosses, all of whom dressed down in sneakers and </description>
-      <category>Worker Cooperatives &amp; Solidarity Economy</category>
-      <pubDate>Tue, 21 Jul 2026 11:00:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Daily Reach and Recap have a whole new look: Sign up for our redesigned newsletters</title>
-      <link>https://sanantonioreport.org/the-daily-reach-and-recap-have-a-whole-new-look-sign-up-for-our-redesigned-newsletters/</link>
-      <guid>https://sanantonioreport.org/the-daily-reach-and-recap-have-a-whole-new-look-sign-up-for-our-redesigned-newsletters/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The refresh aims to make readers a more digestible experience as they engage with San Antonio Report content.The Daily Reach and Recap have a whole new look: Sign up for our redesigned newsletters was first posted on July 21, 2026 at 8:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Tue, 21 Jul 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI agent helps prepare synchrotron X-ray experimental measurements, paving the way for autonomous operation</title>
-      <link>https://phys.org/news/2026-07-ai-agent-synchrotron-ray-experimental.html</link>
-      <guid>https://phys.org/news/2026-07-ai-agent-synchrotron-ray-experimental.html</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Artificial intelligence (AI) models are now used daily by many people worldwide, both for professional and personal purposes. Over the past decades, scientists specialized in various disciplines have also started using these models to conduct research or simplify their experimental practices.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Tue, 21 Jul 2026 07:40:04 EDT</pubDate>
     </item>
   </channel>
 </rss>
