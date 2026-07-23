@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 22:58:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 00:01:11 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>US signs landmark nuclear deal with Saudi Arabia</title>
+      <link>https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[Worker Cooperatives &amp; Solidarity Economy] Keyword: co-op — The US Department of Energy says the &quot;peaceful&quot; co-operation agreement will give US firms &quot;great access&quot; to the Saudi nuclear energy programme.</description>
+      <category>Worker Cooperatives &amp; Solidarity Economy</category>
+      <pubDate>Wed, 22 Jul 2026 23:21:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beat the heat without breaking the budget</title>
+      <link>https://sanantonioreport.org/beat-the-heat-without-breaking-the-budget-sponsored/</link>
+      <guid>https://sanantonioreport.org/beat-the-heat-without-breaking-the-budget-sponsored/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — SPONSORED: CPS Energy assistance programs are designed to help customers stay connected while making energy costs more manageable.Beat the heat without breaking the budget was first posted on July 22, 2026 at 6:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Wed, 22 Jul 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>‘Can You See Me?’ anti-human trafficking campaign launches in San Antonio</title>
       <link>https://sanantonioreport.org/can-you-see-me-anti-human-trafficking-campaign-launches-in-san-antonio/</link>
@@ -798,22 +814,6 @@ dependence on proprietary tools, and whether there is a place </description>
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-0984366 | WEST Division | 7/20/2026 6:38:50 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/20/2026 6:38:50 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — HAVEN FOR HOPE WAY (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0984376</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0984376</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0984376 | CENTRAL Division | 7/20/2026 6:41:58 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/20/2026 6:41:58 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 200 KOEHLER CT (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0984384</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0984384</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0984384 | SOUTH Division | 7/20/2026 6:43:24 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/20/2026 6:43:24 PM</pubDate>
     </item>
   </channel>
 </rss>
