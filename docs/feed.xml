@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 20:58:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 22:06:03 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 13400 CULEBRA RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0999509</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0999509</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0999509 | WEST Division | 7/23/2026 4:54:42 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/23/2026 4:54:42 PM</pubDate>
+    </item>
+    <item>
+      <title>San Antonio Gold Star children keep loved ones’ memories alive through video games</title>
+      <link>https://sanantonioreport.org/san-antonio-gold-star-family-spurs-usaa-gold-star-gamers-cup/</link>
+      <guid>https://sanantonioreport.org/san-antonio-gold-star-family-spurs-usaa-gold-star-gamers-cup/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — San Antonio Spurs forward Julian Champagnie surprised Gold Star families for an esports tournament in honor of fallen service members.San Antonio Gold Star children keep loved ones&amp;#8217; memories alive through video games was first posted on July 23, 2026 at 5:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at he</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Thu, 23 Jul 2026 22:00:38 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 9800 FREDERICKSBURG RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0999146</link>
@@ -818,22 +834,6 @@ The post A Tale of Two Behavioral Health Systems, or How the State Border Determ
       <description>[Science &amp; Research] Keyword: genomics — A tapeworm fundamentally changes the lives of ants: Workers of the species Temnothorax nylanderi infected with the tapeworm Anomotaenia brevis live several times longer than their uninfected nestmates. They are also less active, and their metabolism becomes more similar in some respects to that of queens. A new study by Johannes Gutenberg University Mainz (JGU), published in the journal BMC Genomics, reveals the molecular basis of this unusual effect.</description>
       <category>Science &amp; Research</category>
       <pubDate>Tue, 21 Jul 2026 17:20:09 EDT</pubDate>
-    </item>
-    <item>
-      <title>AI tool predicts how DNA sequences switch on genes across different cell types</title>
-      <link>https://phys.org/news/2026-07-ai-tool-dna-sequences-genes.html</link>
-      <guid>https://phys.org/news/2026-07-ai-tool-dna-sequences-genes.html</guid>
-      <description>[Science &amp; Research] Keyword: genomics — Deep learning approaches have transformed how scientists predict the activity and function of DNA sequences in the genome. A new AI tool called Corgi (Context-aware Regulatory Genomics Inference), developed by Martin Vingron's bioinformatics group at the Max Planck Institute for Molecular Genetics allows researchers to predict how the genome behaves across different cell types. The findings could help improve efforts to mimic the activity of cells virtually, with potential applications in basic </description>
-      <category>Science &amp; Research</category>
-      <pubDate>Tue, 21 Jul 2026 17:50:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>A native California wildflower isn't keeping up with climate change</title>
-      <link>https://phys.org/news/2026-07-native-california-wildflower-isnt-climate.html</link>
-      <guid>https://phys.org/news/2026-07-native-california-wildflower-isnt-climate.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — The mountain jewelflower inhabits a wide swath of California and Oregon, from summer-scorched foothills to high mountains where snow falls during winter. But it is already suffering from climate change, with plants in the mountains struggling to survive both summers and winters, according to a study from the University of California, Davis.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 21 Jul 2026 18:40:03 EDT</pubDate>
     </item>
   </channel>
 </rss>
