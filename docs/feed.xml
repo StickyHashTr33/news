@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 03:37:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 06:27:34 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 400 E FRENCH PLACE (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0996202</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0996202</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0996202 | DOWNTOWN Division | 7/23/2026 1:13:56 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/23/2026 1:13:56 AM</pubDate>
+    </item>
+    <item>
+      <title>OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know</title>
+      <link>https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models</link>
+      <guid>https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — The incident is stirring debates over the need for stronger AI guardrails and the extent to which AI agents are capable of acting on their own.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Thu, 23 Jul 2026 01:23:42 -0400</pubDate>
+    </item>
     <item>
       <title>Why Abderrahim Fakir’s death reignited Italy’s police accountability debate</title>
       <link>https://www.aljazeera.com/news/2026/7/23/why-abderrahim-fakirs-death-reignited-italys-police-accountability-debate?traffic_source=rss</link>
@@ -803,22 +819,6 @@ dependence on proprietary tools, and whether there is a place </description>
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0984956 | EAST Division | 7/20/2026 8:57:36 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/20/2026 8:57:36 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 9400 BIRCH BARK BEND (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0984959</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0984959</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0984959 | SOUTH Division | 7/20/2026 8:58:45 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/20/2026 8:58:45 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 100 ALDRICH DR (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0984961</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0984961</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0984961 | SOUTH Division | 7/20/2026 8:59:04 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/20/2026 8:59:04 PM</pubDate>
     </item>
   </channel>
 </rss>
