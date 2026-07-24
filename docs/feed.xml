@@ -5,8 +5,56 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 23:56:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 02:27:36 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 700 GABRIEL (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1000468</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1000468</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1000468 | EAST Division | 7/23/2026 9:09:05 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/23/2026 9:09:05 PM</pubDate>
+    </item>
+    <item>
+      <title>Scientists find building blocks of birdsong's 'spectacular diversity'</title>
+      <link>https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[Science &amp; Research] Keyword: scientific study — A scientific study has revealed the acoustic secret that connects all birdsong - and it is surprisingly simple</description>
+      <category>Science &amp; Research</category>
+      <pubDate>Thu, 23 Jul 2026 23:55:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>India ‘cockroach’ activist Sonam Wangchuk ends hunger strike as protests spread</title>
+      <link>https://www.theguardian.com/world/2026/jul/24/india-cockroach-protest-sonam-wangchuk-ends-hunger-strike</link>
+      <guid>https://www.theguardian.com/world/2026/jul/24/india-cockroach-protest-sonam-wangchuk-ends-hunger-strike</guid>
+      <description>[Police &amp; Criminal Justice] Keyword: police brutality — Sonam Wangchuk halted strike amid concerns about ‘possible violence’ in India as protest movement urges demonstrations across country on Friday over police brutalityIndian “cockroach” activist Sonam Wangchuk ended a 26-day hunger strike on Friday over an exam paper scandal that has spiralled into a wideranging youth-led protest against Narendra Modi’s government, with protesters continuing to call for the education minister to resign.Wangchuk said on social media that he ended the hunger strike </description>
+      <category>Police &amp; Criminal Justice</category>
+      <pubDate>Fri, 24 Jul 2026 00:20:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>How an iceberg may have stopped emperor penguins from breeding on Coulman Island in 2025</title>
+      <link>https://phys.org/news/2026-07-iceberg-emperor-penguins-coulman-island.html</link>
+      <guid>https://phys.org/news/2026-07-iceberg-emperor-penguins-coulman-island.html</guid>
+      <description>[Foraging &amp; Wild Plants] Keyword: foraging — The number of chicks in the Coulman Island emperor penguin colony decreased by about 69% in 2025 compared with 2024, according to research published in Communications Earth &amp; Environment. The authors suggest that a large iceberg, which grounded off the island between July 2025 and January 2026, likely restricted the colony's access to important foraging areas, demonstrating that individual iceberg movements may affect breeding success even when overall sea ice conditions appear favorable.</description>
+      <category>Foraging &amp; Wild Plants</category>
+      <pubDate>Thu, 23 Jul 2026 21:20:03 EDT</pubDate>
+    </item>
+    <item>
+      <title>Israel bombs Gaza after displacement orders, kills two Palestinians</title>
+      <link>https://www.aljazeera.com/news/2026/7/24/israel-bombs-gaza-after-displacement-orders-kills-two-palestinians?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/news/2026/7/24/israel-bombs-gaza-after-displacement-orders-kills-two-palestinians?traffic_source=rss</guid>
+      <description>[Housing &amp; Gentrification] Keyword: displacement — Humanitarian situation in Gaza is &amp;#039;desperate&amp;#039;, UN official says, as Israeli violations of &amp;#039;ceasefire&amp;#039; intensify.</description>
+      <category>Housing &amp; Gentrification</category>
+      <pubDate>Fri, 24 Jul 2026 00:29:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>City attorney suggests mayor’s plan to end Ready to Work early may run afoul of state law</title>
+      <link>https://sanantonioreport.org/city-attorney-ready-to-work-response/</link>
+      <guid>https://sanantonioreport.org/city-attorney-ready-to-work-response/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Mayor Gina Ortiz Jones didn't seem to take city attorney Andy Segovia's response to her suggestion to divert Ready to Work funds as a &quot;no.&quot;City attorney suggests mayor&amp;#8217;s plan to end Ready to Work early may run afoul of state law was first posted on July 23, 2026 at 7:34 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please cont</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Fri, 24 Jul 2026 00:34:15 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 5900 BABCOCK RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0999931</link>
@@ -786,54 +834,6 @@ The post A Tale of Two Behavioral Health Systems, or How the State Border Determ
       <description>[Science &amp; Research] Keyword: microbiology — A new method at the University of Missouri could transform how Rocky Mountain spotted fever is diagnosed. The method detects the deadly tick-borne disease in just 40 minutes—a leap that could help patients get lifesaving treatment sooner. The study, &quot;A rapid isothermal RPA–CRISPR/Cas12a assay for detection of Rickettsia rickettsii,&quot; was published in Frontiers in Microbiology.</description>
       <category>Science &amp; Research</category>
       <pubDate>Tue, 21 Jul 2026 20:20:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Coffee may protect your heart but energy drinks could harm it</title>
-      <link>https://www.sciencedaily.com/releases/2026/07/260721000820.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/07/260721000820.htm</guid>
-      <description>[Diabetes &amp; Kidney Disease] Keyword: type 2 diabetes — For most adults, a daily caffeine habit may be safer for the heart than many people assume. A new American Heart Association review found that up to 400 milligrams of caffeine a day, roughly three to five cups of regular black coffee, is generally safe and may even be linked to lower risks of heart disease, stroke, heart failure, and Type 2 diabetes. But the source matters: highly concentrated energy drinks and shots can sharply raise blood pressure and trigger irregular heart rhythms.</description>
-      <category>Diabetes &amp; Kidney Disease</category>
-      <pubDate>Tue, 21 Jul 2026 21:30:30 EDT</pubDate>
-    </item>
-    <item>
-      <title>More young women in their 20s are getting type 2 diabetes</title>
-      <link>https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Diabetes &amp; Kidney Disease] Keyword: type 2 diabetes — England is seeing &quot;a worrying increase&quot; in women in their 20s developing type 2 diabetes, say experts. Here's what to look out for.</description>
-      <category>Diabetes &amp; Kidney Disease</category>
-      <pubDate>Wed, 22 Jul 2026 00:03:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Electyrolyzer experiment designated ready-to-fly by NASA</title>
-      <link>https://phys.org/news/2026-07-electyrolyzer-ready-fly-nasa.html</link>
-      <guid>https://phys.org/news/2026-07-electyrolyzer-ready-fly-nasa.html</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A Southwest Research Institute and University of Texas at San Antonio experiment has passed a critical NASA review, designating it ready for parabolic flight testing. The two institutions will evaluate the performance of a patent-pending electrolyzer, the Mars Atmospheric Reactor for Synthesis of Consumables (MARS-C), in partial-gravity environments.</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Tue, 21 Jul 2026 22:00:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Mayor Jones floats ending Ready to Work early to redirect funds to San Antonio’s budget shortfall</title>
-      <link>https://sanantonioreport.org/mayor-jones-ready-to-work-budget-shortfall-funding/</link>
-      <guid>https://sanantonioreport.org/mayor-jones-ready-to-work-budget-shortfall-funding/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — San Antonio faces a $158 million budget gap — and Mayor Gina Ortiz Jones is targeting a major city program funded through 2030 to close it.Mayor Jones floats ending Ready to Work early to redirect funds to San Antonio&amp;#8217;s budget shortfall was first posted on July 21, 2026 at 9:02 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Ple</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Wed, 22 Jul 2026 02:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 3500 EL PASO ST (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0989446</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0989446</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0989446 | CENTRAL Division | 7/21/2026 6:34:21 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/21/2026 6:34:21 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 300 E BASSE RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0989469</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0989469</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0989469 | NORTH Division | 7/21/2026 6:40:04 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/21/2026 6:40:04 PM</pubDate>
     </item>
   </channel>
 </rss>
