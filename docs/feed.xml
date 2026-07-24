@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 22:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 23:59:47 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Robbery of Individual — 700 HISTORIC OLD HWY 90 (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1004696</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1004696</guid>
+      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1004696 | WEST Division | 7/24/2026 6:42:10 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/24/2026 6:42:10 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 5000 N LOOP 1604 E (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1004699</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1004699</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1004699 | NORTH Division | 7/24/2026 6:42:32 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/24/2026 6:42:32 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 100 HOPKINS ST (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1004717</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1004717</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1004717 | SOUTH Division | 7/24/2026 6:47:53 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/24/2026 6:47:53 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 4000 N LOOP 1604 W (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1004252</link>
@@ -809,35 +833,6 @@ and justifies these policies.
       <description>[Police &amp; Criminal Justice] Keyword: police accountability — A Moroccan-born man’s death in Bologna has prompted anger and renewed scrutiny of Italy’s policing and legal reforms.</description>
       <category>Police &amp; Criminal Justice</category>
       <pubDate>Thu, 23 Jul 2026 01:44:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[$] LWN.net Weekly Edition for July 23, 2026</title>
-      <link>https://lwn.net/Articles/1083123/</link>
-      <guid>https://lwn.net/Articles/1083123/</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — Inside this week's LWN.net Weekly Edition:
-        
-        
- Front: LLMs in the kernel; GNOME save and restore; Fedora changes; BPF and tracepoints; BPF and LSMs; famfs; sched_ext.
-             Briefs: GNOME security; PyPI policy; Arch on aarch64; Firefox 153; Quotes; ...
-             Announcements: Newsletters, conferences, security updates, patches, and more.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Thu, 23 Jul 2026 00:29:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>US signs landmark nuclear deal with Saudi Arabia</title>
-      <link>https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Worker Cooperatives &amp; Solidarity Economy] Keyword: co-op — The US Department of Energy says the &quot;peaceful&quot; co-operation agreement will give US firms &quot;great access&quot; to the Saudi nuclear energy programme.</description>
-      <category>Worker Cooperatives &amp; Solidarity Economy</category>
-      <pubDate>Wed, 22 Jul 2026 23:21:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Beat the heat without breaking the budget</title>
-      <link>https://sanantonioreport.org/beat-the-heat-without-breaking-the-budget-sponsored/</link>
-      <guid>https://sanantonioreport.org/beat-the-heat-without-breaking-the-budget-sponsored/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — SPONSORED: CPS Energy assistance programs are designed to help customers stay connected while making energy costs more manageable.Beat the heat without breaking the budget was first posted on July 22, 2026 at 6:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Wed, 22 Jul 2026 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
