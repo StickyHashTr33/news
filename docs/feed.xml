@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 05:46:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 08:18:47 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Australian regulator TGA warns of ‘rare but severe’ eye disorder linked to GLP-1 drugs like Ozempic</title>
+      <link>https://www.theguardian.com/australia-news/2026/jul/24/tga-warning-gpl1-eye-disorder-drugs-ozempic-wegovy-mounjaro</link>
+      <guid>https://www.theguardian.com/australia-news/2026/jul/24/tga-warning-gpl1-eye-disorder-drugs-ozempic-wegovy-mounjaro</guid>
+      <description>[Diabetes &amp; Kidney Disease] Keyword: type 2 diabetes — TGA says product information for some diabetes and weight loss drugs updated with warning of NAION disorderFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAustralia’s medicines regulator has issued warnings for several type 2 diabetes and obesity-related treatments – including Ozempic and Mounjaro – over the potential to cause a “rare but severe” eye disorder that could lead to blindness.The Therapeutic Goods Administration’s (TGA)</description>
+      <category>Diabetes &amp; Kidney Disease</category>
+      <pubDate>Fri, 24 Jul 2026 06:39:09 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Robbery of Individual — 4200 TIMBERBROOK (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1001142</link>
@@ -826,14 +834,6 @@ The post A Tale of Two Behavioral Health Systems, or How the State Border Determ
       <description>[Cybersecurity] Keyword: data breach — Follow today’s news liveGet our breaking news email, free app or daily news podcastThe New South Wales premier, Chris Minns, says the state’s Labor party is under threat from One Nation and “we’ve got to fight for those votes”.Appearing on ABC Radio National this morning, Minns was asked if One Nation was a “racist party”. He said people who had concerns about the levels of immigration weren’t necessarily racist but some of the things Pauline Hanson had said were.Certainly some of the things Pau</description>
       <category>Cybersecurity</category>
       <pubDate>Wed, 22 Jul 2026 05:23:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Magic mushrooms may reshape the brain long after the trip ends</title>
-      <link>https://www.sciencedaily.com/releases/2026/07/260719040005.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/07/260719040005.htm</guid>
-      <description>[Psychedelics &amp; Psilocybin Research] Keyword: psilocybin — A single dose of psilocybin produced measurable changes in brain activity and possible changes in brain structure that lasted for up to a month. Participants who experienced the greatest increase in flexible, varied brain activity also reported more personal insight and later improvements in well-being. The findings suggest that the psychedelic experience itself may help people break free from entrenched patterns of thinking.</description>
-      <category>Psychedelics &amp; Psilocybin Research</category>
-      <pubDate>Wed, 22 Jul 2026 00:12:46 EDT</pubDate>
     </item>
   </channel>
 </rss>
