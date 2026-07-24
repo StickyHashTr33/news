@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 18:15:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 20:17:33 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 2200 SW LOOP 410 (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1003780</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1003780</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1003780 | WEST Division | 7/24/2026 3:00:13 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/24/2026 3:00:13 PM</pubDate>
+    </item>
+    <item>
+      <title>Scientists turn modern biobanks into a new window on human evolution</title>
+      <link>https://phys.org/news/2026-07-scientists-modern-biobanks-window-human.html</link>
+      <guid>https://phys.org/news/2026-07-scientists-modern-biobanks-window-human.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — For more than a century, scientists have sought to reconstruct human evolution using diverse lines of evidence, including fossils, genetic variation across populations and ancient DNA. Building on these approaches, researchers are increasingly using large population biobanks to investigate how natural selection continues to shape the genomes of living populations.</description>
+      <category>Open Source Software</category>
+      <pubDate>Fri, 24 Jul 2026 15:40:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>Docs reveal Trump's shady justification for putting his face on the DOJ</title>
+      <link>https://www.alternet.org/trump-vanity-projects-doj-banner/</link>
+      <guid>https://www.alternet.org/trump-vanity-projects-doj-banner/</guid>
+      <description>[Government Accountability] Keyword: FOIA — A Freedom of Information Act request has revealed that Stalinesque banners hung on the Department of Justice building bearing the face of President Donald Trump were justified using questionable rationale. “I got records under FOIA showing Trump banners hung at Justice were part of a ‘RFK Beautification Project,’” posted journalist Kevin Bogardus on Friday. What’s more: “Total price? Almost $1 million. But precise costs for the banners were redacted.”Bogardus elaborated in an article for Politic</description>
+      <category>Government Accountability</category>
+      <pubDate>Fri, 24 Jul 2026 20:09:02 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 7300 CULEBRA COMMONS (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1003320</link>
@@ -814,30 +838,6 @@ and justifies these policies.
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A billboard campaign has launched near the Pearl, aiming to raise awareness, generate tips and connect human trafficking victims with help.‘Can You See Me?’ anti-human trafficking campaign launches in San Antonio was first posted on July 22, 2026 at 4:03 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivard</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Wed, 22 Jul 2026 21:03:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 15200 HUEBNER RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0993778</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0993778</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0993778 | PRUE Division | 7/22/2026 3:45:23 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/22/2026 3:45:23 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 500 S ACME RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0993800</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0993800</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0993800 | WEST Division | 7/22/2026 3:49:22 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/22/2026 3:49:22 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 300 VERNE ST (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0993809</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0993809</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0993809 | SOUTH Division | 7/22/2026 3:51:18 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/22/2026 3:51:18 PM</pubDate>
     </item>
   </channel>
 </rss>
