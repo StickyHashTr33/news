@@ -5,8 +5,61 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 16:34:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 18:15:58 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 7300 CULEBRA COMMONS (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1003320</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1003320</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1003320 | PRUE Division | 7/24/2026 12:57:54 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/24/2026 12:57:54 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 1100 E GRAYSON ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1003331</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1003331</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1003331 | EAST Division | 7/24/2026 1:00:09 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/24/2026 1:00:09 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 2500 SW MILITARY DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1003335</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1003335</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1003335 | SOUTH Division | 7/24/2026 1:00:48 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/24/2026 1:00:48 PM</pubDate>
+    </item>
+    <item>
+      <title>Hefty stable kernel updates for Friday</title>
+      <link>https://lwn.net/Articles/1084921/</link>
+      <guid>https://lwn.net/Articles/1084921/</guid>
+      <description>[Open Source Software] Keyword: Linux kernel — Greg Kroah-Hartman has announced the release of the 7.1.5, 6.18.40, 6.12.97, 6.6.145, 6.1.178, 5.15.212, and 5.10.261 stable Linux kernels.
+
+This batch of kernels includes a hefty set of updates, possibly the
+the largest ever. 7.1.5-rc1,
+for example, included more than 2,000 patches, 6.18.40-rc1
+included 1,611 patches, and so forth. Users are advised to upgrade.</description>
+      <category>Open Source Software</category>
+      <pubDate>Fri, 24 Jul 2026 17:01:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>San Antonio’s homicide decline is clear — it’s less clear why</title>
+      <link>https://sanantonioreport.org/san-antonios-homicide-decline-is-clear-its-less-clear-why/</link>
+      <guid>https://sanantonioreport.org/san-antonios-homicide-decline-is-clear-its-less-clear-why/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — San Antonio homicides fell another 8%, raising new questions about which public safety strategies are reducing violence.San Antonio’s homicide decline is clear — it&amp;#8217;s less clear why was first posted on July 24, 2026 at 12:25 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Fri, 24 Jul 2026 17:25:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cambodian Prime Minister Hun Manet met with ZTE to deepen cooperation in digital infrastructure and artificial intelligence (AI)</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/07/24/partner-content/5278416</link>
+      <guid>https://www.theregister.com/ai-and-ml/2026/07/24/partner-content/5278416</guid>
+      <description>[AI &amp; Automation] Keyword: AI integration — PARTNER CONTENT: Focusing on 5G deployment, AI integration, and ICT talent development to drive the nation's digital transformation</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Fri, 24 Jul 2026 17:01:47 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 9100 BUDD DR (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1002897</link>
@@ -785,54 +838,6 @@ and justifies these policies.
       <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0993809 | SOUTH Division | 7/22/2026 3:51:18 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/22/2026 3:51:18 PM</pubDate>
-    </item>
-    <item>
-      <title>Youth Orchestras of San Antonio finds a home for their music</title>
-      <link>https://sanantonioreport.org/youth-orchestras-of-san-antonio-finds-a-home-for-their-music/</link>
-      <guid>https://sanantonioreport.org/youth-orchestras-of-san-antonio-finds-a-home-for-their-music/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Rather than having parents take musicians to several practice locations, all the YOSA students will have one place to practice: YOSA Headquarters.Youth Orchestras of San Antonio finds a home for their music was first posted on July 22, 2026 at 2:50 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Wed, 22 Jul 2026 19:50:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI’s rogue AI agents are a wake-up call for its risks | Shakeel Hashim</title>
-      <link>https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks</link>
-      <guid>https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Hacking of Hugging Face shows we do not seem to have reliable ways to curb extremely powerful AI systemsLast week Hugging Face – a company that hosts artificial intelligence models and datasets – was hacked.After it reported the incident to law enforcement, few would have predicted what came next: the culprits were revealed to be AI agents from OpenAI, which had broken out of containment and were acting of their own accord.Shakeel Hashim is the editor of Transformer, a publication about the powe</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Wed, 22 Jul 2026 20:40:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux kernel team publishes 432 CVEs in two days</title>
-      <link>https://www.theregister.com/security/2026/07/22/linux-kernel-team-publishes-432-cves-in-two-days/5276497</link>
-      <guid>https://www.theregister.com/security/2026/07/22/linux-kernel-team-publishes-432-cves-in-two-days/5276497</guid>
-      <description>[Cybersecurity] Keyword: CVE — Sunday-to-Monday onslaught fuels speculation over AI-assisted bug reports</description>
-      <category>Cybersecurity</category>
-      <pubDate>Wed, 22 Jul 2026 18:58:33 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 4900 WOODSTONE (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0993229</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0993229</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0993229 | PRUE Division | 7/22/2026 1:54:36 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/22/2026 1:54:36 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 3600 E HOUSTON ST (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0993245</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0993245</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0993245 | EAST Division | 7/22/2026 1:57:40 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/22/2026 1:57:40 PM</pubDate>
-    </item>
-    <item>
-      <title>Storms that built a graveyard: Ancient monsoons created a spectacular dinosaur fossil site</title>
-      <link>https://phys.org/news/2026-07-storms-built-graveyard-ancient-monsoons.html</link>
-      <guid>https://phys.org/news/2026-07-storms-built-graveyard-ancient-monsoons.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — Around 80 million years ago, a stretch of tropical coastline in what is now northeastern Italy was lashed by monsoon rains and tropical cyclones. Those storms swept dinosaur carcasses, crocodiles, plants and river mud onto a tidal flat, where the tides and a film of microbes sealed everything away with extraordinary preservation.</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 22 Jul 2026 13:20:09 EDT</pubDate>
     </item>
   </channel>
 </rss>
