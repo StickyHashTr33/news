@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 10:28:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 12:00:27 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 3000 W CESAR CHAVEZ BLVD (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1006819</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1006819</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1006819 | CENTRAL Division | 7/25/2026 6:41:45 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/25/2026 6:41:45 AM</pubDate>
+    </item>
+    <item>
+      <title>Trump’s New Grievance With Canada: The Weather</title>
+      <link>https://www.motherjones.com/politics/2026/07/why-trump-wants-smoke-with-canada-but-not-from-it/</link>
+      <guid>https://www.motherjones.com/politics/2026/07/why-trump-wants-smoke-with-canada-but-not-from-it/</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — This story was originally published by&amp;#160;Slate&amp;#160;and is reproduced here as part of the&amp;#160;Climate Desk&amp;#160;collaboration. President Donald Trump is displeased and waging economic war with Canada yet again, this time because…our northern neighbor isn’t doing enough to fight the effects of climate change? “We are holding Canada responsible for the fact that they are not properly [&amp;#8230;]</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sat, 25 Jul 2026 11:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 10800 STATE HWY 151 (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1006679</link>
@@ -817,22 +833,6 @@ and justifies these policies.
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Commentary: Raising campaign donation limits gives wealthy donors more influence while weakening the voices of working families, renters, and seniors.Residents should decide elections, not big money was first posted on July 23, 2026 at 6:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Thu, 23 Jul 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why New Jersey’s erroneous noncitizen enrollment is far from proof of election fraud</title>
-      <link>https://www.theguardian.com/us-news/2026/jul/23/new-jersey-noncitizen-republicans-election-fraud</link>
-      <guid>https://www.theguardian.com/us-news/2026/jul/23/new-jersey-noncitizen-republicans-election-fraud</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — Republicans have latched on to the announcement after Trump’s lie-laden speech, but experts say DHS’s data is ‘designed to create a false argument’Donald Trump and his allies quickly seized on an announcement from Mikie Sherrill, the New Jersey governor, on Tuesday that 6,600 noncitizens had registered to vote because of a software error, and fewer than 400 of them voted, using thedisclosure to escalate false claims that there are scores of noncitizens on the voter rolls.Trump seized on the news</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Thu, 23 Jul 2026 11:00:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 2800 SE MILITARY DR (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0996572</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0996572</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0996572 | SOUTH Division | 7/23/2026 4:08:43 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/23/2026 4:08:43 AM</pubDate>
     </item>
   </channel>
 </rss>
