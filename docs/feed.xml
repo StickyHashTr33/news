@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 03:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 06:13:10 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Shooting In Progress — 4900 WURZBACH PKWY (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1006144</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1006144</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1006144 | NORTH Division | 7/25/2026 12:56:42 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/25/2026 12:56:42 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 5800 HILLJE ST (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1006146</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1006146</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1006146 | SOUTH Division | 7/25/2026 12:57:38 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/25/2026 12:57:38 AM</pubDate>
+    </item>
     <item>
       <title>The Fight Against Surveillance Cameras Is a Struggle for Democracy</title>
       <link>https://deceleration.news/the-fight-against-ai-surveillance-and-for-democracy/</link>
@@ -817,22 +833,6 @@ and justifies these policies.
       <description>[Climate &amp; Environment] Keyword: climate change — </description>
       <category>Climate &amp; Environment</category>
       <pubDate>Thu, 23 Jul 2026 08:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Human-Caused Climate Change, Not El Niño, Drives Most Coral Bleaching Events – Research</title>
-      <link>https://www.ipsnews.net/2026/07/human-caused-climate-change-not-el-nino-drives-most-coral-bleaching-events/</link>
-      <guid>https://www.ipsnews.net/2026/07/human-caused-climate-change-not-el-nino-drives-most-coral-bleaching-events/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Every morning, as the Indian Ocean retreats from the reef off Zanzibar&amp;#8217;s Jambiani village, Chiku Chande steps into the knee-deep lagoon carrying bundles of seaweed seedlings. Years of farming these waters have taught her about every channel and coral outcrop. But lately, the corals that once glowed in brown and gold have become chalky white. [&amp;#8230;]</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 23 Jul 2026 08:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Personal and banking details among customer data stolen in Origin Energy hack</title>
-      <link>https://www.theguardian.com/australia-news/2026/jul/23/personal-and-banking-details-among-customer-data-stolen-in-origin-energy-hack</link>
-      <guid>https://www.theguardian.com/australia-news/2026/jul/23/personal-and-banking-details-among-customer-data-stolen-in-origin-energy-hack</guid>
-      <description>[Open Source Software] Keyword: FOSS — Hackers access Australian customers’ names, addresses, dates of birth, phone numbers and some bank account details, company saysFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastOrigin Energy customers’ addresses, phone numbers and partial bank account data have been accessed in a hack, the company has confirmed.The firm has 4.8m customer accounts in Australia, providing electricity, fossil gas, LPG and internet services to homes and</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 23 Jul 2026 07:18:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
