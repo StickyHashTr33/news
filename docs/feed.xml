@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 20:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 21:51:31 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 100 HOPKINS ST (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1008717</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1008717</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1008717 | SOUTH Division | 7/25/2026 4:27:33 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/25/2026 4:27:33 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 4900 WOODSTONE (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1008056</link>
@@ -818,14 +826,6 @@ As your union election approaches, you’re going to have a lot of work to do. T
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0997774 | WEST Division | 7/23/2026 10:36:42 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/23/2026 10:36:42 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 11800 IH 10 W (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0997800</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0997800</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0997800 | PRUE Division | 7/23/2026 10:41:17 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/23/2026 10:41:17 AM</pubDate>
     </item>
   </channel>
 </rss>
