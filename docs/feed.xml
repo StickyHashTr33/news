@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 06:13:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 08:58:29 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ICE Took Mom and Dad. Now the Kids Are on Their Own.</title>
+      <link>https://www.motherjones.com/politics/2026/07/ice-immigration-family-separation-parents-perez-florida/</link>
+      <guid>https://www.motherjones.com/politics/2026/07/ice-immigration-family-separation-parents-perez-florida/</guid>
+      <description>[Immigration &amp; Border] Keyword: immigration detention — Last fall, life for the Perez children was turned upside down. Their father, Romeo Sr., was picked up on his way to work and sent to immigration detention. A few months later, their mother, Olga, was detained, too. Her daughter was driving when they were pulled over. Romeo Sr. and Olga were both undocumented and [&amp;#8230;]</description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>Sat, 25 Jul 2026 07:01:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Shooting In Progress — 4900 WURZBACH PKWY (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1006144</link>
@@ -825,14 +833,6 @@ and justifies these policies.
       <description>[Climate &amp; Environment] Keyword: deforestation — </description>
       <category>Climate &amp; Environment</category>
       <pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The year climate change came for the Tour de France</title>
-      <link>https://grist.org/culture/the-year-climate-change-came-for-the-tour-de-france/</link>
-      <guid>https://grist.org/culture/the-year-climate-change-came-for-the-tour-de-france/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — </description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 23 Jul 2026 08:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
