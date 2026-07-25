@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 08:58:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 10:28:52 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 10800 STATE HWY 151 (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1006679</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1006679</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1006679 | WEST Division | 7/25/2026 4:44:04 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/25/2026 4:44:04 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 4400 CHANDLER RD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1006702</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1006702</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1006702 | EAST Division | 7/25/2026 5:08:13 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/25/2026 5:08:13 AM</pubDate>
+    </item>
+    <item>
+      <title>Where I Live: Highland Park</title>
+      <link>https://sanantonioreport.org/where-i-live-highland-park-san-antonio-nadia-de-la-garza/</link>
+      <guid>https://sanantonioreport.org/where-i-live-highland-park-san-antonio-nadia-de-la-garza/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — In this neighborhood, many have lived here for decades, while others, like Nadia De La Garza and her partner, are starting their next chapter.Where I Live: Highland Park was first posted on July 25, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sat, 25 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ICE Took Mom and Dad. Now the Kids Are on Their Own.</title>
       <link>https://www.motherjones.com/politics/2026/07/ice-immigration-family-separation-parents-perez-florida/</link>
@@ -809,30 +833,6 @@ and justifies these policies.
       <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0996572 | SOUTH Division | 7/23/2026 4:08:43 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/23/2026 4:08:43 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 8700 BRAUN PATH (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0996574</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0996574</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0996574 | PRUE Division | 7/23/2026 4:09:11 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/23/2026 4:09:11 AM</pubDate>
-    </item>
-    <item>
-      <title>Climate change making Europe drought 'more severe': study</title>
-      <link>https://phys.org/news/2026-07-climate-europe-drought-severe.html</link>
-      <guid>https://phys.org/news/2026-07-climate-europe-drought-severe.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Human-caused climate change has intensified a drought across Europe, with extreme heat rather than low rainfall driving the exceptionally dry conditions, a team of international scientists said Thursday.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 23 Jul 2026 05:00:12 EDT</pubDate>
-    </item>
-    <item>
-      <title>Without stronger government action, Brazil’s low deforestation in the Amazon is unlikely to last</title>
-      <link>https://grist.org/international/without-stronger-government-action-brazils-low-deforestation-in-the-amazon-is-unlikely-to-last/</link>
-      <guid>https://grist.org/international/without-stronger-government-action-brazils-low-deforestation-in-the-amazon-is-unlikely-to-last/</guid>
-      <description>[Climate &amp; Environment] Keyword: deforestation — </description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
