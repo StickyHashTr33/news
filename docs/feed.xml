@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 17:55:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 19:01:15 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 4900 WOODSTONE (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1008056</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1008056</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1008056 | PRUE Division | 7/25/2026 1:46:57 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/25/2026 1:46:57 PM</pubDate>
+    </item>
+    <item>
+      <title>LiftFund launches new Hill Country flood relief program as businesses rebuild all over again</title>
+      <link>https://sanantonioreport.org/liftfund-launches-new-hill-country-flood-relief-program-as-businesses-rebuild-all-over-again/</link>
+      <guid>https://sanantonioreport.org/liftfund-launches-new-hill-country-flood-relief-program-as-businesses-rebuild-all-over-again/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — After another round of destructive flooding, LiftFund is offering grants of up to $10,000 to affected small businesses and nonprofits.LiftFund launches new Hill Country flood relief program as businesses rebuild all over again was first posted on July 25, 2026 at 2:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me a</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sat, 25 Jul 2026 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New North Sea oil drilling faces delay after gear accidentally dropped in sea</title>
       <link>https://www.theguardian.com/business/2026/jul/25/new-north-sea-oil-drilling-rosebank-faces-delay-after-gear-dropped-into-sea</link>
@@ -810,22 +826,6 @@ As your union election approaches, you’re going to have a lot of work to do. T
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0997800 | PRUE Division | 7/23/2026 10:41:17 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/23/2026 10:41:17 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 16200 VANCE JACKSON RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0997805</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0997805</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0997805 | PRUE Division | 7/23/2026 10:42:33 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/23/2026 10:42:33 AM</pubDate>
-    </item>
-    <item>
-      <title>One ChatGPT link could smuggle a rogue AI agent into your company</title>
-      <link>https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116</link>
-      <guid>https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Researchers say OpenAI flaw let phishing bait create an autonomous corporate mole armed with employee access</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Thu, 23 Jul 2026 15:02:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
