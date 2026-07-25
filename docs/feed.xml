@@ -5,8 +5,39 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 22:51:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 23:56:53 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 300 FRIO CITY RD (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1009180</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1009180</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1009180 | CENTRAL Division | 7/25/2026 6:30:13 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/25/2026 6:30:13 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 3300 WEIR AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1009209</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1009209</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1009209 | SOUTH Division | 7/25/2026 6:39:33 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/25/2026 6:39:33 PM</pubDate>
+    </item>
+    <item>
+      <title>A Debian general resolution on LLM usage</title>
+      <link>https://lwn.net/Articles/1085314/</link>
+      <guid>https://lwn.net/Articles/1085314/</guid>
+      <description>[AI &amp; Automation] Keyword: large language model — The Debian project is considering a general
+resolution on the use of large language models in the creation of the
+distribution.  There are three alternatives to consider: a
+total ban on LLM usage, rejecting LLMs &quot;as far as practical&quot;, or
+explicitly allowing LLM usage subject to a set of conditions.  The
+discussion period has just begun; the beginning of the voting period does
+not yet appear to have been set.  Those who want to look over the
+discussion ahead of the inevitable LWN article can find</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Sat, 25 Jul 2026 23:14:16 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 100 HOPKINS ST (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1008717</link>
@@ -802,30 +833,6 @@ As your union election approaches, you’re going to have a lot of work to do. T
       <description>[ALPR &amp; Flock Cameras] Keyword: Flock camera — Public backlash has pushed some counties to pull funding for Flock cameras and issue moratoriums on data centers.</description>
       <category>ALPR &amp; Flock Cameras</category>
       <pubDate>Thu, 23 Jul 2026 16:24:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Protestors Call for Shutting Down ICE’s New East San Antonio Detention Center—Before it Opens</title>
-      <link>https://deceleration.news/protestors-shut-down-ice-san-antonio-detention/</link>
-      <guid>https://deceleration.news/protestors-shut-down-ice-san-antonio-detention/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Speakers at Saturday's ‘Apply Heat’ day of action decried the rising numbers of ICE-related deaths and called for long-term resistance.</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Thu, 23 Jul 2026 17:13:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Faces of the Spurs listening tour: Residents excited, concerned about downtown arena, Project Marvel</title>
-      <link>https://sanantonioreport.org/spurs-listening-tour-feedback-faces/</link>
-      <guid>https://sanantonioreport.org/spurs-listening-tour-feedback-faces/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The conversations about a new arena district downtown ranged from concerns about affordability, traffic and transparency to fan nostalgia and anticipation for a new arena.Faces of the Spurs listening tour: Residents excited, concerned about downtown arena, Project Marvel was first posted on July 23, 2026 at 11:24 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty </description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Thu, 23 Jul 2026 16:24:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 1100 SHADWELL (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0997774</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0997774</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-0997774 | WEST Division | 7/23/2026 10:36:42 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/23/2026 10:36:42 AM</pubDate>
     </item>
   </channel>
 </rss>
