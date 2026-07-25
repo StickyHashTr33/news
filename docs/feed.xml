@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 13:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 14:59:16 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 2800 GOLIAD RD (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1007256</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1007256</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1007256 | SOUTH Division | 7/25/2026 9:45:39 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/25/2026 9:45:39 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 3600 CALLAGHAN RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1007266</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1007266</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1007266 | WEST Division | 7/25/2026 9:48:18 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/25/2026 9:48:18 AM</pubDate>
+    </item>
+    <item>
+      <title>A summer in the lab: San Antonio teens chase STEM careers at Texas Biomed</title>
+      <link>https://sanantonioreport.org/san-antonio-teens-chase-stem-careers-at-texas-biomed/</link>
+      <guid>https://sanantonioreport.org/san-antonio-teens-chase-stem-careers-at-texas-biomed/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Texas Biomed's Valero Young Scientist Program has doubled to 60 students in its third year. Now, its leaders are eying a possible extension.A summer in the lab: San Antonio teens chase STEM careers at Texas Biomed was first posted on July 25, 2026 at 9:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivar</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sat, 25 Jul 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cancer rates are rising faster here than anywhere else. Are healthcare systems ready?</title>
+      <link>https://www.npr.org/2026/07/25/g-s1-135365/cancer-breast-chemotherapy-nigeria</link>
+      <guid>https://www.npr.org/2026/07/25/g-s1-135365/cancer-breast-chemotherapy-nigeria</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — As Nigeria grapples with a rapid rise in cancer cases, patients say they often feel as if they are on their own.</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Sat, 25 Jul 2026 07:51:44 -0400</pubDate>
+    </item>
     <item>
       <title>[SAPD] Robbery of Individual — 13600 O'CONNOR RD (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1007067</link>
@@ -803,38 +835,6 @@ and justifies these policies.
 	generated single-use software that no one else will ever loo</description>
       <category>AI &amp; Automation</category>
       <pubDate>Thu, 23 Jul 2026 13:27:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 2100 S NUECES (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0996751</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0996751</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-0996751 | CENTRAL Division | 7/23/2026 6:13:31 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/23/2026 6:13:31 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 400 ESTRELLA ST (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0996763</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0996763</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0996763 | WEST Division | 7/23/2026 6:25:15 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/23/2026 6:25:15 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 400 SUMNER DR (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0996773</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0996773</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-0996773 | NORTH Division | 7/23/2026 6:28:59 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/23/2026 6:28:59 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 7800 MESQUITE FARM (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0996788</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0996788</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0996788 | EAST Division | 7/23/2026 6:37:25 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/23/2026 6:37:25 AM</pubDate>
     </item>
   </channel>
 </rss>
