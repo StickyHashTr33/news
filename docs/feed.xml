@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2026 21:55:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 22:56:42 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 18000 US HWY 281 N (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1013092</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1013092</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1013092 | NORTH Division | 7/26/2026 5:43:17 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/26/2026 5:43:17 PM</pubDate>
+    </item>
+    <item>
+      <title>News live: national AusAlert test to blare siren; latest US tariffs on Australia ‘unjustified’, James Paterson says</title>
+      <link>https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb</link>
+      <guid>https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb</guid>
+      <description>[Immigration &amp; Border] Keyword: refugee resettlement — Follow the day’s news liveGet our breaking news email, free app or daily news podcastIt’s also well worth watching this video of Guardian Australia’s community affairs reporter Adeshola Ore’s interview with Barnaby Joyce about Armidale’s refugee resettlement program and One Nation’s policy positions on immigration.One Nation’s policy is that immigrants who do not speak English should “under no circumstances … be able to settle in Australia”. Continue reading...</description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>Sun, 26 Jul 2026 22:49:33 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 14200 US HWY 281 N (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1012887</link>
@@ -804,22 +820,6 @@ included 1,611 patches, and so forth. Users are advised to upgrade.</description
       <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — </description>
       <category>Indigenous News &amp; Tribal Sovereignty</category>
       <pubDate>Fri, 24 Jul 2026 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From local streets and heroes to SCOTUS justices and vibes, here’s how San Antonio schools got their names</title>
-      <link>https://sanantonioreport.org/school-name-history-of-san-antonio-2026/</link>
-      <guid>https://sanantonioreport.org/school-name-history-of-san-antonio-2026/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — In San Antonio, schools are named after neighborhoods, Supreme Court Justices, literary talents and local heroes. From local streets and heroes to SCOTUS justices and vibes, here&amp;#8217;s how San Antonio schools got their names was first posted on July 24, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me a</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Fri, 24 Jul 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australian regulator TGA warns of ‘rare but severe’ eye disorder linked to GLP-1 drugs like Ozempic</title>
-      <link>https://www.theguardian.com/australia-news/2026/jul/24/tga-warning-gpl1-eye-disorder-drugs-ozempic-wegovy-mounjaro</link>
-      <guid>https://www.theguardian.com/australia-news/2026/jul/24/tga-warning-gpl1-eye-disorder-drugs-ozempic-wegovy-mounjaro</guid>
-      <description>[Diabetes &amp; Kidney Disease] Keyword: type 2 diabetes — TGA says product information for some diabetes and weight loss drugs updated with warning of NAION disorderFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAustralia’s medicines regulator has issued warnings for several type 2 diabetes and obesity-related treatments – including Ozempic and Mounjaro – over the potential to cause a “rare but severe” eye disorder that could lead to blindness.The Therapeutic Goods Administration’s (TGA)</description>
-      <category>Diabetes &amp; Kidney Disease</category>
-      <pubDate>Fri, 24 Jul 2026 06:39:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
