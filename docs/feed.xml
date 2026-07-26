@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2026 05:56:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 08:23:57 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 8200 STATE HWY 151 (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1011181</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1011181</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1011181 | WEST Division | 7/26/2026 3:12:06 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/26/2026 3:12:06 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 3600 EL PASO ST (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1010723</link>
@@ -812,14 +820,6 @@ included 1,611 patches, and so forth. Users are advised to upgrade.</description
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0998619 | PRUE Division | 7/23/2026 1:43:40 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/23/2026 1:43:40 PM</pubDate>
-    </item>
-    <item>
-      <title>Recycling does not weaken support for broader climate action, survey finds</title>
-      <link>https://phys.org/news/2026-07-recycling-weaken-broader-climate-action.html</link>
-      <guid>https://phys.org/news/2026-07-recycling-weaken-broader-climate-action.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — In research published in npj Climate Action, UNSW Sydney behavioral scientists, in collaboration with researchers from Griffith University, say they found no evidence for claims that climate action at the individual level distracted from support for meaningful action on climate change.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 23 Jul 2026 14:20:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
