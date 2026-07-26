@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2026 16:54:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 17:59:09 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 5900 BURNING SUNRISE DR (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1012095</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1012095</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1012095 | EAST Division | 7/26/2026 12:47:04 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/26/2026 12:47:04 PM</pubDate>
+    </item>
+    <item>
+      <title>Berlin Pride ramming: Suspect shot dead in police operation</title>
+      <link>https://www.dw.com/en/berlin-pride-ramming-suspect-shot-dead-in-police-operation/live-78117180?maca=en-rss-en-all-1573-rdf</link>
+      <guid>https://www.dw.com/en/berlin-pride-ramming-suspect-shot-dead-in-police-operation/live-78117180?maca=en-rss-en-all-1573-rdf</guid>
+      <description>[Immigration &amp; Border] Keyword: ICE operation — Police told media the suspect was shot dead in an operation, after the incident was classified as an &quot;Islamist terrorist&quot; attack. One person was killed and several others injured in the attack. Follow DW.</description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>2026-07-26T17:34:00Z</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 6000 UTSA BLVD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1011862</link>
@@ -804,22 +820,6 @@ included 1,611 patches, and so forth. Users are advised to upgrade.</description
       <description>[Police &amp; Criminal Justice] Keyword: police brutality — Sonam Wangchuk halted strike amid concerns about ‘possible violence’ in India as protest movement urges demonstrations across country on Friday over police brutalityIndian “cockroach” activist Sonam Wangchuk ended a 26-day hunger strike on Friday over an exam paper scandal that has spiralled into a wideranging youth-led protest against Narendra Modi’s government, with protesters continuing to call for the education minister to resign.Wangchuk said on social media that he ended the hunger strike </description>
       <category>Police &amp; Criminal Justice</category>
       <pubDate>Fri, 24 Jul 2026 00:20:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>How an iceberg may have stopped emperor penguins from breeding on Coulman Island in 2025</title>
-      <link>https://phys.org/news/2026-07-iceberg-emperor-penguins-coulman-island.html</link>
-      <guid>https://phys.org/news/2026-07-iceberg-emperor-penguins-coulman-island.html</guid>
-      <description>[Foraging &amp; Wild Plants] Keyword: foraging — The number of chicks in the Coulman Island emperor penguin colony decreased by about 69% in 2025 compared with 2024, according to research published in Communications Earth &amp; Environment. The authors suggest that a large iceberg, which grounded off the island between July 2025 and January 2026, likely restricted the colony's access to important foraging areas, demonstrating that individual iceberg movements may affect breeding success even when overall sea ice conditions appear favorable.</description>
-      <category>Foraging &amp; Wild Plants</category>
-      <pubDate>Thu, 23 Jul 2026 21:20:03 EDT</pubDate>
-    </item>
-    <item>
-      <title>Israel bombs Gaza after displacement orders, kills two Palestinians</title>
-      <link>https://www.aljazeera.com/news/2026/7/24/israel-bombs-gaza-after-displacement-orders-kills-two-palestinians?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/7/24/israel-bombs-gaza-after-displacement-orders-kills-two-palestinians?traffic_source=rss</guid>
-      <description>[Housing &amp; Gentrification] Keyword: displacement — Humanitarian situation in Gaza is &amp;#039;desperate&amp;#039;, UN official says, as Israeli violations of &amp;#039;ceasefire&amp;#039; intensify.</description>
-      <category>Housing &amp; Gentrification</category>
-      <pubDate>Fri, 24 Jul 2026 00:29:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
