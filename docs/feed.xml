@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 23:56:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 02:30:53 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 2800 BURNING LOG (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1009796</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1009796</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1009796 | NORTH Division | 7/25/2026 9:20:11 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/25/2026 9:20:11 PM</pubDate>
+    </item>
+    <item>
+      <title>'I can't work in the farce of climate change cruise tourism anymore': Why Antarctic guides quit their dream jobs</title>
+      <link>https://phys.org/news/2026-07-farce-climate-cruise-tourism-anymore.html</link>
+      <guid>https://phys.org/news/2026-07-farce-climate-cruise-tourism-anymore.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — In the words of a former Antarctic tour guide we interviewed: &quot;You'd see massive glacier calvings, and you'd just want to cry. But all the guests would be cheering. And you'd be like … 'can you not put two and two together?'&quot;</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sat, 25 Jul 2026 20:30:04 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 300 FRIO CITY RD (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1009180</link>
@@ -817,22 +833,6 @@ An excerpt from Running for Local Union Office: A Labor Notes Guide
 As your union election approaches, you’re going to have a lot of work to do. Texting and phone </description>
       <category>Labor &amp; Worker Rights</category>
       <pubDate>Thu, 23 Jul 2026 16:49:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>More than half of Earth's migratory bird species are declining—here's how we can still save them</title>
-      <link>https://phys.org/news/2026-07-earth-migratory-bird-species-declining.html</link>
-      <guid>https://phys.org/news/2026-07-earth-migratory-bird-species-declining.html</guid>
-      <description>[Foraging &amp; Wild Plants] Keyword: foraging — Every year, billions of migratory birds connect the world's continents, oceans and ecosystems as they undertake epic journeys between their foraging habitats and breeding grounds.</description>
-      <category>Foraging &amp; Wild Plants</category>
-      <pubDate>Thu, 23 Jul 2026 12:00:05 EDT</pubDate>
-    </item>
-    <item>
-      <title>Floridians’ Fights Against Flock Cameras and AI Are Shaking Up State Politics</title>
-      <link>https://truthout.org/articles/floridians-fights-against-flock-cameras-and-ai-are-shaking-up-state-politics/</link>
-      <guid>https://truthout.org/articles/floridians-fights-against-flock-cameras-and-ai-are-shaking-up-state-politics/</guid>
-      <description>[ALPR &amp; Flock Cameras] Keyword: Flock camera — Public backlash has pushed some counties to pull funding for Flock cameras and issue moratoriums on data centers.</description>
-      <category>ALPR &amp; Flock Cameras</category>
-      <pubDate>Thu, 23 Jul 2026 16:24:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
