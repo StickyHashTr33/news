@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2026 19:16:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 20:53:34 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 4900 EL MATADOR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1012641</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1012641</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1012641 | NORTH Division | 7/26/2026 3:34:29 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/26/2026 3:34:29 PM</pubDate>
+    </item>
+    <item>
+      <title>Berlin Pride attack suspect shot and killed during police operation</title>
+      <link>https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[Immigration &amp; Border] Keyword: ICE operation — Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.</description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>Sun, 26 Jul 2026 19:21:26 GMT</pubDate>
+    </item>
     <item>
       <title>Cyclospora is spiking nationally. In Bexar County, fleas and pool water are the bigger concern.</title>
       <link>https://sanantonioreport.org/cyclospora-bexar-county-fleas-and-pool-water-are-the-bigger-concern/</link>
@@ -804,22 +820,6 @@ included 1,611 patches, and so forth. Users are advised to upgrade.</description
       <description>[Diabetes &amp; Kidney Disease] Keyword: GLP-1 — Follow today’s news liveGet our breaking news email, free app or daily news podcastAustralian exports sent to the US will be hit with a 12.5% tariff as the US president imposes levies on more than 80 nations.The Trump administration unveiled the latest tranche of tariffs for countries over their “failure to impose and effectively enforce a prohibition on the importation of goods produced with forced labour”.This, in our view, makes no sense.Forced labour is definitely something which needs to be</description>
       <category>Diabetes &amp; Kidney Disease</category>
       <pubDate>Fri, 24 Jul 2026 05:27:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 700 GABRIEL (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1000468</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1000468</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1000468 | EAST Division | 7/23/2026 9:09:05 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/23/2026 9:09:05 PM</pubDate>
-    </item>
-    <item>
-      <title>Scientists find building blocks of birdsong's 'spectacular diversity'</title>
-      <link>https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Science &amp; Research] Keyword: scientific study — A scientific study has revealed the acoustic secret that connects all birdsong - and it is surprisingly simple</description>
-      <category>Science &amp; Research</category>
-      <pubDate>Thu, 23 Jul 2026 23:55:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
