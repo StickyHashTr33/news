@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2026 10:41:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 11:59:58 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Year Climate Change Came for the Tour de France</title>
+      <link>https://www.motherjones.com/environment/2026/07/the-year-climate-change-came-for-the-tour-de-france/</link>
+      <guid>https://www.motherjones.com/environment/2026/07/the-year-climate-change-came-for-the-tour-de-france/</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — This story was originally published by&amp;#160;Grist&amp;#160;and&amp;#160;is reproduced here as part of the&amp;#160;Climate Desk&amp;#160;collaboration. Tadej Pogačar is expected to ride to victory on the Champs-Élysées in Paris when the Tour de France ends Sunday. While his commanding performance has left little doubt about the outcome, the journey to the finale has been remarkable for another reason: [&amp;#8230;]</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sun, 26 Jul 2026 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 400 W MARKET ST (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1011404</link>
@@ -812,14 +820,6 @@ included 1,611 patches, and so forth. Users are advised to upgrade.</description
       <description>[Open Source Software] Keyword: FOSS — Snakes are everywhere in our legends and mythology. Yet for most of us, our blood runs cold whenever we encounter these strangely undulating, scaly tubes of muscle slithering through the leaf litter.</description>
       <category>Open Source Software</category>
       <pubDate>Thu, 23 Jul 2026 18:40:02 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 13400 CULEBRA RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0999509</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0999509</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-0999509 | WEST Division | 7/23/2026 4:54:42 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/23/2026 4:54:42 PM</pubDate>
     </item>
   </channel>
 </rss>
