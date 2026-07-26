@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2026 20:53:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 21:55:44 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 14200 US HWY 281 N (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1012887</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1012887</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1012887 | NORTH Division | 7/26/2026 4:41:33 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/26/2026 4:41:33 PM</pubDate>
+    </item>
+    <item>
+      <title>Forest productivity, not rapid warming, shapes Northern Eurasia's carbon sink</title>
+      <link>https://phys.org/news/2026-07-forest-productivity-rapid-northern-eurasia.html</link>
+      <guid>https://phys.org/news/2026-07-forest-productivity-rapid-northern-eurasia.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Northern Eurasia contains about 20% of the world's forests and plays a crucial role in mitigating climate change by absorbing atmospheric carbon dioxide, thereby acting as a major carbon sink. However, understanding the region's carbon sink is challenging because it is influenced by multiple interacting factors, including rapid climate change, wildfires, land-use change and limited observational coverage across its vast extent.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sun, 26 Jul 2026 17:00:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 4900 EL MATADOR (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1012641</link>
@@ -804,22 +820,6 @@ included 1,611 patches, and so forth. Users are advised to upgrade.</description
       <description>[Diabetes &amp; Kidney Disease] Keyword: type 2 diabetes — TGA says product information for some diabetes and weight loss drugs updated with warning of NAION disorderFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAustralia’s medicines regulator has issued warnings for several type 2 diabetes and obesity-related treatments – including Ozempic and Mounjaro – over the potential to cause a “rare but severe” eye disorder that could lead to blindness.The Therapeutic Goods Administration’s (TGA)</description>
       <category>Diabetes &amp; Kidney Disease</category>
       <pubDate>Fri, 24 Jul 2026 06:39:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Robbery of Individual — 4200 TIMBERBROOK (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1001142</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1001142</guid>
-      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1001142 | WEST Division | 7/24/2026 12:24:34 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/24/2026 12:24:34 AM</pubDate>
-    </item>
-    <item>
-      <title>Australia news live: eye health warning over GLP-1 drugs; Barnaby Joyce’s wife bans ABC’s 7.30 from farm</title>
-      <link>https://www.theguardian.com/australia-news/live/2026/jul/24/australia-news-live-jim-chalmers-anthony-albanese-labor-conference-gas-tax-gambling-reform-one-nation-pauline-hanson-ntwnfb</link>
-      <guid>https://www.theguardian.com/australia-news/live/2026/jul/24/australia-news-live-jim-chalmers-anthony-albanese-labor-conference-gas-tax-gambling-reform-one-nation-pauline-hanson-ntwnfb</guid>
-      <description>[Diabetes &amp; Kidney Disease] Keyword: GLP-1 — Follow today’s news liveGet our breaking news email, free app or daily news podcastAustralian exports sent to the US will be hit with a 12.5% tariff as the US president imposes levies on more than 80 nations.The Trump administration unveiled the latest tranche of tariffs for countries over their “failure to impose and effectively enforce a prohibition on the importation of goods produced with forced labour”.This, in our view, makes no sense.Forced labour is definitely something which needs to be</description>
-      <category>Diabetes &amp; Kidney Disease</category>
-      <pubDate>Fri, 24 Jul 2026 05:27:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
