@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2026 13:41:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 15:02:36 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The serendipitous rise of Diana Barrios Trevino, the telegenic face of San Antonio Tex-Mex</title>
+      <link>https://sanantonioreport.org/the-rise-of-diana-barrios-trevino-the-face-of-san-antonio-tex-mex/</link>
+      <guid>https://sanantonioreport.org/the-rise-of-diana-barrios-trevino-the-face-of-san-antonio-tex-mex/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Diana Barrios Trevino did not set out to cook on television. But one unexpected opportunity after another propelled her to be a celebrity chef.The serendipitous rise of Diana Barrios Trevino, the telegenic face of San Antonio Tex-Mex was first posted on July 26, 2026 at 9:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please conta</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sun, 26 Jul 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Trump has finally awakened America's sleeping giant — and he's dancing</title>
       <link>https://www.alternet.org/trump-angry-america/</link>
@@ -812,14 +820,6 @@ included 1,611 patches, and so forth. Users are advised to upgrade.</description
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0999940 | SOUTH Division | 7/23/2026 6:37:52 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/23/2026 6:37:52 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — JACKSON-KELLER RD / BLANCO RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0999961</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-0999961</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-0999961 | NORTH Division | 7/23/2026 6:43:25 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/23/2026 6:43:25 PM</pubDate>
     </item>
   </channel>
 </rss>
