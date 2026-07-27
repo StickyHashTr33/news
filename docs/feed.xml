@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 22:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 23:59:20 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 500 MADDUX DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1018461</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1018461</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1018461 | WEST Division | 7/27/2026 6:40:47 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/27/2026 6:40:47 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 7700 KENNEDY HILL (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1018470</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1018470</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1018470 | SOUTH Division | 7/27/2026 6:42:55 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/27/2026 6:42:55 PM</pubDate>
+    </item>
+    <item>
+      <title>Tropical species near thermal limits as global warming compresses safety margins</title>
+      <link>https://phys.org/news/2026-07-tropical-species-thermal-limits-global.html</link>
+      <guid>https://phys.org/news/2026-07-tropical-species-thermal-limits-global.html</guid>
+      <description>[Climate &amp; Environment] Keyword: global warming — With global warming and extreme weather intensifying, can animals raise their thermal tolerance to cope with a continuously warming environment? A joint research project by the Division of Science at Lingnan University and an international research team conducted experiments on tropical intertidal snails that live under the scorching sun.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 27 Jul 2026 19:20:04 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Shooting In Progress — 8100 BANDERA RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1017442</link>
@@ -797,30 +821,6 @@ filesystem should upgrade.</description>
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1006679 | WEST Division | 7/25/2026 4:44:04 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/25/2026 4:44:04 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 4400 CHANDLER RD (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1006702</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1006702</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1006702 | EAST Division | 7/25/2026 5:08:13 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/25/2026 5:08:13 AM</pubDate>
-    </item>
-    <item>
-      <title>Where I Live: Highland Park</title>
-      <link>https://sanantonioreport.org/where-i-live-highland-park-san-antonio-nadia-de-la-garza/</link>
-      <guid>https://sanantonioreport.org/where-i-live-highland-park-san-antonio-nadia-de-la-garza/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — In this neighborhood, many have lived here for decades, while others, like Nadia De La Garza and her partner, are starting their next chapter.Where I Live: Highland Park was first posted on July 25, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Sat, 25 Jul 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICE Took Mom and Dad. Now the Kids Are on Their Own.</title>
-      <link>https://www.motherjones.com/politics/2026/07/ice-immigration-family-separation-parents-perez-florida/</link>
-      <guid>https://www.motherjones.com/politics/2026/07/ice-immigration-family-separation-parents-perez-florida/</guid>
-      <description>[Immigration &amp; Border] Keyword: immigration detention — Last fall, life for the Perez children was turned upside down. Their father, Romeo Sr., was picked up on his way to work and sent to immigration detention. A few months later, their mother, Olga, was detained, too. Her daughter was driving when they were pulled over. Romeo Sr. and Olga were both undocumented and [&amp;#8230;]</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Sat, 25 Jul 2026 07:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
