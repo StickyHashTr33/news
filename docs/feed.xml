@@ -5,8 +5,48 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 16:14:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:22:16 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 2400 WOODLAKE PKWY (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1016907</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1016907</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1016907 | EAST Division | 7/27/2026 1:09:23 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/27/2026 1:09:23 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 1900 W MAGNOLIA AVE (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1016921</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1016921</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1016921 | WEST Division | 7/27/2026 1:11:31 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/27/2026 1:11:31 PM</pubDate>
+    </item>
+    <item>
+      <title>Low-level cloud loss amplifies global warming, simulations suggest</title>
+      <link>https://phys.org/news/2026-07-cloud-loss-amplifies-global-simulations.html</link>
+      <guid>https://phys.org/news/2026-07-cloud-loss-amplifies-global-simulations.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Low-level clouds over Earth's oceans play a prominent role in keeping our planet cool by reflecting sunlight away from the surface. But their response to climate change has been hard to model. Now, researchers at Caltech and Google have uncovered important insights into how clouds might respond to warming sea-surface temperatures and rising CO2 levels using a large dataset of simulations developed by the group.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 27 Jul 2026 13:00:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>Republicans’ ‘dumb on crime’ crusade in Washington, DC, is coming to your state next</title>
+      <link>https://therealnews.com/republicans-dumb-on-crime-crusade-in-washington-dc-is-coming-to-your-state-next</link>
+      <guid>https://therealnews.com/republicans-dumb-on-crime-crusade-in-washington-dc-is-coming-to-your-state-next</guid>
+      <description>[Police &amp; Criminal Justice] Keyword: criminal justice reform — Cash bail, mandatory minimums, incarcerating children as adults—the Trump-led GOP is destroying decades of criminal justice reforms for “tough on crime” policies that are not only cruel but objectively don’t work.</description>
+      <category>Police &amp; Criminal Justice</category>
+      <pubDate>Mon, 27 Jul 2026 16:56:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>New York school district halts plan to use humanoid robot amid backlash</title>
+      <link>https://www.theguardian.com/us-news/2026/jul/27/new-york-school-humanoid-robot-plan-paused</link>
+      <guid>https://www.theguardian.com/us-news/2026/jul/27/new-york-school-humanoid-robot-plan-paused</guid>
+      <description>[Digital Rights &amp; Privacy] Keyword: data privacy — Salamanca City Central says it is pausing project with Realbotix as it addresses concerns including data privacyA New York school district has walked back plans to introduce a humanoid robot at its high school after the proposal sparked backlash from educators and community members.The Salamanca City Central school district announced on 24 July in a social media post that its pilot project with Toronto-based tech company Realbotix had been put on hold “while we work through enhanced student data</description>
+      <category>Digital Rights &amp; Privacy</category>
+      <pubDate>Mon, 27 Jul 2026 17:03:51 GMT</pubDate>
+    </item>
     <item>
       <title>The trees helping fires spread and what to do about it‌</title>
       <link>https://www.dw.com/en/the-trees-helping-fires-spread-and-what-to-do-about-it‌/a-78091968?maca=en-rss-en-all-1573-rdf</link>
@@ -776,46 +816,6 @@ filesystem should upgrade.</description>
       <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1004699 | NORTH Division | 7/24/2026 6:42:32 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/24/2026 6:42:32 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 100 HOPKINS ST (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1004717</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1004717</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1004717 | SOUTH Division | 7/24/2026 6:47:53 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/24/2026 6:47:53 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 4000 N LOOP 1604 W (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1004252</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1004252</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1004252 | PRUE Division | 7/24/2026 4:51:16 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/24/2026 4:51:16 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 2200 SW LOOP 410 (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1003780</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1003780</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1003780 | WEST Division | 7/24/2026 3:00:13 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/24/2026 3:00:13 PM</pubDate>
-    </item>
-    <item>
-      <title>Scientists turn modern biobanks into a new window on human evolution</title>
-      <link>https://phys.org/news/2026-07-scientists-modern-biobanks-window-human.html</link>
-      <guid>https://phys.org/news/2026-07-scientists-modern-biobanks-window-human.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — For more than a century, scientists have sought to reconstruct human evolution using diverse lines of evidence, including fossils, genetic variation across populations and ancient DNA. Building on these approaches, researchers are increasingly using large population biobanks to investigate how natural selection continues to shape the genomes of living populations.</description>
-      <category>Open Source Software</category>
-      <pubDate>Fri, 24 Jul 2026 15:40:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Docs reveal Trump's shady justification for putting his face on the DOJ</title>
-      <link>https://www.alternet.org/trump-vanity-projects-doj-banner/</link>
-      <guid>https://www.alternet.org/trump-vanity-projects-doj-banner/</guid>
-      <description>[Government Accountability] Keyword: FOIA — A Freedom of Information Act request has revealed that Stalinesque banners hung on the Department of Justice building bearing the face of President Donald Trump were justified using questionable rationale. “I got records under FOIA showing Trump banners hung at Justice were part of a ‘RFK Beautification Project,’” posted journalist Kevin Bogardus on Friday. What’s more: “Total price? Almost $1 million. But precise costs for the banners were redacted.”Bogardus elaborated in an article for Politic</description>
-      <category>Government Accountability</category>
-      <pubDate>Fri, 24 Jul 2026 20:09:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
