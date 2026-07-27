@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2026 23:58:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 02:58:21 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 300 MARY ST (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1013987</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1013987</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1013987 | SOUTH Division | 7/26/2026 9:43:07 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/26/2026 9:43:07 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 300 MARSHALL ST (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1013308</link>
@@ -812,14 +820,6 @@ included 1,611 patches, and so forth. Users are advised to upgrade.</description
       <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Delegation sent to Brasília after gunmen from organised crime group enter homes in western Amazon ForestIndigenous leaders on the Brazil-Peru border say their communities are being “taken hostage” by organised crime groups who are running rampant across the region, destroying Amazon Forest, building roads and trafficking drugs.Earlier this month, masked men armed with semi-automatic weapons entered homes in Apiwtxa, a village in the Kampa do Rio Amônia Indigenous Territory, intimidating people a</description>
       <category>Indigenous News &amp; Tribal Sovereignty</category>
       <pubDate>Fri, 24 Jul 2026 11:49:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Small tropical islands face dangerous humid heat by end of the century</title>
-      <link>https://phys.org/news/2026-07-small-tropical-islands-dangerous-humid.html</link>
-      <guid>https://phys.org/news/2026-07-small-tropical-islands-dangerous-humid.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Millions of people living on tropical islands could face a future of increasingly dangerous heat as climate change drives longer and more intense periods of humid conditions. While rising temperatures are often discussed as the main consequence of climate change, humidity plays a crucial role in determining how much heat the human body can tolerate. When the air is already full of moisture, sweat evaporates less effectively, making it harder for people to cool down.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Fri, 24 Jul 2026 07:20:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
