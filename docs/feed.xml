@@ -5,8 +5,33 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 13:37:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 16:14:06 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The trees helping fires spread and what to do about it‌</title>
+      <link>https://www.dw.com/en/the-trees-helping-fires-spread-and-what-to-do-about-it‌/a-78091968?maca=en-rss-en-all-1573-rdf</link>
+      <guid>https://www.dw.com/en/the-trees-helping-fires-spread-and-what-to-do-about-it‌/a-78091968?maca=en-rss-en-all-1573-rdf</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — With Spain declaring an emergency, France seeking EU help and Canada dealing with more than 900 hot spots, wildfires are out of control. Monocultures and climate change are partly to blame but can we stop the burning?</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>2026-07-24T10:07:00Z</pubDate>
+    </item>
+    <item>
+      <title>How do scientists know if climate change made a heat wave, extreme storm or wildfire worse?</title>
+      <link>https://phys.org/news/2026-07-scientists-climate-extreme-storm-wildfire.html</link>
+      <guid>https://phys.org/news/2026-07-scientists-climate-extreme-storm-wildfire.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — When a devastating heat wave, hurricane, flood or wildfire strikes, people often want to know: How much did human-caused climate change influence this event, if at all?</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 27 Jul 2026 11:00:10 EDT</pubDate>
+    </item>
+    <item>
+      <title>&quot;Frontlines of a Burning World&quot;: Climate Change-Fueled &quot;Megafires&quot; Sweep Europe &amp; North America</title>
+      <link>http://www.democracynow.org/2026/7/27/fires_europe_heat</link>
+      <guid>http://www.democracynow.org/2026/7/27/fires_europe_heat</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — France and Spain are battling catastrophic wildfires that have forced more than 350,000 people to evacuate their homes. The fires began in the southwest of France on Wednesday before spreading to Spain, where they have consumed more than 120,000 acres in what is now the most destructive fire in Spain&amp;#8217;s recent history. Meanwhile, a new heat wave is expected to hit Europe this week, with temperatures soaring above 40 degrees Celsius (104 Fahrenheit).
+Professor Ángel Luis Lara, who fled his h</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 27 Jul 2026 08:17:19 -0400</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 700 ELMWOOD (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1015485</link>
@@ -791,30 +816,6 @@ filesystem should upgrade.</description>
       <description>[Government Accountability] Keyword: FOIA — A Freedom of Information Act request has revealed that Stalinesque banners hung on the Department of Justice building bearing the face of President Donald Trump were justified using questionable rationale. “I got records under FOIA showing Trump banners hung at Justice were part of a ‘RFK Beautification Project,’” posted journalist Kevin Bogardus on Friday. What’s more: “Total price? Almost $1 million. But precise costs for the banners were redacted.”Bogardus elaborated in an article for Politic</description>
       <category>Government Accountability</category>
       <pubDate>Fri, 24 Jul 2026 20:09:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 7300 CULEBRA COMMONS (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1003320</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1003320</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1003320 | PRUE Division | 7/24/2026 12:57:54 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/24/2026 12:57:54 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 1100 E GRAYSON ST (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1003331</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1003331</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1003331 | EAST Division | 7/24/2026 1:00:09 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/24/2026 1:00:09 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 2500 SW MILITARY DR (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1003335</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1003335</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1003335 | SOUTH Division | 7/24/2026 1:00:48 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/24/2026 1:00:48 PM</pubDate>
     </item>
   </channel>
 </rss>
