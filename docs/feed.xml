@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 05:43:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 08:26:21 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 100 COLFAX ST (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1019822</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1019822</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1019822 | WEST Division | 7/28/2026 1:56:04 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/28/2026 1:56:04 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Robbery of Individual — 3200 NACOGDOCHES RD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1019932</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1019932</guid>
+      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1019932 | NORTH Division | 7/28/2026 2:48:23 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/28/2026 2:48:23 AM</pubDate>
+    </item>
+    <item>
+      <title>About 900,000 Origin Energy customers affected by hack as company admits it was warned weeks before public told</title>
+      <link>https://www.theguardian.com/australia-news/2026/jul/28/about-900000-origin-energy-customers-affected-by-hack-as-company-admits-it-was-warned-weeks-before-public-told</link>
+      <guid>https://www.theguardian.com/australia-news/2026/jul/28/about-900000-origin-energy-customers-affected-by-hack-as-company-admits-it-was-warned-weeks-before-public-told</guid>
+      <description>[Cybersecurity] Keyword: data breach — Chief executive, Frank Calabria, apologises and advises customers to look out for suspicious activity amid heightened scam risk Origin Energy has admitted it was warned of the hack that accessed 900,000 current and former customers’ personal data three weeks before it first made the data breach public.Australia’s largest energy retailer said a “significant” proportion of the 900,000 had been former customers, with those affected to be notified in the coming days. Continue reading...</description>
+      <category>Cybersecurity</category>
+      <pubDate>Tue, 28 Jul 2026 05:41:39 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 1000 CASTROVILLE RD (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1019592</link>
@@ -795,30 +819,6 @@ discussion ahead of the inevitable LWN article can find</description>
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1007266 | WEST Division | 7/25/2026 9:48:18 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/25/2026 9:48:18 AM</pubDate>
-    </item>
-    <item>
-      <title>A summer in the lab: San Antonio teens chase STEM careers at Texas Biomed</title>
-      <link>https://sanantonioreport.org/san-antonio-teens-chase-stem-careers-at-texas-biomed/</link>
-      <guid>https://sanantonioreport.org/san-antonio-teens-chase-stem-careers-at-texas-biomed/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Texas Biomed's Valero Young Scientist Program has doubled to 60 students in its third year. Now, its leaders are eying a possible extension.A summer in the lab: San Antonio teens chase STEM careers at Texas Biomed was first posted on July 25, 2026 at 9:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivar</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Sat, 25 Jul 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cancer rates are rising faster here than anywhere else. Are healthcare systems ready?</title>
-      <link>https://www.npr.org/2026/07/25/g-s1-135365/cancer-breast-chemotherapy-nigeria</link>
-      <guid>https://www.npr.org/2026/07/25/g-s1-135365/cancer-breast-chemotherapy-nigeria</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — As Nigeria grapples with a rapid rise in cancer cases, patients say they often feel as if they are on their own.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Sat, 25 Jul 2026 07:51:44 -0400</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Robbery of Individual — 13600 O'CONNOR RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1007067</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1007067</guid>
-      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1007067 | NORTH Division | 7/25/2026 8:35:37 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/25/2026 8:35:37 AM</pubDate>
     </item>
   </channel>
 </rss>
