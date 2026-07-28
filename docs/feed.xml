@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 23:59:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 02:48:47 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 7300 CHERRY BROOK DR (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1019009</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1019009</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1019009 | PRUE Division | 7/27/2026 9:26:43 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/27/2026 9:26:43 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle In Progress — 200 E COURTLAND PLACE (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1019022</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1019022</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1019022 | DOWNTOWN Division | 7/27/2026 9:30:24 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/27/2026 9:30:24 PM</pubDate>
+    </item>
+    <item>
+      <title>How telehealth is helping close the healthcare gap in rural Zimbabwe</title>
+      <link>https://www.aljazeera.com/news/2026/7/28/how-telehealth-is-helping-close-the-healthcare-gap-in-rural-zimbabwe?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/news/2026/7/28/how-telehealth-is-helping-close-the-healthcare-gap-in-rural-zimbabwe?traffic_source=rss</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Virtual consultations are replacing hours of travel, bringing affordable healthcare closer to rural Zimbabweans.</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Tue, 28 Jul 2026 02:08:54 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 500 MADDUX DR (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1018461</link>
@@ -797,30 +821,6 @@ filesystem should upgrade.</description>
       <description>[Stoicism &amp; Philosophy] Keyword: Seneca — Robot from company that acquired sex doll maker to be introduced in school with large Native American populationA humanoid robot is being introduced as part of a pilot program, along with an AI teaching assistant, at Salamanca high school in Salamanca, New York, located on the Allegany territory of the Seneca nation.Teachers have criticized the program, deeming it “inappropriate” and claiming it dehumanizes the profession with the introduction of human-like robots. Some local Native American res</description>
       <category>Stoicism &amp; Philosophy</category>
       <pubDate>Sat, 25 Jul 2026 12:00:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 3000 W CESAR CHAVEZ BLVD (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1006819</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1006819</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1006819 | CENTRAL Division | 7/25/2026 6:41:45 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/25/2026 6:41:45 AM</pubDate>
-    </item>
-    <item>
-      <title>Trump’s New Grievance With Canada: The Weather</title>
-      <link>https://www.motherjones.com/politics/2026/07/why-trump-wants-smoke-with-canada-but-not-from-it/</link>
-      <guid>https://www.motherjones.com/politics/2026/07/why-trump-wants-smoke-with-canada-but-not-from-it/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — This story was originally published by&amp;#160;Slate&amp;#160;and is reproduced here as part of the&amp;#160;Climate Desk&amp;#160;collaboration. President Donald Trump is displeased and waging economic war with Canada yet again, this time because…our northern neighbor isn’t doing enough to fight the effects of climate change? “We are holding Canada responsible for the fact that they are not properly [&amp;#8230;]</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Sat, 25 Jul 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 10800 STATE HWY 151 (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1006679</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1006679</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1006679 | WEST Division | 7/25/2026 4:44:04 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/25/2026 4:44:04 AM</pubDate>
     </item>
   </channel>
 </rss>
