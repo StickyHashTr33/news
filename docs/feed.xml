@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 02:48:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 05:43:25 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 1000 CASTROVILLE RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1019592</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1019592</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1019592 | WEST Division | 7/28/2026 12:23:49 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/28/2026 12:23:49 AM</pubDate>
+    </item>
+    <item>
+      <title>Heat wave threatens to worsen France, Spain wildfires</title>
+      <link>https://www.dw.com/en/heat-wave-threatens-to-worsen-france-spain-wildfires/a-78137994?maca=en-rss-en-all-1573-rdf</link>
+      <guid>https://www.dw.com/en/heat-wave-threatens-to-worsen-france-spain-wildfires/a-78137994?maca=en-rss-en-all-1573-rdf</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — A fresh spell of extreme heat, driven by climate change, is expected to intensify some of Europe's worst wildfires in decades, stretching firefighting resources.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>2026-07-28T04:27:00Z</pubDate>
+    </item>
+    <item>
+      <title>Ebola response workers strike in DR Congo as death toll spikes</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/7/28/ebola-response-workers-strike-in-dr-congo-as-death-toll-spikes?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/video/newsfeed/2026/7/28/ebola-response-workers-strike-in-dr-congo-as-death-toll-spikes?traffic_source=rss</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Healthcare workers at an Ebola treatment centre in Bunia, Democratic Republic of Congo, have gone on strike.</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Tue, 28 Jul 2026 02:33:05 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 7300 CHERRY BROOK DR (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1019009</link>
@@ -795,32 +819,6 @@ discussion ahead of the inevitable LWN article can find</description>
       <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1007067 | NORTH Division | 7/25/2026 8:35:37 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/25/2026 8:35:37 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 1500 THOUSAND OAKS DR (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1007075</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1007075</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1007075 | NORTH Division | 7/25/2026 8:38:11 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/25/2026 8:38:11 AM</pubDate>
-    </item>
-    <item>
-      <title>New stable kernel for ext4 users</title>
-      <link>https://lwn.net/Articles/1085026/</link>
-      <guid>https://lwn.net/Articles/1085026/</guid>
-      <description>[Open Source Software] Keyword: Linux kernel — Greg Kroah-Hartman has released the 6.12.98 stable Linux kernel with a
-single fix for a file descriptor leak in ext4. Users of the ext4
-filesystem should upgrade.</description>
-      <category>Open Source Software</category>
-      <pubDate>Sat, 25 Jul 2026 13:09:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Really inappropriate’: teachers decry plan for humanoid robot in New York high school</title>
-      <link>https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school</link>
-      <guid>https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school</guid>
-      <description>[Stoicism &amp; Philosophy] Keyword: Seneca — Robot from company that acquired sex doll maker to be introduced in school with large Native American populationA humanoid robot is being introduced as part of a pilot program, along with an AI teaching assistant, at Salamanca high school in Salamanca, New York, located on the Allegany territory of the Seneca nation.Teachers have criticized the program, deeming it “inappropriate” and claiming it dehumanizes the profession with the introduction of human-like robots. Some local Native American res</description>
-      <category>Stoicism &amp; Philosophy</category>
-      <pubDate>Sat, 25 Jul 2026 12:00:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
