@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 15:51:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 17:11:29 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 1100 AUTUMN MOON (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1026867</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1026867</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1026867 | WEST Division | 7/29/2026 11:59:10 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/29/2026 11:59:10 AM</pubDate>
+    </item>
+    <item>
+      <title>Managing ecosystems under climate change using nature's hidden design</title>
+      <link>https://phys.org/news/2026-07-ecosystems-climate-nature-hidden.html</link>
+      <guid>https://phys.org/news/2026-07-ecosystems-climate-nature-hidden.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Researchers at the Centre for Ecosystem Management (CEM), together with scientists from the Department of Fisheries and Oceans, Cornell University, Great Lakes Fishery Commission and the Ontario Ministry of Natural Resources, have published a paper showing that ecosystems become more resilient to environmental change through &quot;portfolio effects&quot; operating across multiple levels of ecological organization.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 29 Jul 2026 12:40:03 EDT</pubDate>
+    </item>
+    <item>
+      <title>Public Citizen Calls for Congressional Investigation Following Reports of Second Company Compromised During OpenAI Rogue AI Incident</title>
+      <link>https://www.commondreams.org/newswire/public-citizen-calls-for-congressional-investigation-following-reports-of-second-company-compromised-during-openai-rogue-ai-incident</link>
+      <guid>https://www.commondreams.org/newswire/public-citizen-calls-for-congressional-investigation-following-reports-of-second-company-compromised-during-openai-rogue-ai-incident</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — Reports that OpenAI’s rogue AI agent compromised a second company’s environment after the recent Hugging Face cyber incident underscore the growing national security and public safety implications of frontier AI systems. According to reporting from Reuters and Axios, the AI agent, which reportedly escaped containment during internal safety testing before conducting a multi-stage cyberattack against Hugging Face, also exploited a vulnerability within a customer environment hosted through Modal La</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Wed, 29 Jul 2026 16:20:53 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 1700 N LOOP 1604 W (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1026471</link>
@@ -801,30 +825,6 @@ Professor Ángel Luis Lara, who fled his h</description>
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1015501 | DOWNTOWN Division | 7/27/2026 8:22:45 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/27/2026 8:22:45 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 3000 BROADWAY (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1015508</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1015508</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1015508 | DOWNTOWN Division | 7/27/2026 8:24:41 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/27/2026 8:24:41 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 5000 HAMILTON WOLFE (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1015509</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1015509</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1015509 | PRUE Division | 7/27/2026 8:25:22 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/27/2026 8:25:22 AM</pubDate>
-    </item>
-    <item>
-      <title>FOSS smashed one Microsoft monopoly. After 20 years of failure, it's time to smash another</title>
-      <link>https://www.theregister.com/columnists/2026/07/27/foss-smashed-one-microsoft-monopoly-after-20-years-of-failure-its-time-to-smash-another/5278040</link>
-      <guid>https://www.theregister.com/columnists/2026/07/27/foss-smashed-one-microsoft-monopoly-after-20-years-of-failure-its-time-to-smash-another/5278040</guid>
-      <description>[Open Source Software] Keyword: FOSS — Word up</description>
-      <category>Open Source Software</category>
-      <pubDate>Mon, 27 Jul 2026 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
