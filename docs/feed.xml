@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 19:07:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 20:50:49 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 16600 MANDOLINO LN (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1027822</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1027822</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1027822 | NORTH Division | 7/29/2026 3:38:09 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/29/2026 3:38:09 PM</pubDate>
+    </item>
+    <item>
+      <title>Border Wall Construction Triggers Tree Sit to Save Ancient Arizona Cottonwood</title>
+      <link>https://www.commondreams.org/newswire/border-wall-construction-triggers-tree-sit-to-save-ancient-arizona-cottonwood</link>
+      <guid>https://www.commondreams.org/newswire/border-wall-construction-triggers-tree-sit-to-save-ancient-arizona-cottonwood</guid>
+      <description>[Immigration &amp; Border] Keyword: border wall — Protesters today climbed into an ancient cottonwood tree in Arizona’s San Rafael Valley to stop the Trump administration from cutting it down for construction of two parallel 30-foot-tall border walls.The action comes after Department of Homeland Security contractors cut down three neighboring Fremont cottonwoods estimated to be 200 to 250 years old.“Destroying these ancient cottonwoods is a death sentence for an entire ecosystem,” said Russ McSpadden, Southwest conservation advocate at the Cent</description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>Wed, 29 Jul 2026 20:06:06 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 2500 E COMMERCE ST (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1027351</link>
@@ -809,22 +825,6 @@ The post Medical Schools Work to Address Shortage of Specialists in Rural Health
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1016907 | EAST Division | 7/27/2026 1:09:23 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/27/2026 1:09:23 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 1900 W MAGNOLIA AVE (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1016921</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1016921</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1016921 | WEST Division | 7/27/2026 1:11:31 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/27/2026 1:11:31 PM</pubDate>
-    </item>
-    <item>
-      <title>Low-level cloud loss amplifies global warming, simulations suggest</title>
-      <link>https://phys.org/news/2026-07-cloud-loss-amplifies-global-simulations.html</link>
-      <guid>https://phys.org/news/2026-07-cloud-loss-amplifies-global-simulations.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Low-level clouds over Earth's oceans play a prominent role in keeping our planet cool by reflecting sunlight away from the surface. But their response to climate change has been hard to model. Now, researchers at Caltech and Google have uncovered important insights into how clouds might respond to warming sea-surface temperatures and rising CO2 levels using a large dataset of simulations developed by the group.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Mon, 27 Jul 2026 13:00:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
