@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 05:47:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 08:32:38 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — N CHERRY ST / DAWSON ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1025238</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1025238</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1025238 | EAST Division | 7/29/2026 3:07:00 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/29/2026 3:07:00 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 1200 N HUNT LN (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1025242</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1025242</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1025242 | WEST Division | 7/29/2026 3:11:15 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/29/2026 3:11:15 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 7900 S NEW BRAUNFELS AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1025259</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1025259</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1025259 | SOUTH Division | 7/29/2026 3:22:16 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/29/2026 3:22:16 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Robbery In Progress — 6000 OLD PEARSALL RD (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1024895</link>
@@ -791,30 +815,6 @@ Professor Ángel Luis Lara, who fled his h</description>
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Baltimore is rethinking what it means to call 911, and who responds. Callers who don't need police will get help finding social services and healthcare before they actually fall into crisis.</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Mon, 27 Jul 2026 05:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 600 HEMISFAIR BLVD (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1014695</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1014695</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1014695 | DOWNTOWN Division | 7/27/2026 1:15:32 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/27/2026 1:15:32 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 1700 HICKS AVE (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1014706</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1014706</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1014706 | EAST Division | 7/27/2026 1:19:29 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/27/2026 1:19:29 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Shooting In Progress — 4900 FORTUNA ST (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1014715</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1014715</guid>
-      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1014715 | WEST Division | 7/27/2026 1:22:17 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/27/2026 1:22:17 AM</pubDate>
     </item>
   </channel>
 </rss>
