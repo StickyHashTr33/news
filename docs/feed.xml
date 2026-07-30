@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 00:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 03:53:57 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 1800 GORMAN ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1029654</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1029654</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1029654 | EAST Division | 7/29/2026 10:35:51 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/29/2026 10:35:51 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 1500 BRIGHTON AVE (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1028843</link>
@@ -817,14 +825,6 @@ The post Medical Schools Work to Address Shortage of Specialists in Rural Health
       <description>[Climate &amp; Environment] Keyword: climate change — A fresh spell of extreme heat, driven by climate change, is expected to intensify some of Europe's worst wildfires in decades, stretching firefighting resources.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>2026-07-28T04:27:00Z</pubDate>
-    </item>
-    <item>
-      <title>Ebola response workers strike in DR Congo as death toll spikes</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/7/28/ebola-response-workers-strike-in-dr-congo-as-death-toll-spikes?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/video/newsfeed/2026/7/28/ebola-response-workers-strike-in-dr-congo-as-death-toll-spikes?traffic_source=rss</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Healthcare workers at an Ebola treatment centre in Bunia, Democratic Republic of Congo, have gone on strike.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Tue, 28 Jul 2026 02:33:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
