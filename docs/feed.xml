@@ -5,8 +5,45 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 22:58:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 00:02:28 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 1500 BRIGHTON AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1028843</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1028843</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1028843 | SOUTH Division | 7/29/2026 6:50:04 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/29/2026 6:50:04 PM</pubDate>
+    </item>
+    <item>
+      <title>What to do after a Public Intoxication arrest in San Antonio</title>
+      <link>https://sanantonioreport.org/what-to-do-after-a-public-intoxication-arrest-in-san-antonio/</link>
+      <guid>https://sanantonioreport.org/what-to-do-after-a-public-intoxication-arrest-in-san-antonio/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — SPONSORED: A Public Intoxication arrest does not have to define your future. Learn how San Antonio Public Intoxication lawyers help.What to do after a Public Intoxication arrest in San Antonio was first posted on July 29, 2026 at 6:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Wed, 29 Jul 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[$] LWN.net Weekly Edition for July 30, 2026</title>
+      <link>https://lwn.net/Articles/1084315/</link>
+      <guid>https://lwn.net/Articles/1084315/</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — Inside this week's LWN.net Weekly Edition:
+        
+        
+ Front: Hazard pointers; DFSG team; Swap devices; Netkit and BPF; BPF inlined functions; Fedora GRUB; gccrs.
+             Briefs: RIP Dan Williams; Debian LLM resolution; Fedora 45 process; Codeberg LLM policy; GCC LLM policy; GNU Binutils 2.47; GNU C Library 2.44; Wayfire 0.11; Quotes; ...
+             Announcements: Newsletters, conferences, security updates, patches, and more.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Thu, 30 Jul 2026 00:01:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inquiry finds MoD Afghan data breach was foreseeable failure</title>
+      <link>https://www.bbc.co.uk/news/articles/c77gvr4172vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/c77gvr4172vo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[Cybersecurity] Keyword: data breach — The Commons' Defence Committee says in a report that the MoD used secrecy as a &quot;shield&quot; against proper expertise.</description>
+      <category>Cybersecurity</category>
+      <pubDate>Wed, 29 Jul 2026 23:13:43 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 13800 DREAMWOOD DR (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1028511</link>
@@ -788,38 +825,6 @@ The post Medical Schools Work to Address Shortage of Specialists in Rural Health
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Healthcare workers at an Ebola treatment centre in Bunia, Democratic Republic of Congo, have gone on strike.</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Tue, 28 Jul 2026 02:33:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 7300 CHERRY BROOK DR (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1019009</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1019009</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1019009 | PRUE Division | 7/27/2026 9:26:43 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/27/2026 9:26:43 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 200 E COURTLAND PLACE (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1019022</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1019022</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1019022 | DOWNTOWN Division | 7/27/2026 9:30:24 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/27/2026 9:30:24 PM</pubDate>
-    </item>
-    <item>
-      <title>How telehealth is helping close the healthcare gap in rural Zimbabwe</title>
-      <link>https://www.aljazeera.com/news/2026/7/28/how-telehealth-is-helping-close-the-healthcare-gap-in-rural-zimbabwe?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/7/28/how-telehealth-is-helping-close-the-healthcare-gap-in-rural-zimbabwe?traffic_source=rss</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Virtual consultations are replacing hours of travel, bringing affordable healthcare closer to rural Zimbabweans.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Tue, 28 Jul 2026 02:08:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 500 MADDUX DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1018461</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1018461</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1018461 | WEST Division | 7/27/2026 6:40:47 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/27/2026 6:40:47 PM</pubDate>
     </item>
   </channel>
 </rss>
