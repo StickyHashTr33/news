@@ -5,8 +5,60 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 11:48:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 13:48:43 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 1000 CENTRAL PKWY SOUTH (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1031049</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1031049</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1031049 | NORTH Division | 7/30/2026 8:32:45 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/30/2026 8:32:45 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 11200 ALAMO RANCH (SAPD OUTSIDE AREA)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1031061</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1031061</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1031061 | SAPD OUTSIDE AREA Division | 7/30/2026 8:36:18 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/30/2026 8:36:18 AM</pubDate>
+    </item>
+    <item>
+      <title>A forgotten fossil just revealed a new Triassic predator from 210 million years ago</title>
+      <link>https://www.sciencedaily.com/releases/2026/07/260729010732.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/07/260729010732.htm</guid>
+      <description>[Open Source Software] Keyword: FOSS — A fossil overlooked for nearly 80 years has revealed a previously unknown crocodile relative that lived 210 million years ago in what is now New Mexico. Named Eosphorosuchus lacrimosa, the jackal-sized predator had a reinforced skull, powerful jaw muscles, and a short snout built for tackling larger prey.</description>
+      <category>Open Source Software</category>
+      <pubDate>Thu, 30 Jul 2026 02:34:21 EDT</pubDate>
+    </item>
+    <item>
+      <title>Flock surveillance cameras can pose a crash risk for drivers, US experts say</title>
+      <link>https://www.theguardian.com/us-news/2026/jul/30/controversial-flock-ai-surveillance-camera-risk</link>
+      <guid>https://www.theguardian.com/us-news/2026/jul/30/controversial-flock-ai-surveillance-camera-risk</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: Flock Safety — Roadside safety advocates say some automated license plate readers may not meet highway safety standardsFlock Safety cameras have been pilloried for facilitating the AI-powered surveillance of private citizens and for targeting immigrants for years. But now safety advocates are also claiming that their physical location can pose potential roadside hazards.At the bottom of a tree-lined hill on a narrow, two lane rural road in Greene county, Ohio, stands a black metal rod with a camera and solar p</description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>Thu, 30 Jul 2026 12:00:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Another batch of single-fix stable kernels</title>
+      <link>https://lwn.net/Articles/1086226/</link>
+      <guid>https://lwn.net/Articles/1086226/</guid>
+      <description>[Cybersecurity] Keyword: CVE — Greg Kroah-Hartman has announced the release of the 6.18.41, 6.12.100, 6.6.147, 6.1.180, 5.15.213, and 5.10.262 stable kernels.
+
+Each of these kernels contains a single fix for a use-after-free
+vulnerability (CVE-2026-64560). Users
+of these kernels are advised to upgrade.</description>
+      <category>Cybersecurity</category>
+      <pubDate>Thu, 30 Jul 2026 13:47:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is a side-channel attack? A cybersecurity researcher explains how computers can leak secrets without being hacked</title>
+      <link>https://theconversation.com/what-is-a-side-channel-attack-a-cybersecurity-researcher-explains-how-computers-can-leak-secrets-without-being-hacked-286121</link>
+      <guid>https://theconversation.com/what-is-a-side-channel-attack-a-cybersecurity-researcher-explains-how-computers-can-leak-secrets-without-being-hacked-286121</guid>
+      <description>[Cybersecurity] Keyword: security researcher — Hackers have easier ways of getting information out of a computer, but side-channel vulnerabilities show that technology developers need to take a broad view of security.</description>
+      <category>Cybersecurity</category>
+      <pubDate>2026-07-30T12:12:59Z</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 2300 SW 28TH ST (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1030690</link>
@@ -776,54 +828,6 @@ In 2025, the Federal Trade Commission (FTC)</description>
       <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1020636 | PRUE Division | 7/28/2026 8:36:20 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/28/2026 8:36:20 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 14000 DELTA GROVE (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1020641</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1020641</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1020641 | NORTH Division | 7/28/2026 8:38:03 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/28/2026 8:38:03 AM</pubDate>
-    </item>
-    <item>
-      <title>Climate change and social concerns could drive more radical protests</title>
-      <link>https://phys.org/news/2026-07-climate-social-radical-protests.html</link>
-      <guid>https://phys.org/news/2026-07-climate-social-radical-protests.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Around the world, hundreds of thousands of people engage in conventional protests—and sometimes more radical forms of action—in the face of environmental change, harms to animals and nature, and climate inaction.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 28 Jul 2026 09:00:02 EDT</pubDate>
-    </item>
-    <item>
-      <title>Why losing weight may not be enough to prevent type 2 diabetes</title>
-      <link>https://www.sciencedaily.com/releases/2026/07/260724061450.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/07/260724061450.htm</guid>
-      <description>[Diabetes &amp; Kidney Disease] Keyword: type 2 diabetes — A healthy lifestyle can prevent type 2 diabetes for many people, but new research suggests that weight loss alone may not be enough for one particularly vulnerable group. Even after losing about 8% of their body weight and keeping it off for years, people in a high-risk category known as cluster 5 continued to experience rising blood sugar, weakening insulin production, and a strong risk of developing diabetes.</description>
-      <category>Diabetes &amp; Kidney Disease</category>
-      <pubDate>Tue, 28 Jul 2026 06:06:02 EDT</pubDate>
-    </item>
-    <item>
-      <title>Misfolded insulin may be quietly driving diabetes</title>
-      <link>https://www.sciencedaily.com/releases/2026/07/260727214616.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/07/260727214616.htm</guid>
-      <description>[Diabetes &amp; Kidney Disease] Keyword: diabetes research — Researchers found that insulin-producing cells depend on a team of helper proteins to keep insulin production on track. When one key partner was missing, damaged proteins built up and the cells made less insulin. Strengthening this system could offer a new way to protect the pancreas as diabetes progresses.</description>
-      <category>Diabetes &amp; Kidney Disease</category>
-      <pubDate>Tue, 28 Jul 2026 07:48:04 EDT</pubDate>
-    </item>
-    <item>
-      <title>Fatal Shooting in ICE Operations</title>
-      <link>https://www.aljazeera.com/video/this-is-america/2026/7/28/fatal-shooting-in-ice-operations?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/video/this-is-america/2026/7/28/fatal-shooting-in-ice-operations?traffic_source=rss</guid>
-      <description>[Immigration &amp; Border] Keyword: ICE operation — Trump’s ICE crackdown grows with new funding and hires as deaths and abuse claims draw review.</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Tue, 28 Jul 2026 11:42:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Too many AI agents can get in each other's way</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/07/28/too-many-ai-agents-can-get-in-each-others-way/5279292</link>
-      <guid>https://www.theregister.com/ai-and-ml/2026/07/28/too-many-ai-agents-can-get-in-each-others-way/5279292</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — For enterprise agents, less is more</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Tue, 28 Jul 2026 14:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
