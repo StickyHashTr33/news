@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 11:55:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 13:53:10 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 100 MAGEL ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1036358</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1036358</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1036358 | CENTRAL Division | 7/31/2026 8:37:14 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/31/2026 8:37:14 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 4600 W COMMERCE ST (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1035944</link>
@@ -810,14 +818,6 @@ of these kernels are advised to upgrade.</description>
       <description>[Open Source Software] Keyword: FOSS — Scientists from China, Europe and the U.S., including Dr. Stephan Spiekman, a paleontologist at the State Museum of Natural History Stuttgart and the University of Hohenheim, have described a fossil of the long-necked marine reptile Austronaga minuta from China. Although this reptile descended from land-dwelling reptiles, it was already well adapted to life in the water around 245 million years ago.</description>
       <category>Open Source Software</category>
       <pubDate>Wed, 29 Jul 2026 14:00:11 EDT</pubDate>
-    </item>
-    <item>
-      <title>San Antonio’s ‘Face the Fight’ coalition expands national efforts to save military veterans’ lives</title>
-      <link>https://sanantonioreport.org/san-antonio-veteran-suicide-national-coalition-face-the-fight/</link>
-      <guid>https://sanantonioreport.org/san-antonio-veteran-suicide-national-coalition-face-the-fight/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A coalition dedicated to veteran mental health efforts is making progress toward its goal of dramatically reducing veteran suicide.San Antonio&amp;#8217;s &amp;#8216;Face the Fight&amp;#8217; coalition expands national efforts to save military veterans&amp;#8217; lives was first posted on July 29, 2026 at 12:23 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infri</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Wed, 29 Jul 2026 17:23:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
