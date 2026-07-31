@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 22:11:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 23:58:16 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 400 CASS AVE (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1038997</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1038997</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1038997 | DOWNTOWN Division | 7/31/2026 6:43:48 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/31/2026 6:43:48 PM</pubDate>
+    </item>
     <item>
       <title>From research to policy: Study turns EU wildfire assessments into a tool for better governance</title>
       <link>https://phys.org/news/2026-07-policy-eu-wildfire-tool.html</link>
@@ -805,19 +813,6 @@ of these kernels are advised to upgrade.</description>
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — SPONSORED: A Public Intoxication arrest does not have to define your future. Learn how San Antonio Public Intoxication lawyers help.What to do after a Public Intoxication arrest in San Antonio was first posted on July 29, 2026 at 6:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Wed, 29 Jul 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[$] LWN.net Weekly Edition for July 30, 2026</title>
-      <link>https://lwn.net/Articles/1084315/</link>
-      <guid>https://lwn.net/Articles/1084315/</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — Inside this week's LWN.net Weekly Edition:
-        
-        
- Front: Hazard pointers; DFSG team; Swap devices; Netkit and BPF; BPF inlined functions; Fedora GRUB; gccrs.
-             Briefs: RIP Dan Williams; Debian LLM resolution; Fedora 45 process; Codeberg LLM policy; GCC LLM policy; GNU Binutils 2.47; GNU C Library 2.44; Wayfire 0.11; Quotes; ...
-             Announcements: Newsletters, conferences, security updates, patches, and more.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Thu, 30 Jul 2026 00:01:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
