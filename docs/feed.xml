@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 23:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 02:22:36 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 900 ARANSAS AVE (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1034538</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1034538</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1034538 | EAST Division | 7/30/2026 9:10:09 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/30/2026 9:10:09 PM</pubDate>
+    </item>
+    <item>
+      <title>Anthropic says Claude AI hacked three firms during cyber tests</title>
+      <link>https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Fri, 31 Jul 2026 01:31:14 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 11400 VANCE JACKSON (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1033753</link>
@@ -811,22 +827,6 @@ text&quot; to qualify as signifi</description>
       <description>[Open Source Software] Keyword: FOSS — Carbon capture and storage (CCS) is regaining prominence in climate policy debates in Germany. A study published in Environmental Politics examines the reasons behind this comeback and shows that the strict limits originally envisaged for CCS were progressively relaxed throughout the political process. This increases the risk that the lifespan of fossil fuel infrastructure will be prolonged, potentially sidelining other climate protection measures.</description>
       <category>Open Source Software</category>
       <pubDate>Tue, 28 Jul 2026 22:20:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 7200 MARBACH RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1024196</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1024196</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1024196 | WEST Division | 7/28/2026 8:54:09 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/28/2026 8:54:09 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 1600 LAMAR ST (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1024197</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1024197</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1024197 | EAST Division | 7/28/2026 8:54:26 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/28/2026 8:54:26 PM</pubDate>
     </item>
   </channel>
 </rss>
