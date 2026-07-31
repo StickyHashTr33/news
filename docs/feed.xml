@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 19:18:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 21:00:33 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>From research to policy: Study turns EU wildfire assessments into a tool for better governance</title>
+      <link>https://phys.org/news/2026-07-policy-eu-wildfire-tool.html</link>
+      <guid>https://phys.org/news/2026-07-policy-eu-wildfire-tool.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Climate change, land-use change and socioeconomic pressures are turning wildfires from a primarily ecological process into a complex, systemic risk that cuts across ecosystems, infrastructure, public health, water resources, cultural heritage and rural livelihoods. Despite substantial investments in firefighting capacity, wildfires are projected to become more frequent, extreme and devastating, underscoring the need for cross-cutting solutions.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Fri, 31 Jul 2026 16:40:05 EDT</pubDate>
+    </item>
+    <item>
+      <title>Climate adaptation at its limits, says one scientist</title>
+      <link>https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist</link>
+      <guid>https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — A climate scientist says Earth is &quot;passing the limits of adaptation&quot; when it comes to withstanding the effects of climate change.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Fri, 31 Jul 2026 16:28:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Powerful El Nino to intensify heat on ‘a planet already on fire’: UN</title>
+      <link>https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss</guid>
+      <description>[Open Source Software] Keyword: FOSS — UN chief Guterres calls for halt to new fossil fuels as El Nino induces heatwaves, floods, and drought worldwide</description>
+      <category>Open Source Software</category>
+      <pubDate>Fri, 31 Jul 2026 20:38:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Optimized magnetic pulses could cut memory switching energy by several orders of magnitude</title>
+      <link>https://phys.org/news/2026-07-optimized-magnetic-pulses-memory-energy.html</link>
+      <guid>https://phys.org/news/2026-07-optimized-magnetic-pulses-memory-energy.html</guid>
+      <description>[AI &amp; Automation] Keyword: large language model — Information and communication technologies (ICTs) driven by artificial intelligence (AI) are generating data at an unprecedented rate. Every internet search, AI-generated image, recommendation, scientific simulation and large language model creates and processes enormous amounts of information that must be stored, transferred and analyzed. As AI continues to expand across every sector of society, global demand for data storage and computing is rising dramatically.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Fri, 31 Jul 2026 16:00:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 3700 BINZ-ENGLEMAN RD (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1037788</link>
@@ -786,38 +818,6 @@ of these kernels are advised to upgrade.</description>
              Announcements: Newsletters, conferences, security updates, patches, and more.</description>
       <category>AI &amp; Automation</category>
       <pubDate>Thu, 30 Jul 2026 00:01:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inquiry finds MoD Afghan data breach was foreseeable failure</title>
-      <link>https://www.bbc.co.uk/news/articles/c77gvr4172vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/c77gvr4172vo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Cybersecurity] Keyword: data breach — The Commons' Defence Committee says in a report that the MoD used secrecy as a &quot;shield&quot; against proper expertise.</description>
-      <category>Cybersecurity</category>
-      <pubDate>Wed, 29 Jul 2026 23:13:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 13800 DREAMWOOD DR (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1028511</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1028511</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1028511 | NORTH Division | 7/29/2026 5:44:17 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/29/2026 5:44:17 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 4500 MEDICAL DR (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1028523</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1028523</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1028523 | PRUE Division | 7/29/2026 5:47:26 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/29/2026 5:47:26 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 8100 HUEBNER RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1028531</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1028531</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1028531 | PRUE Division | 7/29/2026 5:48:11 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/29/2026 5:48:11 PM</pubDate>
     </item>
   </channel>
 </rss>
