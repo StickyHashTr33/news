@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 12:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 13:42:43 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 11700 O'CONNOR RD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1041460</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1041460</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1041460 | NORTH Division | 8/1/2026 8:25:54 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/1/2026 8:25:54 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 4400 TIMBERHILL DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1041483</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1041483</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1041483 | WEST Division | 8/1/2026 8:32:12 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/1/2026 8:32:12 AM</pubDate>
+    </item>
+    <item>
+      <title>Democrats’ ‘climate hushing’ prompts activists to turn up the volume</title>
+      <link>https://www.theguardian.com/us-news/2026/aug/01/democrats-climate-policy-hushing</link>
+      <guid>https://www.theguardian.com/us-news/2026/aug/01/democrats-climate-policy-hushing</guid>
+      <description>[Climate &amp; Environment] Keyword: global warming — Nationwide actions seek to counter view that talking about climate crisis distracts from affordability messagingThis summer, torrential rains have washed away Texas neighborhoods, dangerous heat has blanketed swaths of the country, and smoke from Canadian wildfires has choked communities as far south as Florida.Research makes clear that global warming is making extreme weather events more frequent and severe. Yet the climate crisis has largely disappeared from the political agenda, with many Dem</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sat, 01 Aug 2026 12:00:53 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 7100 SPRING LEAF (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1041190</link>
@@ -789,30 +813,6 @@ vulnerability (CVE-2026-64560). Users
 of these kernels are advised to upgrade.</description>
       <category>Cybersecurity</category>
       <pubDate>Thu, 30 Jul 2026 13:47:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is a side-channel attack? A cybersecurity researcher explains how computers can leak secrets without being hacked</title>
-      <link>https://theconversation.com/what-is-a-side-channel-attack-a-cybersecurity-researcher-explains-how-computers-can-leak-secrets-without-being-hacked-286121</link>
-      <guid>https://theconversation.com/what-is-a-side-channel-attack-a-cybersecurity-researcher-explains-how-computers-can-leak-secrets-without-being-hacked-286121</guid>
-      <description>[Cybersecurity] Keyword: security researcher — Hackers have easier ways of getting information out of a computer, but side-channel vulnerabilities show that technology developers need to take a broad view of security.</description>
-      <category>Cybersecurity</category>
-      <pubDate>2026-07-30T12:12:59Z</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 2300 SW 28TH ST (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1030690</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1030690</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1030690 | SOUTH Division | 7/30/2026 6:11:28 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/30/2026 6:11:28 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 300 W SOUTHCROSS BLVD (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1030712</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1030712</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1030712 | SOUTH Division | 7/30/2026 6:27:22 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/30/2026 6:27:22 AM</pubDate>
     </item>
   </channel>
 </rss>
