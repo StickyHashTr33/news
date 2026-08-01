@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 17:03:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 19:02:42 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 9300 CERRO VERDE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1042618</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1042618</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1042618 | SOUTH Division | 8/1/2026 1:45:43 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/1/2026 1:45:43 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 100 HICKMAN ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1042623</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1042623</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1042623 | DOWNTOWN Division | 8/1/2026 1:46:16 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/1/2026 1:46:16 PM</pubDate>
+    </item>
+    <item>
+      <title>University Health holds tax rate steady as new hospitals, federal funding squeeze finances</title>
+      <link>https://sanantonioreport.org/university-health-tax-rate-san-antonio-hospitals-federal-funding/</link>
+      <guid>https://sanantonioreport.org/university-health-tax-rate-san-antonio-hospitals-federal-funding/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — University Health is keeping its current property tax rate amid opening two new community hospitals and facing federal funding pressures.University Health holds tax rate steady as new hospitals, federal funding squeeze finances was first posted on August 1, 2026 at 2:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sat, 01 Aug 2026 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ICE Is Trading Warehouses for Old Prisons</title>
       <link>https://www.themarshallproject.org/2026/08/01/ice-north-carolina-prison-arrest</link>
@@ -786,30 +810,6 @@ Professor Ángel Luis Lara, who fled his h</description>
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — As the Trump administration tightens US sanctions, Cuba&amp;#039;s healthcare sector struggles with fuel and supply shortages.</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Thu, 30 Jul 2026 16:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 7100 WURZBACH RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1031606</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1031606</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1031606 | PRUE Division | 7/30/2026 10:35:48 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/30/2026 10:35:48 AM</pubDate>
-    </item>
-    <item>
-      <title>Drone cameras can measure pigments indicating surface health of dryland soils</title>
-      <link>https://phys.org/news/2026-07-drone-cameras-pigments-indicating-surface.html</link>
-      <guid>https://phys.org/news/2026-07-drone-cameras-pigments-indicating-surface.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Drylands soils are being degraded by human activities and climate change, threatening the thin living layers covering their surface, called biocrusts, according to the U.S. Geological Survey. Composed of cyanobacteria, lichens, mosses, algae, fungi and bacteria, biocrusts play major roles in storing carbon, cycling nitrogen, preventing erosion and supporting ecosystems. To better understand the status of these complex biological communities, a team led by researchers at Penn State developed a no</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 30 Jul 2026 10:40:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Corporate profiteers destroyed journalism. Worker-owned media can save it.</title>
-      <link>https://therealnews.com/worker-owned-media-can-save-journalism</link>
-      <guid>https://therealnews.com/worker-owned-media-can-save-journalism</guid>
-      <description>[Worker Cooperatives &amp; Solidarity Economy] Keyword: worker-owned — Former Pittsburgh Post-Gazette workers went on strike for over three years and won. Then, the owners sold the paper and most strikers lost their jobs. Now, they’ve launched “a cooperative news organization, owned and democratically run by its workers and members.”</description>
-      <category>Worker Cooperatives &amp; Solidarity Economy</category>
-      <pubDate>Thu, 30 Jul 2026 14:59:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
