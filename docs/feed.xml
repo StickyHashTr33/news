@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 22:51:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 23:54:07 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 1400 BARKER BAY (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1043705</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1043705</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1043705 | WEST Division | 8/1/2026 6:43:49 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/1/2026 6:43:49 PM</pubDate>
+    </item>
+    <item>
+      <title>How new informatics tools help turn biodiversity data into policy insights</title>
+      <link>https://phys.org/news/2026-07-informatics-tools-biodiversity-policy-insights.html</link>
+      <guid>https://phys.org/news/2026-07-informatics-tools-biodiversity-policy-insights.html</guid>
+      <description>[Climate &amp; Environment] Keyword: biodiversity loss — Biodiversity loss has been among the central topics in public, policy and scientific debate for several decades. While its accelerating pace and impacts are well recognized, translating the vast amounts of biodiversity data into reliable indicators that can inform policy remains a challenge, requiring considerable time and technical effort. To help address this, the EU project B-Cubed developed automated and interoperable data pipelines that were tested via case studies. The B-Cubed Legacy Bookl</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sat, 01 Aug 2026 19:40:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person - Endangered — 500 SAN FERNANDO ST (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1043233</link>
@@ -794,22 +810,6 @@ Professor Ángel Luis Lara, who fled his h</description>
       <description>[Open Source Software] Keyword: FOSS — A 113-million-year-old marine murder mystery may finally be solved. Using chemical clues locked inside microscopic fossils, Northwestern University scientists found evidence that ocean acidification drove one of the largest extinction events in the history of planktic foraminifera—tiny shell-building organisms that help regulate Earth's carbon cycle.</description>
       <category>Open Source Software</category>
       <pubDate>Thu, 30 Jul 2026 14:00:12 EDT</pubDate>
-    </item>
-    <item>
-      <title>A Board Game of Climate Change Solutions? Yes, Please.</title>
-      <link>https://deceleration.news/a-board-game-of-climate-change-solutions-yes-please/</link>
-      <guid>https://deceleration.news/a-board-game-of-climate-change-solutions-yes-please/</guid>
-      <description>[Open Source Software] Keyword: FOSS — The complexity of our situation, including fossil fuel lobbying and risks of democratic collapse, are fully represented by the creators of 'Daybreak.' But winning the game is still within reach.</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 30 Jul 2026 19:14:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open source project fools AI scrapers with poisoned font</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303</link>
-      <guid>https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303</guid>
-      <description>[Open Source Software] Keyword: open source project — ShieldFont is available today if you've got copy that needs protecting, we mean</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 30 Jul 2026 19:19:23 +0200</pubDate>
     </item>
   </channel>
 </rss>
