@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 23:58:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 02:51:57 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 4800 GOLDFIELD DR (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1039739</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1039739</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1039739 | EAST Division | 7/31/2026 9:36:14 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/31/2026 9:36:14 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 14000 DELTA GROVE (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1039742</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1039742</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1039742 | NORTH Division | 7/31/2026 9:37:14 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/31/2026 9:37:14 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 6800 US HWY 90 W (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1039744</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1039744</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1039744 | WEST Division | 7/31/2026 9:37:34 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>7/31/2026 9:37:34 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 400 CASS AVE (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1038997</link>
@@ -789,30 +813,6 @@ of these kernels are advised to upgrade.</description>
       <description>[Diabetes &amp; Kidney Disease] Keyword: dialysis — Gaza’s collapsing health system leaves dialysis patients, amputees and trauma survivors without vital care.</description>
       <category>Diabetes &amp; Kidney Disease</category>
       <pubDate>Thu, 30 Jul 2026 05:21:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 1800 GORMAN ST (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1029654</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1029654</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1029654 | EAST Division | 7/29/2026 10:35:51 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/29/2026 10:35:51 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 1500 BRIGHTON AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1028843</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1028843</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1028843 | SOUTH Division | 7/29/2026 6:50:04 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/29/2026 6:50:04 PM</pubDate>
-    </item>
-    <item>
-      <title>What to do after a Public Intoxication arrest in San Antonio</title>
-      <link>https://sanantonioreport.org/what-to-do-after-a-public-intoxication-arrest-in-san-antonio/</link>
-      <guid>https://sanantonioreport.org/what-to-do-after-a-public-intoxication-arrest-in-san-antonio/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — SPONSORED: A Public Intoxication arrest does not have to define your future. Learn how San Antonio Public Intoxication lawyers help.What to do after a Public Intoxication arrest in San Antonio was first posted on July 29, 2026 at 6:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Wed, 29 Jul 2026 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
