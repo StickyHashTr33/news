@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 14:56:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 15:59:10 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 7500 SOUTH SEA (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1041967</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1041967</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1041967 | NORTH Division | 8/1/2026 10:47:47 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/1/2026 10:47:47 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 7800 S NEW BRAUNFELS AVE (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1041705</link>
@@ -802,14 +810,6 @@ Professor Ángel Luis Lara, who fled his h</description>
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Trinity University officials unveiled a new logo as part of a rebrand that aims to better present the university to a national audience.Basking in increased visibility, Trinity’s new branding draws from historic sun imagery was first posted on July 30, 2026 at 10:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at </description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Thu, 30 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>&quot;Less Regulated Than Sandwiches&quot;: MIT Prof. Calls for Oversight as OpenAI Agent Hacks Other Firms</title>
-      <link>http://www.democracynow.org/2026/7/30/max_tegmark</link>
-      <guid>http://www.democracynow.org/2026/7/30/max_tegmark</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Artificial intelligence tools are quickly advancing in sophistication and capabilities, raising alarm among researchers and industry figures who say the technology needs to be more tightly regulated. This comes as OpenAI, maker of ChatGPT, recently disclosed that one of its experimental AI agents went rogue and secretly hacked into the infrastructure of several other companies in what was supposed to be a controlled test. Over 1,100 scientists and senior employees at top AI firms have called on </description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Thu, 30 Jul 2026 08:14:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
