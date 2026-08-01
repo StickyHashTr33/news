@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 02:51:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 05:52:13 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 17600 HENDERSON PASS (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1040458</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1040458</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1040458 | NORTH Division | 8/1/2026 12:35:55 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/1/2026 12:35:55 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 800 RIVAS ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1040460</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1040460</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1040460 | CENTRAL Division | 8/1/2026 12:36:51 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/1/2026 12:36:51 AM</pubDate>
+    </item>
+    <item>
+      <title>Mayor targets funding for Spurs’ new arena in hunt to reduce city budget gap</title>
+      <link>https://sanantonioreport.org/jones-targets-city-funding-spurs-new-arena-budget-gap/</link>
+      <guid>https://sanantonioreport.org/jones-targets-city-funding-spurs-new-arena-budget-gap/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Jones proposed another vote on the public funding for the San Antonio Spurs' downtown arena in light of the city's $158 million budget gap.Mayor targets funding for Spurs&amp;#8217; new arena in hunt to reduce city budget gap was first posted on July 31, 2026 at 10:37 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at he</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sat, 01 Aug 2026 03:37:46 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person - Endangered — 4800 GOLDFIELD DR (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1039739</link>
@@ -789,30 +813,6 @@ of these kernels are advised to upgrade.</description>
       <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1030092 | CENTRAL Division | 7/30/2026 12:47:14 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/30/2026 12:47:14 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 2800 REDLAND TRL (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1030114</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1030114</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1030114 | NORTH Division | 7/30/2026 12:59:19 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/30/2026 12:59:19 AM</pubDate>
-    </item>
-    <item>
-      <title>From single projection to many possibilities: A new tool for climate risk assessment</title>
-      <link>https://phys.org/news/2026-07-possibilities-tool-climate.html</link>
-      <guid>https://phys.org/news/2026-07-possibilities-tool-climate.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Assessing how climate change will affect different regions usually requires running a complex chain of models. While this approach provides valuable insights, it is expensive and can cover only a limited set of scenarios and model runs. Together with partners, IIASA researchers have developed a faster alternative that uses available projections from Earth system or climate impact models to generate new regional climate and impact projections while capturing the uncertainty essential for understa</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 30 Jul 2026 02:00:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>War and shortages push Gaza hospitals to breaking point</title>
-      <link>https://www.aljazeera.com/features/2026/7/30/war-and-shortages-push-gaza-hospitals-to-breaking-point?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/features/2026/7/30/war-and-shortages-push-gaza-hospitals-to-breaking-point?traffic_source=rss</guid>
-      <description>[Diabetes &amp; Kidney Disease] Keyword: dialysis — Gaza’s collapsing health system leaves dialysis patients, amputees and trauma survivors without vital care.</description>
-      <category>Diabetes &amp; Kidney Disease</category>
-      <pubDate>Thu, 30 Jul 2026 05:21:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
