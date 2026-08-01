@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 19:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 20:44:53 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 2100 GOOSE POND (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1042978</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1042978</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1042978 | SOUTH Division | 8/1/2026 3:26:14 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/1/2026 3:26:14 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 400 N WW WHITE RD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1042988</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1042988</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1042988 | EAST Division | 8/1/2026 3:28:55 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/1/2026 3:28:55 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 9300 CERRO VERDE (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1042618</link>
@@ -794,22 +810,6 @@ Professor Ángel Luis Lara, who fled his h</description>
       <description>[Climate &amp; Environment] Keyword: climate change — New UC Berkeley-led research indicates that continued climate change could severely increase wildfire above natural levels in Yosemite, Sequoia, Kings Canyon and Lassen Volcanic national parks.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Thu, 30 Jul 2026 13:00:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>In Their Own Hands: Ghana’s Drug Vigilantes</title>
-      <link>https://www.aljazeera.com/video/people-power/2026/7/30/in-their-own-hands-ghanas-drug-vigilantes?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/video/people-power/2026/7/30/in-their-own-hands-ghanas-drug-vigilantes?traffic_source=rss</guid>
-      <description>[Opioid Treatment &amp; Methadone] Keyword: opioid crisis — Citizen vigilantes patrol Ghana&amp;#039;s streets, fighting an opioid crisis. We meet those taking the law into their own hands.</description>
-      <category>Opioid Treatment &amp; Methadone</category>
-      <pubDate>Thu, 30 Jul 2026 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘To play God’: Cuba’s healthcare system collapses under US pressure</title>
-      <link>https://www.aljazeera.com/news/longform/2026/7/30/to-play-god-cubas-healthcare-system-collapses-under-us-pressure?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/longform/2026/7/30/to-play-god-cubas-healthcare-system-collapses-under-us-pressure?traffic_source=rss</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — As the Trump administration tightens US sanctions, Cuba&amp;#039;s healthcare sector struggles with fuel and supply shortages.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Thu, 30 Jul 2026 16:34:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
