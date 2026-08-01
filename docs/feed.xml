@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 10:37:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 12:00:19 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 7100 SPRING LEAF (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1041190</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1041190</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1041190 | PRUE Division | 8/1/2026 6:03:36 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/1/2026 6:03:36 AM</pubDate>
+    </item>
+    <item>
+      <title>The Ticks Are Winning</title>
+      <link>https://www.motherjones.com/environment/2026/08/the-ticks-are-winning/</link>
+      <guid>https://www.motherjones.com/environment/2026/08/the-ticks-are-winning/</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — This story was originally published by&amp;#160;Vox&amp;#160;and&amp;#160;is reproduced here as part of the&amp;#160;Climate Desk&amp;#160;collaboration. Ticks are taking over the United States. Due to climate change, changing land use, and an explosion in the deer population, ticks have been expanding their territory and infecting more people than ever. They carry pathogens that cause everything from Lyme disease [&amp;#8230;]</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sat, 01 Aug 2026 11:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 5400 TOMAS CIR (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1041119</link>
@@ -797,22 +813,6 @@ of these kernels are advised to upgrade.</description>
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1030712 | SOUTH Division | 7/30/2026 6:27:22 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/30/2026 6:27:22 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 700 W MAYFIELD BLVD (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1030713</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1030713</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1030713 | SOUTH Division | 7/30/2026 6:28:07 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/30/2026 6:28:07 AM</pubDate>
-    </item>
-    <item>
-      <title>Learning more about Australia's remote Northwest reefs with Indigenous rangers</title>
-      <link>https://phys.org/news/2026-07-australia-remote-northwest-reefs-indigenous.html</link>
-      <guid>https://phys.org/news/2026-07-australia-remote-northwest-reefs-indigenous.html</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Offshore Northwest reefs Rankin Bank and Glomar Shoal are remote and little known, but Australian Institute of Marine Science (AIMS) researchers are using technology and people power to help us understand them better.</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Thu, 30 Jul 2026 07:20:04 EDT</pubDate>
     </item>
   </channel>
 </rss>
