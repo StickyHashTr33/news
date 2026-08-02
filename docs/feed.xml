@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2026 02:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 05:52:37 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 7200 MARBACH RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045069</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045069</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1045069 | WEST Division | 8/2/2026 12:31:42 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/2/2026 12:31:42 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 700 BRUNSWICK BLVD (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045079</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045079</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1045079 | SOUTH Division | 8/2/2026 12:34:14 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/2/2026 12:34:14 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 2600 SE MILITARY DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045084</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045084</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1045084 | SOUTH Division | 8/2/2026 12:36:25 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/2/2026 12:36:25 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 401-599 CRESWELL DR (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045103</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045103</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1045103 | EAST Division | 8/2/2026 12:39:50 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/2/2026 12:39:50 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 1400 BARKER BAY (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1043705</link>
@@ -778,38 +810,6 @@ Professor Ángel Luis Lara, who fled his h</description>
       <description>[AI &amp; Automation] Keyword: AI agent — Scientists and AI firm employees urge the US to “deliberately pace” the development of the most advanced AI systems.</description>
       <category>AI &amp; Automation</category>
       <pubDate>Thu, 30 Jul 2026 20:09:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>&quot;Less Regulated Than Sandwiches&quot;: MIT Prof. Calls for Oversight as OpenAI Agent Hacks Other Firms</title>
-      <link>http://67.228.192.88:3000/2026/7/30/max_tegmark</link>
-      <guid>http://67.228.192.88:3000/2026/7/30/max_tegmark</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Artificial intelligence tools are quickly advancing in sophistication and capabilities, raising alarm among researchers and industry figures who say the technology needs to be more tightly regulated. This comes as OpenAI, maker of ChatGPT, recently disclosed that one of its experimental AI agents went rogue and secretly hacked into the infrastructure of several other companies in what was supposed to be a controlled test. Over 1,100 scientists and senior employees at top AI firms have called on </description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Thu, 30 Jul 2026 08:14:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>That’s Too Much Helicopter</title>
-      <link>https://defector.com/thats-too-much-helicopter</link>
-      <guid>https://defector.com/thats-too-much-helicopter</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — There are the very special episodes that Drew and I do before heading off on vacation, and then there are the rarer ones we do while one of us is on vacation. This week's installment was one of those, as Drew joined from a beach house in an undisclosed—well, he mentions it within the first two minutes, but I won't disclose it here—New England location and I joined from my damn apartment, albeit not long after returning from my extremely disclosed annual summer trip to Maine. And yet this is only</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Thu, 30 Jul 2026 20:04:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe’s heating climate sparks ‘major intensification’ of fires: Report</title>
-      <link>https://www.aljazeera.com/news/2026/7/30/europes-heating-climate-sparks-major-intensification-of-fires-report?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/7/30/europes-heating-climate-sparks-major-intensification-of-fires-report?traffic_source=rss</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Climate change has helped southern Europe&amp;#039;s likelihood of wildfires double since 1981, say researchers.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 30 Jul 2026 17:58:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tiny fossils crack a Cretaceous cold case: Ocean acidification triggered one of the ocean's most severe extinctions</title>
-      <link>https://phys.org/news/2026-07-tiny-fossils-cretaceous-cold-case.html</link>
-      <guid>https://phys.org/news/2026-07-tiny-fossils-cretaceous-cold-case.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — A 113-million-year-old marine murder mystery may finally be solved. Using chemical clues locked inside microscopic fossils, Northwestern University scientists found evidence that ocean acidification drove one of the largest extinction events in the history of planktic foraminifera—tiny shell-building organisms that help regulate Earth's carbon cycle.</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 30 Jul 2026 14:00:12 EDT</pubDate>
     </item>
   </channel>
 </rss>
