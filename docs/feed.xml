@@ -5,8 +5,64 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2026 10:37:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 11:58:58 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 3500 OAKGATE (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045903</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045903</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1045903 | PRUE Division | 8/2/2026 6:27:37 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/2/2026 6:27:37 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 4100 MEDICAL DR (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045913</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045913</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1045913 | PRUE Division | 8/2/2026 6:34:16 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/2/2026 6:34:16 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 4600 PUEBLO (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045915</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045915</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1045915 | NORTH Division | 8/2/2026 6:35:30 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/2/2026 6:35:30 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 4300 HYATT PLACE DR (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045929</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045929</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1045929 | PRUE Division | 8/2/2026 6:45:23 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/2/2026 6:45:23 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 9900 HYATT RESORT DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045932</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045932</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1045932 | WEST Division | 8/2/2026 6:46:49 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/2/2026 6:46:49 AM</pubDate>
+    </item>
+    <item>
+      <title>Indigenous groups oppose Milei plan to open Argentina to foreign buyers</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Indigenous people  protested in Buenos Aires against a bill opening foreign ownership of rural land in Argentina.</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Sun, 02 Aug 2026 11:09:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indigenous territory maintains ecological stability amid agricultural expansion in the Brazilian savanna</title>
+      <link>https://phys.org/news/2026-08-indigenous-territory-ecological-stability-agricultural.html</link>
+      <guid>https://phys.org/news/2026-08-indigenous-territory-ecological-stability-agricultural.html</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — &quot;An island of biodiversity in a sea of monoculture&quot;: This is how a recent study characterized the Pimentel Barbosa Indigenous Territory (TIPB), located in the northeastern part of Mato Grosso state in Brazil's Central-West region. The study showed that the area's human occupation patterns and vegetation cover have remained largely unchanged for four decades. Meanwhile, the surrounding area has been altered by the expansion of livestock ranching, soybean farming and the construction of major high</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Sun, 02 Aug 2026 07:40:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 18100 LA CANTERA TERRACE (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045795</link>
@@ -753,62 +809,6 @@ The post Patients Wary of Governments, Companies Pushing AI as a Rural Healthcar
 The post Corporations, Not Immigrants, Are Responsible for Vast Majority of Healthcare Fraud, OIG Report Shows appeared first on The Intercept.</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Fri, 31 Jul 2026 08:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 1900 SW MILITARY DR (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1035345</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1035345</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1035345 | SOUTH Division | 7/31/2026 12:56:18 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/31/2026 12:56:18 AM</pubDate>
-    </item>
-    <item>
-      <title>New report highlights health of the UK's plankton communities</title>
-      <link>https://phys.org/news/2026-07-highlights-health-uk-plankton-communities.html</link>
-      <guid>https://phys.org/news/2026-07-highlights-health-uk-plankton-communities.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Researchers from the University of Plymouth have led the production of a new report highlighting the impact of climate change on marine plankton and pelagic habitats in U.K. waters. Published by the Marine Climate Change Impacts Partnership (MCCIP), the report discusses the latest evidence showing major large-scale shifts already happening in plankton communities.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 30 Jul 2026 22:40:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>After OpenAI disclosure, Anthropic says Claude also hacked outside systems</title>
-      <link>https://www.aljazeera.com/news/2026/7/31/after-openai-disclosure-anthropic-claude-hacked-outside-systems?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/7/31/after-openai-disclosure-anthropic-claude-hacked-outside-systems?traffic_source=rss</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — The incidents have heightened concerns about AI agents, software products designed to perform tasks autonomously.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Fri, 31 Jul 2026 04:02:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Friday briefing: Why attacks on hospitals from Ukraine to Lebanon now happen with impunity</title>
-      <link>https://www.theguardian.com/world/2026/jul/31/friday-briefing-why-attacks-on-hospitals-from-ukraine-to-lebanon-now-happen-with-impunity</link>
-      <guid>https://www.theguardian.com/world/2026/jul/31/friday-briefing-why-attacks-on-hospitals-from-ukraine-to-lebanon-now-happen-with-impunity</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — In today’s newsletter: ​The legal protections once considered foundational ​in conflict are now routinely bypassed​,​ with healthcare personnel treated as legitimate targetsGood morning. While you were asleep, Donald Trump claimed a deal had been reached for the “complete disarmament of Hamas” in Gaza. His announcement, characteristically, does not yet seem watertight, with briefings from both sides revealing points of contention, and as such is being treated with caution by some world leaders.A</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Fri, 31 Jul 2026 05:45:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 900 ARANSAS AVE (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1034538</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1034538</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1034538 | EAST Division | 7/30/2026 9:10:09 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/30/2026 9:10:09 PM</pubDate>
-    </item>
-    <item>
-      <title>Anthropic says Claude AI hacked three firms during cyber tests</title>
-      <link>https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Fri, 31 Jul 2026 01:31:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 11400 VANCE JACKSON (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1033753</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1033753</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1033753 | PRUE Division | 7/30/2026 5:42:39 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/30/2026 5:42:39 PM</pubDate>
     </item>
   </channel>
 </rss>
