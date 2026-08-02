@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2026 11:58:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 13:28:29 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 8800 STATE HWY 151 (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046095</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046095</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1046095 | WEST Division | 8/2/2026 8:15:38 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/2/2026 8:15:38 AM</pubDate>
+    </item>
+    <item>
+      <title>Scientists detect a sharp acceleration in global warming</title>
+      <link>https://www.sciencedaily.com/releases/2026/08/260801093239.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/08/260801093239.htm</guid>
+      <description>[Climate &amp; Environment] Keyword: global warming — Global warming appears to have shifted into a faster gear. After removing the effects of El Niño, volcanic eruptions, and solar cycles, researchers found that the planet has warmed at roughly 0.35°C per decade over the past ten years, compared with just under 0.2°C per decade from 1970 to 2015. The acceleration, which becomes visible around 2013 to 2015, appeared across five major global temperature datasets with more than 98% statistical certainty.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sat, 01 Aug 2026 09:32:39 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 3500 OAKGATE (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045903</link>
@@ -792,23 +808,6 @@ The post Patients Wary of Governments, Companies Pushing AI as a Rural Healthcar
       <description>[Digital Rights &amp; Privacy] Keyword: biometric surveillance — Trumpism, corporate deregulation and biometric surveillance are converging into a new model of control in the region.</description>
       <category>Digital Rights &amp; Privacy</category>
       <pubDate>Fri, 31 Jul 2026 07:04:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs</title>
-      <link>https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms</link>
-      <guid>https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Fri, 31 Jul 2026 05:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Corporations, Not Immigrants, Are Responsible for Vast Majority of Healthcare Fraud, OIG Report Shows</title>
-      <link>https://theintercept.com/2026/07/31/immigrants-healthcare-medicare-fraud-scam/</link>
-      <guid>https://theintercept.com/2026/07/31/immigrants-healthcare-medicare-fraud-scam/</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Trump officials are focused on immigrants, but the Department of Health and Human Services report on fraud doesn’t even mention them.
-The post Corporations, Not Immigrants, Are Responsible for Vast Majority of Healthcare Fraud, OIG Report Shows appeared first on The Intercept.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Fri, 31 Jul 2026 08:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
