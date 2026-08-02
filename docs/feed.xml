@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2026 13:28:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 14:59:01 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Shooting — 400 BRADY BLVD (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046262</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046262</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-1046262 | CENTRAL Division | 8/2/2026 9:39:28 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/2/2026 9:39:28 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 600 DAKOTA ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046280</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046280</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1046280 | EAST Division | 8/2/2026 9:45:17 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/2/2026 9:45:17 AM</pubDate>
+    </item>
+    <item>
+      <title>Trump is sneaking in new laws that will literally make it harder to breathe</title>
+      <link>https://www.alternet.org/trump-snuck/</link>
+      <guid>https://www.alternet.org/trump-snuck/</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — President Donald Trump’s anti-environmental philosophy has led to many controversies, from his rejection of the scientific consensus about man-made climate change to spreading misinformation about wind turbines. “During its first year, the second Trump administration used a “shock and awe” approach to environmental deregulation,” wrote Slate's Richard L. Revesz on Sunday. “In an effort to erase climate policies, the Environmental Protection Agency claimed that climate change was not a serious pr</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sun, 02 Aug 2026 14:43:36 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 8800 STATE HWY 151 (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046095</link>
@@ -784,30 +808,6 @@ The post Patients Wary of Governments, Companies Pushing AI as a Rural Healthcar
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1035809 | PRUE Division | 7/31/2026 4:29:15 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/31/2026 4:29:15 AM</pubDate>
-    </item>
-    <item>
-      <title>New solar panels in Great Britain at 15-year high as fossil fuel costs soar</title>
-      <link>https://www.theguardian.com/environment/2026/jul/31/new-solar-panels-great-britain-15-year-high</link>
-      <guid>https://www.theguardian.com/environment/2026/jul/31/new-solar-panels-great-britain-15-year-high</guid>
-      <description>[Open Source Software] Keyword: FOSS — Boom in solar farms and home installations in first half of 2026 began shortly after start of US-Israel war against IranGreat Britain has recorded more new solar power installations in the first half of this year than in any six-month period since 2011, as households turn to rooftop panels to help cut their energy bills.An analysis of the government’s official figures shows that Great Britain added 142,536 solar installations in the first six months of the year, putting it on track to top last y</description>
-      <category>Open Source Software</category>
-      <pubDate>Fri, 31 Jul 2026 09:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>The last trio: S.Africa's zoo elephants await their fate</title>
-      <link>https://phys.org/news/2026-07-trio-safrica-zoo-elephants-await.html</link>
-      <guid>https://phys.org/news/2026-07-trio-safrica-zoo-elephants-await.html</guid>
-      <description>[Foraging &amp; Wild Plants] Keyword: foraging — The last three elephants still in a traditional South African zoo entered their enclosure in single file, with fruit and vegetables scattered on the ground to encourage natural foraging.</description>
-      <category>Foraging &amp; Wild Plants</category>
-      <pubDate>Fri, 31 Jul 2026 03:03:11 EDT</pubDate>
-    </item>
-    <item>
-      <title>Latin America is becoming a laboratory for tech-supremacism</title>
-      <link>https://www.aljazeera.com/opinions/2026/7/31/latin-america-is-becoming-a-laboratory-for-tech-supremacism?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/opinions/2026/7/31/latin-america-is-becoming-a-laboratory-for-tech-supremacism?traffic_source=rss</guid>
-      <description>[Digital Rights &amp; Privacy] Keyword: biometric surveillance — Trumpism, corporate deregulation and biometric surveillance are converging into a new model of control in the region.</description>
-      <category>Digital Rights &amp; Privacy</category>
-      <pubDate>Fri, 31 Jul 2026 07:04:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
