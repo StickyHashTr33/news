@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2026 16:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 17:58:39 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Robbery of Individual — 4000 W COMMERCE ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046809</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046809</guid>
+      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1046809 | CENTRAL Division | 8/2/2026 12:40:58 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/2/2026 12:40:58 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 600 SEWANEE ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046816</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046816</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1046816 | EAST Division | 8/2/2026 12:43:02 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/2/2026 12:43:02 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 1100 N LOOP 1604 E (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046819</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046819</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1046819 | NORTH Division | 8/2/2026 12:43:35 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/2/2026 12:43:35 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 900 E DULLNIG CT (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046449</link>
@@ -783,30 +807,6 @@ The post FO Talks: Making Sense</description>
       <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1035961 | WEST Division | 7/31/2026 6:16:37 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/31/2026 6:16:37 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 11900 PERRIN BEITEL (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1035971</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1035971</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1035971 | NORTH Division | 7/31/2026 6:21:40 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/31/2026 6:21:40 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 4000 E SOUTHCROSS BLVD (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1035993</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1035993</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1035993 | EAST Division | 7/31/2026 6:34:03 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/31/2026 6:34:03 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Shooting In Progress — 700 LOMBRANO ST (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1036004</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1036004</guid>
-      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1036004 | CENTRAL Division | 7/31/2026 6:42:07 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/31/2026 6:42:07 AM</pubDate>
     </item>
   </channel>
 </rss>
