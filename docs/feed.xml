@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2026 20:49:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 21:51:38 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 100 REDROCK DR (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1047620</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1047620</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1047620 | CENTRAL Division | 8/2/2026 4:33:21 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/2/2026 4:33:21 PM</pubDate>
+    </item>
+    <item>
+      <title>Data centers are cropping up all over Bexar County with 23 more on the way</title>
+      <link>https://sanantonioreport.org/data-centers-development-growing-san-antonio-bexar-county/</link>
+      <guid>https://sanantonioreport.org/data-centers-development-growing-san-antonio-bexar-county/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Community members are asking what the increase in data center construction means for the San Antonio environment and economy.Data centers are cropping up all over Bexar County with 23 more on the way was first posted on August 2, 2026 at 4:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sun, 02 Aug 2026 21:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How simple amber lights could make nights safer for insects</title>
       <link>https://phys.org/news/2026-07-simple-amber-nights-safer-insects.html</link>
@@ -791,22 +807,6 @@ The post FO Talks: Making Sense</description>
       <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1036862 | EAST Division | 7/31/2026 10:38:28 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>7/31/2026 10:38:28 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 10300 PELICAN OAK DR (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1036900</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1036900</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1036900 | PRUE Division | 7/31/2026 10:49:09 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/31/2026 10:49:09 AM</pubDate>
-    </item>
-    <item>
-      <title>Headlines for July 31, 2026</title>
-      <link>http://67.228.192.88:3000/2026/7/31/headlines</link>
-      <guid>http://67.228.192.88:3000/2026/7/31/headlines</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Trump Claims Hamas Has Agreed to &amp;#8220;Complete Disarmament&amp;#8221; in Gaza, But Major Questions Remain, Senate Votes Down Iran War Powers Resolution After Fetterman Votes with GOP Majority, Saudi Arabia Forms New Military Alliance After Red Sea Attacks, Iran Clams Drone Attack on Egypt May Have Been False Flag, Oil Giants Report Huge Profits Due to Rising Gas Prices from Iran War, Trump May Temporarily Withdraw Blanche Nomination to Be AG, Climate Change Has Sparked &amp;#8220;Major Intensification</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Fri, 31 Jul 2026 08:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
