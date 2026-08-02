@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2026 21:51:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 22:51:49 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 4800 WOODSTONE DR (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1047863</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1047863</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1047863 | PRUE Division | 8/2/2026 5:35:51 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/2/2026 5:35:51 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 1600 SANTA RITA ST (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1047868</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1047868</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1047868 | SOUTH Division | 8/2/2026 5:38:11 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/2/2026 5:38:11 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 100 REDROCK DR (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1047620</link>
@@ -791,22 +807,6 @@ The post FO Talks: Making Sense</description>
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The nightclub announced it would close for four to five months to install a fire sprinkler system to comply with a city fire-code requirement.Bonham Exchange to close for sprinkler installation, plans to reopen in four to five months was first posted on July 31, 2026 at 12:11 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please cont</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Fri, 31 Jul 2026 17:11:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>US bank places trust in ransomware crew that promised to delete its data</title>
-      <link>https://www.theregister.com/cyber-crime/2026/07/31/us-bank-places-trust-in-ransomware-crew-that-promised-to-delete-its-data/5281888</link>
-      <guid>https://www.theregister.com/cyber-crime/2026/07/31/us-bank-places-trust-in-ransomware-crew-that-promised-to-delete-its-data/5281888</guid>
-      <description>[Cybersecurity] Keyword: ransomware — History suggests this was not wise</description>
-      <category>Cybersecurity</category>
-      <pubDate>Fri, 31 Jul 2026 17:41:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 4000 E SOUTHCROSS BLVD (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1036862</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1036862</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1036862 | EAST Division | 7/31/2026 10:38:28 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/31/2026 10:38:28 AM</pubDate>
     </item>
   </channel>
 </rss>
