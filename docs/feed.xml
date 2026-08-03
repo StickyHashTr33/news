@@ -5,8 +5,101 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 13:37:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 16:20:13 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 4300 CALLAGHAN RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1050972</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1050972</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1050972 | WEST Division | 8/3/2026 11:08:51 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/3/2026 11:08:51 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 300 S SANTA ROSA (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1050974</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1050974</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1050974 | DOWNTOWN Division | 8/3/2026 11:09:00 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/3/2026 11:09:00 AM</pubDate>
+    </item>
+    <item>
+      <title>Ancient Arctic carbon is pouring into the sea, but the seabed captures most of it</title>
+      <link>https://www.sciencedaily.com/releases/2026/08/260802223424.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/08/260802223424.htm</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Thawing Arctic permafrost is releasing ancient carbon into the ocean, raising fears that microbes could turn it into greenhouse gases and accelerate climate change. But sediment cores collected near Canada’s Herschel Island reveal a more reassuring twist: most of this land-based carbon becomes buried in the seafloor, while only about 10 percent is converted into gases.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 03 Aug 2026 09:23:30 EDT</pubDate>
+    </item>
+    <item>
+      <title>John Oliver on police surveillance: ‘Big Brother on steroids’</title>
+      <link>https://www.theguardian.com/tv-and-radio/2026/aug/03/john-oliver-police-surveillance-cameras</link>
+      <guid>https://www.theguardian.com/tv-and-radio/2026/aug/03/john-oliver-police-surveillance-cameras</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: license plate reader — The host tore into ‘wildly invasive’ cameras, microphones and license plate readers that police use to track AmericansJohn Oliver discussed the tools that police are using to keep track of Americans on the latest episode of Last Week Tonight.In recent years, the use of surveillance technology has exploded among local police forces due to decreasing prices and federal funding, with one local mayor comparing modern systems to “Big Brother on steroids”. Continue reading...</description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>Mon, 03 Aug 2026 15:22:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why a Flock Worker Quit: ‘They Lied’</title>
+      <link>https://www.404media.co/why-a-flock-worker-quit-they-lied/</link>
+      <guid>https://www.404media.co/why-a-flock-worker-quit-they-lied/</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: Flock camera — Jonathan Paz’s job was to convince cities to buy Flock cameras. After initially being enthusiastic about the company, he started to get disillusioned.</description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>Mon, 03 Aug 2026 14:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>NATO’s Logic, AI’s Logic: Two Sorcerer’s Apprentices — Part 1</title>
+      <link>https://www.fairobserver.com/more/science/natos-logic-ais-logic-two-sorcerers-apprentices-part-1/</link>
+      <guid>https://www.fairobserver.com/more/science/natos-logic-ais-logic-two-sorcerers-apprentices-part-1/</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — Last month, I began a “relationship” with a new LLM, Kimi K3. I’m impressed by its quality of processing human thought, which we tend to call its ability to think. I should point out what every university or high school professor should be aware of: that what we call a student’s thinking is as much&amp;#8230; Continue reading NATO’s Logic, AI’s Logic: Two Sorcerer’s Apprentices — Part 1
+The post NATO’s Logic, AI’s Logic: Two Sorcerer’s Apprentices — Part 1 appeared first on Fair Observer.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Mon, 03 Aug 2026 14:25:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>SQLite Critical CVEs or LLM Slop? (JFrog blog)</title>
+      <link>https://lwn.net/Articles/1086936/</link>
+      <guid>https://lwn.net/Articles/1086936/</guid>
+      <description>[Cybersecurity] Keyword: CVE — The JFrog blog examines
+some reported vulnerabilities in SQLite, some of which made their way
+into high-profile vulnerability databases, that turned out to be entirely
+fabricated by LLMs.
+
+
+	These LLM slop CVEs can cause organizations to waste time
+	investigating and patching vulnerabilities that do not actually
+	exist, as well as polluting vulnerability databases. In
+	environments where Critical vulnerabilities are automatically
+	prioritized or tickets are opened based on vulnerability scores,
+</description>
+      <category>Cybersecurity</category>
+      <pubDate>Mon, 03 Aug 2026 14:59:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>EFF at BSidesLV, Black Hat, and DEF CON 👨‍💻</title>
+      <link>https://www.eff.org/deeplinks/2026/07/eff-bsideslv-black-hat-and-def-con</link>
+      <guid>https://www.eff.org/deeplinks/2026/07/eff-bsideslv-black-hat-and-def-con</guid>
+      <description>[Cybersecurity] Keyword: security researcher — It's time. Time for tinkerers, security researchers, hackers, and fellow nerds to gather together in signature black hoodies and utilikilts to beat the heat in Las Vegas for the summer security conferences: BSidesLV, Black Hat USA, and DEF CON.
+EFF's lawyers, activists, and technologists are excited, as always, to support this community of folks that push computer security forward. If you're attending the conference and have any legal concerns about an upcoming talk or sensitive infosec research</description>
+      <category>Cybersecurity</category>
+      <pubDate>Mon, 03 Aug 2026 14:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kmart sells out of low-cost rival to Meta camera glasses across Australia amid warnings of ‘privacy nightmare’</title>
+      <link>https://www.theguardian.com/australia-news/2026/aug/04/kmart-camera-glasses-anko-meta-smartglasses-australia</link>
+      <guid>https://www.theguardian.com/australia-news/2026/aug/04/kmart-camera-glasses-anko-meta-smartglasses-australia</guid>
+      <description>[Digital Rights &amp; Privacy] Keyword: digital rights — Expert says people face being filmed without their consent as $89 Anko smartglasses sell out in stores and onlineGet our breaking news email, free app or daily news podcastKmart has sold out of Anko-branded $89 camera glasses across Australia, which a digital rights expert says presents a “privacy nightmare” as people face being filmed without their consent.As of Monday, the clear-lens, black-rimmed glasses, which can capture images and record high-definition videos, were sold out at Kmart store</description>
+      <category>Digital Rights &amp; Privacy</category>
+      <pubDate>Mon, 03 Aug 2026 15:00:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting</title>
+      <link>https://www.theguardian.com/us-news/2026/aug/03/in-n-out-shooting-idaho</link>
+      <guid>https://www.theguardian.com/us-news/2026/aug/03/in-n-out-shooting-idaho</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Police credited Jordan Salinas with limiting number of victims in attack on restaurant in Twin Falls, IdahoA healthcare worker returning fire on a 24-year-old gunman who killed three people and wounded several others an In-N-Out Burger in Twin Falls, Idaho, has said his impulse to confront the attacker was “automatic” and “mechanical”.That description from 35-year-old Jordan Salinas came in an interview with the Idaho Statesman that was published on Sunday, providing a detailed account of action</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Mon, 03 Aug 2026 14:16:41 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 80 TRAILCREST (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1050284</link>
@@ -728,86 +821,6 @@ The post FO Talks: Making Sense</description>
       <description>[Climate &amp; Environment] Keyword: climate change — The UK is bouncing from one type of extreme weather to another this year. This is climate whiplash. Caused by changes in the fast-moving body of air high in the atmosphere called the jet stream, climate whiplash has become more likely with climate change. These constant shifts in extreme weather make it challenging to build resilience.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Sat, 01 Aug 2026 06:00:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Where I Live: East Side</title>
-      <link>https://sanantonioreport.org/where-i-live-east-side-san-antonio-joseph-nathan-brooks/</link>
-      <guid>https://sanantonioreport.org/where-i-live-east-side-san-antonio-joseph-nathan-brooks/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Joseph Nathan Brooks says many people remember the East Side only for its struggles, but he remembers some thing different.Where I Live: East Side was first posted on August 1, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Sat, 01 Aug 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 4800 LORD RD (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1040858</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1040858</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1040858 | EAST Division | 8/1/2026 2:49:51 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/1/2026 2:49:51 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 5700 PINE COUNTRY (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1040861</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1040861</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1040861 | NORTH Division | 8/1/2026 2:50:24 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/1/2026 2:50:24 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 5100 UTSA BLVD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1040880</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1040880</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1040880 | PRUE Division | 8/1/2026 2:57:26 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/1/2026 2:57:26 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 9500 IH 10 W (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1040889</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1040889</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1040889 | PRUE Division | 8/1/2026 2:59:18 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/1/2026 2:59:18 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 17600 HENDERSON PASS (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1040458</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1040458</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1040458 | NORTH Division | 8/1/2026 12:35:55 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/1/2026 12:35:55 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 800 RIVAS ST (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1040460</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1040460</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1040460 | CENTRAL Division | 8/1/2026 12:36:51 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/1/2026 12:36:51 AM</pubDate>
-    </item>
-    <item>
-      <title>Mayor targets funding for Spurs’ new arena in hunt to reduce city budget gap</title>
-      <link>https://sanantonioreport.org/jones-targets-city-funding-spurs-new-arena-budget-gap/</link>
-      <guid>https://sanantonioreport.org/jones-targets-city-funding-spurs-new-arena-budget-gap/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Jones proposed another vote on the public funding for the San Antonio Spurs' downtown arena in light of the city's $158 million budget gap.Mayor targets funding for Spurs&amp;#8217; new arena in hunt to reduce city budget gap was first posted on July 31, 2026 at 10:37 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at he</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Sat, 01 Aug 2026 03:37:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — 4800 GOLDFIELD DR (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1039739</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1039739</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1039739 | EAST Division | 7/31/2026 9:36:14 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/31/2026 9:36:14 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 14000 DELTA GROVE (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1039742</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1039742</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1039742 | NORTH Division | 7/31/2026 9:37:14 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>7/31/2026 9:37:14 PM</pubDate>
     </item>
   </channel>
 </rss>
