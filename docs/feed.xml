@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 00:05:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 04:09:43 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 6600 PRUE RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1053851</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1053851</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1053851 | PRUE Division | 8/3/2026 10:53:36 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/3/2026 10:53:36 PM</pubDate>
+    </item>
+    <item>
+      <title>Crews building Trump border wall in drought-hit New Mexico ordered to stop drilling wells</title>
+      <link>https://www.theguardian.com/us-news/2026/aug/03/trump-border-wall-new-mexico-wells</link>
+      <guid>https://www.theguardian.com/us-news/2026/aug/03/trump-border-wall-new-mexico-wells</guid>
+      <description>[Immigration &amp; Border] Keyword: border wall — Residents and farmers say contractors have tapped border aquifers that threaten water supply for those nearbyConstruction crews building a border wall in New Mexico were ordered to stop drilling new wells after ranchers said that pumping groundwater to produce concrete could threaten their livestock amid a severe drought.The order comes as crews across the southern border race to complete one of Donald Trump’s highest domestic priorities – barriers that span four states and received over $46bn i</description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>Tue, 04 Aug 2026 01:25:42 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 1900 E SONTERRA BLVD (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1052957</link>
@@ -804,22 +820,6 @@ The post Rural Health Transformation Funds Go to Tech Companies for Innovations 
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1041967 | NORTH Division | 8/1/2026 10:47:47 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/1/2026 10:47:47 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 7800 S NEW BRAUNFELS AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1041705</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1041705</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1041705 | SOUTH Division | 8/1/2026 9:39:31 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/1/2026 9:39:31 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 400 S WW WHITE RD (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1041731</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1041731</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1041731 | EAST Division | 8/1/2026 9:46:30 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/1/2026 9:46:30 AM</pubDate>
     </item>
   </channel>
 </rss>
