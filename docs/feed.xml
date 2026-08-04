@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 15:24:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 17:41:52 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5000 BECKWITH BLVD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1056140</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1056140</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1056140 | PRUE Division | 8/4/2026 12:29:22 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/4/2026 12:29:22 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 10300 INGRAM RD (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1055563</link>
@@ -812,14 +820,6 @@ The post Rural Health Transformation Funds Go to Tech Companies for Innovations 
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1045929 | PRUE Division | 8/2/2026 6:45:23 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/2/2026 6:45:23 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 9900 HYATT RESORT DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045932</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045932</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1045932 | WEST Division | 8/2/2026 6:46:49 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/2/2026 6:46:49 AM</pubDate>
     </item>
   </channel>
 </rss>
