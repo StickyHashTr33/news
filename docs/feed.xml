@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 22:04:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 00:05:02 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 1900 E SONTERRA BLVD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1052957</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1052957</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1052957 | NORTH Division | 8/3/2026 6:53:02 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/3/2026 6:53:02 PM</pubDate>
+    </item>
+    <item>
+      <title>Data center approvals in Texas halted until audits completed, Gov. Greg Abbott says</title>
+      <link>https://sanantonioreport.org/data-center-approvals-texas-halted-audit/</link>
+      <guid>https://sanantonioreport.org/data-center-approvals-texas-halted-audit/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Texas Gov. Greg Abbott ordered the Public Utility Commission of Texas and ERCOT to audit all data centers wanting to connect to the state’s power grid.Data center approvals in Texas halted until audits completed, Gov. Greg Abbott says was first posted on August 3, 2026 at 5:15 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please con</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Mon, 03 Aug 2026 22:15:56 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 1700 N LOOP 1604 E (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1052401</link>
@@ -804,22 +820,6 @@ The post Rural Health Transformation Funds Go to Tech Companies for Innovations 
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1041731 | EAST Division | 8/1/2026 9:46:30 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/1/2026 9:46:30 AM</pubDate>
-    </item>
-    <item>
-      <title>Pacific cloud brightening could weaken El Nino, but models reveal risks for Europe and Asia</title>
-      <link>https://phys.org/news/2026-07-pacific-cloud-brightening-weaken-el.html</link>
-      <guid>https://phys.org/news/2026-07-pacific-cloud-brightening-weaken-el.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — A brewing &quot;super&quot; El Nino cycle is poised to unleash heat waves, floods and drought worldwide, with the effects amplified by long-term human-caused climate change.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Sat, 01 Aug 2026 09:50:02 EDT</pubDate>
-    </item>
-    <item>
-      <title>Grassroots Movement in Illinois Is Resisting Corporate Grab of Water Systems</title>
-      <link>https://truthout.org/articles/grassroots-movement-in-illinois-is-resisting-corporate-grab-of-water-systems/</link>
-      <guid>https://truthout.org/articles/grassroots-movement-in-illinois-is-resisting-corporate-grab-of-water-systems/</guid>
-      <description>[Government Accountability] Keyword: public records — People in southern Illinois are storming into city meetings and making public records requests in the battle over water.</description>
-      <category>Government Accountability</category>
-      <pubDate>Sat, 01 Aug 2026 14:51:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
