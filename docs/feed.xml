@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 21:07:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 22:59:07 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dev proves LLMs will run on anything – even a $10 microcontroller</title>
+      <link>https://www.theregister.com/edge-and-iot/2026/08/04/dev-proves-llms-will-run-on-anything-even-a-10-microcontroller/5283088</link>
+      <guid>https://www.theregister.com/edge-and-iot/2026/08/04/dev-proves-llms-will-run-on-anything-even-a-10-microcontroller/5283088</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — Nearly 10 tok/s and it's mostly coherent — What's not to like?</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Tue, 04 Aug 2026 23:20:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>How hackers attack municipal water systems – and why the utilities are so vulnerable</title>
+      <link>https://theconversation.com/how-hackers-attack-municipal-water-systems-and-why-the-utilities-are-so-vulnerable-288864</link>
+      <guid>https://theconversation.com/how-hackers-attack-municipal-water-systems-and-why-the-utilities-are-so-vulnerable-288864</guid>
+      <description>[Cybersecurity] Keyword: security researcher — A cybersecurity researcher explains how hackers target small computers that control a water system’s tanks, pipes and valves.</description>
+      <category>Cybersecurity</category>
+      <pubDate>2026-08-04T21:41:00Z</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 7700 PASTEUR CT (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1057036</link>
@@ -807,22 +823,6 @@ The post Rural Health Transformation Funds Go to Tech Companies for Innovations 
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1046465 | PRUE Division | 8/2/2026 10:53:14 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/2/2026 10:53:14 AM</pubDate>
-    </item>
-    <item>
-      <title>A record number of First Nations people died in NSW prison custody last year. Advocates fear this year will be worse</title>
-      <link>https://www.theguardian.com/australia-news/2026/aug/03/rising-indigenous-deaths-custody-nsw-ntwnfb</link>
-      <guid>https://www.theguardian.com/australia-news/2026/aug/03/rising-indigenous-deaths-custody-nsw-ntwnfb</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Exclusive: Karlene Whitton says her son Matthew Roberts took his own life three months into his jail term. ‘I keep picturing it every night’Warning: This article contains images and names of Indigenous Australians who have diedGet our breaking news email, free app or daily news podcastFirst Nations advocates warn that prisons in New South Wales could exceed the record number of Indigenous deaths in custody set last year, after two men died this month.Matthew Roberts, a 27-year-old Bundjalung, Ya</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Sun, 02 Aug 2026 15:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jones vows to revisit veteran vouchers, slamming fellow council members as ‘OK with a little bit of discrimination’</title>
-      <link>https://sanantonioreport.org/mayor-jones-revisit-veterans-housing-vouchers-debate/</link>
-      <guid>https://sanantonioreport.org/mayor-jones-revisit-veterans-housing-vouchers-debate/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Mayor Gina Ortiz Jones and veteran advocates argue that the current ordinance doesn't do enough to expand access to housing for veterans.Jones vows to revisit veteran vouchers, slamming fellow council members as &amp;#8216;OK with a little bit of discrimination&amp;#8217; was first posted on August 2, 2026 at 11:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of cop</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Sun, 02 Aug 2026 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
