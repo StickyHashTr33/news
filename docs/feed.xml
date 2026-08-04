@@ -5,8 +5,66 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 19:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 21:07:33 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 7700 PASTEUR CT (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1057036</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1057036</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1057036 | PRUE Division | 8/4/2026 3:49:46 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/4/2026 3:49:46 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 1000 NE LOOP 410 (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1057052</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1057052</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1057052 | NORTH Division | 8/4/2026 3:53:28 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/4/2026 3:53:28 PM</pubDate>
+    </item>
+    <item>
+      <title>Fossils from Wyoming's Smiley Draw deepen understanding of early primate evolution</title>
+      <link>https://phys.org/news/2026-08-fossils-wyoming-smiley-deepen-early.html</link>
+      <guid>https://phys.org/news/2026-08-fossils-wyoming-smiley-deepen-early.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — A new study from the University of Kansas complicates the picture of primates living in North America some 55 million years ago during the Eocene, a warm period that allowed mammals to diversify quickly.</description>
+      <category>Open Source Software</category>
+      <pubDate>Tue, 04 Aug 2026 16:40:04 EDT</pubDate>
+    </item>
+    <item>
+      <title>VA floats canceling Fort Sam Houston National Cemetery Veterans Day ceremony</title>
+      <link>https://sanantonioreport.org/va-cancellation-fort-sam-houston-national-cemetery-veterans-day/</link>
+      <guid>https://sanantonioreport.org/va-cancellation-fort-sam-houston-national-cemetery-veterans-day/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Citing “the federal government's efforts to improve efficiency” Fort Sam Houston cemetery Director Gerald Lefler said “we are considering discontinuing the Veterans Day ceremony” in a letter read at the San Antonio Veterans Advisory Commission meeting Monday.VA floats canceling Fort Sam Houston National Cemetery Veterans Day ceremony  was first posted on August 4, 2026 at 3:16 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not r</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Tue, 04 Aug 2026 20:16:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trinity University pauses launch of a new logo citing alumni response</title>
+      <link>https://sanantonioreport.org/trinity-university-pauses-launch-of-a-new-logo-citing-alumni-response/</link>
+      <guid>https://sanantonioreport.org/trinity-university-pauses-launch-of-a-new-logo-citing-alumni-response/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Last week, Trinity University launched a rebrand that included a new logo, website redesign and new messaging. Response was mixed.Trinity University pauses launch of a new logo citing alumni response was first posted on August 4, 2026 at 3:33 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Tue, 04 Aug 2026 20:33:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Developers: Beware of Ad Libraries that Betray Your Users’ Location Privacy</title>
+      <link>https://www.eff.org/deeplinks/2026/07/developers-beware-ad-libraries-betray-your-users-location-privacy</link>
+      <guid>https://www.eff.org/deeplinks/2026/07/developers-beware-ad-libraries-betray-your-users-location-privacy</guid>
+      <description>[Digital Rights &amp; Privacy] Keyword: data broker — Across mobile platforms, advertising companies provide developers with software development kits (SDKs) that make it easy to monetize their apps. But those same SDKs can automatically feed users’ location data into ad systems that location data brokers use to track people. Many developers may not even be aware of this privacy violation, let alone the users who are directly affected.
+When developers let advertising SDKs collect location data, they’re putting users at risk of more than just creepy</description>
+      <category>Digital Rights &amp; Privacy</category>
+      <pubDate>Tue, 04 Aug 2026 19:30:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobile Ad Software Encourages Location Data Sharing, EFF Report Finds</title>
+      <link>https://www.eff.org/press/releases/mobile-ad-software-encourages-location-data-sharing-eff-report-finds</link>
+      <guid>https://www.eff.org/press/releases/mobile-ad-software-encourages-location-data-sharing-eff-report-finds</guid>
+      <description>[Digital Rights &amp; Privacy] Keyword: data broker — Developers Must Beware of Ad Libraries that Betray Users’ PrivacySAN FRANCISCO – Some software development kits (SDKs) provided by advertising companies to help developers monetize their apps are automatically feeding users’ location data into systems that location data brokers use to track people, an Electronic Frontier Foundation (EFF) report found. 
+EFF began investigating the location-sharing practices of various advertising SDKs to better understand the pipeline from mobile apps to location</description>
+      <category>Digital Rights &amp; Privacy</category>
+      <pubDate>Tue, 04 Aug 2026 19:30:41 +0000</pubDate>
+    </item>
     <item>
       <title>The labor movement is divided over how to deal with AI</title>
       <link>https://therealnews.com/labor-movement-ai</link>
@@ -765,62 +823,6 @@ The post Rural Health Transformation Funds Go to Tech Companies for Innovations 
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Mayor Gina Ortiz Jones and veteran advocates argue that the current ordinance doesn't do enough to expand access to housing for veterans.Jones vows to revisit veteran vouchers, slamming fellow council members as &amp;#8216;OK with a little bit of discrimination&amp;#8217; was first posted on August 2, 2026 at 11:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of cop</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Sun, 02 Aug 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Shooting — 400 BRADY BLVD (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046262</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046262</guid>
-      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-1046262 | CENTRAL Division | 8/2/2026 9:39:28 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/2/2026 9:39:28 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 600 DAKOTA ST (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046280</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046280</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1046280 | EAST Division | 8/2/2026 9:45:17 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/2/2026 9:45:17 AM</pubDate>
-    </item>
-    <item>
-      <title>Trump is sneaking in new laws that will literally make it harder to breathe</title>
-      <link>https://www.alternet.org/trump-snuck/</link>
-      <guid>https://www.alternet.org/trump-snuck/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — President Donald Trump’s anti-environmental philosophy has led to many controversies, from his rejection of the scientific consensus about man-made climate change to spreading misinformation about wind turbines. “During its first year, the second Trump administration used a “shock and awe” approach to environmental deregulation,” wrote Slate's Richard L. Revesz on Sunday. “In an effort to erase climate policies, the Environmental Protection Agency claimed that climate change was not a serious pr</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Sun, 02 Aug 2026 14:43:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 8800 STATE HWY 151 (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046095</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1046095</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1046095 | WEST Division | 8/2/2026 8:15:38 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/2/2026 8:15:38 AM</pubDate>
-    </item>
-    <item>
-      <title>Scientists detect a sharp acceleration in global warming</title>
-      <link>https://www.sciencedaily.com/releases/2026/08/260801093239.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/08/260801093239.htm</guid>
-      <description>[Climate &amp; Environment] Keyword: global warming — Global warming appears to have shifted into a faster gear. After removing the effects of El Niño, volcanic eruptions, and solar cycles, researchers found that the planet has warmed at roughly 0.35°C per decade over the past ten years, compared with just under 0.2°C per decade from 1970 to 2015. The acceleration, which becomes visible around 2013 to 2015, appeared across five major global temperature datasets with more than 98% statistical certainty.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Sat, 01 Aug 2026 09:32:39 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 3500 OAKGATE (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045903</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045903</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1045903 | PRUE Division | 8/2/2026 6:27:37 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/2/2026 6:27:37 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 4100 MEDICAL DR (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045913</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045913</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1045913 | PRUE Division | 8/2/2026 6:34:16 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/2/2026 6:34:16 AM</pubDate>
     </item>
   </channel>
 </rss>
