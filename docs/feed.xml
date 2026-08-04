@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 04:09:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 07:34:33 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle In Progress — 3300 TIMBER VIEW DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1054374</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1054374</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1054374 | WEST Division | 8/4/2026 2:03:04 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/4/2026 2:03:04 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 6600 PRUE RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1053851</link>
@@ -812,14 +820,6 @@ The post Rural Health Transformation Funds Go to Tech Companies for Innovations 
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The Pentagon's largest joint base brought an end to two change-filled years with an official ceremony to usher in a new commander.Joint Base San Antonio&amp;#8217;s new commander takes the helm after a &amp;#8216;dynamic time&amp;#8217; for the military installation was first posted on August 1, 2026 at 11:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright inf</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Sat, 01 Aug 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 7500 SOUTH SEA (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1041967</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1041967</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1041967 | NORTH Division | 8/1/2026 10:47:47 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/1/2026 10:47:47 AM</pubDate>
     </item>
   </channel>
 </rss>
