@@ -5,8 +5,25 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 17:41:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 19:25:26 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The labor movement is divided over how to deal with AI</title>
+      <link>https://therealnews.com/labor-movement-ai</link>
+      <guid>https://therealnews.com/labor-movement-ai</guid>
+      <description>[Labor &amp; Worker Rights] Keyword: labor movement — Some union leaders who are embracing AI are receiving pushback from rank-and-file workers.</description>
+      <category>Labor &amp; Worker Rights</category>
+      <pubDate>Tue, 04 Aug 2026 18:42:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>BLM Protester Transferred Thousands of Miles Away After They Organized Against Their Solitary Confinement</title>
+      <link>https://theintercept.com/2026/08/04/malik-muhammad-black-lives-matter-prison-transfer/</link>
+      <guid>https://theintercept.com/2026/08/04/malik-muhammad-black-lives-matter-prison-transfer/</guid>
+      <description>[Police &amp; Criminal Justice] Keyword: solitary confinement — A misconduct report before the transfer noted that Malik Muhammad, a Black Lives Matter protester, was critical of Israel in communications from prison.
+The post BLM Protester Transferred Thousands of Miles Away After They Organized Against Their Solitary Confinement appeared first on The Intercept.</description>
+      <category>Police &amp; Criminal Justice</category>
+      <pubDate>Tue, 04 Aug 2026 18:34:20 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 5000 BECKWITH BLVD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1056140</link>
@@ -804,22 +821,6 @@ The post Rural Health Transformation Funds Go to Tech Companies for Innovations 
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1045913 | PRUE Division | 8/2/2026 6:34:16 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/2/2026 6:34:16 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 4600 PUEBLO (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045915</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045915</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1045915 | NORTH Division | 8/2/2026 6:35:30 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/2/2026 6:35:30 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 4300 HYATT PLACE DR (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045929</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1045929</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1045929 | PRUE Division | 8/2/2026 6:45:23 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/2/2026 6:45:23 AM</pubDate>
     </item>
   </channel>
 </rss>
