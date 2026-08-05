@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 22:08:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 23:56:28 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 4600 RADER PASS (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1062513</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1062513</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1062513 | NORTH Division | 8/5/2026 6:41:19 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/5/2026 6:41:19 PM</pubDate>
+    </item>
+    <item>
+      <title>World Heritage Festival celebrates 2026 Tour de las Misiones</title>
+      <link>https://sanantonioreport.org/world-heritage-festival-tour-de-las-misiones-celebration-sponsored/</link>
+      <guid>https://sanantonioreport.org/world-heritage-festival-tour-de-las-misiones-celebration-sponsored/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — SPONSORED: Tour de las Misiones provides a one-of-a-kind opportunity to bike, walk, or run through the historic San Antonio Missions.World Heritage Festival celebrates 2026 Tour de las Misiones was first posted on August 5, 2026 at 6:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Wed, 05 Aug 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 900 MC KINLEY AVE (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1062046</link>
@@ -816,22 +832,6 @@ The post BLM Protester Transferred Thousands of Miles Away After They Organized 
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1054374 | WEST Division | 8/4/2026 2:03:04 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/4/2026 2:03:04 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 6600 PRUE RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1053851</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1053851</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1053851 | PRUE Division | 8/3/2026 10:53:36 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/3/2026 10:53:36 PM</pubDate>
-    </item>
-    <item>
-      <title>Crews building Trump border wall in drought-hit New Mexico ordered to stop drilling wells</title>
-      <link>https://www.theguardian.com/us-news/2026/aug/03/trump-border-wall-new-mexico-wells</link>
-      <guid>https://www.theguardian.com/us-news/2026/aug/03/trump-border-wall-new-mexico-wells</guid>
-      <description>[Immigration &amp; Border] Keyword: border wall — Residents and farmers say contractors have tapped border aquifers that threaten water supply for those nearbyConstruction crews building a border wall in New Mexico were ordered to stop drilling new wells after ranchers said that pumping groundwater to produce concrete could threaten their livestock amid a severe drought.The order comes as crews across the southern border race to complete one of Donald Trump’s highest domestic priorities – barriers that span four states and received over $46bn i</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Tue, 04 Aug 2026 01:25:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
