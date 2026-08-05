@@ -5,8 +5,64 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 20:22:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 22:08:39 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 900 MC KINLEY AVE (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1062046</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1062046</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1062046 | EAST Division | 8/5/2026 4:49:40 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/5/2026 4:49:40 PM</pubDate>
+    </item>
+    <item>
+      <title>Catalyst converts CO₂ into high-value industrial chemical at room temperature with record efficiency</title>
+      <link>https://phys.org/news/2026-08-catalyst-high-industrial-chemical-room.html</link>
+      <guid>https://phys.org/news/2026-08-catalyst-high-industrial-chemical-room.html</guid>
+      <description>[Climate &amp; Environment] Keyword: global warming — A research team has developed a highly efficient catalyst that directly converts carbon dioxide—a major contributor to global warming—into high-value industrial 2-propanol. The research was published online in Applied Catalysis B: Environment and Energy.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 05 Aug 2026 16:40:03 EDT</pubDate>
+    </item>
+    <item>
+      <title>Revealing Europe’s Most Critical Wetlands</title>
+      <link>https://insideclimatenews.org/news/03082026/europes-most-critical-wetlands/</link>
+      <guid>https://insideclimatenews.org/news/03082026/europes-most-critical-wetlands/</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Europe’s wetlands are scattered throughout the continent, hiding in valleys and along coastlines or dried and buried under crop fields.&amp;#160; Europe was once full of peatlands and marshes, areas that set the foundation for life and slow the effects of climate change. But people drained 80 percent of them in the last century for agriculture [&amp;#8230;]</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 03 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Climate-Fueled Fires Put America’s Natural and Cultural Sites At Risk</title>
+      <link>https://insideclimatenews.org/news/04082026/todays-climate-wildfire-history-cultural-sites-national-parks/</link>
+      <guid>https://insideclimatenews.org/news/04082026/todays-climate-wildfire-history-cultural-sites-national-parks/</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Climate-fueled wildfires could scorch many of the sites that shape America’s cultural identity.&amp;#160; A study published in May found wildfire risk threatens the majority of sites designated by the federal government as historically significant, from centuries-old homes to cherished churches and cemeteries. A separate forward-looking study published last week found worsening climate change could substantially [&amp;#8230;]</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Tue, 04 Aug 2026 22:28:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>One year and $3M grant later, Bexar County sheriff still waiting on his helicopter</title>
+      <link>https://sanantonioreport.org/bexar-county-sheriff-javier-salazar-helicopter-3m-anti-gang-grant/</link>
+      <guid>https://sanantonioreport.org/bexar-county-sheriff-javier-salazar-helicopter-3m-anti-gang-grant/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The Bexar County Sheriff’s Office is restarting its $3 million anti-gang helicopter purchase after an administrative delay caused the original contract to expire.One year and $3M grant later, Bexar County sheriff still waiting on his helicopter was first posted on August 5, 2026 at 3:53 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. </description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Wed, 05 Aug 2026 20:53:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elon pledges to give Nvidia a virtual monopoly over the stars</title>
+      <link>https://www.theregister.com/systems/2026/08/05/elon-pledges-to-give-nvidia-a-virtual-monopoly-over-the-stars/5283605</link>
+      <guid>https://www.theregister.com/systems/2026/08/05/elon-pledges-to-give-nvidia-a-virtual-monopoly-over-the-stars/5283605</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — In space, no one can hear you scream when the LLMs hallucinate</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Wed, 05 Aug 2026 19:55:59 +0200</pubDate>
+    </item>
+    <item>
+      <title>Prompt injection isn't the bug, AI agent frameworks are</title>
+      <link>https://www.theregister.com/security/2026/08/05/prompt-injection-isnt-the-bug-ai-agent-frameworks-are/5283585</link>
+      <guid>https://www.theregister.com/security/2026/08/05/prompt-injection-isnt-the-bug-ai-agent-frameworks-are/5283585</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — Check Point researchers tried to break the frameworks enterprises use to build AI apps. Now they're telling Black Hat attendees what they found</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Wed, 05 Aug 2026 23:35:00 +0200</pubDate>
+    </item>
     <item>
       <title>Accelerating the discovery of ceramic materials using cellulose nanofiber dispersions</title>
       <link>https://phys.org/news/2026-08-discovery-ceramic-materials-cellulose-nanofiber.html</link>
@@ -776,62 +832,6 @@ The post BLM Protester Transferred Thousands of Miles Away After They Organized 
       <description>[Immigration &amp; Border] Keyword: border wall — Residents and farmers say contractors have tapped border aquifers that threaten water supply for those nearbyConstruction crews building a border wall in New Mexico were ordered to stop drilling new wells after ranchers said that pumping groundwater to produce concrete could threaten their livestock amid a severe drought.The order comes as crews across the southern border race to complete one of Donald Trump’s highest domestic priorities – barriers that span four states and received over $46bn i</description>
       <category>Immigration &amp; Border</category>
       <pubDate>Tue, 04 Aug 2026 01:25:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 1900 E SONTERRA BLVD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1052957</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1052957</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1052957 | NORTH Division | 8/3/2026 6:53:02 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/3/2026 6:53:02 PM</pubDate>
-    </item>
-    <item>
-      <title>Data center approvals in Texas halted until audits completed, Gov. Greg Abbott says</title>
-      <link>https://sanantonioreport.org/data-center-approvals-texas-halted-audit/</link>
-      <guid>https://sanantonioreport.org/data-center-approvals-texas-halted-audit/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Texas Gov. Greg Abbott ordered the Public Utility Commission of Texas and ERCOT to audit all data centers wanting to connect to the state’s power grid.Data center approvals in Texas halted until audits completed, Gov. Greg Abbott says was first posted on August 3, 2026 at 5:15 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please con</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Mon, 03 Aug 2026 22:15:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 1700 N LOOP 1604 E (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1052401</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1052401</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1052401 | NORTH Division | 8/3/2026 4:45:14 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/3/2026 4:45:14 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 5800 LAKE WIND (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1052020</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1052020</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1052020 | EAST Division | 8/3/2026 3:13:30 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/3/2026 3:13:30 PM</pubDate>
-    </item>
-    <item>
-      <title>ICE detainee reveals video of drinking water apparently contaminated with worm-like creatures</title>
-      <link>https://www.theguardian.com/us-news/2026/aug/03/ice-detention-water-video</link>
-      <guid>https://www.theguardian.com/us-news/2026/aug/03/ice-detention-water-video</guid>
-      <description>[Immigration &amp; Border] Keyword: immigration detention — ‘Disturbing’ footage shared by California detainee surfaces amid wider complaints about conditions in ICE detentionAttorneys for a man detained in a California immigration detention center have released footage showing him holding up a bottle of water from inside the facility that appeared to be contaminated with worm-like creatures.The footage came from a video call with Carlitos Ricardo Parias, a Los Angeles man who has been detained for months at the Adelanto Immigration and Customs Enforceme</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Mon, 03 Aug 2026 19:35:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI slop pollutes the CVE pipeline with fake vulns</title>
-      <link>https://www.theregister.com/security/2026/08/03/ai-slop-pollutes-the-cve-pipeline-with-fake-vulns/5282462</link>
-      <guid>https://www.theregister.com/security/2026/08/03/ai-slop-pollutes-the-cve-pipeline-with-fake-vulns/5282462</guid>
-      <description>[Cybersecurity] Keyword: CVE — With NIST still buried under its backlog, expect AI-generated bogus reports to continue</description>
-      <category>Cybersecurity</category>
-      <pubDate>Mon, 03 Aug 2026 19:19:36 +0200</pubDate>
-    </item>
-    <item>
-      <title>Methodist Healthcare acquires 18 urgent care clinics in San Antonio</title>
-      <link>https://sanantonioreport.org/methodist-healthcare-acquires-texas-medclinic-urgent-care-clinics-san-antonio/</link>
-      <guid>https://sanantonioreport.org/methodist-healthcare-acquires-texas-medclinic-urgent-care-clinics-san-antonio/</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Methodist Healthcare System announced it has acquired 18 Texas MedClinic urgent care clinics in San Antonio.Methodist Healthcare acquires 18 urgent care clinics in San Antonio was first posted on August 3, 2026 at 2:20 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Mon, 03 Aug 2026 19:20:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
