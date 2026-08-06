@@ -5,8 +5,37 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 23:56:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 02:12:36 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 900 AMBERSTONE (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1062962</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1062962</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1062962 | NORTH Division | 8/5/2026 8:50:39 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/5/2026 8:50:39 PM</pubDate>
+    </item>
+    <item>
+      <title>Meta says its AI model hacked into another company during testing</title>
+      <link>https://www.theguardian.com/technology/2026/aug/05/meta-ai-model-hack-training</link>
+      <guid>https://www.theguardian.com/technology/2026/aug/05/meta-ai-model-hack-training</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — Company is the third to report such an incident after Anthropic and OpenAI reported breaches during trainingMeta said on Wednesday that one of its AI models hacked ⁠another company during cybersecurity testing, after an error by its testing partner gave the model unintended internet access.The incident adds to a ⁠growing list of ⁠cases in ​which AI agents from major developers breached systems at other companies during testing, after Anthropic said last week that some of its models ⁠hacked three</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Thu, 06 Aug 2026 01:27:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] LWN.net Weekly Edition for August 6, 2026</title>
+      <link>https://lwn.net/Articles/1086134/</link>
+      <guid>https://lwn.net/Articles/1086134/</guid>
+      <description>[Cybersecurity] Keyword: CVE — Inside this week's LWN.net Weekly Edition:
+        
+        
+ Front: Process-builder API; Fedora COI; FUSE io_uring buffer sizes; BPF network namespaces; FUSE plans; BPF libraries; directory creation system call.
+             Briefs: AISI hack; JFrog on CVEs; npm worm; AUR adoption; NetBSD 11.0; b4 0.16.0; C-Kermit 11; Rust LLM policy; Servo 0.4.0; Quotes; ...
+             Announcements: Newsletters, conferences, security updates, patches, and more.</description>
+      <category>Cybersecurity</category>
+      <pubDate>Thu, 06 Aug 2026 00:40:49 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person - Endangered — 4600 RADER PASS (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1062513</link>
@@ -808,30 +837,6 @@ The post BLM Protester Transferred Thousands of Miles Away After They Organized 
       <description>[Digital Rights &amp; Privacy] Keyword: data privacy — It is the latest development in the ongoing dispute between Apple and the Home Office over data privacy.</description>
       <category>Digital Rights &amp; Privacy</category>
       <pubDate>Tue, 04 Aug 2026 10:22:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Michigan votes in key Senate primary as Democrats battle over party’s future</title>
-      <link>https://www.theguardian.com/us-news/2026/aug/04/michigan-senate-race-abdul-el-sayed-haley-stevens</link>
-      <guid>https://www.theguardian.com/us-news/2026/aug/04/michigan-senate-race-abdul-el-sayed-haley-stevens</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Progressive Abdul El-Sayed leads in polls against centrist Haley Stevens as party looks to regain control of US SenateThe Democratic party faces a crucial test of its direction today as voters in the midwestern swing state of Michigan decide whether to nominate for US Senate a progressive candidate advocating for universal healthcare or an-establishment-backed moderate.The state’s Democratic primary is the latest high-profile battle over the party’s future, as it seeks to chart a course back to </description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Tue, 04 Aug 2026 10:00:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump unleashes $1 billion in retribution</title>
-      <link>https://www.alternet.org/trump-punishing-blue-states/</link>
-      <guid>https://www.alternet.org/trump-punishing-blue-states/</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — The Trump administration announced on July 21, 2026, that it’s withholding US$867 million in federal healthcare funding for California and $200 million for Minnesota – a total of more than $1 billion.Federal officials said the two states had failed to provide sufficient evidence that a number of disputed medical claims were legitimate. These include bills for in-home care and other services covered by the two states’ Medicaid programs for low-income residents. Medicaid administrators say the fun</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Tue, 04 Aug 2026 09:54:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 3300 TIMBER VIEW DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1054374</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1054374</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1054374 | WEST Division | 8/4/2026 2:03:04 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/4/2026 2:03:04 AM</pubDate>
     </item>
   </channel>
 </rss>
