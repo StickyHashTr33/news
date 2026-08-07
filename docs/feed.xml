@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 15:52:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 16:49:07 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 1800 MONTVIEW (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1070330</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1070330</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1070330 | CENTRAL Division | 8/7/2026 11:31:19 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/7/2026 11:31:19 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle In Progress — 8800 GRISSOM RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1070338</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1070338</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1070338 | PRUE Division | 8/7/2026 11:33:59 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/7/2026 11:33:59 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 2000 NE LOOP 410 (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1070075</link>
@@ -811,22 +827,6 @@ The post Records Raise Questions About Medical Treatment and Conditions in Immig
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — County commissioners approved an agreement with the San Antonio Rodeo that invites rodeo representatives into the planning process.San Antonio Rodeo wins seat at planning table but future of grounds, arena depend on licensing agreement was first posted on August 5, 2026 at 2:50 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please co</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Wed, 05 Aug 2026 19:50:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Climate change may be making us lonelier: How heat waves and extreme weather disrupt social connections</title>
-      <link>https://phys.org/news/2026-08-climate-lonelier-extreme-weather-disrupt.html</link>
-      <guid>https://phys.org/news/2026-08-climate-lonelier-extreme-weather-disrupt.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Severe storms, heat waves and wildfires can shut down the social life of a community, flooding out festivals, canceling community events and keeping people indoors.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 05 Aug 2026 12:40:05 EDT</pubDate>
-    </item>
-    <item>
-      <title>4 things to know about cyclospora and climate change</title>
-      <link>https://grist.org/food-and-agriculture/4-things-to-know-about-cyclospora-and-climate-change/</link>
-      <guid>https://grist.org/food-and-agriculture/4-things-to-know-about-cyclospora-and-climate-change/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — </description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 30 Jul 2026 08:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
