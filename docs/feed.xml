@@ -5,8 +5,64 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 09:57:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 10:51:27 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5600 UTEX BLVD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069164</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069164</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1069164 | PRUE Division | 8/7/2026 4:53:53 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/7/2026 4:53:53 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 2600 N LOOP 1604 E (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069210</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069210</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1069210 | NORTH Division | 8/7/2026 5:29:43 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/7/2026 5:29:43 AM</pubDate>
+    </item>
+    <item>
+      <title>Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'</title>
+      <link>https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials</link>
+      <guid>https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials</guid>
+      <description>[Science &amp; Research] Keyword: clinical trial — Researchers warn betting on clinical trials could incentivize insider trading and interfere with drug development. But Kalshi and Polymarket say they provide valuable information to patients.</description>
+      <category>Science &amp; Research</category>
+      <pubDate>Fri, 07 Aug 2026 06:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Scientists rediscover lost Megalodon fossils—and reveal a 79-foot giant</title>
+      <link>https://www.sciencedaily.com/releases/2026/08/260805082500.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/08/260805082500.htm</guid>
+      <description>[Open Source Software] Keyword: FOSS — Several enormous Megalodon vertebrae thought to have been destroyed in 1989 were found sitting unnoticed on a museum shelf. Their analysis strengthens evidence that the giant shark could exceed 24 meters (79 feet) in length and live for nearly a century. Researchers also estimate that its newborns may have measured an astonishing 3.6 meters (12 feet).</description>
+      <category>Open Source Software</category>
+      <pubDate>Thu, 06 Aug 2026 22:57:08 EDT</pubDate>
+    </item>
+    <item>
+      <title>San Antonio FC considers top division opportunity with United Soccer League</title>
+      <link>https://sanantonioreport.org/san-antonio-fc-considers-top-division-united-soccer-league/</link>
+      <guid>https://sanantonioreport.org/san-antonio-fc-considers-top-division-united-soccer-league/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — San Antonio FC is banking on World Cup hype to attract new fans to free games while it considers moving up to a higher level league in 2028.San Antonio FC considers top division opportunity with United Soccer League was first posted on August 7, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@ri</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Fri, 07 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NHS Tayside investigates data breach into Minnie Merriman medical records</title>
+      <link>https://www.bbc.co.uk/news/articles/cvg8n70jp2jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/cvg8n70jp2jo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[Cybersecurity] Keyword: data breach — Minnie Merriman, from West Yorkshire, died at Ninewells Hospital in Dundee after being found seriously injured at an industrial estate in the town.</description>
+      <category>Cybersecurity</category>
+      <pubDate>Fri, 07 Aug 2026 09:59:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>House Democrats Demand Answers From Trump’s VA on Vets Struggling to Access Mental Healthcare</title>
+      <link>https://www.propublica.org/article/democrats-veterans-affairs-doug-collins-letter-mental-health</link>
+      <guid>https://www.propublica.org/article/democrats-veterans-affairs-doug-collins-letter-mental-health</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — The post House Democrats Demand Answers From Trump’s VA on Vets Struggling to Access Mental Healthcare appeared first on ProPublica.</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Fri, 07 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle In Progress — 300 SANDMEYER ST (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069094</link>
@@ -773,63 +829,6 @@ the Rust language team's new LLM policy on the Inside Rust blog.
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: medical marijuana — A provincial government in Nepal has legalized the use and growing of marijuana for medical purposes despite a national ban.</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>2026-08-05T11:58:00Z</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 100 DAFOSTE (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1059569</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1059569</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1059569 | EAST Division | 8/5/2026 6:27:17 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/5/2026 6:27:17 AM</pubDate>
-    </item>
-    <item>
-      <title>India’s severe monsoon season causes more than 100 deaths since July</title>
-      <link>https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Monsoon downpours cause floods and landslides as climate change and El Nino disrupt rainfall patterns.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 05 Aug 2026 10:10:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The last ice age</title>
-      <link>https://aeon.co/videos/as-glaciers-melt-a-writer-considers-what-stories-can-do-that-data-cannot</link>
-      <guid>https://aeon.co/videos/as-glaciers-melt-a-writer-considers-what-stories-can-do-that-data-cannot</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Retracing his grandparents’ journey to Iceland’s Vatnajökull glacier, a writer draws on storytelling to grasp climate change- by Aeon VideoWatch on Aeon</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 05 Aug 2026 10:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Are Rural Law Enforcement Agencies Using Flock Cameras?</title>
-      <link>https://dailyyonder.com/are-rural-law-enforcement-agencies-using-flock-cameras/2026/08/05/</link>
-      <guid>https://dailyyonder.com/are-rural-law-enforcement-agencies-using-flock-cameras/2026/08/05/</guid>
-      <description>[ALPR &amp; Flock Cameras] Keyword: Flock camera — Editor’s Note: This post is from our data newsletter, the Rural Index, headed by Sarah Melotte, the Daily Yonder’s data reporter. Subscribe to get a weekly map or graph straight to your inbox. According to my analysis of data from the Atlas of Surveillance, a crowd-sourced database of police technology, nearly 800 rural law enforcement [&amp;#8230;]
-The post Are Rural Law Enforcement Agencies Using Flock Cameras? appeared first on The Daily Yonder.</description>
-      <category>ALPR &amp; Flock Cameras</category>
-      <pubDate>Wed, 05 Aug 2026 09:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘What they’re doing qualifies as torture’: new details of ICE force-feeding revealed</title>
-      <link>https://www.theguardian.com/us-news/2026/aug/05/ice-force-feeding-hunger-strike</link>
-      <guid>https://www.theguardian.com/us-news/2026/aug/05/ice-force-feeding-hunger-strike</guid>
-      <description>[Immigration &amp; Border] Keyword: immigration detention — Exclusive: cases of Afghan man, Ukrainian man and Saudi woman show repeated nasogastric tube insertions and lack of legal representationOne hunger striker in an immigration detention center was force-fed for almost six months.One detained immigrant with mental health problems was about to be force-fed, until his attorney intervened and stopped the process.Read part one and part two of our Ice force-feeding series Continue reading...</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Wed, 05 Aug 2026 10:00:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celebrate Dyslexia streamlines teacher training with San Antonio universities, public schools</title>
-      <link>https://sanantonioreport.org/celebrate-dyslexia-expands-training-program-san-antonio/</link>
-      <guid>https://sanantonioreport.org/celebrate-dyslexia-expands-training-program-san-antonio/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — San Antonio-based Celebrate Dyslexia can now partner directly with school districts and universities to train dyslexia practitioners. Celebrate Dyslexia streamlines teacher training with San Antonio universities, public schools was first posted on August 5, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Wed, 05 Aug 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 10500 COSMOS CANYON (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1059374</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1059374</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1059374 | PRUE Division | 8/5/2026 3:52:36 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/5/2026 3:52:36 AM</pubDate>
     </item>
   </channel>
 </rss>
