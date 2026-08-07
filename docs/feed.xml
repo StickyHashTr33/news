@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 10:51:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 11:41:59 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trump Keeps Spending US Tax Dollars to Kill Offshore Wind and Boost Oil and Gas</title>
+      <link>https://www.motherjones.com/politics/2026/08/trump-rwe-offshore-wind-leases-cancellation-payment-tax-dollars-oil-gas-fossil-fuels/</link>
+      <guid>https://www.motherjones.com/politics/2026/08/trump-rwe-offshore-wind-leases-cancellation-payment-tax-dollars-oil-gas-fossil-fuels/</guid>
+      <description>[Open Source Software] Keyword: FOSS — This story was originally published by&amp;#160;the&amp;#160;Guardian&amp;#160;and&amp;#160;is reproduced here as part of the&amp;#160;Climate Desk&amp;#160;collaboration. The German energy company RWE has reached a $1.22 billion deal with the US government to relinquish its offshore wind leases and instead redirect funds towards fossil fuel investments. The agreement marks the fifth deal the Donald Trump administration&amp;#160;has struck with energy [&amp;#8230;]</description>
+      <category>Open Source Software</category>
+      <pubDate>Fri, 07 Aug 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intrusion at US healthcare software provider puts 3.8M people's data at risk</title>
+      <link>https://www.theregister.com/cyber-crime/2026/08/07/intrusion-at-us-healthcare-software-provider-puts-38m-peoples-data-at-risk/5284609</link>
+      <guid>https://www.theregister.com/cyber-crime/2026/08/07/intrusion-at-us-healthcare-software-provider-puts-38m-peoples-data-at-risk/5284609</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Unlimited Technology Systems says names, Social Security numbers, diagnoses, and insurance details may have been swiped</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Fri, 07 Aug 2026 12:45:00 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 5600 UTEX BLVD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069164</link>
@@ -813,22 +829,6 @@ the Rust language team's new LLM policy on the Inside Rust blog.
 	machines; LLM review</description>
       <category>AI &amp; Automation</category>
       <pubDate>Wed, 05 Aug 2026 13:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>London cops handed victim's new address and number to her stalker, watchdog says</title>
-      <link>https://www.theregister.com/security/2026/08/05/london-cops-handed-victims-new-address-and-number-to-her-stalker-watchdog-says/5283382</link>
-      <guid>https://www.theregister.com/security/2026/08/05/london-cops-handed-victims-new-address-and-number-to-her-stalker-watchdog-says/5283382</guid>
-      <description>[Cybersecurity] Keyword: data breach — Met ordered to improve safeguards after two preventable data breaches</description>
-      <category>Cybersecurity</category>
-      <pubDate>Wed, 05 Aug 2026 15:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Nepal province legalizes use of medical marijuana</title>
-      <link>https://www.dw.com/en/nepal-province-legalizes-use-of-medical-marijuana/a-78245266?maca=en-rss-en-all-1573-rdf</link>
-      <guid>https://www.dw.com/en/nepal-province-legalizes-use-of-medical-marijuana/a-78245266?maca=en-rss-en-all-1573-rdf</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: medical marijuana — A provincial government in Nepal has legalized the use and growing of marijuana for medical purposes despite a national ban.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>2026-08-05T11:58:00Z</pubDate>
     </item>
   </channel>
 </rss>
