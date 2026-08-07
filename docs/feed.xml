@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 03:47:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 05:37:42 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle In Progress — CULEBRA RD / GLENMORE (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1068566</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1068566</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1068566 | WEST Division | 8/7/2026 12:16:32 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/7/2026 12:16:32 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 5100 W LOOP 1604 N (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1068571</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1068571</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1068571 | WEST Division | 8/7/2026 12:18:27 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/7/2026 12:18:27 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Shooting In Progress — 2400 S CALAVERAS (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1068595</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1068595</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1068595 | CENTRAL Division | 8/7/2026 12:24:56 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/7/2026 12:24:56 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 9800 AIRPORT BLVD (AIRPORT)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1068202</link>
@@ -806,30 +830,6 @@ The post Are Rural Law Enforcement Agencies Using Flock Cameras? appeared first 
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1058623 | CENTRAL Division | 8/4/2026 10:46:00 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/4/2026 10:46:00 PM</pubDate>
-    </item>
-    <item>
-      <title>Social influence can help tackle climate change</title>
-      <link>https://phys.org/news/2026-08-social-tackle-climate.html</link>
-      <guid>https://phys.org/news/2026-08-social-tackle-climate.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — The power of social influence could be key to changing attitudes and behaviors around climate change, according to a new study by researchers at the Center for Climate Change and Social Transformations (CAST). The team examined the role of social influence in accelerating climate action, outlining how celebrities, athletes, health care workers, religious leaders, hairdressers, small business owners, family, friends, neighbors and colleagues all have the ability to influence climate action.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 04 Aug 2026 21:40:04 EDT</pubDate>
-    </item>
-    <item>
-      <title>AI researchers let models off the leash – then watched as they tried to add malware to a FOSS project</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/08/05/ai-researchers-let-models-off-the-leash-then-watched-as-they-tried-to-add-malware-to-a-foss-project/5283165</link>
-      <guid>https://www.theregister.com/ai-and-ml/2026/08/05/ai-researchers-let-models-off-the-leash-then-watched-as-they-tried-to-add-malware-to-a-foss-project/5283165</guid>
-      <description>[Open Source Software] Keyword: FOSS — Models used social engineering and collaborated among themselves to solve a security challenge</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 05 Aug 2026 03:55:54 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 100 MCCULLOUGH AVE (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1057806</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1057806</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1057806 | DOWNTOWN Division | 8/4/2026 6:45:25 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/4/2026 6:45:25 PM</pubDate>
     </item>
   </channel>
 </rss>
