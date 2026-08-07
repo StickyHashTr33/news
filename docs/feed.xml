@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 21:34:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 22:30:07 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trinity University calls on logo critics to help shape a new design</title>
+      <link>https://sanantonioreport.org/trinity-university-logo-critics-help-new-design-san-antonio/</link>
+      <guid>https://sanantonioreport.org/trinity-university-logo-critics-help-new-design-san-antonio/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Criticism over a new Trinity University logo design unveiled last week prompted officials them halt launch and go back to the drawing board.Trinity University calls on logo critics to help shape a new design was first posted on August 7, 2026 at 4:41 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardrepo</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Fri, 07 Aug 2026 21:41:05 +0000</pubDate>
+    </item>
     <item>
       <title>A year into the job, Mayor Jones risks holding the bag on largest tax increase in decades</title>
       <link>https://sanantonioreport.org/mayor-jones-budget-maneuvers-largest-tax-increase-in-decades/</link>
@@ -814,14 +822,6 @@ The post Records Raise Questions About Medical Treatment and Conditions in Immig
       <description>[AI &amp; Automation] Keyword: AI agent — Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.</description>
       <category>AI &amp; Automation</category>
       <pubDate>Thu, 06 Aug 2026 02:33:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — 900 AMBERSTONE (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1062962</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1062962</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1062962 | NORTH Division | 8/5/2026 8:50:39 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/5/2026 8:50:39 PM</pubDate>
     </item>
   </channel>
 </rss>
