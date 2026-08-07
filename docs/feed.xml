@@ -5,8 +5,56 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 12:52:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 14:10:17 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 2200 TPC PKWY (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069707</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069707</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1069707 | NORTH Division | 8/7/2026 8:55:12 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/7/2026 8:55:12 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Shooting — 1100 S COMAL ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069713</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069713</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-1069713 | CENTRAL Division | 8/7/2026 8:56:51 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/7/2026 8:56:51 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 200 BRACKENRIDGE AVE (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069723</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069723</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1069723 | DOWNTOWN Division | 8/7/2026 8:59:19 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/7/2026 8:59:19 AM</pubDate>
+    </item>
+    <item>
+      <title>Stable kernel releases for Friday with a single bug fix</title>
+      <link>https://lwn.net/Articles/1087743/</link>
+      <guid>https://lwn.net/Articles/1087743/</guid>
+      <description>[Cybersecurity] Keyword: CVE — Greg Kroah-Hartman has announced the release of the 6.12.102, 6.6.150, 6.1.182, 5.15.215, 5.10.264 stable kernels. This round of
+stable kernel releases contains a fix for a single bug, found
+by Thomas Lamprecht, that affected several of the kernels released yesterday in
+response to a security
+vulnerability (CVE-2026-68480)
+that could allow data leakage through speculative execution.
+
+The 6.12.102 release adds the backported security fix for CVE-2026-68480 to the 6.12
+series. As always, users are</description>
+      <category>Cybersecurity</category>
+      <pubDate>Fri, 07 Aug 2026 13:35:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diego Maradona bloated, bedridden and resigned before death, says masseur</title>
+      <link>https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Seven healthcare professionals have been on trial since mid-April in Argentina for possible negligence.</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Fri, 07 Aug 2026 13:30:43 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 5600 UTEX BLVD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069449</link>
@@ -779,46 +827,6 @@ The post Records Raise Questions About Medical Treatment and Conditions in Immig
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — SeaWorld San Antonio welcomed seven more rescued beluga whales from Marineland of Canada, bringing the park’s total beluga population to 17.SeaWorld San Antonio gets 7 more beluga whales rescued from Canadian marine park was first posted on August 5, 2026 at 10:23 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at he</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Wed, 05 Aug 2026 15:23:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Robbery In Progress — 300 SAN PEDRO AVE (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1059934</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1059934</guid>
-      <description>[SAPD Calls for Service] Keyword: Robbery In Progress — Incident #SAPD-2026-1059934 | DOWNTOWN Division | 8/5/2026 8:36:52 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/5/2026 8:36:52 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 4800 WOODSTONE (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1059966</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1059966</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1059966 | PRUE Division | 8/5/2026 8:46:51 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/5/2026 8:46:51 AM</pubDate>
-    </item>
-    <item>
-      <title>Wounaan Indigenous people have opposed illegal rosewood logging and centuries of exploitation with wisdom and beauty</title>
-      <link>https://theconversation.com/wounaan-indigenous-people-have-opposed-illegal-rosewood-logging-and-centuries-of-exploitation-with-wisdom-and-beauty-282092</link>
-      <guid>https://theconversation.com/wounaan-indigenous-people-have-opposed-illegal-rosewood-logging-and-centuries-of-exploitation-with-wisdom-and-beauty-282092</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — We highlight ways to celebrate Wounaan wisdom, joy, beauty and resistance while discussing centuries of taking from Indigenous communities.</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>2026-08-05T12:33:43Z</pubDate>
-    </item>
-    <item>
-      <title>Butterflies are on the move as the planet warms: New research</title>
-      <link>https://phys.org/news/2026-08-butterflies-planet.html</link>
-      <guid>https://phys.org/news/2026-08-butterflies-planet.html</guid>
-      <description>[Ecology &amp; Conservation] Keyword: citizen science — Imagine spotting a butterfly species in your garden that you have never seen before. You might take a photo and upload it to a citizen science app or tell a local nature group about your new encounter. It feels like a small moment of joy.</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Wed, 05 Aug 2026 08:00:05 EDT</pubDate>
-    </item>
-    <item>
-      <title>Study finds climate-driven greening is reshaping East Asia's air pollution</title>
-      <link>https://phys.org/news/2026-08-climate-driven-greening-reshaping-east.html</link>
-      <guid>https://phys.org/news/2026-08-climate-driven-greening-reshaping-east.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — The effects of climate change extend far beyond rising temperatures. As forests and other vegetation respond to a warming world, they also change the amount of biogenic emissions released into the atmosphere, influencing the formation of ozone (O3) and fine particulate pollution. Yet many atmospheric chemistry models still estimate these emissions using vegetation data from 2003, despite major ecological changes across East Asia over the past two decades.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 05 Aug 2026 09:10:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
