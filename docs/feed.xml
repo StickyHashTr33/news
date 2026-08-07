@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 20:35:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 21:34:59 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A year into the job, Mayor Jones risks holding the bag on largest tax increase in decades</title>
+      <link>https://sanantonioreport.org/mayor-jones-budget-maneuvers-largest-tax-increase-in-decades/</link>
+      <guid>https://sanantonioreport.org/mayor-jones-budget-maneuvers-largest-tax-increase-in-decades/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The mayor’s go-it-alone approach may leave her with little to show in efforts to close a $158M budget deficit.A year into the job, Mayor Jones risks holding the bag on largest tax increase in decades was first posted on August 7, 2026 at 4:05 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Fri, 07 Aug 2026 21:05:19 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 5100 NW LOOP 410 (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1071284</link>
@@ -814,14 +822,6 @@ The post Records Raise Questions About Medical Treatment and Conditions in Immig
       <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1062962 | NORTH Division | 8/5/2026 8:50:39 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/5/2026 8:50:39 PM</pubDate>
-    </item>
-    <item>
-      <title>Meta says its AI model hacked into another company during testing</title>
-      <link>https://www.theguardian.com/technology/2026/aug/05/meta-ai-model-hack-training</link>
-      <guid>https://www.theguardian.com/technology/2026/aug/05/meta-ai-model-hack-training</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Company is the third to report such an incident after Anthropic and OpenAI reported breaches during trainingMeta said on Wednesday that one of its AI models hacked ⁠another company during cybersecurity testing, after an error by its testing partner gave the model unintended internet access.The incident adds to a ⁠growing list of ⁠cases in ​which AI agents from major developers breached systems at other companies during testing, after Anthropic said last week that some of its models ⁠hacked three</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Thu, 06 Aug 2026 01:27:44 GMT</pubDate>
     </item>
   </channel>
 </rss>
