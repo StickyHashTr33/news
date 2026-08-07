@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 00:39:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 03:47:21 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 9800 AIRPORT BLVD (AIRPORT)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1068202</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1068202</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1068202 | AIRPORT Division | 8/6/2026 10:34:56 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/6/2026 10:34:56 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 2300 CASTROVILLE RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1068203</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1068203</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1068203 | WEST Division | 8/6/2026 10:35:06 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/6/2026 10:35:06 PM</pubDate>
+    </item>
+    <item>
+      <title>A look at 'Operation Country Roads,' West Virginia's ICE operation</title>
+      <link>https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation</link>
+      <guid>https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation</guid>
+      <description>[Immigration &amp; Border] Keyword: ICE operation — Earlier this year ICE arrested 600 immigrants over a two week period. Most migrants had no criminal records and, since then, West Virginia has decided to not hold ICE detainees in their jails. A look at West Virginia post Operation Country Roads.</description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>Thu, 06 Aug 2026 16:40:52 -0400</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 400 BRIDLE RDG (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1067462</link>
@@ -806,30 +830,6 @@ The post Are Rural Law Enforcement Agencies Using Flock Cameras? appeared first 
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1057806 | DOWNTOWN Division | 8/4/2026 6:45:25 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/4/2026 6:45:25 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 4400 TALLULAH DR (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1057818</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1057818</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1057818 | EAST Division | 8/4/2026 6:48:31 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/4/2026 6:48:31 PM</pubDate>
-    </item>
-    <item>
-      <title>'My grandmother subjected my baby to female genital mutilation behind my back'</title>
-      <link>https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — In Colombia, where FGM is still practised by some members of an indigenous group, a landmark bill banning the practice has been enacted.</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Tue, 04 Aug 2026 23:13:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Protesters occupy 200-year-old tree at US-Mexico border to stop its destruction: ‘She’s our Statue of Liberty’</title>
-      <link>https://www.theguardian.com/us-news/2026/aug/04/protesters-occupy-tree-us-mexico-border</link>
-      <guid>https://www.theguardian.com/us-news/2026/aug/04/protesters-occupy-tree-us-mexico-border</guid>
-      <description>[Immigration &amp; Border] Keyword: border wall — Demonstrators stage ‘tree sit’ in Arizona town to stop felling of ancient cottonwood grove to make way for border wallProtesters are staging a “tree sit” in a tiny Arizona town to prevent the destruction of a grove of ancient cottonwood trees as federal contractors race to build a row of two 30ft walls along the border with Sonora, Mexico.The gathering ramped up last week in the town of Lochiel, in the remote San Rafael valley of south-east Arizona. On 27 July, contractors working for Fisher San</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Tue, 04 Aug 2026 23:20:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
