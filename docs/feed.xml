@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 17:45:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 18:48:48 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 2000 LAMAR ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1070791</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1070791</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1070791 | EAST Division | 8/7/2026 1:25:30 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/7/2026 1:25:30 PM</pubDate>
+    </item>
+    <item>
+      <title>First full zoysia grass genetic blueprint opens doors for drought-tolerant turf</title>
+      <link>https://phys.org/news/2026-08-full-zoysia-grass-genetic-blueprint.html</link>
+      <guid>https://phys.org/news/2026-08-full-zoysia-grass-genetic-blueprint.html</guid>
+      <description>[Science &amp; Research] Keyword: genomics — A new genomic resource from the Texas A&amp;amp;M AgriLife Research plant genomics team is providing a powerful new foundation for faster, more precise turfgrass genetics and breeding. The team discovered a breakthrough genome that finally reveals the full genetic blueprint of zoysia grass.</description>
+      <category>Science &amp; Research</category>
+      <pubDate>Fri, 07 Aug 2026 14:20:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>The creatures born from code: Generative AI threatens to upend citizen science records</title>
+      <link>https://phys.org/news/2026-08-creatures-born-code-generative-ai.html</link>
+      <guid>https://phys.org/news/2026-08-creatures-born-code-generative-ai.html</guid>
+      <description>[Ecology &amp; Conservation] Keyword: citizen science — You need to tread carefully among the leaf litter of the Indonesian scrubland and its tropical rainforests. The dead leaves might seem caught in a gentle breeze, but there's more here than meets the eye. Try plucking one from the ground and you'll find an insect caught in the act of prayer.</description>
+      <category>Ecology &amp; Conservation</category>
+      <pubDate>Fri, 07 Aug 2026 14:00:11 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 10500 HUEBNER RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1070573</link>
@@ -803,30 +827,6 @@ The post Records Raise Questions About Medical Treatment and Conditions in Immig
       <description>[Climate &amp; Environment] Keyword: climate change — Europe’s wetlands are scattered throughout the continent, hiding in valleys and along coastlines or dried and buried under crop fields.&amp;#160; Europe was once full of peatlands and marshes, areas that set the foundation for life and slow the effects of climate change. But people drained 80 percent of them in the last century for agriculture [&amp;#8230;]</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Mon, 03 Aug 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Climate-Fueled Fires Put America’s Natural and Cultural Sites At Risk</title>
-      <link>https://insideclimatenews.org/news/04082026/todays-climate-wildfire-history-cultural-sites-national-parks/</link>
-      <guid>https://insideclimatenews.org/news/04082026/todays-climate-wildfire-history-cultural-sites-national-parks/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Climate-fueled wildfires could scorch many of the sites that shape America’s cultural identity.&amp;#160; A study published in May found wildfire risk threatens the majority of sites designated by the federal government as historically significant, from centuries-old homes to cherished churches and cemeteries. A separate forward-looking study published last week found worsening climate change could substantially [&amp;#8230;]</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 04 Aug 2026 22:28:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>One year and $3M grant later, Bexar County sheriff still waiting on his helicopter</title>
-      <link>https://sanantonioreport.org/bexar-county-sheriff-javier-salazar-helicopter-3m-anti-gang-grant/</link>
-      <guid>https://sanantonioreport.org/bexar-county-sheriff-javier-salazar-helicopter-3m-anti-gang-grant/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The Bexar County Sheriff’s Office is restarting its $3 million anti-gang helicopter purchase after an administrative delay caused the original contract to expire.One year and $3M grant later, Bexar County sheriff still waiting on his helicopter was first posted on August 5, 2026 at 3:53 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. </description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Wed, 05 Aug 2026 20:53:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon pledges to give Nvidia a virtual monopoly over the stars</title>
-      <link>https://www.theregister.com/systems/2026/08/05/elon-pledges-to-give-nvidia-a-virtual-monopoly-over-the-stars/5283605</link>
-      <guid>https://www.theregister.com/systems/2026/08/05/elon-pledges-to-give-nvidia-a-virtual-monopoly-over-the-stars/5283605</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — In space, no one can hear you scream when the LLMs hallucinate</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Wed, 05 Aug 2026 19:55:59 +0200</pubDate>
     </item>
   </channel>
 </rss>
