@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 22:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 23:29:43 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Valero’s employees make a difference every day</title>
+      <link>https://sanantonioreport.org/valeros-employees-make-a-difference-every-day-sponsored/</link>
+      <guid>https://sanantonioreport.org/valeros-employees-make-a-difference-every-day-sponsored/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — SPONSORED: The community rallied behind the Spurs whose success reflected hard work, discipline, and teamwork. Every day, Valero employees demonstrate those same qualities.Valero’s employees make a difference every day was first posted on August 7, 2026 at 6:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Fri, 07 Aug 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Trinity University calls on logo critics to help shape a new design</title>
       <link>https://sanantonioreport.org/trinity-university-logo-critics-help-new-design-san-antonio/</link>
@@ -814,14 +822,6 @@ The post Records Raise Questions About Medical Treatment and Conditions in Immig
       <description>[AI &amp; Automation] Keyword: LLM — Would you rather play Russian roulette with an LLM or put your health and safety in the hands of a professional</description>
       <category>AI &amp; Automation</category>
       <pubDate>Thu, 06 Aug 2026 00:33:40 +0200</pubDate>
-    </item>
-    <item>
-      <title>Meta says AI model accessed the internet and hacked another firm</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Thu, 06 Aug 2026 02:33:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
