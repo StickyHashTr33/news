@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 19:49:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 20:35:53 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 5100 NW LOOP 410 (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1071284</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1071284</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1071284 | WEST Division | 8/7/2026 3:21:58 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/7/2026 3:21:58 PM</pubDate>
+    </item>
+    <item>
+      <title>Ransomware attacks spike as world distracted by AI</title>
+      <link>https://www.theregister.com/security/2026/08/07/ransomware-attacks-spike-as-world-distracted-by-ai/5284934</link>
+      <guid>https://www.theregister.com/security/2026/08/07/ransomware-attacks-spike-as-world-distracted-by-ai/5284934</guid>
+      <description>[Cybersecurity] Keyword: ransomware — What, you didn't think the top gangs were busy watching agents escape their sandboxes too, did you?</description>
+      <category>Cybersecurity</category>
+      <pubDate>Fri, 07 Aug 2026 18:45:00 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 400 S GENERAL MCMULLEN (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1071067</link>
@@ -806,27 +822,6 @@ The post Records Raise Questions About Medical Treatment and Conditions in Immig
       <description>[AI &amp; Automation] Keyword: AI agent — Company is the third to report such an incident after Anthropic and OpenAI reported breaches during trainingMeta said on Wednesday that one of its AI models hacked ⁠another company during cybersecurity testing, after an error by its testing partner gave the model unintended internet access.The incident adds to a ⁠growing list of ⁠cases in ​which AI agents from major developers breached systems at other companies during testing, after Anthropic said last week that some of its models ⁠hacked three</description>
       <category>AI &amp; Automation</category>
       <pubDate>Thu, 06 Aug 2026 01:27:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] LWN.net Weekly Edition for August 6, 2026</title>
-      <link>https://lwn.net/Articles/1086134/</link>
-      <guid>https://lwn.net/Articles/1086134/</guid>
-      <description>[Cybersecurity] Keyword: CVE — Inside this week's LWN.net Weekly Edition:
-        
-        
- Front: Process-builder API; Fedora COI; FUSE io_uring buffer sizes; BPF network namespaces; FUSE plans; BPF libraries; directory creation system call.
-             Briefs: AISI hack; JFrog on CVEs; npm worm; AUR adoption; NetBSD 11.0; b4 0.16.0; C-Kermit 11; Rust LLM policy; Servo 0.4.0; Quotes; ...
-             Announcements: Newsletters, conferences, security updates, patches, and more.</description>
-      <category>Cybersecurity</category>
-      <pubDate>Thu, 06 Aug 2026 00:40:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — 4600 RADER PASS (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1062513</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1062513</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1062513 | NORTH Division | 8/5/2026 6:41:19 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/5/2026 6:41:19 PM</pubDate>
     </item>
   </channel>
 </rss>
