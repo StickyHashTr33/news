@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 16:49:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 17:45:01 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 10500 HUEBNER RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1070573</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1070573</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1070573 | PRUE Division | 8/7/2026 12:30:12 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/7/2026 12:30:12 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 5300 RUBIDOUX (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1070580</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1070580</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1070580 | WEST Division | 8/7/2026 12:32:43 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/7/2026 12:32:43 PM</pubDate>
+    </item>
+    <item>
+      <title>What to do with Wolff Stadium when the new ballpark is built? Residents have their own ideas.</title>
+      <link>https://sanantonioreport.org/wolff-stadium-san-antonio-missions-public-meeting/</link>
+      <guid>https://sanantonioreport.org/wolff-stadium-san-antonio-missions-public-meeting/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — About three dozen people attended a meeting Thursday to talk about how the city could redevelop the local ballpark when the lights go out.What to do with Wolff Stadium when the new ballpark is built? Residents have their own ideas. was first posted on August 7, 2026 at 8:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contac</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Fri, 07 Aug 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New York City nurses say AI is replacing them</title>
+      <link>https://therealnews.com/new-york-city-nurses-say-ai-is-replacing-them</link>
+      <guid>https://therealnews.com/new-york-city-nurses-say-ai-is-replacing-them</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Nurses laid off in July by Montefiore Hospitals in the Bronx sounded the alarm about AI in healthcare, a concern shared by nurses across the country</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Fri, 07 Aug 2026 16:52:15 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 1800 MONTVIEW (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1070330</link>
@@ -795,38 +827,6 @@ The post Records Raise Questions About Medical Treatment and Conditions in Immig
       <description>[AI &amp; Automation] Keyword: LLM — In space, no one can hear you scream when the LLMs hallucinate</description>
       <category>AI &amp; Automation</category>
       <pubDate>Wed, 05 Aug 2026 19:55:59 +0200</pubDate>
-    </item>
-    <item>
-      <title>Prompt injection isn't the bug, AI agent frameworks are</title>
-      <link>https://www.theregister.com/security/2026/08/05/prompt-injection-isnt-the-bug-ai-agent-frameworks-are/5283585</link>
-      <guid>https://www.theregister.com/security/2026/08/05/prompt-injection-isnt-the-bug-ai-agent-frameworks-are/5283585</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Check Point researchers tried to break the frameworks enterprises use to build AI apps. Now they're telling Black Hat attendees what they found</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Wed, 05 Aug 2026 23:35:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Accelerating the discovery of ceramic materials using cellulose nanofiber dispersions</title>
-      <link>https://phys.org/news/2026-08-discovery-ceramic-materials-cellulose-nanofiber.html</link>
-      <guid>https://phys.org/news/2026-08-discovery-ceramic-materials-cellulose-nanofiber.html</guid>
-      <description>[Climate &amp; Environment] Keyword: renewable energy — Ceramic materials are used everywhere, from smartphones and computers to electric vehicles and renewable energy systems. These materials are used in a wide range of technologies because of their unique electrical, magnetic and thermal properties. However, discovering new ceramic compositions with better performance remains a significant challenge because each candidate material must typically be synthesized and tested individually, involving multiple labor-intensive steps.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 05 Aug 2026 16:00:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>How hydrogen can be produced from bio-based formic acid in a continuous process</title>
-      <link>https://phys.org/news/2026-08-hydrogen-bio-based-formic-acid.html</link>
-      <guid>https://phys.org/news/2026-08-hydrogen-bio-based-formic-acid.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — With annual production of around 1 million metric tons (1.1 million tons), formic acid is one of the most important basic chemicals and is used, among other things, as an additive in the animal feed industry. It is also increasingly attracting attention as an H2 carrier. To date, its production has relied on fossil raw materials, which are to be replaced in the long term by sustainable raw materials.</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 05 Aug 2026 15:26:09 EDT</pubDate>
-    </item>
-    <item>
-      <title>San Antonio Rodeo wins seat at planning table but future of grounds, arena depend on licensing agreement</title>
-      <link>https://sanantonioreport.org/san-antonio-rodeo-planning-frost-bank-center-arena-development/</link>
-      <guid>https://sanantonioreport.org/san-antonio-rodeo-planning-frost-bank-center-arena-development/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — County commissioners approved an agreement with the San Antonio Rodeo that invites rodeo representatives into the planning process.San Antonio Rodeo wins seat at planning table but future of grounds, arena depend on licensing agreement was first posted on August 5, 2026 at 2:50 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please co</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Wed, 05 Aug 2026 19:50:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
