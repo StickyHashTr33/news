@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 14:27:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 15:24:55 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5400 N LOOP 1604 W (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074827</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074827</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1074827 | PRUE Division | 8/8/2026 10:06:14 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 10:06:14 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 4400 HORIZON HILL BLVD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074835</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074835</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1074835 | PRUE Division | 8/8/2026 10:07:49 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 10:07:49 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 4400 HORIZON HILL BLVD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074608</link>
@@ -799,23 +815,6 @@ The post Q&amp;#038;A: A Family History of Indigenous Land Displacement  appear
       <description>[Climate &amp; Environment] Keyword: climate change — More than half of Americans told the AP-NORC poll that climate change is happening, a slight decline from last year.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Thu, 06 Aug 2026 18:34:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>One-third of agricultural land accounts for two-thirds of global impact, study reveals</title>
-      <link>https://phys.org/news/2026-08-agricultural-accounts-thirds-global-impact.html</link>
-      <guid>https://phys.org/news/2026-08-agricultural-accounts-thirds-global-impact.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Agriculture covers more than 40% of Earth's habitable land and plays a central role in both climate change and biodiversity loss. Yet the impact of agriculture is far from evenly distributed across space.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 06 Aug 2026 17:40:05 EDT</pubDate>
-    </item>
-    <item>
-      <title>&quot;Fire Climate&quot;: Hot, Dry, Windy Days Are Becoming Common, Making Wildfires Harder to Control</title>
-      <link>http://www.democracynow.org/2026/8/6/spokane_fires</link>
-      <guid>http://www.democracynow.org/2026/8/6/spokane_fires</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — The Pacific Northwest is facing its worst fire season in more than 30 years. Scientists say drought, extreme heat and climate change are making wildfire seasons longer, more frequent and more destructive across the western United States.
-&amp;#8220;The homes, the communities, they&amp;#8217;re just not simply prepared for fire,&amp;#8221; says Paul Hessburg, former senior research ecologist at the U.S. Forest Service and professor of fire and landscape ecology at the University of Washington. Hessburg walks</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 06 Aug 2026 08:14:51 -0400</pubDate>
     </item>
   </channel>
 </rss>
