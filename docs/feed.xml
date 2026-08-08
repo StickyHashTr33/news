@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 05:39:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 06:42:44 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Shooting — 5400 BABCOCK RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073657</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073657</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-1073657 | PRUE Division | 8/8/2026 1:25:09 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 1:25:09 AM</pubDate>
+    </item>
+    <item>
+      <title>Violence is driving Palestinian Christians out of their Holy Land</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss</guid>
+      <description>[Housing &amp; Gentrification] Keyword: displacement — Palestinian Christians are facing violence and displacement across Gaza, Jerusalem and the occupied West Bank.</description>
+      <category>Housing &amp; Gentrification</category>
+      <pubDate>Sat, 08 Aug 2026 05:28:45 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Robbery of Individual — 2200 AUSTIN HWY (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073476</link>
@@ -806,22 +822,6 @@ The post Records Raise Questions About Medical Treatment and Conditions in Immig
       <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1064046 | EAST Division | 8/6/2026 3:05:15 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/6/2026 3:05:15 AM</pubDate>
-    </item>
-    <item>
-      <title>‘Orange elephant in the room’: Pauline Hanson’s political rise is inspiring racism, inquiry hears</title>
-      <link>https://www.theguardian.com/australia-news/2026/aug/06/pauline-hanson-one-nation-leader-rise-inspiring-racism-parliament-inquiry-hears-ntwnfb</link>
-      <guid>https://www.theguardian.com/australia-news/2026/aug/06/pauline-hanson-one-nation-leader-rise-inspiring-racism-parliament-inquiry-hears-ntwnfb</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Former AFL inclusion manager tells inquiry One Nation leader’s conduct is encouraging people to use ‘similar behaviour and words’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe rise of One Nation is fuelling racism, a federal parliamentary inquiry into racism, hate and violence directed at First Nations people has been told, with high‑profile Indigenous journalists warning the inquiry that 1970s‑style racism “is back”.The inqui</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Thu, 06 Aug 2026 07:05:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Climate change contributed to big Canada fires, study says as Trump blames mismanagement</title>
-      <link>https://phys.org/news/2026-08-climate-contributed-big-canada-trump.html</link>
-      <guid>https://phys.org/news/2026-08-climate-contributed-big-canada-trump.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Human-caused climate change doubled the likelihood of the tinderbox weather conditions that sparked Canada's massive summer wildfires and in turn angered U.S. President Donald Trump, according to a study released Thursday.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 06 Aug 2026 03:40:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
