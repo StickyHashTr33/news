@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 10:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 11:23:52 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 8800 VILLAGE DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074224</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074224</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1074224 | NORTH Division | 8/8/2026 5:59:09 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 5:59:09 AM</pubDate>
+    </item>
+    <item>
+      <title>Yemen’s collapsing healthcare forces the sick to seek alternative medicines</title>
+      <link>https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Patients in Yemen who cannot afford healthcare or access relevant treatment are turning to alternative medicine.</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Sat, 08 Aug 2026 10:58:46 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle In Progress — 8300 BROADWAY (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074150</link>
@@ -804,22 +820,6 @@ those kernels are advised to upgrade.</description>
       <description>[USDA &amp; Farm Grants] Keyword: farm bill — A child hunger crisis is unfolding in plain sight: it’s very likely that more than 1.5 million children nationwide have lost food assistance in the wake of unprecedented SNAP cuts in last year’s Republican reconciliation law. While the farm bill considered by the Senate Agriculture Committee today would take a step in the right direction in addressing some of the fallout from the SNAP cuts enacted last year, it doesn’t do enough for people losing the help they need to afford groceries, and it ma</description>
       <category>USDA &amp; Farm Grants</category>
       <pubDate>Thu, 06 Aug 2026 18:51:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 100 BRACKENRIDGE AVE (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1064713</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1064713</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1064713 | DOWNTOWN Division | 8/6/2026 8:23:59 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/6/2026 8:23:59 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 1700 ALLENDE (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1064716</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1064716</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1064716 | WEST Division | 8/6/2026 8:24:10 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/6/2026 8:24:10 AM</pubDate>
     </item>
   </channel>
 </rss>
