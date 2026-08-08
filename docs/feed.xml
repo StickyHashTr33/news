@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 04:52:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 05:39:30 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Robbery of Individual — 2200 AUSTIN HWY (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073476</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073476</guid>
+      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1073476 | EAST Division | 8/8/2026 12:22:12 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 12:22:12 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Shooting — 3300 RESEARCH PLAZA (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073290</link>
@@ -814,14 +822,6 @@ The post Records Raise Questions About Medical Treatment and Conditions in Immig
       <description>[Climate &amp; Environment] Keyword: climate change — Human-caused climate change doubled the likelihood of the tinderbox weather conditions that sparked Canada's massive summer wildfires and in turn angered U.S. President Donald Trump, according to a study released Thursday.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Thu, 06 Aug 2026 03:40:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Powerhouses for fake meat: Muscle protein can now be grown in chloroplasts of lettuce and tobacco plants</title>
-      <link>https://phys.org/news/2026-08-powerhouses-fake-meat-muscle-protein.html</link>
-      <guid>https://phys.org/news/2026-08-powerhouses-fake-meat-muscle-protein.html</guid>
-      <description>[Climate &amp; Environment] Keyword: global warming — Livestock farming requires valuable land to grow fodder, uses vast amounts of freshwater and contributes to global warming through methane and nitrous oxide emissions. And, for many consumers it is important to prevent animal suffering. For these reasons, the global market for meat alternatives is currently worth €6.7 billion to €8.1 billion per year and is projected to grow 8.1% to 12.3% each year over the next decade.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 06 Aug 2026 00:00:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
