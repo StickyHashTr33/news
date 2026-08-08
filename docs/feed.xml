@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 22:23:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 23:23:39 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 4500 LYCEUM DR (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1076623</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1076623</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1076623 | PRUE Division | 8/8/2026 6:09:54 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 6:09:54 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Robbery of Individual — 7800 OLD TEZEL RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1076639</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1076639</guid>
+      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1076639 | PRUE Division | 8/8/2026 6:12:02 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 6:12:02 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 100 GAYLE AVE (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1076644</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1076644</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1076644 | EAST Division | 8/8/2026 6:13:36 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 6:13:36 PM</pubDate>
+    </item>
     <item>
       <title>National Indigenous Music awards 2026: Baker Boy wins big, including album and song of the year</title>
       <link>https://www.theguardian.com/music/2026/aug/09/nimas-2026-winners-national-indigenous-music-awards-baker-boy-djandjay</link>
@@ -791,30 +815,6 @@ The post Q&amp;#038;A: A Family History of Indigenous Land Displacement  appear
       <description>[Science &amp; Research] Keyword: clinical trial — Researchers warn betting on clinical trials could incentivize insider trading and interfere with drug development. But Kalshi and Polymarket say they provide valuable information to patients.</description>
       <category>Science &amp; Research</category>
       <pubDate>Fri, 07 Aug 2026 06:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Scientists rediscover lost Megalodon fossils—and reveal a 79-foot giant</title>
-      <link>https://www.sciencedaily.com/releases/2026/08/260805082500.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/08/260805082500.htm</guid>
-      <description>[Open Source Software] Keyword: FOSS — Several enormous Megalodon vertebrae thought to have been destroyed in 1989 were found sitting unnoticed on a museum shelf. Their analysis strengthens evidence that the giant shark could exceed 24 meters (79 feet) in length and live for nearly a century. Researchers also estimate that its newborns may have measured an astonishing 3.6 meters (12 feet).</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 06 Aug 2026 22:57:08 EDT</pubDate>
-    </item>
-    <item>
-      <title>San Antonio FC considers top division opportunity with United Soccer League</title>
-      <link>https://sanantonioreport.org/san-antonio-fc-considers-top-division-united-soccer-league/</link>
-      <guid>https://sanantonioreport.org/san-antonio-fc-considers-top-division-united-soccer-league/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — San Antonio FC is banking on World Cup hype to attract new fans to free games while it considers moving up to a higher level league in 2028.San Antonio FC considers top division opportunity with United Soccer League was first posted on August 7, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@ri</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Fri, 07 Aug 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NHS Tayside investigates data breach into Minnie Merriman medical records</title>
-      <link>https://www.bbc.co.uk/news/articles/cvg8n70jp2jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/cvg8n70jp2jo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Cybersecurity] Keyword: data breach — Minnie Merriman, from West Yorkshire, died at Ninewells Hospital in Dundee after being found seriously injured at an industrial estate in the town.</description>
-      <category>Cybersecurity</category>
-      <pubDate>Fri, 07 Aug 2026 09:59:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
