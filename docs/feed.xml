@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 15:24:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 16:27:32 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 6000 IH 10 W (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075062</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075062</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1075062 | CENTRAL Division | 8/8/2026 11:17:23 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 11:17:23 AM</pubDate>
+    </item>
+    <item>
+      <title>One of UK’s best fossil collections sold overseas in ‘loss to the nation’</title>
+      <link>https://www.theguardian.com/science/ng-interactive/2026/aug/09/one-of-uks-best-fossil-collections-sold-overseas-in-loss-to-the-nation</link>
+      <guid>https://www.theguardian.com/science/ng-interactive/2026/aug/09/one-of-uks-best-fossil-collections-sold-overseas-in-loss-to-the-nation</guid>
+      <description>[Open Source Software] Keyword: FOSS — Exclusive: Lack of funds left British museums unable pay eight-figure sum for collection, which went to Abu Dhabi institutionOne of the most important collections of UK Jurassic fossils ever compiled has been sold to a museum in Abu Dhabi, the Guardian can reveal, in what British experts have described as a loss for the nation.The collection, which was amassed by a private fossil collector, consisted of 318 specimens, including ichthyosaurs, fish and crustaceans among other creatures, some of wh</description>
+      <category>Open Source Software</category>
+      <pubDate>Sat, 08 Aug 2026 16:00:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pearl looks to expand again by adding more shops in place of 2 vacant buildings, parking lot</title>
+      <link>https://sanantonioreport.org/pearl-san-antonio-expansion-shops-raze-vacant-buildings-parking-lot/</link>
+      <guid>https://sanantonioreport.org/pearl-san-antonio-expansion-shops-raze-vacant-buildings-parking-lot/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The developer has requested the city's approval to raze a historic structure to make way for multiple new storefronts along Avenue A and make improvements to Pearl Parkway.Pearl looks to expand again by adding more shops in place of 2 vacant buildings, parking lot was first posted on August 8, 2026 at 11:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of cop</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sat, 08 Aug 2026 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 5400 N LOOP 1604 W (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074827</link>
@@ -791,30 +815,6 @@ The post Q&amp;#038;A: A Family History of Indigenous Land Displacement  appear
       <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1067462 | SOUTH Division | 8/6/2026 7:22:31 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/6/2026 7:22:31 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 800 W MAGNOLIA AVE (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1067470</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1067470</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1067470 | CENTRAL Division | 8/6/2026 7:24:51 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/6/2026 7:24:51 PM</pubDate>
-    </item>
-    <item>
-      <title>Decoding the North American bison's genome to better inform conservation efforts</title>
-      <link>https://phys.org/news/2026-08-decoding-north-american-bison-genome.html</link>
-      <guid>https://phys.org/news/2026-08-decoding-north-american-bison-genome.html</guid>
-      <description>[Science &amp; Research] Keyword: genomics — A new study by ancient DNA researchers at the University of California, Santa Cruz, used paleogenomics to create a genetic roadmap to help guide the restoration of another iconic species once on the brink of extinction: the North American bison.</description>
-      <category>Science &amp; Research</category>
-      <pubDate>Thu, 06 Aug 2026 18:10:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Poll suggests US adults are facing increased strain from extreme heat</title>
-      <link>https://www.aljazeera.com/news/2026/8/6/poll-suggests-us-adults-are-facing-increased-strain-from-extreme-heat?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/8/6/poll-suggests-us-adults-are-facing-increased-strain-from-extreme-heat?traffic_source=rss</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — More than half of Americans told the AP-NORC poll that climate change is happening, a slight decline from last year.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 06 Aug 2026 18:34:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
