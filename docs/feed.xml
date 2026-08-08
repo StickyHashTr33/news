@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 07:44:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 08:35:05 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 14200 BITTERNUT WOODS (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073946</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073946</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1073946 | PRUE Division | 8/8/2026 3:08:06 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 3:08:06 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Shooting — 7200 SADDLE CRK (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073950</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073950</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-1073950 | WEST Division | 8/8/2026 3:10:04 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 3:10:04 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 23500 IH 10 W (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073980</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073980</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1073980 | PRUE Division | 8/8/2026 3:22:43 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 3:22:43 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 1100 E COMMERCE ST (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073854</link>
@@ -798,30 +822,6 @@ The post Records Raise Questions About Medical Treatment and Conditions in Immig
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — House Bill 8 tied community college funding to student outcomes, but now the model is being adjusted as colleges outperformed state expectations. Texas HB 8 funding changes will cost Alamo Colleges millions in state funding was first posted on August 6, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at </description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Thu, 06 Aug 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta latest to tell world its AI agent wandered out of test pen</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/08/06/meta-latest-to-tell-world-its-ai-agent-wandered-out-of-test-pen/5283947</link>
-      <guid>https://www.theregister.com/ai-and-ml/2026/08/06/meta-latest-to-tell-world-its-ai-agent-wandered-out-of-test-pen/5283947</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Another week, another firm explaining why one of its models reached somewhere it wasn't supposed to</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Thu, 06 Aug 2026 12:24:04 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 1700 W TERRA ALTA (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1064005</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1064005</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1064005 | NORTH Division | 8/6/2026 2:42:50 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/6/2026 2:42:50 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 5800 NW LOOP 410 (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1064022</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1064022</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1064022 | WEST Division | 8/6/2026 2:53:40 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/6/2026 2:53:40 AM</pubDate>
     </item>
   </channel>
 </rss>
