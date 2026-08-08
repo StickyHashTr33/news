@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 19:25:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 20:23:48 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 4000 FLOWING PATH (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075900</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075900</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1075900 | NORTH Division | 8/8/2026 3:06:00 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 3:06:00 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 300 S SAN IGNACIO AVE (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075906</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075906</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1075906 | WEST Division | 8/8/2026 3:07:20 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 3:07:20 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 18100 TALAVERA RDG (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075678</link>
@@ -799,22 +815,6 @@ The post Q&amp;#038;A: A Family History of Indigenous Land Displacement  appear
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1069133 | NORTH Division | 8/7/2026 4:28:18 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/7/2026 4:28:18 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 2600 N LOOP 1604 E (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069139</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069139</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1069139 | NORTH Division | 8/7/2026 4:30:57 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/7/2026 4:30:57 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 1600 IH 35 N (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069005</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069005</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1069005 | EAST Division | 8/7/2026 3:07:02 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/7/2026 3:07:02 AM</pubDate>
     </item>
   </channel>
 </rss>
