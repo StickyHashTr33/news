@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 11:23:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 12:37:56 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 80 TRAILCREST (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074356</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074356</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1074356 | NORTH Division | 8/8/2026 7:25:45 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 7:25:45 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 8800 VILLAGE DR (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074224</link>
@@ -812,14 +820,6 @@ those kernels are advised to upgrade.</description>
       <description>[USDA &amp; Farm Grants] Keyword: farm bill — Former Senate Majority Leader Mitch McConnell’s ongoing absence is a mystery, with everyone from other Republican candidates to his own Kentucky neighbors baffled as to his whereabouts.“The absence of Sen. Mitch McConnell R-KY hit home for Republicans today - as the Senate Agriculture Committee failed to report out a GOP Farm Bill (no Democrats would support the bill),” Capitol Hill correspondent Jamie Dupree posted on X on Thursday. “The panel will try again after Labor Day.”Trump has been tryi</description>
       <category>USDA &amp; Farm Grants</category>
       <pubDate>Thu, 06 Aug 2026 18:31:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Congress Must Strengthen Farm Bill to Fight Unfolding Hunger Crisis</title>
-      <link>https://www.commondreams.org/newswire/congress-must-strengthen-farm-bill-to-fight-unfolding-hunger-crisis</link>
-      <guid>https://www.commondreams.org/newswire/congress-must-strengthen-farm-bill-to-fight-unfolding-hunger-crisis</guid>
-      <description>[USDA &amp; Farm Grants] Keyword: farm bill — A child hunger crisis is unfolding in plain sight: it’s very likely that more than 1.5 million children nationwide have lost food assistance in the wake of unprecedented SNAP cuts in last year’s Republican reconciliation law. While the farm bill considered by the Senate Agriculture Committee today would take a step in the right direction in addressing some of the fallout from the SNAP cuts enacted last year, it doesn’t do enough for people losing the help they need to afford groceries, and it ma</description>
-      <category>USDA &amp; Farm Grants</category>
-      <pubDate>Thu, 06 Aug 2026 18:51:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
