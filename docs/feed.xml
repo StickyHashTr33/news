@@ -5,8 +5,48 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 16:27:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 17:25:36 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 4400 HORIZON HILL BLVD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075248</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075248</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1075248 | PRUE Division | 8/8/2026 12:07:17 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 12:07:17 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 2800 W HUTCHINS PLACE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075253</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075253</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1075253 | SOUTH Division | 8/8/2026 12:08:42 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 12:08:42 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 2000 FLETCHER WAY (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075257</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075257</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1075257 | CENTRAL Division | 8/8/2026 12:10:20 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 12:10:20 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 13100 HILL FOREST (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075269</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075269</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1075269 | PRUE Division | 8/8/2026 12:14:57 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 12:14:57 PM</pubDate>
+    </item>
+    <item>
+      <title>OpenAI to pause some work on AI model Astra due to security concerns</title>
+      <link>https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns</link>
+      <guid>https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacksOpenAI will pause some work on an artificial intelligence model because of security concerns, the company stated Friday, following a series of incidents in which AI agents have escaped containment.The company had evaluated the agent, Astra, and found “significant advancements in agentic coding and cybersecurity”, which had moved to a “critical” threshold where it can find and expl</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Sat, 08 Aug 2026 17:00:41 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 6000 IH 10 W (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075062</link>
@@ -775,46 +815,6 @@ The post Q&amp;#038;A: A Family History of Indigenous Land Displacement  appear
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1068571 | WEST Division | 8/7/2026 12:18:27 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/7/2026 12:18:27 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Shooting In Progress — 2400 S CALAVERAS (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1068595</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1068595</guid>
-      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1068595 | CENTRAL Division | 8/7/2026 12:24:56 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/7/2026 12:24:56 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 9800 AIRPORT BLVD (AIRPORT)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1068202</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1068202</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1068202 | AIRPORT Division | 8/6/2026 10:34:56 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/6/2026 10:34:56 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 2300 CASTROVILLE RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1068203</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1068203</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1068203 | WEST Division | 8/6/2026 10:35:06 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/6/2026 10:35:06 PM</pubDate>
-    </item>
-    <item>
-      <title>A look at 'Operation Country Roads,' West Virginia's ICE operation</title>
-      <link>https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation</link>
-      <guid>https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation</guid>
-      <description>[Immigration &amp; Border] Keyword: ICE operation — Earlier this year ICE arrested 600 immigrants over a two week period. Most migrants had no criminal records and, since then, West Virginia has decided to not hold ICE detainees in their jails. A look at West Virginia post Operation Country Roads.</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Thu, 06 Aug 2026 16:40:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 400 BRIDLE RDG (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1067462</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1067462</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1067462 | SOUTH Division | 8/6/2026 7:22:31 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/6/2026 7:22:31 PM</pubDate>
     </item>
   </channel>
 </rss>
