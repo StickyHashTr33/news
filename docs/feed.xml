@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 20:23:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 21:25:24 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 8800 JONES MALTSBERGER RD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1076162</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1076162</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1076162 | NORTH Division | 8/8/2026 4:10:42 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 4:10:42 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 2000 N ST MARY'S ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1076173</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1076173</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1076173 | DOWNTOWN Division | 8/8/2026 4:13:10 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 4:13:10 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 500 S ACME RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1076179</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1076179</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1076179 | WEST Division | 8/8/2026 4:14:57 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 4:14:57 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 4000 FLOWING PATH (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075900</link>
@@ -791,30 +815,6 @@ The post Q&amp;#038;A: A Family History of Indigenous Land Displacement  appear
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — The post House Democrats Demand Answers From Trump’s VA on Vets Struggling to Access Mental Healthcare appeared first on ProPublica.</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Fri, 07 Aug 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 300 SANDMEYER ST (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069094</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069094</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1069094 | EAST Division | 8/7/2026 4:00:15 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/7/2026 4:00:15 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 100 NE LOOP 410 (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069115</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069115</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1069115 | NORTH Division | 8/7/2026 4:12:50 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/7/2026 4:12:50 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 500 NW LOOP 410 (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069133</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069133</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1069133 | NORTH Division | 8/7/2026 4:28:18 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/7/2026 4:28:18 AM</pubDate>
     </item>
   </channel>
 </rss>
