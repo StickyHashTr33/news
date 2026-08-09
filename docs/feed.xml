@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 09:35:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 10:29:23 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle In Progress — 1200 E MULBERRY AVE (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078948</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078948</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1078948 | DOWNTOWN Division | 8/9/2026 5:07:14 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/9/2026 5:07:14 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 9200 SOMERSET RD (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078957</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078957</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1078957 | SOUTH Division | 8/9/2026 5:14:00 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/9/2026 5:14:00 AM</pubDate>
+    </item>
+    <item>
+      <title>Nearly a year later, Bexar County still isn’t collecting new taxes for Spurs arena</title>
+      <link>https://sanantonioreport.org/project-marvel-bexar-county-spurs-arena-new-hotel-taxes/</link>
+      <guid>https://sanantonioreport.org/project-marvel-bexar-county-spurs-arena-new-hotel-taxes/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The city projected a 60-month timeline to design and build the NBA arena, but county leaders haven't set up the hotel tax to help fund it.Nearly a year later, Bexar County still isn&amp;#8217;t collecting new taxes for Spurs arena was first posted on August 9, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me </description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sun, 09 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 3200 GOLDEN AVE (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078877</link>
@@ -784,30 +808,6 @@ Bexar County Commissioner Grant Moody and San Antonio Councilwoman Misty Spears 
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1070573 | PRUE Division | 8/7/2026 12:30:12 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/7/2026 12:30:12 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 5300 RUBIDOUX (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1070580</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1070580</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1070580 | WEST Division | 8/7/2026 12:32:43 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/7/2026 12:32:43 PM</pubDate>
-    </item>
-    <item>
-      <title>What to do with Wolff Stadium when the new ballpark is built? Residents have their own ideas.</title>
-      <link>https://sanantonioreport.org/wolff-stadium-san-antonio-missions-public-meeting/</link>
-      <guid>https://sanantonioreport.org/wolff-stadium-san-antonio-missions-public-meeting/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — About three dozen people attended a meeting Thursday to talk about how the city could redevelop the local ballpark when the lights go out.What to do with Wolff Stadium when the new ballpark is built? Residents have their own ideas. was first posted on August 7, 2026 at 8:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contac</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Fri, 07 Aug 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New York City nurses say AI is replacing them</title>
-      <link>https://therealnews.com/new-york-city-nurses-say-ai-is-replacing-them</link>
-      <guid>https://therealnews.com/new-york-city-nurses-say-ai-is-replacing-them</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Nurses laid off in July by Montefiore Hospitals in the Bronx sounded the alarm about AI in healthcare, a concern shared by nurses across the country</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Fri, 07 Aug 2026 16:52:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
