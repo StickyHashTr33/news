@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 11:24:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 12:39:38 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 500 HOWARD ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1079142</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1079142</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1079142 | DOWNTOWN Division | 8/9/2026 7:13:16 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/9/2026 7:13:16 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 1000 N ST MARY'S ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1079143</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1079143</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1079143 | DOWNTOWN Division | 8/9/2026 7:13:45 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/9/2026 7:13:45 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 5700 TIMBER BEND (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1079158</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1079158</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1079158 | PRUE Division | 8/9/2026 7:21:33 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/9/2026 7:21:33 AM</pubDate>
+    </item>
     <item>
       <title>Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day</title>
       <link>https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss</link>
@@ -784,30 +808,6 @@ Bexar County Commissioner Grant Moody and San Antonio Councilwoman Misty Spears 
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1071098 | EAST Division | 8/7/2026 2:39:38 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/7/2026 2:39:38 PM</pubDate>
-    </item>
-    <item>
-      <title>Hydraulic traits reveal why some mountain trees move uphill while others shift downhill</title>
-      <link>https://phys.org/news/2026-08-hydraulic-traits-reveal-mountain-trees.html</link>
-      <guid>https://phys.org/news/2026-08-hydraulic-traits-reveal-mountain-trees.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — As global temperatures rise, scientists have largely assumed that mountain tree species will move uphill in search of cooler conditions. A new study published in Nature Climate Change reveals a more complex reality: Some tree species are moving uphill, while others are shifting downhill, and the key to understanding these contrasting responses lies in how trees manage water.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Fri, 07 Aug 2026 15:40:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 2000 LAMAR ST (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1070791</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1070791</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1070791 | EAST Division | 8/7/2026 1:25:30 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/7/2026 1:25:30 PM</pubDate>
-    </item>
-    <item>
-      <title>First full zoysia grass genetic blueprint opens doors for drought-tolerant turf</title>
-      <link>https://phys.org/news/2026-08-full-zoysia-grass-genetic-blueprint.html</link>
-      <guid>https://phys.org/news/2026-08-full-zoysia-grass-genetic-blueprint.html</guid>
-      <description>[Science &amp; Research] Keyword: genomics — A new genomic resource from the Texas A&amp;amp;M AgriLife Research plant genomics team is providing a powerful new foundation for faster, more precise turfgrass genetics and breeding. The team discovered a breakthrough genome that finally reveals the full genetic blueprint of zoysia grass.</description>
-      <category>Science &amp; Research</category>
-      <pubDate>Fri, 07 Aug 2026 14:20:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
