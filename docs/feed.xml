@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 20:26:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 21:27:11 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 1400 BABCOCK RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1080852</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1080852</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1080852 | WEST Division | 8/9/2026 4:15:09 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/9/2026 4:15:09 PM</pubDate>
+    </item>
+    <item>
+      <title>Democrats in Congress, able to visit ICE lockups in Texas, describe grim conditions</title>
+      <link>https://sanantonioreport.org/democrats-congress-ice-lockups-texas-joaquin-castro-grim-conditions/</link>
+      <guid>https://sanantonioreport.org/democrats-congress-ice-lockups-texas-joaquin-castro-grim-conditions/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Immigration officials deny the allegations, but Rep. Joaquin Castro says they’ve come across numerous problematic examples.Democrats in Congress, able to visit ICE lockups in Texas, describe grim conditions was first posted on August 9, 2026 at 4:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardrepor</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sun, 09 Aug 2026 21:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Early snakes explored life underground, on land and at sea</title>
       <link>https://phys.org/news/2026-08-early-snakes-explored-life-underground.html</link>
@@ -794,22 +810,6 @@ Bexar County Commissioner Grant Moody and San Antonio Councilwoman Misty Spears 
       <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1073980 | PRUE Division | 8/8/2026 3:22:43 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/8/2026 3:22:43 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 1100 E COMMERCE ST (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073854</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073854</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1073854 | DOWNTOWN Division | 8/8/2026 2:31:24 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 2:31:24 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 6100 THUNDER DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073857</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073857</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1073857 | WEST Division | 8/8/2026 2:32:44 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 2:32:44 AM</pubDate>
     </item>
   </channel>
 </rss>
