@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 13:45:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 14:30:04 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say</title>
+      <link>https://www.aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss</guid>
+      <description>[Housing &amp; Gentrification] Keyword: displacement — Experts warn Israel&amp;#039;s new administrative zones in Gaza seek to erase the Palestinian cause and force mass displacement.</description>
+      <category>Housing &amp; Gentrification</category>
+      <pubDate>Sun, 09 Aug 2026 13:54:41 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 1300 KLONDIKE DR (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1079251</link>
@@ -800,14 +808,6 @@ Bexar County Commissioner Grant Moody and San Antonio Councilwoman Misty Spears 
       <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1071284 | WEST Division | 8/7/2026 3:21:58 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/7/2026 3:21:58 PM</pubDate>
-    </item>
-    <item>
-      <title>Ransomware attacks spike as world distracted by AI</title>
-      <link>https://www.theregister.com/security/2026/08/07/ransomware-attacks-spike-as-world-distracted-by-ai/5284934</link>
-      <guid>https://www.theregister.com/security/2026/08/07/ransomware-attacks-spike-as-world-distracted-by-ai/5284934</guid>
-      <description>[Cybersecurity] Keyword: ransomware — What, you didn't think the top gangs were busy watching agents escape their sandboxes too, did you?</description>
-      <category>Cybersecurity</category>
-      <pubDate>Fri, 07 Aug 2026 18:45:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
