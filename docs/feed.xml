@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 04:59:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 05:51:19 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 700 E LOCUST ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078205</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078205</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1078205 | DOWNTOWN Division | 8/9/2026 12:36:03 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/9/2026 12:36:03 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 2800 KINGSFORD LN (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078219</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078219</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1078219 | NORTH Division | 8/9/2026 12:38:44 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/9/2026 12:38:44 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 7400 MILKY WAY DAWN (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1077989</link>
@@ -792,22 +808,6 @@ Bexar County Commissioner Grant Moody and San Antonio Councilwoman Misty Spears 
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Cancer diagnostics breach spills personal and health info as extortion crew says healthcare giant ‘should’ve paid the ransom’</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Fri, 07 Aug 2026 16:53:57 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 2200 TPC PKWY (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069707</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069707</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1069707 | NORTH Division | 8/7/2026 8:55:12 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/7/2026 8:55:12 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Shooting — 1100 S COMAL ST (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069713</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069713</guid>
-      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-1069713 | CENTRAL Division | 8/7/2026 8:56:51 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/7/2026 8:56:51 AM</pubDate>
     </item>
   </channel>
 </rss>
