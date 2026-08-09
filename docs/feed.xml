@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 18:33:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 19:29:25 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Early snakes explored life underground, on land and at sea</title>
+      <link>https://phys.org/news/2026-08-early-snakes-explored-life-underground.html</link>
+      <guid>https://phys.org/news/2026-08-early-snakes-explored-life-underground.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — Snakes are highly modified lizards, with more than 4,000 living species today. The origin of snakes has long been one of evolutionary biology's most debated questions. Their sparse fossil record has made it hard to pin down what drove the evolution of their limbless body plan.</description>
+      <category>Open Source Software</category>
+      <pubDate>Sun, 09 Aug 2026 14:40:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>When a TIRZ creates a pool of public dollars for a specific neighborhood, how do the rest fare?</title>
+      <link>https://sanantonioreport.org/tirz-neighborhood-san-antonio-tax-increment-reinvestment-zone/</link>
+      <guid>https://sanantonioreport.org/tirz-neighborhood-san-antonio-tax-increment-reinvestment-zone/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Some say a Tax Increment Reinvestment Zone has flaws with long-range effects: taking tax dollars from property development meant for all and trapping it in one geographic area of the city.When a TIRZ creates a pool of public dollars for a specific neighborhood, how do the rest fare? was first posted on August 9, 2026 at 2:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the sit</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sun, 09 Aug 2026 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 5000 PRUE RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1079981</link>
@@ -794,22 +810,6 @@ Bexar County Commissioner Grant Moody and San Antonio Councilwoman Misty Spears 
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1073857 | WEST Division | 8/8/2026 2:32:44 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/8/2026 2:32:44 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Shooting — 5400 BABCOCK RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073657</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073657</guid>
-      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-1073657 | PRUE Division | 8/8/2026 1:25:09 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 1:25:09 AM</pubDate>
-    </item>
-    <item>
-      <title>Violence is driving Palestinian Christians out of their Holy Land</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss</guid>
-      <description>[Housing &amp; Gentrification] Keyword: displacement — Palestinian Christians are facing violence and displacement across Gaza, Jerusalem and the occupied West Bank.</description>
-      <category>Housing &amp; Gentrification</category>
-      <pubDate>Sat, 08 Aug 2026 05:28:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
