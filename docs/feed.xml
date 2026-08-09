@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 12:39:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 13:45:19 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 1300 KLONDIKE DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1079251</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1079251</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1079251 | WEST Division | 8/9/2026 8:15:36 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/9/2026 8:15:36 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 8700 STATE HWY 151 (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1079277</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1079277</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1079277 | WEST Division | 8/9/2026 8:25:11 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/9/2026 8:25:11 AM</pubDate>
+    </item>
+    <item>
+      <title>Avoid rare species and only take what you need: how to forage and save money on your food shopping</title>
+      <link>https://www.theguardian.com/environment/2026/aug/09/foraging-food-conservation-biodiversity-aoe</link>
+      <guid>https://www.theguardian.com/environment/2026/aug/09/foraging-food-conservation-biodiversity-aoe</guid>
+      <description>[Foraging &amp; Wild Plants] Keyword: foraging — While there are fears that people harvesting their food could put pressure on habitats, some ecologists suggest responsible foraging can boost conservation and biodiversityAngus Morton crouches behind a cricket pavilion in a London park to snip stinging nettles from an unkempt patch of greenery.“They’re so abundant and they’re so good,” says Morton, a regenerative gardener who pops out once a week to forage bits for dinner. “I use them in pesto, tea … I’ve even seen someone putting them in croqu</description>
+      <category>Foraging &amp; Wild Plants</category>
+      <pubDate>Sun, 09 Aug 2026 13:00:16 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 500 HOWARD ST (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1079142</link>
@@ -784,30 +808,6 @@ Bexar County Commissioner Grant Moody and San Antonio Councilwoman Misty Spears 
       <description>[Cybersecurity] Keyword: ransomware — What, you didn't think the top gangs were busy watching agents escape their sandboxes too, did you?</description>
       <category>Cybersecurity</category>
       <pubDate>Fri, 07 Aug 2026 18:45:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 400 S GENERAL MCMULLEN (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1071067</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1071067</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1071067 | WEST Division | 8/7/2026 2:32:11 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/7/2026 2:32:11 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 200 N PALMETTO ST (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1071082</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1071082</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1071082 | EAST Division | 8/7/2026 2:36:37 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/7/2026 2:36:37 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — EISENHAUER RD / FRATT RD (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1071098</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1071098</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1071098 | EAST Division | 8/7/2026 2:39:38 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/7/2026 2:39:38 PM</pubDate>
     </item>
   </channel>
 </rss>
