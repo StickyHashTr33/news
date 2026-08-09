@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 06:47:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 07:51:15 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 800 LEAL ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078624</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078624</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1078624 | CENTRAL Division | 8/9/2026 2:34:32 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/9/2026 2:34:32 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 700 E LOCUST ST (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078205</link>
@@ -800,14 +808,6 @@ Bexar County Commissioner Grant Moody and San Antonio Councilwoman Misty Spears 
       <description>[USDA &amp; Farm Grants] Keyword: farm bill — Today Republicans failed to move their disastrous Farm Bill, the Agricultural Act of 2026, out of the Senate Agriculture Committee. A fierce movement of advocates built enough pressure to keep poison pills, like the Save Our Bacon Act, out of the Committee’s debate on the bill.Instead of serving everyday people, this Farm Bill was designed to funnel more taxpayer dollars to corporate factory farm expansion, maintain devastating nutrition assistance cuts, and weaken fundamental conservation inves</description>
       <category>USDA &amp; Farm Grants</category>
       <pubDate>Thu, 06 Aug 2026 19:07:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>ShinyHunters called cancer diagnostics biz and tricked staffers into giving them access. Now they've dumped 10.9M email addresses</title>
-      <link>https://www.theregister.com/cyber-crime/2026/08/07/shinyhunters-called-cancer-diagnostics-biz-and-tricked-staffers-into-giving-them-access-now-theyve-dumped-109m-email-addresses/5284857</link>
-      <guid>https://www.theregister.com/cyber-crime/2026/08/07/shinyhunters-called-cancer-diagnostics-biz-and-tricked-staffers-into-giving-them-access-now-theyve-dumped-109m-email-addresses/5284857</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Cancer diagnostics breach spills personal and health info as extortion crew says healthcare giant ‘should’ve paid the ransom’</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Fri, 07 Aug 2026 16:53:57 +0200</pubDate>
     </item>
   </channel>
 </rss>
