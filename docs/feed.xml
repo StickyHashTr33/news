@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 10:29:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 11:24:25 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day</title>
+      <link>https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Israeli settlers and the military are continuing a campaign to displace Palestinians in the West Bank, residents say.</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Sun, 09 Aug 2026 10:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Press access spat adds to fears of circus around Luigi Mangione murder trial</title>
+      <link>https://www.theguardian.com/us-news/2026/aug/09/luigi-mangione-trial-press-access</link>
+      <guid>https://www.theguardian.com/us-news/2026/aug/09/luigi-mangione-trial-press-access</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Lawyers for man accused of killing healthcare CEO Brian Thompson raise red flags about limits on reportersWeeks before Luigi Mangione faces a jury over the killing of the UnitedHealthcare executive Brian Thompson, the hugely anticipated proceedings already have potential to reach trial-of-the-century status.Intense global interest in Mangione’s case is unfolding against a media landscape where news consumers expect minute-by-minute updates, a mise-en-scène now made all the more complicated by so</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Sun, 09 Aug 2026 11:00:15 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle In Progress — 1200 E MULBERRY AVE (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078948</link>
@@ -792,22 +808,6 @@ Bexar County Commissioner Grant Moody and San Antonio Councilwoman Misty Spears 
       <description>[Science &amp; Research] Keyword: genomics — A new genomic resource from the Texas A&amp;amp;M AgriLife Research plant genomics team is providing a powerful new foundation for faster, more precise turfgrass genetics and breeding. The team discovered a breakthrough genome that finally reveals the full genetic blueprint of zoysia grass.</description>
       <category>Science &amp; Research</category>
       <pubDate>Fri, 07 Aug 2026 14:20:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>The creatures born from code: Generative AI threatens to upend citizen science records</title>
-      <link>https://phys.org/news/2026-08-creatures-born-code-generative-ai.html</link>
-      <guid>https://phys.org/news/2026-08-creatures-born-code-generative-ai.html</guid>
-      <description>[Ecology &amp; Conservation] Keyword: citizen science — You need to tread carefully among the leaf litter of the Indonesian scrubland and its tropical rainforests. The dead leaves might seem caught in a gentle breeze, but there's more here than meets the eye. Try plucking one from the ground and you'll find an insect caught in the act of prayer.</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Fri, 07 Aug 2026 14:00:11 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 10500 HUEBNER RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1070573</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1070573</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1070573 | PRUE Division | 8/7/2026 12:30:12 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/7/2026 12:30:12 PM</pubDate>
     </item>
   </channel>
 </rss>
