@@ -5,8 +5,48 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 03:29:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 04:59:57 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 7400 MILKY WAY DAWN (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1077989</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1077989</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1077989 | SOUTH Division | 8/8/2026 11:41:36 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 11:41:36 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 5700 NORTH KNOLL (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1077991</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1077991</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1077991 | PRUE Division | 8/8/2026 11:41:45 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 11:41:45 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 400 ASTOR (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078014</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078014</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1078014 | EAST Division | 8/8/2026 11:45:55 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 11:45:55 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 1700 HORAL DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078019</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078019</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1078019 | WEST Division | 8/8/2026 11:46:54 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 11:46:54 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 4400 HORIZON HILL BLVD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078026</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078026</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1078026 | PRUE Division | 8/8/2026 11:48:35 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/8/2026 11:48:35 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person - Endangered — 100 HOLLYBERRY LN (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1077591</link>
@@ -768,54 +808,6 @@ Bexar County Commissioner Grant Moody and San Antonio Councilwoman Misty Spears 
       <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-1069713 | CENTRAL Division | 8/7/2026 8:56:51 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/7/2026 8:56:51 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 200 BRACKENRIDGE AVE (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069723</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069723</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1069723 | DOWNTOWN Division | 8/7/2026 8:59:19 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/7/2026 8:59:19 AM</pubDate>
-    </item>
-    <item>
-      <title>Stable kernel releases for Friday with a single bug fix</title>
-      <link>https://lwn.net/Articles/1087743/</link>
-      <guid>https://lwn.net/Articles/1087743/</guid>
-      <description>[Cybersecurity] Keyword: CVE — Greg Kroah-Hartman has announced the release of the 6.12.102, 6.6.150, 6.1.182, 5.15.215, 5.10.264 stable kernels. This round of
-stable kernel releases contains a fix for a single bug, found
-by Thomas Lamprecht, that affected several of the kernels released yesterday in
-response to a security
-vulnerability (CVE-2026-68480)
-that could allow data leakage through speculative execution.
-
-The 6.12.102 release adds the backported security fix for CVE-2026-68480 to the 6.12
-series. As always, users are</description>
-      <category>Cybersecurity</category>
-      <pubDate>Fri, 07 Aug 2026 13:35:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Diego Maradona bloated, bedridden and resigned before death, says masseur</title>
-      <link>https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Seven healthcare professionals have been on trial since mid-April in Argentina for possible negligence.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Fri, 07 Aug 2026 13:30:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 5600 UTEX BLVD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069449</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069449</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1069449 | PRUE Division | 8/7/2026 7:34:42 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/7/2026 7:34:42 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 100 QUENTIN ROOSEVELT RD (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069450</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1069450</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1069450 | SOUTH Division | 8/7/2026 7:35:13 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/7/2026 7:35:13 AM</pubDate>
     </item>
   </channel>
 </rss>
