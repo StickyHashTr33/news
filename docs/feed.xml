@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 20:36:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 21:37:40 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 5600 STONYBROOK DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1085774</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1085774</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1085774 | SOUTH Division | 8/10/2026 4:23:25 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/10/2026 4:23:25 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 1700 S GENERAL MCMULLEN (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1085787</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1085787</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1085787 | SOUTH Division | 8/10/2026 4:26:18 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/10/2026 4:26:18 PM</pubDate>
+    </item>
+    <item>
+      <title>First Came the Flock Cameras. Now Local Cops Want Autonomous Drones.</title>
+      <link>https://truthout.org/articles/first-came-the-flock-cameras-now-local-cops-want-autonomous-drones/</link>
+      <guid>https://truthout.org/articles/first-came-the-flock-cameras-now-local-cops-want-autonomous-drones/</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: Flock camera — Hundreds of local police departments have received waivers to fly surveillance drones that navigate with AI.</description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>Mon, 10 Aug 2026 20:44:49 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 600 E BASSE RD (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1085444</link>
@@ -786,30 +810,6 @@ In 2020, Russell Bicknell, an evolutionary biologist and paleobiologist at Flind
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1078205 | DOWNTOWN Division | 8/9/2026 12:36:03 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/9/2026 12:36:03 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 2800 KINGSFORD LN (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078219</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078219</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1078219 | NORTH Division | 8/9/2026 12:38:44 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/9/2026 12:38:44 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 7400 MILKY WAY DAWN (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1077989</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1077989</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1077989 | SOUTH Division | 8/8/2026 11:41:36 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 11:41:36 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 5700 NORTH KNOLL (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1077991</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1077991</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1077991 | PRUE Division | 8/8/2026 11:41:45 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 11:41:45 PM</pubDate>
     </item>
   </channel>
 </rss>
