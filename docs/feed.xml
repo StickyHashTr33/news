@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 15:56:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 16:51:40 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Many Americans underestimate health risks of extreme weather, new study finds</title>
+      <link>https://phys.org/news/2026-08-americans-underestimate-health-extreme-weather.html</link>
+      <guid>https://phys.org/news/2026-08-americans-underestimate-health-extreme-weather.html</guid>
+      <description>[Climate &amp; Environment] Keyword: global warming — A changing climate increases the health risks posed by extreme weather. However, according to the 2024 Yale Climate Opinion Maps, only 47% of U.S. survey participants believed that global warming would harm them personally.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 10 Aug 2026 12:00:06 EDT</pubDate>
+    </item>
+    <item>
+      <title>Gym rat asks AI agent to book him a class, it hacks a waitlist API to bump him up the list</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/08/10/gym-rat-asks-ai-agent-to-book-him-a-class-it-hacks-a-waitlist-api-to-bump-him-up-the-list/5285591</link>
+      <guid>https://www.theregister.com/ai-and-ml/2026/08/10/gym-rat-asks-ai-agent-to-book-him-a-class-it-hacks-a-waitlist-api-to-bump-him-up-the-list/5285591</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — What wouldst thou ask of the monkey's paw?</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Mon, 10 Aug 2026 18:45:00 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 5200 WURZBACH PKWY EB (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1084056</link>
@@ -796,22 +812,6 @@ Bexar County Commissioner Grant Moody and San Antonio Councilwoman Misty Spears 
       <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Yolŋu hip-hop artist dominates, while Butchulla duo and cousins Birdz and Fred Leone win artist of the year and Drifting Clouds takes home best new talentBaker Boy has won album, song and film clip of the year at the 2026 National Indigenous Music Awards (Nimas), paying tribute to his late grandmother who his album Djandjay is named for.The Yolŋu hip-hop artist, whose name is Danzal Baker, won three awards for his sophomore album Djandjay, including song of the year and film clip of the year for</description>
       <category>Indigenous News &amp; Tribal Sovereignty</category>
       <pubDate>Sat, 08 Aug 2026 22:06:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 8800 JONES MALTSBERGER RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1076162</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1076162</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1076162 | NORTH Division | 8/8/2026 4:10:42 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 4:10:42 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 2000 N ST MARY'S ST (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1076173</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1076173</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1076173 | DOWNTOWN Division | 8/8/2026 4:13:10 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 4:13:10 PM</pubDate>
     </item>
   </channel>
 </rss>
