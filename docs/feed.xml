@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 12:56:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 14:19:28 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How climate change is reshaping Africa's malaria risk</title>
+      <link>https://www.dw.com/en/how-climate-change-is-reshaping-africa-s-malaria-risk/a-78304711?maca=en-rss-en-all-1573-rdf</link>
+      <guid>https://www.dw.com/en/how-climate-change-is-reshaping-africa-s-malaria-risk/a-78304711?maca=en-rss-en-all-1573-rdf</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Researchers say warming temperatures are altering malaria transmission patterns across Africa, creating new challenges for health systems and disease control.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>2026-08-10T13:24:00Z</pubDate>
+    </item>
+    <item>
+      <title>State of the Climate: A Dimming, Overheated Planet, With Degraded Oceans</title>
+      <link>https://insideclimatenews.org/news/10082026/global-warming-record-high-temperatures/</link>
+      <guid>https://insideclimatenews.org/news/10082026/global-warming-record-high-temperatures/</guid>
+      <description>[Climate &amp; Environment] Keyword: global warming — As global warming continued to reshape Earth’s climate, the planet’s oceans reached record high temperatures for the third year in a row in 2025. Some northern forests and tundra released more carbon dioxide than they absorbed. And the Greenland Ice Sheet lost about 129 gigatons of ice, enough to form a cube of ice about [&amp;#8230;]</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 10 Aug 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>As El Niño and heatwaves dry up fields, governments must act fast</title>
+      <link>https://www.commondreams.org/newswire/as-el-nino-and-heatwaves-dry-up-fields-governments-must-act-fast</link>
+      <guid>https://www.commondreams.org/newswire/as-el-nino-and-heatwaves-dry-up-fields-governments-must-act-fast</guid>
+      <description>[Open Source Software] Keyword: FOSS — Climate campaigners warned that record high temperatures and a strong El Niño is resulting in severe drought in many countries, hitting crop yields and raising food prices. 350.org urged governments to move fast to protect farming communities and consumers, and mobilize the necessary funds through higher, permanent taxes on fossil fuel profits.As the world’s top oil and gas companies banked $93 billion in second quarter profits, the UN warned that 49 million people may be facing acute hunger due</description>
+      <category>Open Source Software</category>
+      <pubDate>Mon, 10 Aug 2026 12:30:53 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 9000 ROCK CLIFF (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1083256</link>
@@ -787,30 +811,6 @@ Bexar County Commissioner Grant Moody and San Antonio Councilwoman Misty Spears 
       <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1075506 | EAST Division | 8/8/2026 1:19:54 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/8/2026 1:19:54 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — 5000 RISADA (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075510</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075510</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1075510 | NORTH Division | 8/8/2026 1:20:18 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 1:20:18 PM</pubDate>
-    </item>
-    <item>
-      <title>Butterfly ranges shift worldwide amid climate change, with most species expanding their reach</title>
-      <link>https://phys.org/news/2026-08-butterfly-ranges-shift-worldwide-climate.html</link>
-      <guid>https://phys.org/news/2026-08-butterfly-ranges-shift-worldwide-climate.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — A global analysis of range-shift records for 1,758 butterfly species—10% of known butterfly species—found that 80% had expanded their range and that 79% of all recorded range shifts were linked to climate change and extreme weather events. The new study, published in Nature Ecology &amp; Evolution, also reports range contractions for 27% of species, and 22% of species showed a change in elevation. Because many species exhibited multiple types of range shifts, the percentages for expansions, contract</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Sat, 08 Aug 2026 13:40:04 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 4400 HORIZON HILL BLVD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075248</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1075248</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1075248 | PRUE Division | 8/8/2026 12:07:17 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 12:07:17 PM</pubDate>
     </item>
   </channel>
 </rss>
