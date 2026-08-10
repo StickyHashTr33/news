@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 18:50:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 19:52:49 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 3400 NORTHMOOR LN (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1085271</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1085271</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1085271 | PRUE Division | 8/10/2026 2:39:39 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/10/2026 2:39:39 PM</pubDate>
+    </item>
+    <item>
+      <title>Climate change could mean four extra hours of extreme heat on hot days</title>
+      <link>https://phys.org/news/2026-08-climate-extra-hours-extreme-hot.html</link>
+      <guid>https://phys.org/news/2026-08-climate-extra-hours-extreme-hot.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Hot days could gain more than four additional hours of extreme heat by the end of the 21st century under a high-emissions scenario, according to a modeling study published in Nature Climate Change. The findings show that hourly assessments can capture heat exposure overlooked by daily metrics and could support more effective heat risk management and public health planning.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 10 Aug 2026 15:40:05 EDT</pubDate>
+    </item>
+    <item>
+      <title>Arctic fossil abandoned in 1948 proves to be record-size Triassic hunter</title>
+      <link>https://phys.org/news/2026-08-arctic-fossil-abandoned-size-triassic.html</link>
+      <guid>https://phys.org/news/2026-08-arctic-fossil-abandoned-size-triassic.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — Nearly 80 years ago, a British expedition discovered the battered remains of a giant fossil on the peak of an Arctic island. Unable to take it with them, they snapped some pictures, took some bones and left the fossil to be ravaged by the icy winds and rain. Little did they know it would be found again decades later and turn out to be the first of its kind and a giant among its peers.</description>
+      <category>Open Source Software</category>
+      <pubDate>Mon, 10 Aug 2026 15:20:05 EDT</pubDate>
+    </item>
+    <item>
+      <title>Ocean Temperatures in July Broke Record Due to Fossil Fuel-Driven Super El Niño</title>
+      <link>https://truthout.org/articles/ocean-temperatures-in-july-broke-record-due-to-fossil-fuel-driven-super-el-nino/</link>
+      <guid>https://truthout.org/articles/ocean-temperatures-in-july-broke-record-due-to-fossil-fuel-driven-super-el-nino/</guid>
+      <description>[Open Source Software] Keyword: FOSS — “With Big Oil’s earnings skyrocketing while a global food crisis looms, now is the time to act,” said one activist.</description>
+      <category>Open Source Software</category>
+      <pubDate>Mon, 10 Aug 2026 19:28:40 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 5700 NORTH KNOLL (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1084977</link>
@@ -778,38 +810,6 @@ In 2020, Russell Bicknell, an evolutionary biologist and paleobiologist at Flind
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1078019 | WEST Division | 8/8/2026 11:46:54 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/8/2026 11:46:54 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 4400 HORIZON HILL BLVD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078026</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078026</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1078026 | PRUE Division | 8/8/2026 11:48:35 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 11:48:35 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — 100 HOLLYBERRY LN (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1077591</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1077591</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1077591 | SOUTH Division | 8/8/2026 10:17:51 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 10:17:51 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 2600 BABCOCK RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1077593</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1077593</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1077593 | PRUE Division | 8/8/2026 10:18:04 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 10:18:04 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 2700 SE MILITARY DR (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1077594</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1077594</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1077594 | SOUTH Division | 8/8/2026 10:18:06 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 10:18:06 PM</pubDate>
     </item>
   </channel>
 </rss>
