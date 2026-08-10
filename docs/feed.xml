@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 19:52:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 20:36:42 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 600 E BASSE RD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1085444</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1085444</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1085444 | NORTH Division | 8/10/2026 3:15:46 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/10/2026 3:15:46 PM</pubDate>
+    </item>
+    <item>
+      <title>Zuck rekindles open weights Llama drama with Muse Glimmer</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/08/10/zuck-rekindles-open-weights-llama-drama-with-muse-glimmer/5285666</link>
+      <guid>https://www.theregister.com/ai-and-ml/2026/08/10/zuck-rekindles-open-weights-llama-drama-with-muse-glimmer/5285666</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — 30-billion parameter LLM, Meta's first in more than a year, signals Meta's return to the open weights arena. Open version of Muse Spark to follow</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Mon, 10 Aug 2026 22:05:48 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 3400 NORTHMOOR LN (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1085271</link>
@@ -794,22 +810,6 @@ In 2020, Russell Bicknell, an evolutionary biologist and paleobiologist at Flind
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1077991 | PRUE Division | 8/8/2026 11:41:45 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/8/2026 11:41:45 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 400 ASTOR (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078014</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078014</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1078014 | EAST Division | 8/8/2026 11:45:55 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 11:45:55 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 1700 HORAL DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078019</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078019</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1078019 | WEST Division | 8/8/2026 11:46:54 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 11:46:54 PM</pubDate>
     </item>
   </channel>
 </rss>
