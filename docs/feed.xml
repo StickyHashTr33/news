@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 22:32:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 23:30:26 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>US had hottest month on record in July</title>
+      <link>https://phys.org/news/2026-08-hottest-month-july.html</link>
+      <guid>https://phys.org/news/2026-08-hottest-month-july.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — July 2026 marked the hottest month on record for the contiguous United States, the National Oceanic and Atmospheric Administration said Monday, continuing a recent trend driven by human-caused climate change.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 10 Aug 2026 18:40:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 9700 VALLEY CREST (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1086042</link>
@@ -802,14 +810,6 @@ In 2020, Russell Bicknell, an evolutionary biologist and paleobiologist at Flind
       <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1078887 | WEST Division | 8/9/2026 4:22:38 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/9/2026 4:22:38 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 600 RICHLAND HILLS DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078888</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078888</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1078888 | WEST Division | 8/9/2026 4:22:53 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/9/2026 4:22:53 AM</pubDate>
     </item>
   </channel>
 </rss>
