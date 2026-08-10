@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 01:19:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 03:49:39 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 1300 BUENA VISTA ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1082118</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1082118</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1082118 | CENTRAL Division | 8/9/2026 10:34:18 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/9/2026 10:34:18 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 13200 NACOGDOCHES RD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1082119</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1082119</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1082119 | NORTH Division | 8/9/2026 10:34:20 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/9/2026 10:34:20 PM</pubDate>
+    </item>
+    <item>
+      <title>World’s seas have hit hottest temperature on record for July, say scientists</title>
+      <link>https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists</link>
+      <guid>https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Average sea surface temperature outside polar regions was highest on record for July, beating previous high in 2023The world’s seas were hotter last month than in any July on record, scientists have said, as devastating heat struck western Europe.Sea surface temperatures hit record highs for July on the Atlantic coast and western Mediterranean, the EU’s Copernicus climate change service found, with severe marine heatwaves roiling Europe’s seas. Globally, the average sea surface temperature outsi</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 10 Aug 2026 02:00:31 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 1000 W WOODLAWN AVE (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1081627</link>
@@ -786,30 +810,6 @@ Bexar County Commissioner Grant Moody and San Antonio Councilwoman Misty Spears 
       <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1074055 | SOUTH Division | 8/8/2026 3:55:55 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/8/2026 3:55:55 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 6800 N LOOP 1604 W (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074068</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074068</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1074068 | PRUE Division | 8/8/2026 4:02:37 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 4:02:37 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 22600 US HWY 281 N (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074073</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074073</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1074073 | NORTH Division | 8/8/2026 4:07:47 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 4:07:47 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Robbery — 100 N LOOP 1604 W (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074094</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074094</guid>
-      <description>[SAPD Calls for Service] Keyword: Robbery — Incident #SAPD-2026-1074094 | NORTH Division | 8/8/2026 4:19:16 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 4:19:16 AM</pubDate>
     </item>
   </channel>
 </rss>
