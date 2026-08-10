@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 23:26:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 01:19:56 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 1000 W WOODLAWN AVE (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1081627</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1081627</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1081627 | DOWNTOWN Division | 8/9/2026 7:59:33 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/9/2026 7:59:33 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 23100 CARDIGAN CHASE (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1081639</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1081639</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1081639 | NORTH Division | 8/9/2026 8:01:33 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/9/2026 8:01:33 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 1300 SW LOOP 410 (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1081070</link>
@@ -794,22 +810,6 @@ Bexar County Commissioner Grant Moody and San Antonio Councilwoman Misty Spears 
       <description>[SAPD Calls for Service] Keyword: Robbery — Incident #SAPD-2026-1074094 | NORTH Division | 8/8/2026 4:19:16 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/8/2026 4:19:16 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 1500 AUSTIN HWY (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074100</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1074100</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1074100 | EAST Division | 8/8/2026 4:21:40 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 4:21:40 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 14200 BITTERNUT WOODS (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073946</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1073946</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1073946 | PRUE Division | 8/8/2026 3:08:06 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 3:08:06 AM</pubDate>
     </item>
   </channel>
 </rss>
