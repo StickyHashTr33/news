@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 16:51:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 17:48:35 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 5500 FOSSIL WAY (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1084698</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1084698</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1084698 | EAST Division | 8/10/2026 12:37:16 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/10/2026 12:37:16 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Robbery of Individual — 5900 EISENHAUER RD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1084710</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1084710</guid>
+      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1084710 | EAST Division | 8/10/2026 12:38:23 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/10/2026 12:38:23 PM</pubDate>
+    </item>
     <item>
       <title>Many Americans underestimate health risks of extreme weather, new study finds</title>
       <link>https://phys.org/news/2026-08-americans-underestimate-health-extreme-weather.html</link>
@@ -796,22 +812,6 @@ Bexar County Commissioner Grant Moody and San Antonio Councilwoman Misty Spears 
       <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1076639 | PRUE Division | 8/8/2026 6:12:02 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/8/2026 6:12:02 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 100 GAYLE AVE (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1076644</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1076644</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1076644 | EAST Division | 8/8/2026 6:13:36 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/8/2026 6:13:36 PM</pubDate>
-    </item>
-    <item>
-      <title>National Indigenous Music awards 2026: Baker Boy wins big, including album and song of the year</title>
-      <link>https://www.theguardian.com/music/2026/aug/09/nimas-2026-winners-national-indigenous-music-awards-baker-boy-djandjay</link>
-      <guid>https://www.theguardian.com/music/2026/aug/09/nimas-2026-winners-national-indigenous-music-awards-baker-boy-djandjay</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Yolŋu hip-hop artist dominates, while Butchulla duo and cousins Birdz and Fred Leone win artist of the year and Drifting Clouds takes home best new talentBaker Boy has won album, song and film clip of the year at the 2026 National Indigenous Music Awards (Nimas), paying tribute to his late grandmother who his album Djandjay is named for.The Yolŋu hip-hop artist, whose name is Danzal Baker, won three awards for his sophomore album Djandjay, including song of the year and film clip of the year for</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Sat, 08 Aug 2026 22:06:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
