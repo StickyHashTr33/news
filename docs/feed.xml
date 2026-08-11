@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 12:53:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 14:17:59 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 1100 N FRIO ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1088693</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1088693</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1088693 | CENTRAL Division | 8/11/2026 9:07:39 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/11/2026 9:07:39 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 8300 LAKE VISTA (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1088353</link>
@@ -802,14 +810,6 @@ The post Commentary: Will the Real USDA Reorganization Plan Please Stand Up? app
       <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1081627 | DOWNTOWN Division | 8/9/2026 7:59:33 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/9/2026 7:59:33 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 23100 CARDIGAN CHASE (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1081639</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1081639</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1081639 | NORTH Division | 8/9/2026 8:01:33 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/9/2026 8:01:33 PM</pubDate>
     </item>
   </channel>
 </rss>
