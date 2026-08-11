@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 17:54:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 18:56:23 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 100 KANSAS (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1090130</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1090130</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1090130 | EAST Division | 8/11/2026 1:41:07 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/11/2026 1:41:07 PM</pubDate>
+    </item>
+    <item>
+      <title>Brazil’s Supreme Court to weigh cases that could weaken Amazon protections</title>
+      <link>https://www.aljazeera.com/news/2026/8/11/brazils-supreme-court-to-weigh-cases-that-could-weaken-amazon-protections?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/news/2026/8/11/brazils-supreme-court-to-weigh-cases-that-could-weaken-amazon-protections?traffic_source=rss</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — The rulings could affect Indigenous land rights, soya farming and environmental safeguards across the Amazon rainforest.</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Tue, 11 Aug 2026 18:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biocultural families: Study centers Indigenous priorities in connections to environment</title>
+      <link>https://phys.org/news/2026-08-biocultural-families-centers-indigenous-priorities.html</link>
+      <guid>https://phys.org/news/2026-08-biocultural-families-centers-indigenous-priorities.html</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Washington State University horticulturist Jeffrey Wall partnered with members of the Mi'kmaq First Nations people of Canada to create a new, Indigenous-centered model of the connections that link humans with plants, animals and the environment.</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Tue, 11 Aug 2026 14:00:07 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 1700 BURNET ST (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1089864</link>
@@ -787,30 +811,6 @@ The post Commentary: Will the Real USDA Reorganization Plan Please Stand Up? app
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1082832 | SOUTH Division | 8/10/2026 3:27:07 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/10/2026 3:27:07 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 600 E BASSE RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1082862</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1082862</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1082862 | NORTH Division | 8/10/2026 3:48:08 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/10/2026 3:48:08 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 1200 AVANT AVE (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1082874</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1082874</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1082874 | EAST Division | 8/10/2026 3:53:36 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/10/2026 3:53:36 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 1700 PINN RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1082877</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1082877</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1082877 | WEST Division | 8/10/2026 3:55:38 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/10/2026 3:55:38 AM</pubDate>
     </item>
   </channel>
 </rss>
