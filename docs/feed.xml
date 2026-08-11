@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 03:39:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 05:03:04 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 5000 FREDERICKSBURG RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1087492</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1087492</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1087492 | PRUE Division | 8/10/2026 11:52:48 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/10/2026 11:52:48 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 100 BOWDOIN ST (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1087194</link>
@@ -802,14 +810,6 @@ In 2020, Russell Bicknell, an evolutionary biologist and paleobiologist at Flind
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The city projected a 60-month timeline to design and build the NBA arena, but county leaders haven't set up the hotel tax to help fund it.Nearly a year later, Bexar County still isn&amp;#8217;t collecting new taxes for Spurs arena was first posted on August 9, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me </description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Sun, 09 Aug 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 3200 GOLDEN AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078877</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078877</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1078877 | SOUTH Division | 8/9/2026 4:17:33 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/9/2026 4:17:33 AM</pubDate>
     </item>
   </channel>
 </rss>
