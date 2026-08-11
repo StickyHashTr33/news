@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 14:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 15:57:03 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Feds warn Gunra ransomware is exploiting known bugs to hit critical infrastructure</title>
+      <link>https://www.theregister.com/cyber-crime/2026/08/11/feds-warn-gunra-ransomware-is-exploiting-known-bugs-to-hit-critical-infrastructure/5286263</link>
+      <guid>https://www.theregister.com/cyber-crime/2026/08/11/feds-warn-gunra-ransomware-is-exploiting-known-bugs-to-hit-critical-infrastructure/5286263</guid>
+      <description>[Cybersecurity] Keyword: ransomware — Newly minted RaaS crew breaks in through using internet-facing kit via known Fortinet flaws, then steals and scrambles data</description>
+      <category>Cybersecurity</category>
+      <pubDate>Tue, 11 Aug 2026 16:36:00 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 1100 N FRIO ST (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1088693</link>
@@ -802,14 +810,6 @@ The post Commentary: Will the Real USDA Reorganization Plan Please Stand Up? app
       <description>[Climate &amp; Environment] Keyword: climate change — Average sea surface temperature outside polar regions was highest on record for July, beating previous high in 2023The world’s seas were hotter last month than in any July on record, scientists have said, as devastating heat struck western Europe.Sea surface temperatures hit record highs for July on the Atlantic coast and western Mediterranean, the EU’s Copernicus climate change service found, with severe marine heatwaves roiling Europe’s seas. Globally, the average sea surface temperature outsi</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Mon, 10 Aug 2026 02:00:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 1000 W WOODLAWN AVE (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1081627</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1081627</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1081627 | DOWNTOWN Division | 8/9/2026 7:59:33 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/9/2026 7:59:33 PM</pubDate>
     </item>
   </channel>
 </rss>
