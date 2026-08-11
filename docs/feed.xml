@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 11:40:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 12:53:26 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 8300 LAKE VISTA (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1088353</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1088353</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1088353 | SOUTH Division | 8/11/2026 7:38:11 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/11/2026 7:38:11 AM</pubDate>
+    </item>
+    <item>
+      <title>New tech adds phone tracking to license plate readers, associating devices with identifiable cars</title>
+      <link>https://theconversation.com/new-tech-adds-phone-tracking-to-license-plate-readers-associating-devices-with-identifiable-cars-288876</link>
+      <guid>https://theconversation.com/new-tech-adds-phone-tracking-to-license-plate-readers-associating-devices-with-identifiable-cars-288876</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: license plate reader — License plate readers are widely used in the US. A new product marketed to police departments promises to add the ability to sense phones and other devices in passing cars.</description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>2026-08-11T12:31:35Z</pubDate>
+    </item>
+    <item>
+      <title>AI agent hacks gym to get its owner spot in pilates class</title>
+      <link>https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Tue, 11 Aug 2026 12:09:26 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — MEDICAL DR / BABCOCK RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1088118</link>
@@ -786,30 +810,6 @@ The post Commentary: Will the Real USDA Reorganization Plan Please Stand Up? app
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1081639 | NORTH Division | 8/9/2026 8:01:33 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/9/2026 8:01:33 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 1300 SW LOOP 410 (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1081070</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1081070</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1081070 | WEST Division | 8/9/2026 5:09:56 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/9/2026 5:09:56 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 8300 ECKHERT RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1081075</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1081075</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1081075 | PRUE Division | 8/9/2026 5:11:32 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/9/2026 5:11:32 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 1400 BABCOCK RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1080852</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1080852</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1080852 | WEST Division | 8/9/2026 4:15:09 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/9/2026 4:15:09 PM</pubDate>
     </item>
   </channel>
 </rss>
