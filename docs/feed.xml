@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 01:18:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 03:39:25 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 100 BOWDOIN ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1087194</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1087194</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1087194 | CENTRAL Division | 8/10/2026 10:20:19 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/10/2026 10:20:19 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 700 W HOUSTON ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1087223</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1087223</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1087223 | CENTRAL Division | 8/10/2026 10:29:01 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/10/2026 10:29:01 PM</pubDate>
+    </item>
     <item>
       <title>Microplastics may transport hazardous plastic additives through marine environments</title>
       <link>https://phys.org/news/2026-08-microplastics-hazardous-plastic-additives-marine.html</link>
@@ -794,22 +810,6 @@ In 2020, Russell Bicknell, an evolutionary biologist and paleobiologist at Flind
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1078877 | SOUTH Division | 8/9/2026 4:17:33 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/9/2026 4:17:33 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 5500 PECAN SPRINGS RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078878</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078878</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1078878 | PRUE Division | 8/9/2026 4:17:36 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/9/2026 4:17:36 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 6100 VANCE JACKSON (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078881</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078881</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1078881 | PRUE Division | 8/9/2026 4:19:19 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/9/2026 4:19:19 AM</pubDate>
     </item>
   </channel>
 </rss>
