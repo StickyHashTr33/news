@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 23:30:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 01:18:07 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Microplastics may transport hazardous plastic additives through marine environments</title>
+      <link>https://phys.org/news/2026-08-microplastics-hazardous-plastic-additives-marine.html</link>
+      <guid>https://phys.org/news/2026-08-microplastics-hazardous-plastic-additives-marine.html</guid>
+      <description>[Climate &amp; Environment] Keyword: plastic pollution — Plastic pollution is not only a marine litter issue; it is also closely linked to resource circulation and chemical management. Plastic products contain a wide range of additives, including antioxidants, plasticizers, ultraviolet stabilizers and flame retardants. Some of these chemicals are regulated or managed because of concerns about their effects on human health and ecosystems.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 10 Aug 2026 20:00:01 EDT</pubDate>
+    </item>
     <item>
       <title>US had hottest month on record in July</title>
       <link>https://phys.org/news/2026-08-hottest-month-july.html</link>
@@ -802,14 +810,6 @@ In 2020, Russell Bicknell, an evolutionary biologist and paleobiologist at Flind
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1078881 | PRUE Division | 8/9/2026 4:19:19 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/9/2026 4:19:19 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 800 CATALINA AVE (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078887</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1078887</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1078887 | WEST Division | 8/9/2026 4:22:38 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/9/2026 4:22:38 AM</pubDate>
     </item>
   </channel>
 </rss>
