@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 20:52:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 21:40:37 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 100 E THOMPSON PLACE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1096274</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1096274</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1096274 | SOUTH Division | 8/12/2026 4:28:57 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/12/2026 4:28:57 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 17600 HENDERSON PASS (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1096277</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1096277</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1096277 | NORTH Division | 8/12/2026 4:29:34 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/12/2026 4:29:34 PM</pubDate>
+    </item>
+    <item>
+      <title>City leaders hope a Democratic wave election will protect Pre-K 4 SA from future cuts</title>
+      <link>https://sanantonioreport.org/san-antonio-city-council-pre-k-4-sa-nov-3-2026-midterm-ballot/</link>
+      <guid>https://sanantonioreport.org/san-antonio-city-council-pre-k-4-sa-nov-3-2026-midterm-ballot/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — By putting Pre-K 4 SA funding out to voters well ahead of the deadline, the council hopes to take advantage of Democratic enthusiasm from the midterms.City leaders hope a Democratic wave election will protect Pre-K 4 SA from future cuts was first posted on August 12, 2026 at 4:30 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please </description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Wed, 12 Aug 2026 21:30:11 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 600 CORLISS (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1095999</link>
@@ -788,30 +812,6 @@ The post The Farm Bill Fight That Will Shape Rural Broadband appeared first on T
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1088029 | SOUTH Division | 8/11/2026 4:12:21 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/11/2026 4:12:21 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 1700 HAYS ST (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1088038</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1088038</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1088038 | EAST Division | 8/11/2026 4:19:39 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/11/2026 4:19:39 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Shooting In Progress — 5700 WALZEM RD (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1088041</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1088041</guid>
-      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1088041 | EAST Division | 8/11/2026 4:21:41 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/11/2026 4:21:41 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 4300 CULEBRA RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1088049</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1088049</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1088049 | WEST Division | 8/11/2026 4:30:00 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/11/2026 4:30:00 AM</pubDate>
     </item>
   </channel>
 </rss>
