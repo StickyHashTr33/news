@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 01:26:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 04:03:08 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 10100 SHADYGLEN (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1092452</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1092452</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1092452 | PRUE Division | 8/11/2026 10:40:56 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/11/2026 10:40:56 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 8800 VILLAGE DR (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1091962</link>
@@ -803,14 +811,6 @@ The post The Farm Bill Fight That Will Shape Rural Broadband appeared first on T
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Upon reaching the age of 80, men and women are living longer than ever before.  These gains in longevity among octogenarians represent a remarkable demographic achievement. The additional years of life provide new opportunities for older adults and their families while also presenting important social, economic, and healthcare challenges for societies. In 1950, the global [&amp;#8230;]</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Mon, 10 Aug 2026 14:24:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>How climate change is reshaping Africa's malaria risk</title>
-      <link>https://www.dw.com/en/how-climate-change-is-reshaping-africa-s-malaria-risk/a-78304711?maca=en-rss-en-all-1573-rdf</link>
-      <guid>https://www.dw.com/en/how-climate-change-is-reshaping-africa-s-malaria-risk/a-78304711?maca=en-rss-en-all-1573-rdf</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Researchers say warming temperatures are altering malaria transmission patterns across Africa, creating new challenges for health systems and disease control.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>2026-08-10T13:24:00Z</pubDate>
     </item>
   </channel>
 </rss>
