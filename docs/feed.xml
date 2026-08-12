@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 18:56:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 19:59:50 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 6300 BABCOCK RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1095710</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1095710</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1095710 | PRUE Division | 8/12/2026 2:48:50 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/12/2026 2:48:50 PM</pubDate>
+    </item>
     <item>
       <title>Ancient penguin fossils offer new window into Antarctica's changing climate</title>
       <link>https://phys.org/news/2026-08-ancient-penguin-fossils-window-antarctica.html</link>
@@ -804,14 +812,6 @@ The post The Farm Bill Fight That Will Shape Rural Broadband appeared first on T
       <description>[Open Source Software] Keyword: FOSS — Last week reporters Jillian Ambrose and Damian Carrington published a piece which revealed that biggest oil firms made $93bn in profits in three months amid the war in Iran and the climate crisis. They will be online at 2pm BST to discuss their story and any other questions you might have Ask a question: log in or sign up hereLast week Jillian Ambrose and Damian Carrington published a front-page story that revealed the vast scale of the profits that eight of the biggest oil firms made in three m</description>
       <category>Open Source Software</category>
       <pubDate>Tue, 11 Aug 2026 07:23:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alibaba Cloud is using AI to help it use less AI</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/08/11/alibaba-cloud-is-using-ai-to-help-it-use-less-ai/5285815</link>
-      <guid>https://www.theregister.com/ai-and-ml/2026/08/11/alibaba-cloud-is-using-ai-to-help-it-use-less-ai/5285815</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — Solves tech support tickets faster and more accurately by keeping them away from LLMs</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Tue, 11 Aug 2026 02:48:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
