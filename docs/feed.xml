@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 15:55:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 16:53:53 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 9800 MCCULLOUGH AVE (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1094820</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1094820</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1094820 | NORTH Division | 8/12/2026 11:38:35 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/12/2026 11:38:35 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 4900 NW LOOP 410 (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1094534</link>
@@ -804,14 +812,6 @@ The post The Farm Bill Fight That Will Shape Rural Broadband appeared first on T
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1087767 | PRUE Division | 8/11/2026 1:42:18 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/11/2026 1:42:18 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 1200 S ZARZAMORA ST (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1087784</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1087784</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1087784 | CENTRAL Division | 8/11/2026 1:48:49 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/11/2026 1:48:49 AM</pubDate>
     </item>
   </channel>
 </rss>
