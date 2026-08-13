@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 14:23:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 15:55:11 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Alito’s Assets in Fossil Fuels Have Grown by Up to $2.9 Million, Analysis Finds</title>
+      <link>https://truthout.org/articles/alitos-assets-in-fossil-fuels-have-grown-by-up-to-2-9-million-analysis-finds/</link>
+      <guid>https://truthout.org/articles/alitos-assets-in-fossil-fuels-have-grown-by-up-to-2-9-million-analysis-finds/</guid>
+      <description>[Open Source Software] Keyword: FOSS — Recent polling indicates that Alito has a -7 point approval rating among Americans.</description>
+      <category>Open Source Software</category>
+      <pubDate>Thu, 13 Aug 2026 15:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>The backup Microsoft never promised you</title>
+      <link>https://www.theregister.com/security/2026/08/13/sponsored-the-backup-microsoft-never-promised-you/5284957</link>
+      <guid>https://www.theregister.com/security/2026/08/13/sponsored-the-backup-microsoft-never-promised-you/5284957</guid>
+      <description>[Cybersecurity] Keyword: ransomware — SPONSORED FEATURE: Your M365 and Azure data might not be as safe as you think from ransomware; time for a reality check</description>
+      <category>Cybersecurity</category>
+      <pubDate>Thu, 13 Aug 2026 17:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Greater vegetable diversity needed for healthier diets and climate-resilient agriculture</title>
       <link>https://phys.org/news/2026-08-greater-vegetable-diversity-healthier-diets.html</link>
@@ -805,22 +821,6 @@ Countries worldwide are exploring a range of ways to transition to low-carbon en
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A Toyota manufacturing plant on San Antonio's South Side has suddenly found itself at the center of the political universe, with White House officials holding it up as a beacon of President Donald Trump's manufacturing resurgence.The Trump administration wants credit for bringing the Tacoma home. Toyota says otherwise. was first posted on August 11, 2026 at 6:06 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this art</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Tue, 11 Aug 2026 23:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 4900 CREEKMOOR DR (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1091241</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1091241</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1091241 | EAST Division | 8/11/2026 5:23:25 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/11/2026 5:23:25 PM</pubDate>
-    </item>
-    <item>
-      <title>Porous material can arrange disordered gas molecules into a crystal-like structure, study predicts</title>
-      <link>https://phys.org/news/2026-08-porous-material-disordered-gas-molecules.html</link>
-      <guid>https://phys.org/news/2026-08-porous-material-disordered-gas-molecules.html</guid>
-      <description>[Climate &amp; Environment] Keyword: global warming — Capturing carbon or storing hydrogen to combat global warming requires compressing gases into sponge-like porous materials. Until now, gas molecules were thought to adsorb in a disordered manner throughout the pores. But what if invisible gas molecules could be lined up in regular order—like ice crystals or LEGO bricks?</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 11 Aug 2026 18:20:05 EDT</pubDate>
     </item>
   </channel>
 </rss>
