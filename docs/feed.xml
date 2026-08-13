@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 11:03:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 12:58:59 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 800 ST CLOUD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1098830</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1098830</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1098830 | WEST Division | 8/13/2026 7:45:33 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/13/2026 7:45:33 AM</pubDate>
+    </item>
+    <item>
+      <title>Trump administration finalizes rule to end federal support for gender-affirming care</title>
+      <link>https://www.theguardian.com/us-news/2026/aug/13/trump-administration-gender-affirming-care</link>
+      <guid>https://www.theguardian.com/us-news/2026/aug/13/trump-administration-gender-affirming-care</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Move blocking funds through Medicaid and Chip to make it harder for vulnerable children to get healthcare, experts sayThe Trump administration finalized a rule on Tuesday to end gender-affirming care through Medicaid and the Children’s Health Insurance Program (Chip), a move that will make it harder for vulnerable children to access healthcare and that eschews evidence to advance an anti-transgender ideology, opponents say.The rule is set to take effect on 13 October – but legal challenges could</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Thu, 13 Aug 2026 11:00:56 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 500 DRESDEN DR (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1098551</link>
@@ -794,22 +810,6 @@ Countries worldwide are exploring a range of ways to transition to low-carbon en
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1090988 | PRUE Division | 8/11/2026 4:29:45 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/11/2026 4:29:45 PM</pubDate>
-    </item>
-    <item>
-      <title>In Gaza’s tents, widows face war’s harshest realities alone</title>
-      <link>https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss</guid>
-      <description>[Housing &amp; Gentrification] Keyword: displacement — Widows in Gaza struggle alone under displacement, burdened by loss, insecurity, and daily battles for survival.</description>
-      <category>Housing &amp; Gentrification</category>
-      <pubDate>Tue, 11 Aug 2026 20:30:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — 4800 LORD RD (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1090686</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1090686</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1090686 | EAST Division | 8/11/2026 3:32:47 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/11/2026 3:32:47 PM</pubDate>
     </item>
   </channel>
 </rss>
