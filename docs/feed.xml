@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 21:40:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 22:36:14 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 3200 WEIR AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1101311</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1101311</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1101311 | SOUTH Division | 8/13/2026 5:22:32 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/13/2026 5:22:32 PM</pubDate>
+    </item>
+    <item>
+      <title>Butterfly effects of climate change</title>
+      <link>https://phys.org/news/2026-08-butterfly-effects-climate.html</link>
+      <guid>https://phys.org/news/2026-08-butterfly-effects-climate.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — The Australian National Insect Collection at CSIRO holds 2,000 drawers of butterfly specimens, including some that were collected more than a century ago.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 13 Aug 2026 18:00:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 5700 WHITE FEATHER (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1101058</link>
@@ -806,22 +822,6 @@ Countries worldwide are exploring a range of ways to transition to low-carbon en
       <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1093382 | PRUE Division | 8/12/2026 6:24:31 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/12/2026 6:24:31 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 7500 POTRANCO RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1093392</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1093392</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1093392 | WEST Division | 8/12/2026 6:32:57 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/12/2026 6:32:57 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 4600 S HACKBERRY ST (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1093396</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1093396</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1093396 | SOUTH Division | 8/12/2026 6:35:50 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/12/2026 6:35:50 AM</pubDate>
     </item>
   </channel>
 </rss>
