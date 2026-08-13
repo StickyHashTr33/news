@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 16:52:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 17:55:01 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 7400 UNIVERSITY ROW (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1100016</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1100016</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1100016 | PRUE Division | 8/13/2026 12:34:48 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/13/2026 12:34:48 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 800 N NEW BRAUNFELS AVE (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1100039</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1100039</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1100039 | EAST Division | 8/13/2026 12:42:45 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/13/2026 12:42:45 PM</pubDate>
+    </item>
+    <item>
+      <title>Climate change decided who ruled as top predator 35 million years ago</title>
+      <link>https://phys.org/news/2026-08-climate-predator-million-years.html</link>
+      <guid>https://phys.org/news/2026-08-climate-predator-million-years.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — An international team of researchers from Belgium, France, Switzerland, Spain and the U.S. has reconstructed the evolution of body mass in carnivorous mammals during the Paleogene—a crucial window in the diversification of mammals that followed the extinction of dinosaurs. This work, published in Biology Letters, challenges the long-standing hypothesis that competition decided the fate of ancient top predators.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 13 Aug 2026 13:40:03 EDT</pubDate>
+    </item>
+    <item>
+      <title>Eastside senior center and indoor pool plans advance with $46M in TIRZ funding</title>
+      <link>https://sanantonioreport.org/eastside-senior-center-and-indoor-pool-plans-advance-tirz-funding/</link>
+      <guid>https://sanantonioreport.org/eastside-senior-center-and-indoor-pool-plans-advance-tirz-funding/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The Inner City Tax Increment Reinvestment Zone board voted in favor of issuing debt for constructing the 30,000-square-foot facility and an aquatics center.Eastside senior center and indoor pool plans advance with $46M in TIRZ funding was first posted on August 13, 2026 at 12:05 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please c</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Thu, 13 Aug 2026 17:05:04 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 500 TOMAR DR (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1099789</link>
@@ -789,38 +821,6 @@ Countries worldwide are exploring a range of ways to transition to low-carbon en
       <description>[Climate &amp; Environment] Keyword: climate change — Once used to defend Britain's shores against Napoleonic France, the Ordnance Survey's detailed maps are now essential for tracking and adapting to climate change.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Wed, 12 Aug 2026 04:10:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 10100 SHADYGLEN (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1092452</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1092452</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1092452 | PRUE Division | 8/11/2026 10:40:56 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/11/2026 10:40:56 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 8800 VILLAGE DR (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1091962</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1091962</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1091962 | NORTH Division | 8/11/2026 8:06:44 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/11/2026 8:06:44 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 5200 WURZBACH PKWY EB (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1091966</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1091966</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1091966 | NORTH Division | 8/11/2026 8:07:49 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/11/2026 8:07:49 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Shooting — 4000 MYSTIC SUNRISE DR (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1091994</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1091994</guid>
-      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-1091994 | EAST Division | 8/11/2026 8:14:34 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/11/2026 8:14:34 PM</pubDate>
     </item>
   </channel>
 </rss>
