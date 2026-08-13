@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 09:59:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 11:03:37 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 500 DRESDEN DR (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1098551</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1098551</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1098551 | CENTRAL Division | 8/13/2026 5:34:38 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/13/2026 5:34:38 AM</pubDate>
+    </item>
+    <item>
+      <title>Alamo Heights High School gets makeover, nods to century-old history</title>
+      <link>https://sanantonioreport.org/new-alamo-heights-high-school-building-opens-san-antonio/</link>
+      <guid>https://sanantonioreport.org/new-alamo-heights-high-school-building-opens-san-antonio/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The new Alamo Heights High School building is state-of-the-art, with three stories instead of two. But it still pays homage to its long history.Alamo Heights High School gets makeover, nods to century-old history was first posted on August 13, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@riva</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taiwan says AI agents used in cyberattacks targeting island</title>
+      <link>https://hongkongfp.com/2026/08/13/taiwan-says-ai-agents-used-in-cyberattacks-targeting-island/</link>
+      <guid>https://hongkongfp.com/2026/08/13/taiwan-says-ai-agents-used-in-cyberattacks-targeting-island/</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — Overseas hackers used artificial intelligence agents to help carry out a wave of cyberattacks targeting Taiwanese government agencies in July, the island&amp;#8217;s digital affairs ministry said Thursday. Taiwan has previously blamed Chinese hackers for carrying out most of the millions of cyberattacks affecting the island democracy on a daily basis, but did not identify a [&amp;#8230;]</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Thu, 13 Aug 2026 10:13:26 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 8700 ATWATER CRK (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1098471</link>
@@ -786,31 +810,6 @@ Countries worldwide are exploring a range of ways to transition to low-carbon en
       <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1090686 | EAST Division | 8/11/2026 3:32:47 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/11/2026 3:32:47 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Robbery In Progress — 700 NW LOOP 410 (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1090696</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1090696</guid>
-      <description>[SAPD Calls for Service] Keyword: Robbery In Progress — Incident #SAPD-2026-1090696 | NORTH Division | 8/11/2026 3:33:58 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/11/2026 3:33:58 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Robbery of Individual — 100 COLTON DR (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1090434</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1090434</guid>
-      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1090434 | NORTH Division | 8/11/2026 2:46:46 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/11/2026 2:46:46 PM</pubDate>
-    </item>
-    <item>
-      <title>Who Pays for the High-Powered Grid that Data Centers Need?</title>
-      <link>https://www.texasobserver.org/who-pays-for-texas-grid-upgrades-data-centers/</link>
-      <guid>https://www.texasobserver.org/who-pays-for-texas-grid-upgrades-data-centers/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: Texas governor — The true scale of prospective projects that want to plug into the Texas grid is hard to hold in your head. As of August 3, the Texas governor&amp;#8217;s office put the figure at more than 474 gigawatts of requests to connect, more than five times the grid&amp;#8217;s record peak demand, and said roughly 90 percent [&amp;#8230;]
-The post Who Pays for the High-Powered Grid that Data Centers Need? appeared first on The Texas Observer.</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Tue, 11 Aug 2026 19:51:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
