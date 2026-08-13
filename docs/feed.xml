@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 19:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 20:37:42 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — IH 35 N NB / THOUSAND OAKS DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1100778</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1100778</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1100778 | NORTH Division | 8/13/2026 3:24:57 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/13/2026 3:24:57 PM</pubDate>
+    </item>
+    <item>
+      <title>Flock Safety attempts to curb police abuse of its surveillance cameras after scandals</title>
+      <link>https://www.theguardian.com/technology/2026/aug/13/flock-safety-police-abuse-surveillance-cameras</link>
+      <guid>https://www.theguardian.com/technology/2026/aug/13/flock-safety-police-abuse-surveillance-cameras</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: Flock Safety — CEO announces measures after reports that system is used to target immigrants or people seeking out-of-state abortionsFor nearly a decade, the company Flock Safety has gradually built out a network of cameras across the US that allows law enforcement to conduct about 20bn license plate scans every month.In that time, the company had largely left the decision to turn on safety measures up to its customers. Many of those organizations did not turn them on. Continue reading...</description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>Thu, 13 Aug 2026 20:20:04 GMT</pubDate>
+    </item>
     <item>
       <title>When important local knowledge about nature and climate is not put to use</title>
       <link>https://phys.org/news/2026-08-important-local-knowledge-nature-climate.html</link>
@@ -805,22 +821,6 @@ Countries worldwide are exploring a range of ways to transition to low-carbon en
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A rare form of dementia that can show up as early as age 40 is diagnosed later in Hispanic patients in South Texas, aUT Health study found.His dementia went undiagnosed for over a decade. A new study explains why that’s so common. was first posted on August 12, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contac</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Wed, 12 Aug 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump embraces a textbook communist idea without anyone noticing</title>
-      <link>https://www.alternet.org/alternet-exclusives/trump-medicare-for-all/</link>
-      <guid>https://www.alternet.org/alternet-exclusives/trump-medicare-for-all/</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — f Trump wants Republicans to win this fall, all he has to do is endorse Medicare For All and call it a Republican policy. After all, conservatives across Europe are generally quite happy with their national healthcare systems and definitely don’t want them going away or to be replaced by for-profit insurance companies. When I did did my show from Denmark’s Danish Radio’s studios, I interviewed multiple conservative politicians and to a person their response to my question, “Do you want to get ri</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Wed, 12 Aug 2026 10:43:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 2000 DOLLARHIDE AVE (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1093230</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1093230</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1093230 | EAST Division | 8/12/2026 4:44:59 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/12/2026 4:44:59 AM</pubDate>
     </item>
   </channel>
 </rss>
