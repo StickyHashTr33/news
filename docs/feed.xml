@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 08:17:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 09:59:30 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 8700 ATWATER CRK (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1098471</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1098471</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1098471 | WEST Division | 8/13/2026 4:37:05 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/13/2026 4:37:05 AM</pubDate>
+    </item>
+    <item>
+      <title>Boomers are ruining America — and it has nothing to do with politics</title>
+      <link>https://www.alternet.org/baby-boomers-ruin-everything/</link>
+      <guid>https://www.alternet.org/baby-boomers-ruin-everything/</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — I keep hearing that we Boomers are to blame for just about everything wrong with America — unaffordable housing (because we bought up most of the housing stock and now refuse to leave), the depletion of Social Security (because we’re collecting it now), the national debt (because so much of it is being spent on Social Security, Medicare, and other benefits for us), inequality (because apparently we have so much money), climate change (because we’ve been polluting longer than anyone else alive), </description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 13 Aug 2026 09:23:09 +0000</pubDate>
+    </item>
     <item>
       <title>Does the clean energy transition need forever chemicals?</title>
       <link>https://www.dw.com/en/does-the-clean-energy-transition-need-forever-chemicals/a-77888704?maca=en-rss-en-all-1573-rdf</link>
@@ -795,22 +811,6 @@ Countries worldwide are exploring a range of ways to transition to low-carbon en
 The post Who Pays for the High-Powered Grid that Data Centers Need? appeared first on The Texas Observer.</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Tue, 11 Aug 2026 19:51:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 100 KANSAS (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1090130</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1090130</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1090130 | EAST Division | 8/11/2026 1:41:07 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/11/2026 1:41:07 PM</pubDate>
-    </item>
-    <item>
-      <title>Brazil’s Supreme Court to weigh cases that could weaken Amazon protections</title>
-      <link>https://www.aljazeera.com/news/2026/8/11/brazils-supreme-court-to-weigh-cases-that-could-weaken-amazon-protections?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/8/11/brazils-supreme-court-to-weigh-cases-that-could-weaken-amazon-protections?traffic_source=rss</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — The rulings could affect Indigenous land rights, soya farming and environmental safeguards across the Amazon rainforest.</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Tue, 11 Aug 2026 18:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
