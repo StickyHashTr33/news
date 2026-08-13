@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 01:28:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 04:07:24 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 200 DOBBS (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1097735</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1097735</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1097735 | WEST Division | 8/12/2026 10:48:34 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/12/2026 10:48:34 PM</pubDate>
+    </item>
+    <item>
+      <title>Ibac charges police officer accused of repeatedly hitting Indigenous man with Taser during Melbourne arrest</title>
+      <link>https://www.theguardian.com/australia-news/2026/aug/13/ibac-victoria-police-officers-charged-indigenous-man-taser-ntwnfb</link>
+      <guid>https://www.theguardian.com/australia-news/2026/aug/13/ibac-victoria-police-officers-charged-indigenous-man-taser-ntwnfb</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Victorian corruption watchdog alleges weapon was used to hit man’s head, with another officer accused of kneeing him in same incident last yearTwo Victorian police officers have been charged with assault after allegedly using a Taser and knee to repeatedly strike a man in the head during an arrest last year.But the officers remain on duty, police have confirmed. Continue reading...</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Thu, 13 Aug 2026 02:40:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>A 236-million-year-old fossil challenges the story of mammalian live birth</title>
+      <link>https://phys.org/news/2026-08-million-year-fossil-story-mammalian.html</link>
+      <guid>https://phys.org/news/2026-08-million-year-fossil-story-mammalian.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — Some cynodonts may have been giving birth to live young much sooner in evolutionary history than previously assumed. A new Frontiers in Mammal Science study has offered the first compelling evidence that cynodonts may have been viviparous—a reproductive mode characterized by live birth.</description>
+      <category>Open Source Software</category>
+      <pubDate>Thu, 13 Aug 2026 00:00:02 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle In Progress — 400 LIVELY (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1097206</link>
@@ -788,30 +812,6 @@ The post Special prosecutors have strong political ties and practically no publi
       <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1089532 | DOWNTOWN Division | 8/11/2026 11:38:01 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/11/2026 11:38:01 AM</pubDate>
-    </item>
-    <item>
-      <title>Samuel Alito gained up to $2.9m from oil and gas assets since joining supreme court, analysis shows</title>
-      <link>https://www.theguardian.com/us-news/2026/aug/11/samuel-alito-oil-gas-assets-supreme-court-analysis</link>
-      <guid>https://www.theguardian.com/us-news/2026/aug/11/samuel-alito-oil-gas-assets-supreme-court-analysis</guid>
-      <description>[Open Source Software] Keyword: FOSS — Critics argue US high court justice should recuse himself from upcoming fossil fuel firms’ climate accountability caseSupreme court justice Samuel Alito gained up to $2.9m from his fossil fuel interests between 2005 and 2024, a new review of financial disclosures shows.The analysis from the non-profit advocacy group and judicial watchdog Court Accountability, shared exclusively with the Guardian, found that even at the lowest range of estimates, Alito gained almost $400,000 from his oil and gas </description>
-      <category>Open Source Software</category>
-      <pubDate>Tue, 11 Aug 2026 16:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>First came the Flock cameras. Now local cops want autonomous drones.</title>
-      <link>https://therealnews.com/first-came-the-flock-cameras-now-local-cops-want-autonomous-drones</link>
-      <guid>https://therealnews.com/first-came-the-flock-cameras-now-local-cops-want-autonomous-drones</guid>
-      <description>[ALPR &amp; Flock Cameras] Keyword: Flock camera — Hundreds of local police departments have received waivers to fly surveillance drones that navigate with AI.</description>
-      <category>ALPR &amp; Flock Cameras</category>
-      <pubDate>Tue, 11 Aug 2026 16:26:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Feds warn Gunra ransomware is exploiting known bugs to hit critical infrastructure</title>
-      <link>https://www.theregister.com/cyber-crime/2026/08/11/feds-warn-gunra-ransomware-is-exploiting-known-bugs-to-hit-critical-infrastructure/5286263</link>
-      <guid>https://www.theregister.com/cyber-crime/2026/08/11/feds-warn-gunra-ransomware-is-exploiting-known-bugs-to-hit-critical-infrastructure/5286263</guid>
-      <description>[Cybersecurity] Keyword: ransomware — Newly minted RaaS crew breaks in through using internet-facing kit via known Fortinet flaws, then steals and scrambles data</description>
-      <category>Cybersecurity</category>
-      <pubDate>Tue, 11 Aug 2026 16:36:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
