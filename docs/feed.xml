@@ -5,8 +5,33 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 20:37:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 21:40:09 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 5700 WHITE FEATHER (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1101058</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1101058</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1101058 | SOUTH Division | 8/13/2026 4:21:24 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/13/2026 4:21:24 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 500 OGDEN ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1101066</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1101066</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1101066 | DOWNTOWN Division | 8/13/2026 4:23:24 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/13/2026 4:23:24 PM</pubDate>
+    </item>
+    <item>
+      <title>Too Little, Too Late: Flock Admits Their Technology Needs Reforms</title>
+      <link>https://www.eff.org/deeplinks/2026/08/too-little-too-late-flock-admits-their-technology-needs-reforms</link>
+      <guid>https://www.eff.org/deeplinks/2026/08/too-little-too-late-flock-admits-their-technology-needs-reforms</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: Flock Safety — Flock Safety, the embattled vendor of mass surveillance technology, has rolled out a handful of new reforms intended to appease the justified nationwide anger that has seen scores of towns cancel or suspend their contracts with the company for automated license plate readers (ALPRs). The reforms are a combination of long overdue changes along with some cosmetic fixes that fail to address the fundamental dangers of this technology.  
+We should not be letting companies decide how much privacy we d</description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>Thu, 13 Aug 2026 20:52:35 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — IH 35 N NB / THOUSAND OAKS DR (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1100778</link>
@@ -797,30 +822,6 @@ Countries worldwide are exploring a range of ways to transition to low-carbon en
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1093396 | SOUTH Division | 8/12/2026 6:35:50 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/12/2026 6:35:50 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Robbery In Progress — 6400 DE ZAVALA RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1093401</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1093401</guid>
-      <description>[SAPD Calls for Service] Keyword: Robbery In Progress — Incident #SAPD-2026-1093401 | PRUE Division | 8/12/2026 6:37:39 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/12/2026 6:37:39 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 9500 AMELIA PASS (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1093289</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1093289</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1093289 | PRUE Division | 8/12/2026 5:25:21 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/12/2026 5:25:21 AM</pubDate>
-    </item>
-    <item>
-      <title>His dementia went undiagnosed for over a decade. A new study explains why that’s so common.</title>
-      <link>https://sanantonioreport.org/dementia-undiagnosed-new-study-san-antonio-ut-health/</link>
-      <guid>https://sanantonioreport.org/dementia-undiagnosed-new-study-san-antonio-ut-health/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A rare form of dementia that can show up as early as age 40 is diagnosed later in Hispanic patients in South Texas, aUT Health study found.His dementia went undiagnosed for over a decade. A new study explains why that’s so common. was first posted on August 12, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contac</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Wed, 12 Aug 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
