@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 10:54:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 11:41:12 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 200 RICHLAND HILLS DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103545</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103545</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1103545 | WEST Division | 8/14/2026 6:20:14 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 6:20:14 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 13300 STETSON TRL (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103550</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103550</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1103550 | SOUTH Division | 8/14/2026 6:22:32 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 6:22:32 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 100 EPLER (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103561</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103561</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1103561 | WEST Division | 8/14/2026 6:27:02 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 6:27:02 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 8700 MARBACH RD (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103475</link>
@@ -796,30 +820,6 @@ Countries worldwide are exploring a range of ways to transition to low-carbon en
       <description>[AI &amp; Automation] Keyword: AI agent — Following Australia’s first reported automated hacking accident, experts warn deployers – and possibly developers – of AI agents could be held liable for the actions of their botsGet our breaking news email, free app or daily news podcastThe law is clear, says Prof Jeannie Paterson. “If I deploy an AI agent and it causes harm to someone else, I am responsible for that harm.“Even if I didn’t intend for that to happen, it was foreseeable, and I should be taking responsibility.” Continue reading...</description>
       <category>AI &amp; Automation</category>
       <pubDate>Wed, 12 Aug 2026 15:00:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — GRAN VISTA / LOS PALACIAS (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1093998</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1093998</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1093998 | NORTH Division | 8/12/2026 9:04:16 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/12/2026 9:04:16 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 4300 SPECTRUM ONE (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1094025</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1094025</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1094025 | PRUE Division | 8/12/2026 9:10:28 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/12/2026 9:10:28 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Shooting — 200 DURANT ST (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1094026</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1094026</guid>
-      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-1094026 | WEST Division | 8/12/2026 9:10:32 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/12/2026 9:10:32 AM</pubDate>
     </item>
   </channel>
 </rss>
