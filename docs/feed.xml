@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 22:17:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 23:17:33 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 11800 WURZBACH RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1106402</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1106402</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1106402 | PRUE Division | 8/14/2026 6:05:56 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 6:05:56 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 11200 FIVE IRON (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1106141</link>
@@ -813,14 +821,6 @@ many are much narrower than &quot;everything before 3.5.0&quot;. Every fix ships
       <description>[Climate &amp; Environment] Keyword: climate change — I keep hearing that we Boomers are to blame for just about everything wrong with America — unaffordable housing (because we bought up most of the housing stock and now refuse to leave), the depletion of Social Security (because we’re collecting it now), the national debt (because so much of it is being spent on Social Security, Medicare, and other benefits for us), inequality (because apparently we have so much money), climate change (because we’ve been polluting longer than anyone else alive), </description>
       <category>Climate &amp; Environment</category>
       <pubDate>Thu, 13 Aug 2026 09:23:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Does the clean energy transition need forever chemicals?</title>
-      <link>https://www.dw.com/en/does-the-clean-energy-transition-need-forever-chemicals/a-77888704?maca=en-rss-en-all-1573-rdf</link>
-      <guid>https://www.dw.com/en/does-the-clean-energy-transition-need-forever-chemicals/a-77888704?maca=en-rss-en-all-1573-rdf</guid>
-      <description>[Climate &amp; Environment] Keyword: renewable energy — As nations globally move to ban forever chemicals, should renewable energy technologies be exempt for the sake of saving the climate?</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>2026-08-13T07:13:00Z</pubDate>
     </item>
   </channel>
 </rss>
