@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 19:44:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 20:26:52 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — BUENA VISTA ST EB (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105603</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105603</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1105603 | CENTRAL Division | 8/14/2026 3:10:09 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 3:10:09 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 4300 WOODCOCK (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105608</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105608</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1105608 | WEST Division | 8/14/2026 3:12:23 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 3:12:23 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — LOMA VISTA ST / SW 19TH ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105630</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105630</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1105630 | CENTRAL Division | 8/14/2026 3:16:02 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 3:16:02 PM</pubDate>
+    </item>
     <item>
       <title>Mangione admits killing healthcare CEO and pleads guilty to federal charges</title>
       <link>https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -797,30 +821,6 @@ many are much narrower than &quot;everything before 3.5.0&quot;. Every fix ships
       <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1098063 | SOUTH Division | 8/13/2026 12:40:51 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/13/2026 12:40:51 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 17800 LA CANTERA TERRACE (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1098103</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1098103</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1098103 | PRUE Division | 8/13/2026 1:01:18 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/13/2026 1:01:18 AM</pubDate>
-    </item>
-    <item>
-      <title>Australia’s largest aluminium smelter to run on renewables by 2033 after Rio Tinto strikes $2.5bn taxpayer bailout deal</title>
-      <link>https://www.theguardian.com/business/2026/aug/13/rio-tinto-australia-tomago-aluminium-2bn-bailout-deal-renewable-energy</link>
-      <guid>https://www.theguardian.com/business/2026/aug/13/rio-tinto-australia-tomago-aluminium-2bn-bailout-deal-renewable-energy</guid>
-      <description>[Climate &amp; Environment] Keyword: renewable energy — Rio Tinto makes power supply deal with federal and NSW government to cut emissions and decarbonise, preventing potential closureFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastResources giant Rio Tinto says Australia’s largest aluminium smelter will run entirely on renewable energy by 2033 after it struck a $2.5bn subsidy deal with the federal and New South Wales governments to prevent a potential closure.The deal – announced by An</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 13 Aug 2026 05:00:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 200 DOBBS (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1097735</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1097735</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1097735 | WEST Division | 8/12/2026 10:48:34 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/12/2026 10:48:34 PM</pubDate>
     </item>
   </channel>
 </rss>
