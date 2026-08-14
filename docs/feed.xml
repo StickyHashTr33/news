@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 04:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 06:10:09 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 11600 IH 35 N (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1102987</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1102987</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1102987 | NORTH Division | 8/14/2026 1:00:07 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 1:00:07 AM</pubDate>
+    </item>
+    <item>
+      <title>NHS service admits data breach due to pager use</title>
+      <link>https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[Cybersecurity] Keyword: data breach — The medical data of transplant patients from across the UK was sent over an unencrypted pager network.</description>
+      <category>Cybersecurity</category>
+      <pubDate>Fri, 14 Aug 2026 05:12:44 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 2900 HATTON (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1101586</link>
@@ -806,22 +822,6 @@ Countries worldwide are exploring a range of ways to transition to low-carbon en
       <description>[Government Accountability] Keyword: public records — More than 2,800 Alaskans are on a list of alleged noncitizens registered to vote in the state, according to a document obtained by the Alaska Beacon via a public records request.The list, dated Friday, was released after the division removed more than 3,000 Alaskans from the state’s active voter list following an unusual data-sharing arrangement with the Division of Motor Vehicles.Of the 2,809 people on the list of possible noncitizens, 2,502 are listed as “undeclared” voters — the default for n</description>
       <category>Government Accountability</category>
       <pubDate>Wed, 12 Aug 2026 12:17:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>For refugees to the US, discrimination can make healthcare harder to get</title>
-      <link>https://theconversation.com/for-refugees-to-the-us-discrimination-can-make-healthcare-harder-to-get-287433</link>
-      <guid>https://theconversation.com/for-refugees-to-the-us-discrimination-can-make-healthcare-harder-to-get-287433</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Having health insurance or being eligible for care doesn’t guarantee that it is truly within reach.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>2026-08-12T12:38:08Z</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 11800 FADING WAY (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1093380</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1093380</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1093380 | SOUTH Division | 8/12/2026 6:23:02 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/12/2026 6:23:02 AM</pubDate>
     </item>
   </channel>
 </rss>
