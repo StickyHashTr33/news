@@ -5,8 +5,64 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 17:49:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 18:46:37 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 2300 W POPLAR ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105203</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105203</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1105203 | CENTRAL Division | 8/14/2026 1:32:30 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 1:32:30 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 500 AVENUE B (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105206</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105206</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1105206 | DOWNTOWN Division | 8/14/2026 1:32:56 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 1:32:56 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 2000 N ST MARY'S ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105211</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105211</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1105211 | DOWNTOWN Division | 8/14/2026 1:34:51 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 1:34:51 PM</pubDate>
+    </item>
+    <item>
+      <title>Q&amp;A: What are chalk streams and why are these rare rivers under threat?</title>
+      <link>https://phys.org/news/2026-08-qa-chalk-streams-rare-rivers.html</link>
+      <guid>https://phys.org/news/2026-08-qa-chalk-streams-rare-rivers.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Chalk streams are among the world's rarest river habitats. Fewer than 300 exist globally, and most are found in England. They support rich wildlife and have been described as England's 'Great Barrier Reef' due to their biodiversity. But they face pressure from climate change and other long-term impacts including pollution and water abstraction. Professor Rachel Stubbington of Nottingham Trent University's School of Science and Technology explains what makes chalk streams unique, why they are imp</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Fri, 14 Aug 2026 14:20:06 EDT</pubDate>
+    </item>
+    <item>
+      <title>Number of failing school districts in San Antonio drops from 3 to 1 in state’s newest A-F scores</title>
+      <link>https://sanantonioreport.org/school-accountability-ratings-san-antonio-2026/</link>
+      <guid>https://sanantonioreport.org/school-accountability-ratings-san-antonio-2026/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Almost every local school district got a better A-F score than last year. But that didn't eliminate the threat of potential state takeovers.Number of failing school districts in San Antonio drops from 3 to 1 in state&amp;#8217;s newest A-F scores was first posted on August 14, 2026 at 1:39 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. P</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Fri, 14 Aug 2026 18:39:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Luigi Mangione pleads guilty in UnitedHealthcare CEO’s killing</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/8/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceos-killing?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/video/newsfeed/2026/8/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceos-killing?traffic_source=rss</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Luigi Mangione pleaded guilty to killing UnitedHealthcare CEO Brian Thompson in 2024.</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Fri, 14 Aug 2026 18:09:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule</title>
+      <link>https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Fri, 14 Aug 2026 18:25:38 GMT</pubDate>
+    </item>
     <item>
       <title>Sediments off Brazil's northeast coast reveal sudden changes in heat transport in the Atlantic</title>
       <link>https://phys.org/news/2026-08-sediments-brazil-northeast-coast-reveal.html</link>
@@ -764,62 +820,6 @@ many are much narrower than &quot;everything before 3.5.0&quot;. Every fix ships
       <description>[Open Source Software] Keyword: FOSS — Some cynodonts may have been giving birth to live young much sooner in evolutionary history than previously assumed. A new Frontiers in Mammal Science study has offered the first compelling evidence that cynodonts may have been viviparous—a reproductive mode characterized by live birth.</description>
       <category>Open Source Software</category>
       <pubDate>Thu, 13 Aug 2026 00:00:02 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 400 LIVELY (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1097206</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1097206</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1097206 | CENTRAL Division | 8/12/2026 8:12:26 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/12/2026 8:12:26 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 1200 BABCOCK RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1097215</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1097215</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1097215 | WEST Division | 8/12/2026 8:15:24 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/12/2026 8:15:24 PM</pubDate>
-    </item>
-    <item>
-      <title>African grasslands expanded 5 million year earlier than previously thought, molecular fossils suggest</title>
-      <link>https://phys.org/news/2026-08-african-grasslands-million-year-earlier.html</link>
-      <guid>https://phys.org/news/2026-08-african-grasslands-million-year-earlier.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — The iconic grassland savannas of Africa are geographically extensive and important for both local fauna and the global climate. But where did they come from, and how will they change in the future? Ongoing warming, rising CO2 levels and shifting rainfall patterns are likely to profoundly change these ecosystems. These effects are difficult to predict because they can alter ecosystems in competing ways.</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 12 Aug 2026 19:40:04 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 200 W DICKSON AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1096785</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1096785</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1096785 | SOUTH Division | 8/12/2026 6:23:21 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/12/2026 6:23:21 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 3100 ROOSEVELT AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1096801</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1096801</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1096801 | SOUTH Division | 8/12/2026 6:26:19 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/12/2026 6:26:19 PM</pubDate>
-    </item>
-    <item>
-      <title>Chicago Mayor Seeks to Curb Health and Environmental Impacts of Data Centers</title>
-      <link>https://insideclimatenews.org/news/12082026/chicago-mayor-data-center-regulations/</link>
-      <guid>https://insideclimatenews.org/news/12082026/chicago-mayor-data-center-regulations/</guid>
-      <description>[Climate &amp; Environment] Keyword: environmental justice — Chicago environmental justice advocates say a new effort in the city to regulate data centers is an important step toward addressing public health and affordability concerns as national pressure on the industry grows.&amp;#160; Mayor Brandon Johnson signed an executive order on Tuesday directing a new task force to work on tighter regulations aimed at restricting [&amp;#8230;]</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 12 Aug 2026 22:59:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your business signed the contract, but you may still be personally liable</title>
-      <link>https://sanantonioreport.org/your-business-signed-the-contract-but-you-may-still-be-sponsored/</link>
-      <guid>https://sanantonioreport.org/your-business-signed-the-contract-but-you-may-still-be-sponsored/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — SPONSORED: ROSENBLATT LAW FIRM advises Texas businesses on building stronger businesses from the start.Your business signed the contract, but you may still be personally liable was first posted on August 12, 2026 at 6:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Wed, 12 Aug 2026 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
