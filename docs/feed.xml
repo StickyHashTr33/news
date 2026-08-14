@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 06:10:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 08:11:36 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 1900 S SAN MARCOS (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103202</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103202</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1103202 | CENTRAL Division | 8/14/2026 2:24:21 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 2:24:21 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 8800 DUGAS DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103218</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103218</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1103218 | WEST Division | 8/14/2026 2:31:44 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 2:31:44 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 11600 IH 35 N (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1102987</link>
@@ -805,23 +821,6 @@ Countries worldwide are exploring a range of ways to transition to low-carbon en
 &amp;#8220;The homes, the communities, they&amp;#8217;re just not simply prepared for fire,&amp;#8221; says Paul Hessburg, former senior research ecologist at the U.S. Forest Service and professor of fire and landscape ecology at the University of Washington. Hessburg walks</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Thu, 06 Aug 2026 08:14:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>&quot;Consistent Torture&quot;: Keith LaMar Speaks from Ohio Death Row After Getting 3-Year Execution Reprieve</title>
-      <link>http://67.228.192.88:3000/2026/8/10/ohio_death_penalty</link>
-      <guid>http://67.228.192.88:3000/2026/8/10/ohio_death_penalty</guid>
-      <description>[Police &amp; Criminal Justice] Keyword: solitary confinement — We speak with Keith LaMar, an artist, teacher and writer on death row in Ohio. LaMar, who has spent three decades in solitary confinement, was sentenced to death for the murder of five fellow prisoners during a 1993 prison uprising. He has always maintained his innocence. His trial was held in a remote Ohio community before an all-white jury. LaMar is one of three men on death row for whom Ohio Governor Mike DeWine issued reprieves, pushing back their execution dates to 2030.
-&amp;#8220;The reprieve</description>
-      <category>Police &amp; Criminal Justice</category>
-      <pubDate>Mon, 10 Aug 2026 08:14:26 -0400</pubDate>
-    </item>
-    <item>
-      <title>Red state's noncitizen voter list hits more Republicans than Democrats</title>
-      <link>https://www.alternet.org/alaskas-list-of-alleged-noncitizen-voters-includes-more-republicans-than-democrats/</link>
-      <guid>https://www.alternet.org/alaskas-list-of-alleged-noncitizen-voters-includes-more-republicans-than-democrats/</guid>
-      <description>[Government Accountability] Keyword: public records — More than 2,800 Alaskans are on a list of alleged noncitizens registered to vote in the state, according to a document obtained by the Alaska Beacon via a public records request.The list, dated Friday, was released after the division removed more than 3,000 Alaskans from the state’s active voter list following an unusual data-sharing arrangement with the Division of Motor Vehicles.Of the 2,809 people on the list of possible noncitizens, 2,502 are listed as “undeclared” voters — the default for n</description>
-      <category>Government Accountability</category>
-      <pubDate>Wed, 12 Aug 2026 12:17:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
