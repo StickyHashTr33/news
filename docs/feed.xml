@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 21:20:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 22:17:46 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 11200 FIVE IRON (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1106141</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1106141</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1106141 | SOUTH Division | 8/14/2026 5:04:20 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 5:04:20 PM</pubDate>
+    </item>
+    <item>
+      <title>Europe's mountain summits are warming—vegetation is responding in surprisingly different ways</title>
+      <link>https://phys.org/news/2026-08-europe-mountain-summits-vegetation-ways.html</link>
+      <guid>https://phys.org/news/2026-08-europe-mountain-summits-vegetation-ways.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Decades of climate change have not left Europe's mountain vegetation unscathed. However, the changes observed do not always match expectations. As a new international study by a research team led by researchers from the University of Vienna, the Austrian Academy of Sciences and the BOKU University shows, alpine vegetation has shifted significantly towards warmth-associated species. However, the direct link between this so-called thermophilization and local warming is surprisingly weak. The study</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Fri, 14 Aug 2026 18:00:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 400 S SAN FELIPE AVE (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105861</link>
@@ -805,22 +821,6 @@ many are much narrower than &quot;everything before 3.5.0&quot;. Every fix ships
       <description>[Climate &amp; Environment] Keyword: renewable energy — As nations globally move to ban forever chemicals, should renewable energy technologies be exempt for the sake of saving the climate?</description>
       <category>Climate &amp; Environment</category>
       <pubDate>2026-08-13T07:13:00Z</pubDate>
-    </item>
-    <item>
-      <title>'Imposing ignorance': US climate science under siege</title>
-      <link>https://phys.org/news/2026-08-imposing-climate-science-siege.html</link>
-      <guid>https://phys.org/news/2026-08-imposing-climate-science-siege.html</guid>
-      <description>[Climate &amp; Environment] Keyword: global warming — A benchmark U.S. report on the fast-changing state of the Arctic has been canceled. The nation's top research body has removed a chapter on global warming from a reference manual for judges.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 13 Aug 2026 03:30:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Met police incapable of change, says mother of murdered sisters after Simon Levy case</title>
-      <link>https://www.theguardian.com/uk-news/2026/aug/13/met-police-mina-smallman-simon-levy-case</link>
-      <guid>https://www.theguardian.com/uk-news/2026/aug/13/met-police-mina-smallman-simon-levy-case</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — Mina Smallman, whose daughters were killed in north London park in 2020, says force ‘decides who matters’The Metropolitan police does not take all cases of violence against women seriously and “decides who matters”, the mother of two murdered women has said.Mina Smallman, whose daughters Bibaa Henry and Nicole Smallman were killed in a north London park in 2020, also said Britain’s biggest police force is incapable of change. Two police officers were jailed in 2021 after taking photographs of th</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Thu, 13 Aug 2026 07:41:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
