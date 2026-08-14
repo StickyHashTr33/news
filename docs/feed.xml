@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 20:26:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 21:20:59 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 400 S SAN FELIPE AVE (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105861</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105861</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1105861 | WEST Division | 8/14/2026 4:05:28 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 4:05:28 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 8800 DUGAS DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105874</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105874</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1105874 | WEST Division | 8/14/2026 4:08:38 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 4:08:38 PM</pubDate>
+    </item>
+    <item>
+      <title>Drug-resistant fungal infection draws growing concern in Texas hospitals</title>
+      <link>https://sanantonioreport.org/drug-resistant-fungal-infection-draws-growing-concern-in-texas-hospitals/</link>
+      <guid>https://sanantonioreport.org/drug-resistant-fungal-infection-draws-growing-concern-in-texas-hospitals/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A drug-resistant fungus is on the rise in Texas and the U.S. In San Antonio, one hospital has implemented protocols to prevent outbreaks.Drug-resistant fungal infection draws growing concern in Texas hospitals was first posted on August 14, 2026 at 4:12 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardr</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Fri, 14 Aug 2026 21:12:59 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — BUENA VISTA ST EB (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105603</link>
@@ -797,30 +821,6 @@ many are much narrower than &quot;everything before 3.5.0&quot;. Every fix ships
       <description>[AI &amp; Automation] Keyword: LLM — Mina Smallman, whose daughters were killed in north London park in 2020, says force ‘decides who matters’The Metropolitan police does not take all cases of violence against women seriously and “decides who matters”, the mother of two murdered women has said.Mina Smallman, whose daughters Bibaa Henry and Nicole Smallman were killed in a north London park in 2020, also said Britain’s biggest police force is incapable of change. Two police officers were jailed in 2021 after taking photographs of th</description>
       <category>AI &amp; Automation</category>
       <pubDate>Thu, 13 Aug 2026 07:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nearly 4 million Afghan children ‘acutely malnourished’</title>
-      <link>https://www.aljazeera.com/news/2026/8/13/how-clinic-closures-left-3-7-million-afghan-children-acutely-malnourished?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/8/13/how-clinic-closures-left-3-7-million-afghan-children-acutely-malnourished?traffic_source=rss</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — One in 10 children in Afghanistan are suffering as healthcare funding plummets, Save the Children says.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Thu, 13 Aug 2026 06:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 7000 CULEBRA RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1098061</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1098061</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1098061 | WEST Division | 8/13/2026 12:40:21 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/13/2026 12:40:21 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 6100 OLD PEARSALL RD (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1098063</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1098063</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1098063 | SOUTH Division | 8/13/2026 12:40:51 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/13/2026 12:40:51 AM</pubDate>
     </item>
   </channel>
 </rss>
