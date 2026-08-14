@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 08:11:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 09:56:04 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 5500 IH 10 E (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103414</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103414</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1103414 | EAST Division | 8/14/2026 4:30:30 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 4:30:30 AM</pubDate>
+    </item>
+    <item>
+      <title>BOFH: How our Covid ransomware protocol's Y2K blockchain lowered uptime</title>
+      <link>https://www.theregister.com/bofh/2026/08/14/bofh-how-our-covid-ransomware-protocols-y2k-blockchain-lowered-uptime/5284585</link>
+      <guid>https://www.theregister.com/bofh/2026/08/14/bofh-how-our-covid-ransomware-protocols-y2k-blockchain-lowered-uptime/5284585</guid>
+      <description>[Cybersecurity] Keyword: ransomware — Diary of an excuse hound: Pie charts make us hungry for pizza</description>
+      <category>Cybersecurity</category>
+      <pubDate>Fri, 14 Aug 2026 11:29:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Watch: What happens if Luigi Mangione pleads guilty?</title>
+      <link>https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Mangione is accused of killing UnitedHealthcare CEO Brian Thompson in New York - but any plea deal in his federal case could impact a separate state trial.</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Fri, 14 Aug 2026 01:19:19 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 1900 S SAN MARCOS (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103202</link>
@@ -796,31 +820,6 @@ Countries worldwide are exploring a range of ways to transition to low-carbon en
       <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-1093579 | SOUTH Division | 8/12/2026 7:36:03 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/12/2026 7:36:03 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 800 ST CLOUD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1093588</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1093588</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1093588 | WEST Division | 8/12/2026 7:40:22 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/12/2026 7:40:22 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 7200 BLANCO RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1093597</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1093597</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1093597 | NORTH Division | 8/12/2026 7:42:31 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/12/2026 7:42:31 AM</pubDate>
-    </item>
-    <item>
-      <title>&quot;Fire Climate&quot;: Hot, Dry, Windy Days Are Becoming Common, Making Wildfires Harder to Control</title>
-      <link>http://67.228.192.88:3000/2026/8/6/spokane_fires</link>
-      <guid>http://67.228.192.88:3000/2026/8/6/spokane_fires</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — The Pacific Northwest is facing its worst fire season in more than 30 years. Scientists say drought, extreme heat and climate change are making wildfire seasons longer, more frequent and more destructive across the western United States.
-&amp;#8220;The homes, the communities, they&amp;#8217;re just not simply prepared for fire,&amp;#8221; says Paul Hessburg, former senior research ecologist at the U.S. Forest Service and professor of fire and landscape ecology at the University of Washington. Hessburg walks</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 06 Aug 2026 08:14:51 -0400</pubDate>
     </item>
   </channel>
 </rss>
