@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 16:49:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 17:49:01 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sediments off Brazil's northeast coast reveal sudden changes in heat transport in the Atlantic</title>
+      <link>https://phys.org/news/2026-08-sediments-brazil-northeast-coast-reveal.html</link>
+      <guid>https://phys.org/news/2026-08-sediments-brazil-northeast-coast-reveal.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — According to a new study led by researchers from Brazil and Germany, the main system that transports heat from one end of the Atlantic Ocean to the other may undergo sudden changes in intensity driven by climate change similar to what we are experiencing now, even when it is already weakened.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Fri, 14 Aug 2026 13:00:04 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person - Endangered — 7700 FLOYD CURL (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1104730</link>
@@ -812,14 +820,6 @@ many are much narrower than &quot;everything before 3.5.0&quot;. Every fix ships
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — SPONSORED: ROSENBLATT LAW FIRM advises Texas businesses on building stronger businesses from the start.Your business signed the contract, but you may still be personally liable was first posted on August 12, 2026 at 6:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Wed, 12 Aug 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 600 CLEARCREST (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1096544</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1096544</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1096544 | WEST Division | 8/12/2026 5:24:09 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/12/2026 5:24:09 PM</pubDate>
     </item>
   </channel>
 </rss>
