@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 03:34:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 04:24:48 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle In Progress — 4900 WURZBACH PKWY (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107654</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107654</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1107654 | NORTH Division | 8/14/2026 11:05:17 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 11:05:17 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 800 MISSION RD (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107686</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107686</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1107686 | SOUTH Division | 8/14/2026 11:12:15 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 11:12:15 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 1600 JACKSON-KELLER RD (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107433</link>
@@ -794,22 +810,6 @@ We should not be letting companies decide how much privacy we d</description>
       <description>[Climate &amp; Environment] Keyword: climate change — In a study published in the Proceedings of the National Academy of Sciences, researchers show how a wider diversity of vegetables could help improve diets and strengthen agriculture against climate change. They use the term vegetable biodiversity to describe the full range of vegetable species, traditional varieties and their wild relatives.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Thu, 13 Aug 2026 09:40:05 EDT</pubDate>
-    </item>
-    <item>
-      <title>So Much Solar: Digging Into the List of Every US Power Plant That Went Online This Year</title>
-      <link>https://insideclimatenews.org/news/13082026/inside-clean-energy-new-us-power-plants/</link>
-      <guid>https://insideclimatenews.org/news/13082026/inside-clean-energy-new-us-power-plants/</guid>
-      <description>[Climate &amp; Environment] Keyword: renewable energy — It’s been a wild first half of the year in the U.S. power sector, with announcements of gigantic natural gas power plants and some long-awaited renewable energy projects coming online. At times of rapid change, forecasting is difficult. So I feel a measure of comfort focusing on something concrete like the list of 368 utility-scale [&amp;#8230;]</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 13 Aug 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>San Antonio pitches 3.9% property tax increase as budget woes worsen</title>
-      <link>https://sanantonioreport.org/san-antonio-property-tax-increase-budget-woes-worsen/</link>
-      <guid>https://sanantonioreport.org/san-antonio-property-tax-increase-budget-woes-worsen/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — City staff proposes raising fees on everything from Alamodome parking to trash carts and missing library books to balance the budget.San Antonio pitches 3.9% property tax increase as budget woes worsen was first posted on August 13, 2026 at 9:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.co</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Thu, 13 Aug 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
