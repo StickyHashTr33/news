@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 18:21:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 19:18:44 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 2300 BABCOCK RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1110234</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1110234</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1110234 | PRUE Division | 8/15/2026 2:00:32 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 2:00:32 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 700 W MAYFIELD BLVD (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1110241</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1110241</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1110241 | SOUTH Division | 8/15/2026 2:02:43 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 2:02:43 PM</pubDate>
+    </item>
+    <item>
+      <title>‘How do we find the next customer?’: Stirista CEO talks AI, consumer data and growing a marketing and tech company in San Antonio</title>
+      <link>https://sanantonioreport.org/stirista-ceo-ai-consumer-data-marketing-tech-company-in-san-antonio/</link>
+      <guid>https://sanantonioreport.org/stirista-ceo-ai-consumer-data-marketing-tech-company-in-san-antonio/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Ajay Gupta started Stirista in 2009. He dives deep on the San Antonio-based company's growth, data-driven approach and adoption of AI.&amp;#8216;How do we find the next customer?&amp;#8217;: Stirista CEO talks AI, consumer data and growing a marketing and tech company in San Antonio was first posted on August 15, 2026 at 2:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is gu</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sat, 15 Aug 2026 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 100 DOLORES AVE (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1110043</link>
@@ -785,30 +809,6 @@ The post Indigenous Group Sues to Stop Big Bend Border Wall on Religious Grounds
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1103738 | WEST Division | 8/14/2026 7:38:12 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/14/2026 7:38:12 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 2800 CINEMA RDG (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103741</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103741</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1103741 | WEST Division | 8/14/2026 7:39:15 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 7:39:15 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 3600 E HOUSTON ST (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103750</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103750</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1103750 | EAST Division | 8/14/2026 7:41:06 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 7:41:06 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 300 GETTYSBURG RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103754</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103754</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1103754 | WEST Division | 8/14/2026 7:42:46 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 7:42:46 AM</pubDate>
     </item>
   </channel>
 </rss>
