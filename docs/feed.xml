@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 15:15:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 16:18:37 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 400 BOSWELL ST (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1109543</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1109543</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1109543 | SOUTH Division | 8/15/2026 11:04:52 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 11:04:52 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 6000 RAY ELLISON BLVD (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1109547</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1109547</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1109547 | SOUTH Division | 8/15/2026 11:08:10 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 11:08:10 AM</pubDate>
+    </item>
+    <item>
+      <title>Greg Abbott isn’t going to save us from data centers. We have to do it ourselves.</title>
+      <link>https://sanantonioreport.org/greg-abbott-isnt-going-to-save-us-from-data-centers-we-have-to-do-it-ourselves-commentary/</link>
+      <guid>https://sanantonioreport.org/greg-abbott-isnt-going-to-save-us-from-data-centers-we-have-to-do-it-ourselves-commentary/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Commentary: The future of rural Texas should be decided by the people who call it home, not by corporations that see it as another place for financial gain.Greg Abbott isn’t going to save us from data centers. We have to do it ourselves. was first posted on August 15, 2026 at 11:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Pleas</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sat, 15 Aug 2026 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 6600 LOW BID LN (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1109220</link>
@@ -785,30 +809,6 @@ The post Indigenous Group Sues to Stop Big Bend Border Wall on Religious Grounds
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1103475 | WEST Division | 8/14/2026 5:10:50 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/14/2026 5:10:50 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 6400 NW LOOP 410 (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103480</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103480</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1103480 | WEST Division | 8/14/2026 5:17:13 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 5:17:13 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 9900 INGRAM RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103484</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103484</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1103484 | WEST Division | 8/14/2026 5:20:03 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 5:20:03 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 200 RICHLAND HILLS DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103501</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103501</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1103501 | WEST Division | 8/14/2026 5:38:00 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 5:38:00 AM</pubDate>
     </item>
   </channel>
 </rss>
