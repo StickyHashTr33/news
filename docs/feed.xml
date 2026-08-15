@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 02:13:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 03:34:36 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 1600 JACKSON-KELLER RD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107433</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107433</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1107433 | NORTH Division | 8/14/2026 10:18:10 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 10:18:10 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 500 S FRIO ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107446</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107446</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1107446 | CENTRAL Division | 8/14/2026 10:21:35 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 10:21:35 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 2000 SE LOOP 410 (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107453</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107453</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1107453 | EAST Division | 8/14/2026 10:22:38 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/14/2026 10:22:38 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Shooting In Progress — 2400 SW LOOP 410 (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107062</link>
@@ -786,41 +810,6 @@ We should not be letting companies decide how much privacy we d</description>
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — City staff proposes raising fees on everything from Alamodome parking to trash carts and missing library books to balance the budget.San Antonio pitches 3.9% property tax increase as budget woes worsen was first posted on August 13, 2026 at 9:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.co</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Thu, 13 Aug 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>An AI agent spent your money – can anyone prove you authorized it?</title>
-      <link>https://theconversation.com/an-ai-agent-spent-your-money-can-anyone-prove-you-authorized-it-288485</link>
-      <guid>https://theconversation.com/an-ai-agent-spent-your-money-can-anyone-prove-you-authorized-it-288485</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — AI agents cross company boundaries, but proof of their authority often does not. When they overstep, no single record shows what the user allowed.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>2026-08-13T12:30:29Z</pubDate>
-    </item>
-    <item>
-      <title>rsync 3.5.0 released</title>
-      <link>https://lwn.net/Articles/1088759/</link>
-      <guid>https://lwn.net/Articles/1088759/</guid>
-      <description>[Cybersecurity] Keyword: CVE — Version
-3.5.0 of rsync has been released with a huge
-number of security fixes:
-
-
-This release fixes 33 security issues found during a focused audit of
-rsync's path handling and daemon protocol, a companion daemon-protocol
-fuzzing pass, and reports from external researchers -⁠-⁠ plus several
-robustness hardenings. CVE IDs were assigned by VulnCheck (CNA); the
-precise &quot;introduced in&quot; version ranges accompany each advisory, and
-many are much narrower than &quot;everything before 3.5.0&quot;. Every fix ships
-</description>
-      <category>Cybersecurity</category>
-      <pubDate>Thu, 13 Aug 2026 13:47:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 800 ST CLOUD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1098830</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1098830</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1098830 | WEST Division | 8/13/2026 7:45:33 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/13/2026 7:45:33 AM</pubDate>
     </item>
   </channel>
 </rss>
