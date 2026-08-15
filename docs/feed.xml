@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 22:16:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 23:16:15 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 13000 ENGELMANN (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1111160</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1111160</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1111160 | PRUE Division | 8/15/2026 5:59:52 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 5:59:52 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 14000 SOUTHTON RD (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1111161</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1111161</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1111161 | SOUTH Division | 8/15/2026 5:59:52 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 5:59:52 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 500 CERALVO ST (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1110785</link>
@@ -792,23 +808,6 @@ Director Poh Si Teng says t</description>
       <description>[Diabetes &amp; Kidney Disease] Keyword: blood sugar — Orange juice may have a much bigger effect on the body than scientists once realized. Drinking it regularly appears to influence genes tied to inflammation, blood pressure, metabolism, and blood sugar control, while studies have also found improvements in cholesterol and blood vessel health. Researchers suspect natural citrus compounds such as hesperidin may be partly responsible. Even the gut microbiome may benefit.</description>
       <category>Diabetes &amp; Kidney Disease</category>
       <pubDate>Thu, 13 Aug 2026 08:15:50 EDT</pubDate>
-    </item>
-    <item>
-      <title>Indigenous Group Sues to Stop Big Bend Border Wall on Religious Grounds</title>
-      <link>https://www.texasobserver.org/indigenous-group-sues-big-bend-border-wall/</link>
-      <guid>https://www.texasobserver.org/indigenous-group-sues-big-bend-border-wall/</guid>
-      <description>[Immigration &amp; Border] Keyword: border wall — The People of La Junta for Preservation, a nonprofit founded in 2024 that works to preserve Indigenous sites, and two Indigenous worshippers of Lipan Apache lineage are suing the federal government to stop the highly contentious border barrier construction and surveying activities in Big Bend, the Texas Observer has learned.&amp;#160; The plaintiffs argue that ongoing [&amp;#8230;]
-The post Indigenous Group Sues to Stop Big Bend Border Wall on Religious Grounds appeared first on The Texas Observer.</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Fri, 14 Aug 2026 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Police, fire and Animal Care Services spending would rise under San Antonio’s proposed budget</title>
-      <link>https://sanantonioreport.org/police-fire-and-animal-care-spending-san-antonio-proposed-budget/</link>
-      <guid>https://sanantonioreport.org/police-fire-and-animal-care-spending-san-antonio-proposed-budget/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — San Antonio’s proposed 2027 budget increases spending for police, fire and Animal Care Services while emphasizing existing investments.Police, fire and Animal Care Services spending would rise under San Antonio’s proposed budget was first posted on August 14, 2026 at 9:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact </description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Fri, 14 Aug 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
