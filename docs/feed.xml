@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 07:26:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:21:58 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 10100 STATE HWY 16 S (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108358</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108358</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1108358 | SOUTH Division | 8/15/2026 3:02:08 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 3:02:08 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 5900 FLYNN DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108363</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108363</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1108363 | WEST Division | 8/15/2026 3:04:10 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 3:04:10 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 4600 W COMMERCE ST (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108365</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108365</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1108365 | WEST Division | 8/15/2026 3:04:36 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 3:04:36 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 100 BEATRICE AVE (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108213</link>
@@ -786,30 +810,6 @@ We should not be letting companies decide how much privacy we d</description>
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1100039 | EAST Division | 8/13/2026 12:42:45 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/13/2026 12:42:45 PM</pubDate>
-    </item>
-    <item>
-      <title>Climate change decided who ruled as top predator 35 million years ago</title>
-      <link>https://phys.org/news/2026-08-climate-predator-million-years.html</link>
-      <guid>https://phys.org/news/2026-08-climate-predator-million-years.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — An international team of researchers from Belgium, France, Switzerland, Spain and the U.S. has reconstructed the evolution of body mass in carnivorous mammals during the Paleogene—a crucial window in the diversification of mammals that followed the extinction of dinosaurs. This work, published in Biology Letters, challenges the long-standing hypothesis that competition decided the fate of ancient top predators.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 13 Aug 2026 13:40:03 EDT</pubDate>
-    </item>
-    <item>
-      <title>Eastside senior center and indoor pool plans advance with $46M in TIRZ funding</title>
-      <link>https://sanantonioreport.org/eastside-senior-center-and-indoor-pool-plans-advance-tirz-funding/</link>
-      <guid>https://sanantonioreport.org/eastside-senior-center-and-indoor-pool-plans-advance-tirz-funding/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The Inner City Tax Increment Reinvestment Zone board voted in favor of issuing debt for constructing the 30,000-square-foot facility and an aquatics center.Eastside senior center and indoor pool plans advance with $46M in TIRZ funding was first posted on August 13, 2026 at 12:05 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please c</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Thu, 13 Aug 2026 17:05:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 500 TOMAR DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1099789</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1099789</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1099789 | WEST Division | 8/13/2026 11:42:26 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/13/2026 11:42:26 AM</pubDate>
     </item>
   </channel>
 </rss>
