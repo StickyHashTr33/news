@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 13:26:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 14:17:23 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 20000 EAGLE FORD WAY (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1109056</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1109056</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1109056 | SOUTH Division | 8/15/2026 8:57:33 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 8:57:33 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 1200 OBLATE DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1109068</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1109068</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1109068 | NORTH Division | 8/15/2026 9:01:46 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 9:01:46 AM</pubDate>
+    </item>
+    <item>
+      <title>San Antonio-area colleges seek Workforce Pell eligibility in first round of applications</title>
+      <link>https://sanantonioreport.org/san-antonio-area-colleges-workforce-pell-programs/</link>
+      <guid>https://sanantonioreport.org/san-antonio-area-colleges-workforce-pell-programs/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The long-awaited Pell Grant expansion is here — and at least a few area institutions submitted their first workforce programs for approval.San Antonio-area colleges seek Workforce Pell eligibility in first round of applications was first posted on August 15, 2026 at 9:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact m</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sat, 15 Aug 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 1800 N LOOP 1604 E (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108913</link>
@@ -785,30 +809,6 @@ The post Indigenous Group Sues to Stop Big Bend Border Wall on Religious Grounds
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1103414 | EAST Division | 8/14/2026 4:30:30 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/14/2026 4:30:30 AM</pubDate>
-    </item>
-    <item>
-      <title>BOFH: How our Covid ransomware protocol's Y2K blockchain lowered uptime</title>
-      <link>https://www.theregister.com/bofh/2026/08/14/bofh-how-our-covid-ransomware-protocols-y2k-blockchain-lowered-uptime/5284585</link>
-      <guid>https://www.theregister.com/bofh/2026/08/14/bofh-how-our-covid-ransomware-protocols-y2k-blockchain-lowered-uptime/5284585</guid>
-      <description>[Cybersecurity] Keyword: ransomware — Diary of an excuse hound: Pie charts make us hungry for pizza</description>
-      <category>Cybersecurity</category>
-      <pubDate>Fri, 14 Aug 2026 11:29:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Watch: What happens if Luigi Mangione pleads guilty?</title>
-      <link>https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Mangione is accused of killing UnitedHealthcare CEO Brian Thompson in New York - but any plea deal in his federal case could impact a separate state trial.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Fri, 14 Aug 2026 01:19:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 1900 S SAN MARCOS (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103202</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103202</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1103202 | CENTRAL Division | 8/14/2026 2:24:21 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 2:24:21 AM</pubDate>
     </item>
   </channel>
 </rss>
