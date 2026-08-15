@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 12:27:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 13:26:44 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 1800 N LOOP 1604 E (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108913</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108913</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1108913 | NORTH Division | 8/15/2026 8:03:09 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 8:03:09 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 1800 N LOOP 1604 E (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108915</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108915</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1108915 | NORTH Division | 8/15/2026 8:04:46 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 8:04:46 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 15300 JUDSON RD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108922</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108922</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1108922 | NORTH Division | 8/15/2026 8:07:27 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 8:07:27 AM</pubDate>
+    </item>
+    <item>
+      <title>AI could help fossil fuel companies create more emissions</title>
+      <link>https://grist.org/business/ai-could-help-fossil-fuel-companies-create-more-emissions/</link>
+      <guid>https://grist.org/business/ai-could-help-fossil-fuel-companies-create-more-emissions/</guid>
+      <description>[Open Source Software] Keyword: FOSS — </description>
+      <category>Open Source Software</category>
+      <pubDate>Sat, 15 Aug 2026 13:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 8600 SW LOOP 410 (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108776</link>
@@ -777,38 +809,6 @@ The post Indigenous Group Sues to Stop Big Bend Border Wall on Religious Grounds
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1103202 | CENTRAL Division | 8/14/2026 2:24:21 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/14/2026 2:24:21 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 8800 DUGAS DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103218</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103218</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1103218 | WEST Division | 8/14/2026 2:31:44 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 2:31:44 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 11600 IH 35 N (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1102987</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1102987</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1102987 | NORTH Division | 8/14/2026 1:00:07 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 1:00:07 AM</pubDate>
-    </item>
-    <item>
-      <title>NHS service admits data breach due to pager use</title>
-      <link>https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Cybersecurity] Keyword: data breach — The medical data of transplant patients from across the UK was sent over an unencrypted pager network.</description>
-      <category>Cybersecurity</category>
-      <pubDate>Fri, 14 Aug 2026 05:12:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 2900 HATTON (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1101586</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1101586</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1101586 | SOUTH Division | 8/13/2026 6:19:29 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/13/2026 6:19:29 PM</pubDate>
     </item>
   </channel>
 </rss>
