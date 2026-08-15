@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 19:18:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 20:17:02 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 1100 BROADWAY (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1110500</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1110500</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1110500 | DOWNTOWN Division | 8/15/2026 3:02:18 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 3:02:18 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 2300 BABCOCK RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1110234</link>
@@ -801,14 +809,6 @@ The post Indigenous Group Sues to Stop Big Bend Border Wall on Religious Grounds
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Earlier this week prosecutors and Luigi Mangione’s lawyers filed a joint letter requesting the hearing at 11am on Friday in Manhattan federal courtThis morning, the Guardian chatted with Seth Zuckerman, founder of Zuckerman Legal Group and a former New York prosecutor, to run through the process we might expect this morning.If Mangione were to plead guilty, the proceeding will start with both sides telling Judge Margaret Garnett that a plea is going to take place. Continue reading...</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Fri, 14 Aug 2026 14:07:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 2800 CINEMA RDG (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103738</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1103738</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1103738 | WEST Division | 8/14/2026 7:38:12 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 7:38:12 AM</pubDate>
     </item>
   </channel>
 </rss>
