@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 04:24:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 05:21:05 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 2400 BURNING TRL (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107859</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107859</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1107859 | NORTH Division | 8/15/2026 12:01:02 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 12:01:02 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 4400 IH 10 E (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107866</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107866</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1107866 | EAST Division | 8/15/2026 12:02:47 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 12:02:47 AM</pubDate>
+    </item>
+    <item>
+      <title>‘My heart breaks into a million pieces’: emotional tributes to Kumanjayi Little Baby at Alice Springs funeral</title>
+      <link>https://www.theguardian.com/australia-news/2026/aug/15/emotional-tributes-kumanjayi-little-baby-alice-springs-funeral-ntwnfb</link>
+      <guid>https://www.theguardian.com/australia-news/2026/aug/15/emotional-tributes-kumanjayi-little-baby-alice-springs-funeral-ntwnfb</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Hundreds gathered with flashes of pink to farewell the five-year-old girl, who was allegedly murdered in AprilWarning: This story contains references to Indigenous Australians who have diedGet our breaking news email, free app or daily news podcastA sombre funeral service for Kumanjayi Little Baby has been attended by hundreds of people from the Alice Springs community and surrounds.Wearing pink and some dressed in T-shirts bearing the face of the five-year-old girl, the crowd gathered under gre</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Sat, 15 Aug 2026 04:58:20 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle In Progress — 4900 WURZBACH PKWY (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107654</link>
@@ -786,30 +810,6 @@ We should not be letting companies decide how much privacy we d</description>
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Healthcare workers in Vermont’s flagship health network say they and their patients are paying the price for a historic crisis caused by decades of mismanagement by overpaid, corporate-style administrators.</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Thu, 13 Aug 2026 15:58:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alito’s Assets in Fossil Fuels Have Grown by Up to $2.9 Million, Analysis Finds</title>
-      <link>https://truthout.org/articles/alitos-assets-in-fossil-fuels-have-grown-by-up-to-2-9-million-analysis-finds/</link>
-      <guid>https://truthout.org/articles/alitos-assets-in-fossil-fuels-have-grown-by-up-to-2-9-million-analysis-finds/</guid>
-      <description>[Open Source Software] Keyword: FOSS — Recent polling indicates that Alito has a -7 point approval rating among Americans.</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 13 Aug 2026 15:08:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>The backup Microsoft never promised you</title>
-      <link>https://www.theregister.com/security/2026/08/13/sponsored-the-backup-microsoft-never-promised-you/5284957</link>
-      <guid>https://www.theregister.com/security/2026/08/13/sponsored-the-backup-microsoft-never-promised-you/5284957</guid>
-      <description>[Cybersecurity] Keyword: ransomware — SPONSORED FEATURE: Your M365 and Azure data might not be as safe as you think from ransomware; time for a reality check</description>
-      <category>Cybersecurity</category>
-      <pubDate>Thu, 13 Aug 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Greater vegetable diversity needed for healthier diets and climate-resilient agriculture</title>
-      <link>https://phys.org/news/2026-08-greater-vegetable-diversity-healthier-diets.html</link>
-      <guid>https://phys.org/news/2026-08-greater-vegetable-diversity-healthier-diets.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — In a study published in the Proceedings of the National Academy of Sciences, researchers show how a wider diversity of vegetables could help improve diets and strengthen agriculture against climate change. They use the term vegetable biodiversity to describe the full range of vegetable species, traditional varieties and their wild relatives.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 13 Aug 2026 09:40:05 EDT</pubDate>
     </item>
   </channel>
 </rss>
