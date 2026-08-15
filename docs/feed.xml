@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 06:29:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 07:26:42 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 100 BEATRICE AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108213</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108213</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1108213 | SOUTH Division | 8/15/2026 2:08:52 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 2:08:52 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 1100 S SAN MARCOS (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108225</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108225</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1108225 | CENTRAL Division | 8/15/2026 2:13:09 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 2:13:09 AM</pubDate>
+    </item>
+    <item>
+      <title>‘A tax on being thin’: only high earners make overall savings on food bills from weight-loss drugs</title>
+      <link>https://www.theguardian.com/science/2026/aug/15/high-earners-savings-weight-loss-drugs-income-glp-1</link>
+      <guid>https://www.theguardian.com/science/2026/aug/15/high-earners-savings-weight-loss-drugs-income-glp-1</guid>
+      <description>[Diabetes &amp; Kidney Disease] Keyword: GLP-1 — Users need discretionary income of nearly £100,000 a year to make savings on their grocery spend after paying £1,200 for GLP-1s, analysis findsThe high cost of weight-loss medication is a “regressive tax on being thin” because the outlay outweighs any saving on food costs for all but the highest earners.Someone needs to have discretionary income of nearly £100,000 a year to actually save money after covering the £1,200 annual cost of GLP-1 medication, according to an analysis by the consultancy </description>
+      <category>Diabetes &amp; Kidney Disease</category>
+      <pubDate>Sat, 15 Aug 2026 07:00:50 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 1200 N HUNT LN (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108045</link>
@@ -786,30 +810,6 @@ We should not be letting companies decide how much privacy we d</description>
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1099789 | WEST Division | 8/13/2026 11:42:26 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/13/2026 11:42:26 AM</pubDate>
-    </item>
-    <item>
-      <title>Indigenous land restitution empowers communities, but environmental gains require extra support</title>
-      <link>https://phys.org/news/2026-08-indigenous-restitution-empowers-communities-environmental.html</link>
-      <guid>https://phys.org/news/2026-08-indigenous-restitution-empowers-communities-environmental.html</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Charting a better future will require redressing the problems of the past. That's one reason many countries have begun to return dispossessed land to Indigenous peoples. The goal of Indigenous land restitution is to empower disadvantaged communities and entrust land management back to the region's traditional stewards. In many cases, these programs also carry expectations of broad environmental benefits. However, there's been relatively little research testing this assumption.</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Thu, 13 Aug 2026 12:00:07 EDT</pubDate>
-    </item>
-    <item>
-      <title>Journalism is key to combating bad practices in science</title>
-      <link>https://phys.org/news/2026-08-journalism-key-combating-bad-science.html</link>
-      <guid>https://phys.org/news/2026-08-journalism-key-combating-bad-science.html</guid>
-      <description>[ALPR &amp; Flock Cameras] Keyword: ALPR — Watchdog science journalism has become a fundamental tool to counter scientific malpractice, such as publication fraud, abuse and political and corporate manipulation of science. A study by the Universitat Autònoma de Barcelona (UAB) has mapped for the first time the rise of this type of journalism in Ibero-America through interviews with 15 journalists from the region who have investigated prominent cases of bad science. The work, the first to study this practice in the region, has just been pu</description>
-      <category>ALPR &amp; Flock Cameras</category>
-      <pubDate>Thu, 13 Aug 2026 12:20:04 EDT</pubDate>
-    </item>
-    <item>
-      <title>Third person dies at New Jersey immigration detention center</title>
-      <link>https://www.theguardian.com/us-news/2026/aug/13/immigrant-dies-delaney-hall-new-jersey</link>
-      <guid>https://www.theguardian.com/us-news/2026/aug/13/immigrant-dies-delaney-hall-new-jersey</guid>
-      <description>[Immigration &amp; Border] Keyword: immigration detention — Jose Chajon-Raxon experienced ‘seizure-like activity’ at Delaney Hall and later died after being hospitalizedA Guatemalan immigrant detained by US Immigration and Customs Enforcement (ICE) at a Newark, New Jersey, facility suffered a medical emergency and later died after being hospitalized, according to the Trump administration.Jose Chajon-Raxon is now the third immigrant to die after being held at Delaney Hall, an ICE detention center that reopened in May 2025 amid the Trump administration’s i</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Thu, 13 Aug 2026 16:33:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
