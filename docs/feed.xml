@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 05:21:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 06:29:35 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 1200 N HUNT LN (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108045</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108045</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1108045 | WEST Division | 8/15/2026 1:14:38 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 1:14:38 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Shooting In Progress — 1400-1498 W COMMERCE ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108055</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108055</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1108055 | CENTRAL Division | 8/15/2026 1:17:41 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 1:17:41 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 2400 BURNING TRL (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107859</link>
@@ -794,22 +810,6 @@ We should not be letting companies decide how much privacy we d</description>
       <description>[Immigration &amp; Border] Keyword: immigration detention — Jose Chajon-Raxon experienced ‘seizure-like activity’ at Delaney Hall and later died after being hospitalizedA Guatemalan immigrant detained by US Immigration and Customs Enforcement (ICE) at a Newark, New Jersey, facility suffered a medical emergency and later died after being hospitalized, according to the Trump administration.Jose Chajon-Raxon is now the third immigrant to die after being held at Delaney Hall, an ICE detention center that reopened in May 2025 amid the Trump administration’s i</description>
       <category>Immigration &amp; Border</category>
       <pubDate>Thu, 13 Aug 2026 16:33:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>‘Birmingham Four’ lawyers hope spycops inquiry will help reopen case</title>
-      <link>https://www.theguardian.com/uk-news/2026/aug/13/birmingham-four-lawyers-spycops-inquiry-reopen-case</link>
-      <guid>https://www.theguardian.com/uk-news/2026/aug/13/birmingham-four-lawyers-spycops-inquiry-reopen-case</guid>
-      <description>[Immigration &amp; Border] Keyword: ICE operation — Undercover officers working for West Midlands’ ‘special projects team’ planted evidence to convict men, lawyers claimLawyers representing four men convicted of terror offences are increasingly hopeful that revelations from the undercover policing inquiry could boost the chances of their case being reopened.Ten years ago, Khobaib Hussain, Naweed Ali, Mohibur Rahman and Tahir Aziz were arrested and later convicted of plotting a terrorist attack in the UK after an elaborate covert police operation.</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Thu, 13 Aug 2026 16:28:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Layoffs, long waits, obscene prices: How corporate administrators mismanaged Vermont’s flagship health network into a historic crisis</title>
-      <link>https://therealnews.com/vermont-health-network-historic-crisis</link>
-      <guid>https://therealnews.com/vermont-health-network-historic-crisis</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Healthcare workers in Vermont’s flagship health network say they and their patients are paying the price for a historic crisis caused by decades of mismanagement by overpaid, corporate-style administrators.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Thu, 13 Aug 2026 15:58:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
