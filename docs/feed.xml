@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 20:17:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 21:16:50 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 500 CERALVO ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1110785</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1110785</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1110785 | CENTRAL Division | 8/15/2026 4:04:35 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 4:04:35 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 1100 BROADWAY (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1110500</link>
@@ -801,14 +809,6 @@ The post Indigenous Group Sues to Stop Big Bend Border Wall on Religious Grounds
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — San Antonio’s proposed 2027 budget increases spending for police, fire and Animal Care Services while emphasizing existing investments.Police, fire and Animal Care Services spending would rise under San Antonio’s proposed budget was first posted on August 14, 2026 at 9:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact </description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Fri, 14 Aug 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Luigi Mangione to appear in court amid reports of plea deal over healthcare CEO’s killing – live</title>
-      <link>https://www.theguardian.com/us-news/live/2026/aug/14/luigi-mangione-court-plea-deal-ceo-killing-live</link>
-      <guid>https://www.theguardian.com/us-news/live/2026/aug/14/luigi-mangione-court-plea-deal-ceo-killing-live</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Earlier this week prosecutors and Luigi Mangione’s lawyers filed a joint letter requesting the hearing at 11am on Friday in Manhattan federal courtThis morning, the Guardian chatted with Seth Zuckerman, founder of Zuckerman Legal Group and a former New York prosecutor, to run through the process we might expect this morning.If Mangione were to plead guilty, the proceeding will start with both sides telling Judge Margaret Garnett that a plea is going to take place. Continue reading...</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Fri, 14 Aug 2026 14:07:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
