@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 05:23:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:31:43 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 500 HANSFORD ST (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112889</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112889</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1112889 | SOUTH Division | 8/16/2026 1:10:00 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 1:10:00 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 4600 SW MILITARY DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112903</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112903</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1112903 | SOUTH Division | 8/16/2026 1:14:22 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 1:14:22 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 5300 SOUTHCROSS RANCH RD (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112634</link>
@@ -791,23 +807,6 @@ Director Poh Si Teng says t</description>
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — The plea would resolve the remaining federal charges tied to the killing of UnitedHealthcare CEO Brian Thompson and could affect a separate New York state case,</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>2026-08-14T15:37:00Z</pubDate>
-    </item>
-    <item>
-      <title>&quot;American Doctor&quot;: New Film Follows U.S. Doctors to Gaza as Israel Bombs Hospitals, Kills Staff, Patients</title>
-      <link>http://www.democracynow.org/2026/8/14/american_doctor_documentary</link>
-      <guid>http://www.democracynow.org/2026/8/14/american_doctor_documentary</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — The new documentary American Doctor tells the story of how the besieged hospitals of Gaza have continued to treat the sick and wounded throughout Israel&amp;#8217;s genocidal war on the Palestinian territory, with local medical staff risking their own lives in the process. According to Palestinian officials, Israeli attacks have killed about 1,700 healthcare workers in Gaza since October 2023. The documentary follows three U.S. doctors as they volunteer in Gaza hospitals.
-Director Poh Si Teng says t</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Fri, 14 Aug 2026 08:42:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 500 BREEDEN AVE (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1104075</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1104075</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1104075 | DOWNTOWN Division | 8/14/2026 9:01:24 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 9:01:24 AM</pubDate>
     </item>
   </channel>
 </rss>
