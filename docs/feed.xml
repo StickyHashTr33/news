@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 16:18:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 17:16:21 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 4400 HORIZON HILL BLVD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114569</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114569</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1114569 | PRUE Division | 8/16/2026 12:05:51 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 12:05:51 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 7700 FLOYD CURL (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114571</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114571</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1114571 | PRUE Division | 8/16/2026 12:06:20 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 12:06:20 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 8700 STATE HWY 151 (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114355</link>
@@ -790,22 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1107446 | CENTRAL Division | 8/14/2026 10:21:35 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/14/2026 10:21:35 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 2000 SE LOOP 410 (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107453</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107453</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1107453 | EAST Division | 8/14/2026 10:22:38 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 10:22:38 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Shooting In Progress — 2400 SW LOOP 410 (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107062</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107062</guid>
-      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1107062 | WEST Division | 8/14/2026 8:58:42 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 8:58:42 PM</pubDate>
     </item>
   </channel>
 </rss>
