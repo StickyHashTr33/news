@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 12:29:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 13:27:26 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 2800 WOODBURY ST (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113925</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113925</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1113925 | NORTH Division | 8/16/2026 8:14:27 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 8:14:27 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 200 PENNYSTONE AVE (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113762</link>
@@ -798,14 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1105608 | WEST Division | 8/14/2026 3:12:23 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/14/2026 3:12:23 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — LOMA VISTA ST / SW 19TH ST (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105630</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1105630</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1105630 | CENTRAL Division | 8/14/2026 3:16:02 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 3:16:02 PM</pubDate>
     </item>
   </channel>
 </rss>
