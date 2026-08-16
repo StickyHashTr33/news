@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 04:30:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 05:23:23 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5300 SOUTHCROSS RANCH RD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112634</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112634</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1112634 | EAST Division | 8/16/2026 12:07:27 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 12:07:27 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 300 NOTRE DAME DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112662</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112662</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1112662 | WEST Division | 8/16/2026 12:13:13 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 12:13:13 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 300 E CEVALLOS ST (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112192</link>
@@ -792,22 +808,6 @@ Director Poh Si Teng says t</description>
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1104075 | DOWNTOWN Division | 8/14/2026 9:01:24 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/14/2026 9:01:24 AM</pubDate>
-    </item>
-    <item>
-      <title>One of the most common brain disorders is one of the most misunderstood – how functional neurological disorder is both ‘all in your head’ and beyond it</title>
-      <link>https://theconversation.com/one-of-the-most-common-brain-disorders-is-one-of-the-most-misunderstood-how-functional-neurological-disorder-is-both-all-in-your-head-and-beyond-it-288048</link>
-      <guid>https://theconversation.com/one-of-the-most-common-brain-disorders-is-one-of-the-most-misunderstood-how-functional-neurological-disorder-is-both-all-in-your-head-and-beyond-it-288048</guid>
-      <description>[Science &amp; Research] Keyword: neuroscience — Millions of people suffer from debilitating symptoms their doctors don’t quite believe. But advances in neuroscience and education may be changing the tides for treatment.</description>
-      <category>Science &amp; Research</category>
-      <pubDate>2026-08-14T12:39:45Z</pubDate>
-    </item>
-    <item>
-      <title>Paleontology rocked by organic molecules found in 66-million-year-old dinosaur bones</title>
-      <link>https://www.sciencedaily.com/releases/2026/08/260811053042.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/08/260811053042.htm</guid>
-      <description>[Open Source Software] Keyword: FOSS — Researchers have found strong evidence that original collagen can survive inside dinosaur fossils for tens of millions of years, overturning a long-standing assumption about fossilization. The discovery could unlock hidden molecular clues about dinosaur biology, evolution, and how ancient proteins managed to survive for so long.</description>
-      <category>Open Source Software</category>
-      <pubDate>Fri, 14 Aug 2026 05:51:50 EDT</pubDate>
     </item>
   </channel>
 </rss>
