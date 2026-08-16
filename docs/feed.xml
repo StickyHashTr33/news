@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 02:23:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 03:44:04 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 300 E CEVALLOS ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112192</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112192</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1112192 | DOWNTOWN Division | 8/15/2026 10:27:26 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 10:27:26 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 400 HARDING PLACE (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112215</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112215</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1112215 | EAST Division | 8/15/2026 10:31:32 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 10:31:32 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 800 NW 34TH ST (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112222</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112222</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1112222 | WEST Division | 8/15/2026 10:32:58 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/15/2026 10:32:58 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 13000 ENGELMANN (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1111160</link>
@@ -784,30 +808,6 @@ Director Poh Si Teng says t</description>
       <description>[Open Source Software] Keyword: FOSS — Researchers have found strong evidence that original collagen can survive inside dinosaur fossils for tens of millions of years, overturning a long-standing assumption about fossilization. The discovery could unlock hidden molecular clues about dinosaur biology, evolution, and how ancient proteins managed to survive for so long.</description>
       <category>Open Source Software</category>
       <pubDate>Fri, 14 Aug 2026 05:51:50 EDT</pubDate>
-    </item>
-    <item>
-      <title>A 236-million-year-old fossil could rewrite the story of mammalian birth</title>
-      <link>https://www.sciencedaily.com/releases/2026/08/260813045534.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/08/260813045534.htm</guid>
-      <description>[Open Source Software] Keyword: FOSS — Scientists may have uncovered evidence that a mammal ancestor was giving birth to live young 236 million years ago. A fossilized cynodont showed a neonatal growth line and an unusually large birth size that closely match patterns seen in modern mammals. The discovery could push the evolution of live birth back by up to 95 million years. It also raises the possibility that many supposedly “modern” mammalian traits evolved surprisingly early.</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 13 Aug 2026 05:53:05 EDT</pubDate>
-    </item>
-    <item>
-      <title>BP to develop offshore gasfield in Venezuela with firms linked to Trump administration</title>
-      <link>https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump</link>
-      <guid>https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump</guid>
-      <description>[Open Source Software] Keyword: FOSS — Move will be one of first large-scale foreign investments in country since US ousted leader Nicolás Maduro in JanuaryBP has answered Donald Trump’s call for oil companies to help rebuild Venezuela’s fossil fuel industry with new plans to develop a large offshore gasfield.BP will partner with two oil firms with close links to the Trump administration to develop the second phase of the Loran gasfield, in one of the first large-scale foreign investments in Venezuela since the US ousted its leader N</description>
-      <category>Open Source Software</category>
-      <pubDate>Fri, 14 Aug 2026 14:04:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Drinking orange juice every day may change thousands of genes</title>
-      <link>https://www.sciencedaily.com/releases/2026/08/260813045548.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/08/260813045548.htm</guid>
-      <description>[Diabetes &amp; Kidney Disease] Keyword: blood sugar — Orange juice may have a much bigger effect on the body than scientists once realized. Drinking it regularly appears to influence genes tied to inflammation, blood pressure, metabolism, and blood sugar control, while studies have also found improvements in cholesterol and blood vessel health. Researchers suspect natural citrus compounds such as hesperidin may be partly responsible. Even the gut microbiome may benefit.</description>
-      <category>Diabetes &amp; Kidney Disease</category>
-      <pubDate>Thu, 13 Aug 2026 08:15:50 EDT</pubDate>
     </item>
   </channel>
 </rss>
