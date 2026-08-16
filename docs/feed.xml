@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 17:16:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 18:21:07 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 13500 WEST AVE (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114740</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114740</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1114740 | NORTH Division | 8/16/2026 1:03:30 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 1:03:30 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — HEARTLAND DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114743</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114743</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1114743 | NORTH Division | 8/16/2026 1:05:09 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 1:05:09 PM</pubDate>
+    </item>
+    <item>
+      <title>Phytophthora dieback linked to habitat loss and lower digging activity among quendas in Western Australia</title>
+      <link>https://phys.org/news/2026-08-phytophthora-dieback-linked-habitat-loss.html</link>
+      <guid>https://phys.org/news/2026-08-phytophthora-dieback-linked-habitat-loss.html</guid>
+      <description>[Foraging &amp; Wild Plants] Keyword: foraging — A new study from Murdoch University has found that the introduced plant disease Phytophthora dieback is indirectly hindering quendas in Western Australia's jarrah forests by reducing their habitat quality and consequently decreasing their digging activity. The paper, &quot;Exotic Plant Pathogen Reduces Habitat and Foraging Activities of a Digging Mammal,&quot; was published in the journal Austral Ecology.</description>
+      <category>Foraging &amp; Wild Plants</category>
+      <pubDate>Sun, 16 Aug 2026 13:20:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 4400 HORIZON HILL BLVD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114569</link>
@@ -782,30 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1107654 | NORTH Division | 8/14/2026 11:05:17 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/14/2026 11:05:17 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 800 MISSION RD (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107686</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107686</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1107686 | SOUTH Division | 8/14/2026 11:12:15 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 11:12:15 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 1600 JACKSON-KELLER RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107433</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107433</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1107433 | NORTH Division | 8/14/2026 10:18:10 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 10:18:10 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 500 S FRIO ST (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107446</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107446</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1107446 | CENTRAL Division | 8/14/2026 10:21:35 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 10:21:35 PM</pubDate>
     </item>
   </channel>
 </rss>
