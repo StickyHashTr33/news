@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 18:21:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 19:18:42 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 1100 SAN FERNANDO ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114921</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114921</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1114921 | CENTRAL Division | 8/16/2026 2:03:39 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 2:03:39 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 13000 JONES MALTSBERGER RD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114938</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114938</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1114938 | NORTH Division | 8/16/2026 2:07:14 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 2:07:14 PM</pubDate>
+    </item>
+    <item>
+      <title>Geekdom announces the end of its coworking space. Instead, it will focus on the startup ‘valley of death’.</title>
+      <link>https://sanantonioreport.org/geekdom-announces-end-of-coworking-space/</link>
+      <guid>https://sanantonioreport.org/geekdom-announces-end-of-coworking-space/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Much of Geekdom’s focus was turning ideas into businesses. Now, the company wants to support people who already have startups off the ground.Geekdom announces the end of its coworking space. Instead, it will focus on the startup &amp;#8216;valley of death&amp;#8217;. was first posted on August 16, 2026 at 2:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyrigh</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sun, 16 Aug 2026 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 13500 WEST AVE (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114740</link>
@@ -782,30 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1107859 | NORTH Division | 8/15/2026 12:01:02 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/15/2026 12:01:02 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 4400 IH 10 E (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107866</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107866</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1107866 | EAST Division | 8/15/2026 12:02:47 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/15/2026 12:02:47 AM</pubDate>
-    </item>
-    <item>
-      <title>‘My heart breaks into a million pieces’: emotional tributes to Kumanjayi Little Baby at Alice Springs funeral</title>
-      <link>https://www.theguardian.com/australia-news/2026/aug/15/emotional-tributes-kumanjayi-little-baby-alice-springs-funeral-ntwnfb</link>
-      <guid>https://www.theguardian.com/australia-news/2026/aug/15/emotional-tributes-kumanjayi-little-baby-alice-springs-funeral-ntwnfb</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Hundreds gathered with flashes of pink to farewell the five-year-old girl, who was allegedly murdered in AprilWarning: This story contains references to Indigenous Australians who have diedGet our breaking news email, free app or daily news podcastA sombre funeral service for Kumanjayi Little Baby has been attended by hundreds of people from the Alice Springs community and surrounds.Wearing pink and some dressed in T-shirts bearing the face of the five-year-old girl, the crowd gathered under gre</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Sat, 15 Aug 2026 04:58:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 4900 WURZBACH PKWY (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107654</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1107654</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1107654 | NORTH Division | 8/14/2026 11:05:17 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 11:05:17 PM</pubDate>
     </item>
   </channel>
 </rss>
