@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 06:31:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 07:27:10 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Shooting In Progress — 800 N ALAMO ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113117</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113117</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1113117 | DOWNTOWN Division | 8/16/2026 2:13:11 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 2:13:11 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 500 HANSFORD ST (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112889</link>
@@ -799,14 +807,6 @@ Director Poh Si Teng says t</description>
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Democratic U.S. Senate nominee James Talarico unveiled a veterans and military agenda Friday aimed at ending forever wars, strengthening support for military families and increasing the resources available to veterans for health care, housing and employment. James Talarico pushes new plan to woo Texas veterans, pledges to &amp;#8216;fight for them the way they fight for us&amp;#8217; was first posted on August 14, 2026 at 10:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for person</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Fri, 14 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Luigi Mangione tells judge he will plead guilty in federal case in killing of top US health insurance executive</title>
-      <link>https://www.dw.com/en/luigi-mangione-tells-judge-he-will-plead-guilty-in-federal-case-in-killing-of-top-us-health-insurance-executive/a-78375740?maca=en-rss-en-all-1573-rdf</link>
-      <guid>https://www.dw.com/en/luigi-mangione-tells-judge-he-will-plead-guilty-in-federal-case-in-killing-of-top-us-health-insurance-executive/a-78375740?maca=en-rss-en-all-1573-rdf</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — The plea would resolve the remaining federal charges tied to the killing of UnitedHealthcare CEO Brian Thompson and could affect a separate New York state case,</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>2026-08-14T15:37:00Z</pubDate>
     </item>
   </channel>
 </rss>
