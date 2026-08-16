@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 09:23:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 10:18:20 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 1000-1099 W FRENCH PLACE (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113549</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113549</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1113549 | DOWNTOWN Division | 8/16/2026 4:51:17 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 4:51:17 AM</pubDate>
+    </item>
+    <item>
+      <title>Pandemic funding built Bexar County’s public health department. Now it’s disappearing.</title>
+      <link>https://sanantonioreport.org/pandemic-funding-bexar-county-public-health-department/</link>
+      <guid>https://sanantonioreport.org/pandemic-funding-bexar-county-public-health-department/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Just four years in, Bexar County's public health department faces an uncertain future as the pandemic-era funding it relied on dries up.Pandemic funding built Bexar County&amp;#8217;s public health department. Now it&amp;#8217;s disappearing. was first posted on August 16, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please co</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sun, 16 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 2900 IRWIN DR (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113417</link>
@@ -791,22 +807,6 @@ Director Poh Si Teng says t</description>
       <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1104730 | PRUE Division | 8/14/2026 11:30:47 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/14/2026 11:30:47 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Shooting — 2300 COMMERCIAL AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1104749</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1104749</guid>
-      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-1104749 | SOUTH Division | 8/14/2026 11:37:40 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 11:37:40 AM</pubDate>
-    </item>
-    <item>
-      <title>Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing</title>
-      <link>https://www.aljazeera.com/news/2026/8/14/mangione-pleads-guilty-to-federal-charges-in-unitedhealthcare-ceo-killing?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/8/14/mangione-pleads-guilty-to-federal-charges-in-unitedhealthcare-ceo-killing?traffic_source=rss</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Mangione admits to shooting Brian Thompson in federal court, still faces separate state charges.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Fri, 14 Aug 2026 15:43:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
