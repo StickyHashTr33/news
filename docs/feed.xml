@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 10:18:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 11:16:28 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 200 E CEVALLOS ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113628</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113628</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1113628 | DOWNTOWN Division | 8/16/2026 5:54:05 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 5:54:05 AM</pubDate>
+    </item>
+    <item>
+      <title>Trump is trashing a national treasure for donors —and Texans can't stop it</title>
+      <link>https://www.alternet.org/trump-is-trashing-a-national-treasure-for-donors-and-texans-can-t-stop-it/</link>
+      <guid>https://www.alternet.org/trump-is-trashing-a-national-treasure-for-donors-and-texans-can-t-stop-it/</guid>
+      <description>[Immigration &amp; Border] Keyword: border wall — On August 6, a date that’s been called ‘a day of infamy,’ construction began on Trump’s border wall through Big Bend National Park. Under a $1.7 billion federal contract strongly opposed by Texas locals regardless of party affiliation, Southwest Valley started bulldozing for profit at 8 a.m., razing habitats of threatened species and destroying native vegetation. Running along parts of the Rio Grande, the project threatens mountain lions, black bears, and desert bighorn sheep that need back and </description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>Sun, 16 Aug 2026 10:35:28 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 1000-1099 W FRENCH PLACE (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113549</link>
@@ -791,22 +807,6 @@ Director Poh Si Teng says t</description>
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Fri, 14 Aug 2026 18:25:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sediments off Brazil's northeast coast reveal sudden changes in heat transport in the Atlantic</title>
-      <link>https://phys.org/news/2026-08-sediments-brazil-northeast-coast-reveal.html</link>
-      <guid>https://phys.org/news/2026-08-sediments-brazil-northeast-coast-reveal.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — According to a new study led by researchers from Brazil and Germany, the main system that transports heat from one end of the Atlantic Ocean to the other may undergo sudden changes in intensity driven by climate change similar to what we are experiencing now, even when it is already weakened.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Fri, 14 Aug 2026 13:00:04 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — 7700 FLOYD CURL (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1104730</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1104730</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1104730 | PRUE Division | 8/14/2026 11:30:47 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 11:30:47 AM</pubDate>
     </item>
   </channel>
 </rss>
