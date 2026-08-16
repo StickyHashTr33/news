@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 14:18:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 15:17:00 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 10900 IH 10 W (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114197</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114197</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1114197 | PRUE Division | 8/16/2026 10:00:17 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 10:00:17 AM</pubDate>
+    </item>
+    <item>
+      <title>The PM called Sally McManus a giant of the Labor movement. Now she just wants to go birding</title>
+      <link>https://www.theguardian.com/australia-news/2026/aug/17/the-pm-called-sally-mcmanus-a-giant-of-the-labor-movement-now-she-just-wants-to-go-birding</link>
+      <guid>https://www.theguardian.com/australia-news/2026/aug/17/the-pm-called-sally-mcmanus-a-giant-of-the-labor-movement-now-she-just-wants-to-go-birding</guid>
+      <description>[Labor &amp; Worker Rights] Keyword: labor movement — After securing wage rises for low-paid workers, weathering death threats and working with three PMs – the ACTU secretary is ready for a breakGet our breaking news email, free app or daily news podcastSally McManus started her job as the country’s most powerful trade union leader amid howls of criticism.Shouted down for suggesting union members were right to break “unjust” industrial laws in a live TV interview, McManus quickly adjusted to the high decibel work of being secretary of the Australia</description>
+      <category>Labor &amp; Worker Rights</category>
+      <pubDate>Sun, 16 Aug 2026 15:00:28 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 600 CERALVO ST (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114021</link>
@@ -790,22 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1106402 | PRUE Division | 8/14/2026 6:05:56 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/14/2026 6:05:56 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 11200 FIVE IRON (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1106141</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1106141</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1106141 | SOUTH Division | 8/14/2026 5:04:20 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/14/2026 5:04:20 PM</pubDate>
-    </item>
-    <item>
-      <title>Europe's mountain summits are warming—vegetation is responding in surprisingly different ways</title>
-      <link>https://phys.org/news/2026-08-europe-mountain-summits-vegetation-ways.html</link>
-      <guid>https://phys.org/news/2026-08-europe-mountain-summits-vegetation-ways.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Decades of climate change have not left Europe's mountain vegetation unscathed. However, the changes observed do not always match expectations. As a new international study by a research team led by researchers from the University of Vienna, the Austrian Academy of Sciences and the BOKU University shows, alpine vegetation has shifted significantly towards warmth-associated species. However, the direct link between this so-called thermophilization and local warming is surprisingly weak. The study</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Fri, 14 Aug 2026 18:00:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
