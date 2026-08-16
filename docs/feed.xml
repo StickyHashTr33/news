@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 22:15:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 23:15:02 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trump is trashing a national treasure for donors —and Texans can't stop it</title>
+      <link>https://www.alternet.org/alternet-exclusives/trump-is-trashing-a-national-treasure-for-donors-and-texans-can-t-stop-it/</link>
+      <guid>https://www.alternet.org/alternet-exclusives/trump-is-trashing-a-national-treasure-for-donors-and-texans-can-t-stop-it/</guid>
+      <description>[Immigration &amp; Border] Keyword: border wall — On August 6, a date that’s been called ‘a day of infamy,’ construction began on Trump’s border wall through Big Bend National Park. Under a $1.7 billion federal contract strongly opposed by Texas locals regardless of party affiliation, Southwest Valley started bulldozing for profit at 8 a.m., razing habitats of threatened species and destroying native vegetation. Running along parts of the Rio Grande, the project threatens mountain lions, black bears, and desert bighorn sheep that need back and </description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>Sun, 16 Aug 2026 10:35:28 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 3400 COMMERCIAL AVE (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1115613</link>
@@ -798,14 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1108365 | WEST Division | 8/15/2026 3:04:36 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/15/2026 3:04:36 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 100 BEATRICE AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108213</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108213</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1108213 | SOUTH Division | 8/15/2026 2:08:52 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/15/2026 2:08:52 AM</pubDate>
     </item>
   </channel>
 </rss>
