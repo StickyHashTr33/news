@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 05:31:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 06:43:26 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 600 N SAN FELIPE AVE (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117305</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117305</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1117305 | WEST Division | 8/17/2026 1:17:39 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/17/2026 1:17:39 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 100 STRATFORD CT (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117113</link>
@@ -798,14 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1108519 | CENTRAL Division | 8/15/2026 4:14:16 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/15/2026 4:14:16 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 400 PORTLAND RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108561</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108561</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1108561 | NORTH Division | 8/15/2026 4:39:38 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/15/2026 4:39:38 AM</pubDate>
     </item>
   </channel>
 </rss>
