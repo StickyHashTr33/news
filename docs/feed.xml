@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 20:21:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 21:21:21 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Observations since 1850 reveal regional climate fingerprints of human-induced warming</title>
+      <link>https://phys.org/news/2026-08-reveal-regional-climate-fingerprints-human.html</link>
+      <guid>https://phys.org/news/2026-08-reveal-regional-climate-fingerprints-human.html</guid>
+      <description>[Climate &amp; Environment] Keyword: global warming — There is no question that the current global temperature increase is human-caused. Global warming has long since emerged as the dominant signal amid natural climate fluctuations. However, identifying how this warming manifests regionally remains a key challenge.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 17 Aug 2026 17:00:05 EDT</pubDate>
+    </item>
+    <item>
+      <title>Butterflies on the move to higher ground as warming redraws Alpine habitats</title>
+      <link>https://phys.org/news/2026-08-butterflies-higher-ground-redraws-alpine.html</link>
+      <guid>https://phys.org/news/2026-08-butterflies-higher-ground-redraws-alpine.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Climate change presents animals and plants with a fundamental challenge: What can they do when their established habitats become increasingly warm? They can adapt to the changing conditions—or move to areas where the climate remains suitable for them.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 17 Aug 2026 17:20:01 EDT</pubDate>
+    </item>
     <item>
       <title>Are zoos ready for the changing climate?</title>
       <link>https://phys.org/news/2026-08-zoos-ready-climate.html</link>
@@ -811,22 +827,6 @@ The post Book Seeks to Bridge the Gap Between Providers and Patients in Appalach
       <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1113773 | SOUTH Division | 8/16/2026 7:04:47 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/16/2026 7:04:47 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 9900 INGRAM RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113784</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113784</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1113784 | WEST Division | 8/16/2026 7:09:09 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 7:09:09 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 5900 FAIRWOOD (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113797</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113797</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1113797 | SOUTH Division | 8/16/2026 7:14:15 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 7:14:15 AM</pubDate>
     </item>
   </channel>
 </rss>
