@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 04:36:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 05:31:22 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 100 STRATFORD CT (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117113</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117113</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1117113 | SOUTH Division | 8/17/2026 12:00:45 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/17/2026 12:00:45 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 9600 HILLSIDE TRL (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117130</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117130</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1117130 | PRUE Division | 8/17/2026 12:07:20 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/17/2026 12:07:20 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 4100 BELLE GROVE (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117149</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117149</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1117149 | PRUE Division | 8/17/2026 12:14:40 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/17/2026 12:14:40 AM</pubDate>
+    </item>
+    <item>
+      <title>Chinese AI company Zhipu claims its new is a better bug-finder than Anthropic, OpenAI</title>
+      <link>https://www.theregister.com/security/2026/08/17/chinese-ai-company-zhipu-claims-its-new-is-a-better-bug-finder-than-anthropic-openai/5288203</link>
+      <guid>https://www.theregister.com/security/2026/08/17/chinese-ai-company-zhipu-claims-its-new-is-a-better-bug-finder-than-anthropic-openai/5288203</guid>
+      <description>[Cybersecurity] Keyword: data breach — PLUS: HCL, TCS, admit data breaches; Google, Apple, India bans some rideshare tips; and more!</description>
+      <category>Cybersecurity</category>
+      <pubDate>Mon, 17 Aug 2026 02:51:21 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 5100 LA FUENTE (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1116974</link>
@@ -774,38 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1108561 | NORTH Division | 8/15/2026 4:39:38 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/15/2026 4:39:38 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 2100 WAVERLY AVE (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108601</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108601</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1108601 | WEST Division | 8/15/2026 5:07:18 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/15/2026 5:07:18 AM</pubDate>
-    </item>
-    <item>
-      <title>Where I Live: Riverside</title>
-      <link>https://sanantonioreport.org/where-i-live-riverside-san-antonio-craig-and-sasha-henry/</link>
-      <guid>https://sanantonioreport.org/where-i-live-riverside-san-antonio-craig-and-sasha-henry/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The Henrys are eager to see how this neighborhood grows while maintaining the sense of community that makes it such a special place to live.Where I Live: Riverside was first posted on August 15, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Sat, 15 Aug 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 5500 BLANCO RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108484</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108484</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1108484 | NORTH Division | 8/15/2026 3:54:46 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/15/2026 3:54:46 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 8700 STATE HWY 151 (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108494</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108494</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1108494 | WEST Division | 8/15/2026 3:58:35 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/15/2026 3:58:35 AM</pubDate>
     </item>
   </channel>
 </rss>
