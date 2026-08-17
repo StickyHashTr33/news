@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 00:57:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 02:20:31 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 6400 DE ZAVALA RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1116457</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1116457</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1116457 | PRUE Division | 8/16/2026 8:56:46 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 8:56:46 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 5300 MILITARY DR W (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1116479</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1116479</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1116479 | SOUTH Division | 8/16/2026 9:02:59 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 9:02:59 PM</pubDate>
+    </item>
+    <item>
+      <title>Giant crocodylians dominated the food chain in Miocene South America, fossil evidence suggests</title>
+      <link>https://phys.org/news/2026-08-giant-crocodylians-dominated-food-chain.html</link>
+      <guid>https://phys.org/news/2026-08-giant-crocodylians-dominated-food-chain.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — South America was a frightening place during the Miocene. More than 10 million years ago, a vast lake covered much of the continent, home to giant turtles and crocodylians.</description>
+      <category>Open Source Software</category>
+      <pubDate>Sun, 16 Aug 2026 21:00:04 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 3600 CULEBRA RD (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1116177</link>
@@ -782,30 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1108515 | DOWNTOWN Division | 8/15/2026 4:11:25 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/15/2026 4:11:25 AM</pubDate>
-    </item>
-    <item>
-      <title>‘The Energy Transition Cannot Become A New Form Of Colonial Violence,’ Brazilian Indigenous Leaders Tell UN Conference</title>
-      <link>https://insideclimatenews.org/news/15082026/brazil-railway-project-cuts-through-sacred-indigenous-sites/</link>
-      <guid>https://insideclimatenews.org/news/15082026/brazil-railway-project-cuts-through-sacred-indigenous-sites/</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Leia este artigo em Português. Along the river the Xavante people of Brazil call Owawê are many of the Indigenous tribe’s sacred sites, ancient villages and cemeteries. It is also where their ear piercing rituals are held, marking the transition of boyhood to adulthood.&amp;#160; Now, a railway project—Ferrovia de Integração do Centro-Oeste (Center-West Integration Railway, [&amp;#8230;]</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Sat, 15 Aug 2026 08:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How the World’s Largest Electric Company Fell Quiet on Renewable Energy</title>
-      <link>https://insideclimatenews.org/news/15082026/nextera-energy-renewable/</link>
-      <guid>https://insideclimatenews.org/news/15082026/nextera-energy-renewable/</guid>
-      <description>[Climate &amp; Environment] Keyword: renewable energy — NextEra Energy, the world’s largest publicly traded electricity company, has systematically erased or downplayed its clean energy messaging since President Donald Trump returned to office, a potent example of the industry’s retreat from environmental positioning during his second term. NextEra used to bill itself as a global leader in renewable energy production and the energy [&amp;#8230;]</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Sat, 15 Aug 2026 08:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can a Dam Expansion Hold Back Climate Considerations on the Colorado River?</title>
-      <link>https://insideclimatenews.org/news/15082026/colorado-river-dam-expansion-climate-considerations/</link>
-      <guid>https://insideclimatenews.org/news/15082026/colorado-river-dam-expansion-climate-considerations/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — SANTA FE, N.M.—Is climate change enough justification to stop the expansion of a reservoir that will take more water from the dwindling Colorado River? That’s the central question in a lawsuit pitting the U.S. Army Corps of Engineers and Colorado’s largest water utility against a consortium of environmental nonprofits. The environmentalists say the Colorado River [&amp;#8230;]</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Sat, 15 Aug 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
