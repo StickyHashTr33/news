@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 21:21:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 22:19:44 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 100 DALEHURST DR (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1120329</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1120329</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1120329 | CENTRAL Division | 8/17/2026 5:03:54 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/17/2026 5:03:54 PM</pubDate>
+    </item>
+    <item>
+      <title>San Antonio considers extending Midtown TIRZ to potentially pay for arena site</title>
+      <link>https://sanantonioreport.org/san-antonio-considers-extending-midtown-tirz-to-potentially-pay-for-arena-site/</link>
+      <guid>https://sanantonioreport.org/san-antonio-considers-extending-midtown-tirz-to-potentially-pay-for-arena-site/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — It's become a funding source for projects like Pearl, the zoo and Witte Museum. Now it could also be used to buy land for a Spurs arena.San Antonio considers extending Midtown TIRZ to potentially pay for arena site was first posted on August 17, 2026 at 4:37 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@ri</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Mon, 17 Aug 2026 21:37:44 +0000</pubDate>
+    </item>
     <item>
       <title>Observations since 1850 reveal regional climate fingerprints of human-induced warming</title>
       <link>https://phys.org/news/2026-08-reveal-regional-climate-fingerprints-human.html</link>
@@ -811,22 +827,6 @@ The post Book Seeks to Bridge the Gap Between Providers and Patients in Appalach
       <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1113925 | NORTH Division | 8/16/2026 8:14:27 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/16/2026 8:14:27 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 200 PENNYSTONE AVE (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113762</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113762</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1113762 | EAST Division | 8/16/2026 6:59:22 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 6:59:22 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — S PRESA ST / CHICAGO BLVD (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113773</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113773</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1113773 | SOUTH Division | 8/16/2026 7:04:47 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 7:04:47 AM</pubDate>
     </item>
   </channel>
 </rss>
