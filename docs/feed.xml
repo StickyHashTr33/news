@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 06:43:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 07:48:14 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Robbery of Individual — 6200 OLD PEARSALL RD (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117448</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117448</guid>
+      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1117448 | SOUTH Division | 8/17/2026 2:19:47 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/17/2026 2:19:47 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 100 DALLAS ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117452</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117452</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1117452 | DOWNTOWN Division | 8/17/2026 2:21:17 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/17/2026 2:21:17 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 5000 BECKWITH BLVD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117456</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117456</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1117456 | PRUE Division | 8/17/2026 2:23:47 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/17/2026 2:23:47 AM</pubDate>
+    </item>
+    <item>
+      <title>Chinese AI company Zhipu claims its new model is a better bug-finder than Anthropic, OpenAI</title>
+      <link>https://www.theregister.com/security/2026/08/17/chinese-ai-company-zhipu-claims-its-new-model-is-a-better-bug-finder-than-anthropic-openai/5288203</link>
+      <guid>https://www.theregister.com/security/2026/08/17/chinese-ai-company-zhipu-claims-its-new-model-is-a-better-bug-finder-than-anthropic-openai/5288203</guid>
+      <description>[Cybersecurity] Keyword: data breach — PLUS: HCL, TCS, admit data breaches; South Korea to fine Apple, Google; India bans some rideshare tips; and more!</description>
+      <category>Cybersecurity</category>
+      <pubDate>Mon, 17 Aug 2026 02:51:21 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 600 N SAN FELIPE AVE (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117305</link>
@@ -774,38 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1108776 | SOUTH Division | 8/15/2026 7:03:38 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/15/2026 7:03:38 AM</pubDate>
-    </item>
-    <item>
-      <title>Met Police apologises for data breach involving alleged Al Fayed victims</title>
-      <link>https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Cybersecurity] Keyword: data breach — Scotland Yard copied in all those who had signed up to receive a monthly update</description>
-      <category>Cybersecurity</category>
-      <pubDate>Sat, 15 Aug 2026 11:53:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways</title>
-      <link>https://www.sciencedaily.com/releases/2026/08/260814011039.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/08/260814011039.htm</guid>
-      <description>[Diabetes &amp; Kidney Disease] Keyword: GLP-1 — Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in the hypothalamus removed a kind of “brake” on fullness signals. The discovery helps explain why very different obesity drugs can achieve similar results and suggests that carefully combining GIP-targeting treatments with GLP-1 drugs like those related to Wegovy and Ozempic could pr</description>
-      <category>Diabetes &amp; Kidney Disease</category>
-      <pubDate>Sat, 15 Aug 2026 06:55:39 EDT</pubDate>
-    </item>
-    <item>
-      <title>Double jeopardy could spell end of state case after Luigi Mangione’s guilty plea</title>
-      <link>https://www.theguardian.com/us-news/2026/aug/15/luigi-mangione-double-jeopardy-state-case</link>
-      <guid>https://www.theguardian.com/us-news/2026/aug/15/luigi-mangione-double-jeopardy-state-case</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Defense argues New York cannot try Mangione over same act or offense as federal case – the killing of Brian ThompsonLuigi Mangione’s plea to federal stalking charges in UnitedHealthcare CEO Brian Thompson’s death has spurred questions about the fate of the separate Manhattan murder case against him, with experts saying New York’s double-jeopardy law could derail that trial.Mangione pleaded guilty to one count of interstate stalking resulting in death, and one count of cyberstalking through use o</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Sat, 15 Aug 2026 11:00:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — 3500 WEST AVE (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108519</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108519</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1108519 | CENTRAL Division | 8/15/2026 4:14:16 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/15/2026 4:14:16 AM</pubDate>
     </item>
   </channel>
 </rss>
