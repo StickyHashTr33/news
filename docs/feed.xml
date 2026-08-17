@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 16:21:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 17:22:00 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI agents coordinate behavior based on majority opinion—even when said opinions are meaningless</title>
+      <link>https://phys.org/news/2026-08-ai-agents-behavior-based-majority.html</link>
+      <guid>https://phys.org/news/2026-08-ai-agents-behavior-based-majority.html</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — A new study published in Science Advances takes a closer look at how AI agents' choices are influenced by their peers. The team found that more advanced models tend to follow the majority when shown other agents' choices, and they maintain stable agreement in groups far larger than those seen in humans.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Mon, 17 Aug 2026 12:40:09 EDT</pubDate>
+    </item>
+    <item>
+      <title>An AI broke Snowflake's code. Then another AI agent exploited it</title>
+      <link>https://www.theregister.com/security/2026/08/17/an-ai-broke-snowflakes-code-then-another-ai-agent-exploited-it/5288666</link>
+      <guid>https://www.theregister.com/security/2026/08/17/an-ai-broke-snowflakes-code-then-another-ai-agent-exploited-it/5288666</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — Don't worry, this one was via a bug bounty program</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Mon, 17 Aug 2026 18:36:21 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 800 S GEVERS ST (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1118768</link>
@@ -810,22 +826,6 @@ The post Book Seeks to Bridge the Gap Between Providers and Patients in Appalach
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Just four years in, Bexar County's public health department faces an uncertain future as the pandemic-era funding it relied on dries up.Pandemic funding built Bexar County&amp;#8217;s public health department. Now it&amp;#8217;s disappearing. was first posted on August 16, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please co</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Sun, 16 Aug 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 2900 IRWIN DR (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113417</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113417</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1113417 | EAST Division | 8/16/2026 3:57:19 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 3:57:19 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 1100 LONGMONT DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113423</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113423</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1113423 | WEST Division | 8/16/2026 3:59:04 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 3:59:04 AM</pubDate>
     </item>
   </channel>
 </rss>
