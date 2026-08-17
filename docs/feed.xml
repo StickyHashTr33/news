@@ -5,8 +5,59 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 13:36:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 14:22:43 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 6200 SAN PEDRO AVE (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1118263</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1118263</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1118263 | NORTH Division | 8/17/2026 9:05:14 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/17/2026 9:05:14 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 800 NW LOOP 410 (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1118274</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1118274</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1118274 | NORTH Division | 8/17/2026 9:06:52 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/17/2026 9:06:52 AM</pubDate>
+    </item>
+    <item>
+      <title>When can your child stay home alone? Neuroscience suggests we're asking the wrong question</title>
+      <link>https://phys.org/news/2026-08-child-stay-home-neuroscience-wrong.html</link>
+      <guid>https://phys.org/news/2026-08-child-stay-home-neuroscience-wrong.html</guid>
+      <description>[Science &amp; Research] Keyword: neuroscience — Would you trust your child to stay home alone? For many caregivers, the answer depends on age. But when it comes to safety and independence, neuroscience suggests a different question may be more important: Is your child developmentally ready to stay home alone?</description>
+      <category>Science &amp; Research</category>
+      <pubDate>Mon, 17 Aug 2026 10:20:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>Bad news for 'weakling' GOP: Defying Trump ‘too little too late’ to save them</title>
+      <link>https://www.alternet.org/trump-congress-2677715154/</link>
+      <guid>https://www.alternet.org/trump-congress-2677715154/</guid>
+      <description>[Climate &amp; Environment] Keyword: renewable energy — The current Congress, led by Republican majorities, is doomed to a legacy as a &quot;weakling&quot; that conceded almost all of its powers to President Donald Trump, according to a new piece from The Hill, and its recent attempts to defy him are &quot;too little, too late.&quot;William S. Becker previously spent over a decade as the Department of Energy's central regional director, as well as a special assistant to the department’s assistant secretary of energy efficiency and renewable energy. On Monday morning, he</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 17 Aug 2026 13:50:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mark J. Wielaard receives Distinguished Service Award in Software Freedom</title>
+      <link>https://lwn.net/Articles/1089208/</link>
+      <guid>https://lwn.net/Articles/1089208/</guid>
+      <description>[Open Source Software] Keyword: FOSS — The Software Freedom
+Conservancy has announced
+that Mark J. Wielaard has been honored with the second annual
+Distinguished Service Award in Software Freedom for his many years of
+service to software freedom.
+
+
+Mark is one of many key FOSS developers who has designed his career so
+that his employers have funded much of his FOSS work. Nevertheless,
+Mark continues his volunteer work after hours as a key contributor who
+maintains Sourceware — the
+oldest FOSS collaboration and developer infrastructur</description>
+      <category>Open Source Software</category>
+      <pubDate>Mon, 17 Aug 2026 13:44:13 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 200 E CRAIG PLACE (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1118105</link>
@@ -768,46 +819,6 @@ The post Book Seeks to Bridge the Gap Between Providers and Patients in Appalach
       <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1113117 | DOWNTOWN Division | 8/16/2026 2:13:11 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/16/2026 2:13:11 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 500 HANSFORD ST (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112889</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112889</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1112889 | SOUTH Division | 8/16/2026 1:10:00 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 1:10:00 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 4600 SW MILITARY DR (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112903</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112903</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1112903 | SOUTH Division | 8/16/2026 1:14:22 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 1:14:22 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 5300 SOUTHCROSS RANCH RD (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112634</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112634</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1112634 | EAST Division | 8/16/2026 12:07:27 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 12:07:27 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 300 NOTRE DAME DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112662</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112662</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1112662 | WEST Division | 8/16/2026 12:13:13 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 12:13:13 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 300 E CEVALLOS ST (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112192</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1112192</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1112192 | DOWNTOWN Division | 8/15/2026 10:27:26 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/15/2026 10:27:26 PM</pubDate>
     </item>
   </channel>
 </rss>
