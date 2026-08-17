@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 23:15:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 00:57:56 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 3600 CULEBRA RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1116177</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1116177</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1116177 | WEST Division | 8/16/2026 7:42:05 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 7:42:05 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 2400 OAKHILL RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1116180</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1116180</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1116180 | WEST Division | 8/16/2026 7:42:31 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 7:42:31 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 2800 S WW WHITE RD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1116204</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1116204</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1116204 | EAST Division | 8/16/2026 7:47:53 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 7:47:53 PM</pubDate>
+    </item>
     <item>
       <title>Trump is trashing a national treasure for donors —and Texans can't stop it</title>
       <link>https://www.alternet.org/alternet-exclusives/trump-is-trashing-a-national-treasure-for-donors-and-texans-can-t-stop-it/</link>
@@ -782,30 +806,6 @@
       <description>[Climate &amp; Environment] Keyword: climate change — SANTA FE, N.M.—Is climate change enough justification to stop the expansion of a reservoir that will take more water from the dwindling Colorado River? That’s the central question in a lawsuit pitting the U.S. Army Corps of Engineers and Colorado’s largest water utility against a consortium of environmental nonprofits. The environmentalists say the Colorado River [&amp;#8230;]</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Sat, 15 Aug 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 10100 STATE HWY 16 S (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108358</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108358</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1108358 | SOUTH Division | 8/15/2026 3:02:08 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/15/2026 3:02:08 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 5900 FLYNN DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108363</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108363</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1108363 | WEST Division | 8/15/2026 3:04:10 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/15/2026 3:04:10 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 4600 W COMMERCE ST (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108365</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108365</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1108365 | WEST Division | 8/15/2026 3:04:36 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/15/2026 3:04:36 AM</pubDate>
     </item>
   </channel>
 </rss>
