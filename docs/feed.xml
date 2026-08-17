@@ -5,8 +5,39 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 15:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 16:21:46 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 800 S GEVERS ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1118768</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1118768</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1118768 | EAST Division | 8/17/2026 11:06:48 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/17/2026 11:06:48 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 9000 PASEO GRANDE (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1118773</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1118773</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1118773 | WEST Division | 8/17/2026 11:07:05 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/17/2026 11:07:05 AM</pubDate>
+    </item>
+    <item>
+      <title>[$] Bootstrappable builds: how and why</title>
+      <link>https://lwn.net/Articles/1088279/</link>
+      <guid>https://lwn.net/Articles/1088279/</guid>
+      <description>[Open Source Software] Keyword: FOSS — This year's edition of the Free and Open
+Source Software Yearly conference, better known as &quot;FOSSY&quot;, moved north to the
+beautiful (and enormous) campus of the University of British Columbia (UBC)
+in Vancouver, Canada from its home for the three previous editions:
+Portland, Oregon, in the US.  There were many different types of talks at
+FOSSY, from deeply technical kernel-track topics, through talks on legal
+and community issues, to the &quot;FOSS in Daily Life&quot; talks. In the &quot;Toolchains
+and Other Dev</description>
+      <category>Open Source Software</category>
+      <pubDate>Mon, 17 Aug 2026 16:12:27 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 1900 E SONTERRA BLVD (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1118541</link>
@@ -795,30 +826,6 @@ The post Book Seeks to Bridge the Gap Between Providers and Patients in Appalach
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1113423 | WEST Division | 8/16/2026 3:59:04 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/16/2026 3:59:04 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 100 N LOOP 1604 W (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113434</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113434</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1113434 | NORTH Division | 8/16/2026 4:01:22 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 4:01:22 AM</pubDate>
-    </item>
-    <item>
-      <title>Block export of ‘national treasure’ UK fossils, says MP</title>
-      <link>https://www.theguardian.com/science/2026/aug/16/block-export-of-national-treasure-uk-fossils-says-mp</link>
-      <guid>https://www.theguardian.com/science/2026/aug/16/block-export-of-national-treasure-uk-fossils-says-mp</guid>
-      <description>[Open Source Software] Keyword: FOSS — Sale of one of UK’s top collections overseas prompts call  new rules to help keep items in countryOne of UK’s best fossil collections sold in ‘loss to the nation’An MP has called on ministers to change export controls so that significant fossils can be classed as national treasures after one of the UK’s best collections, unearthed on Dorset beaches, was sold overseas.Last week, a Guardian investigation revealed that an unparalleled collection of fossils from the UK’s Jurassic Coast, comprising h</description>
-      <category>Open Source Software</category>
-      <pubDate>Sun, 16 Aug 2026 09:00:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 200-299 STONEGATE DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113298</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113298</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1113298 | WEST Division | 8/16/2026 3:09:31 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 3:09:31 AM</pubDate>
     </item>
   </channel>
 </rss>
