@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 02:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 03:45:20 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 1500 W HARDING BLVD (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1116782</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1116782</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1116782 | SOUTH Division | 8/16/2026 10:31:18 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/16/2026 10:31:18 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 6400 DE ZAVALA RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1116457</link>
@@ -798,14 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1108508 | EAST Division | 8/15/2026 4:04:25 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/15/2026 4:04:25 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 1300 MCCULLOUGH AVE (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108515</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1108515</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1108515 | DOWNTOWN Division | 8/15/2026 4:11:25 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/15/2026 4:11:25 AM</pubDate>
     </item>
   </channel>
 </rss>
