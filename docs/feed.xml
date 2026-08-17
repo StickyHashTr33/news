@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 19:24:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 20:21:24 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Are zoos ready for the changing climate?</title>
+      <link>https://phys.org/news/2026-08-zoos-ready-climate.html</link>
+      <guid>https://phys.org/news/2026-08-zoos-ready-climate.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — When people think about climate change and animals, they might picture melting sea ice, drought-stricken landscapes or species struggling in the wild. Far less attention is given to the animals living in our care. Yet as heat waves become more frequent, intense and unpredictable, zoos may be facing one of the biggest animal welfare challenges of the coming decades.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 17 Aug 2026 15:40:05 EDT</pubDate>
+    </item>
     <item>
       <title>Beyond yes or no: Why Indigenous consent to resource projects is so complex</title>
       <link>https://phys.org/news/2026-08-indigenous-consent-resource-complex.html</link>
@@ -819,14 +827,6 @@ The post Book Seeks to Bridge the Gap Between Providers and Patients in Appalach
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1113797 | SOUTH Division | 8/16/2026 7:14:15 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/16/2026 7:14:15 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 12800 US HWY 281 N (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113806</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1113806</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1113806 | NORTH Division | 8/16/2026 7:19:33 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 7:19:33 AM</pubDate>
     </item>
   </channel>
 </rss>
