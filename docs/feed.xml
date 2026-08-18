@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 15:26:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 16:25:31 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 9000 WURZBACH RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123782</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123782</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1123782 | PRUE Division | 8/18/2026 11:11:12 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/18/2026 11:11:12 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5100 VANTAGE WAY (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123803</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123803</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1123803 | PRUE Division | 8/18/2026 11:14:39 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/18/2026 11:14:39 AM</pubDate>
+    </item>
+    <item>
+      <title>Capitalism is killing summer</title>
+      <link>https://therealnews.com/capitalism-is-killing-summer</link>
+      <guid>https://therealnews.com/capitalism-is-killing-summer</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Everybody loves summertime. But from climate change to budget cuts on public spaces like parks and pools to a lack of vacation time, capitalism is increasingly robbing us of our summer fun.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Tue, 18 Aug 2026 15:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UT San Antonio researchers unveil Genesis 2.0, a solution to AI’s catastrophic forgetting</title>
+      <link>https://sanantonioreport.org/ut-san-antonio-researchers-genesis-2-0-ai-catastrophic-forgetting/</link>
+      <guid>https://sanantonioreport.org/ut-san-antonio-researchers-genesis-2-0-ai-catastrophic-forgetting/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Genesis 2.0 is a chip that could be an answer to a known artificial intelligence shortcoming called &quot;catastrophic forgetting.&quot; UT San Antonio researchers unveil Genesis 2.0, a solution to AI’s catastrophic forgetting was first posted on August 18, 2026 at 11:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Tue, 18 Aug 2026 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 3600 CALLAGHAN RD (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123460</link>
@@ -804,38 +836,6 @@ The post Book Seeks to Bridge the Gap Between Providers and Patients in Appalach
       <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1117553 | EAST Division | 8/17/2026 3:24:01 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/17/2026 3:24:01 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Robbery of Individual — 6200 OLD PEARSALL RD (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117448</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117448</guid>
-      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1117448 | SOUTH Division | 8/17/2026 2:19:47 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 2:19:47 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 100 DALLAS ST (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117452</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117452</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1117452 | DOWNTOWN Division | 8/17/2026 2:21:17 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 2:21:17 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 5000 BECKWITH BLVD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117456</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117456</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1117456 | PRUE Division | 8/17/2026 2:23:47 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 2:23:47 AM</pubDate>
-    </item>
-    <item>
-      <title>Chinese AI company Zhipu claims its new model is a better bug-finder than Anthropic, OpenAI</title>
-      <link>https://www.theregister.com/security/2026/08/17/chinese-ai-company-zhipu-claims-its-new-model-is-a-better-bug-finder-than-anthropic-openai/5288203</link>
-      <guid>https://www.theregister.com/security/2026/08/17/chinese-ai-company-zhipu-claims-its-new-model-is-a-better-bug-finder-than-anthropic-openai/5288203</guid>
-      <description>[Cybersecurity] Keyword: data breach — PLUS: HCL, TCS, admit data breaches; South Korea to fine Apple, Google; India bans some rideshare tips; and more!</description>
-      <category>Cybersecurity</category>
-      <pubDate>Mon, 17 Aug 2026 02:51:21 +0200</pubDate>
     </item>
   </channel>
 </rss>
