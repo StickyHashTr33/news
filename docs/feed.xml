@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 06:34:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:33:54 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 4600 S HACKBERRY ST (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122266</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122266</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1122266 | SOUTH Division | 8/18/2026 2:10:27 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/18/2026 2:10:27 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 100 STAPLETON DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122273</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122273</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1122273 | WEST Division | 8/18/2026 2:12:38 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/18/2026 2:12:38 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Robbery of Individual — 5800 SAN PEDRO AVE (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122279</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122279</guid>
+      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1122279 | CENTRAL Division | 8/18/2026 2:15:19 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/18/2026 2:15:19 AM</pubDate>
+    </item>
     <item>
       <title>Xen Project gets serious about safety in push to possibly partition robot brains</title>
       <link>https://www.theregister.com/virtualization/2026/08/18/xen-project-gets-serious-about-safety-in-push-to-possibly-partition-robot-brains/5288914</link>
@@ -803,30 +827,6 @@ The post Book Seeks to Bridge the Gap Between Providers and Patients in Appalach
       <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1114740 | NORTH Division | 8/16/2026 1:03:30 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/16/2026 1:03:30 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — HEARTLAND DR (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114743</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114743</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1114743 | NORTH Division | 8/16/2026 1:05:09 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 1:05:09 PM</pubDate>
-    </item>
-    <item>
-      <title>Phytophthora dieback linked to habitat loss and lower digging activity among quendas in Western Australia</title>
-      <link>https://phys.org/news/2026-08-phytophthora-dieback-linked-habitat-loss.html</link>
-      <guid>https://phys.org/news/2026-08-phytophthora-dieback-linked-habitat-loss.html</guid>
-      <description>[Foraging &amp; Wild Plants] Keyword: foraging — A new study from Murdoch University has found that the introduced plant disease Phytophthora dieback is indirectly hindering quendas in Western Australia's jarrah forests by reducing their habitat quality and consequently decreasing their digging activity. The paper, &quot;Exotic Plant Pathogen Reduces Habitat and Foraging Activities of a Digging Mammal,&quot; was published in the journal Austral Ecology.</description>
-      <category>Foraging &amp; Wild Plants</category>
-      <pubDate>Sun, 16 Aug 2026 13:20:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 4400 HORIZON HILL BLVD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114569</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114569</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1114569 | PRUE Division | 8/16/2026 12:05:51 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 12:05:51 PM</pubDate>
     </item>
   </channel>
 </rss>
