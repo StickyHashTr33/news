@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 14:28:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 15:26:42 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 3600 CALLAGHAN RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123460</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123460</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1123460 | WEST Division | 8/18/2026 10:04:42 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/18/2026 10:04:42 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 3500 ROOSEVELT AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123484</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123484</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1123484 | SOUTH Division | 8/18/2026 10:10:28 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/18/2026 10:10:28 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 10800 LANDS RUN (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123225</link>
@@ -820,22 +836,6 @@ The post Book Seeks to Bridge the Gap Between Providers and Patients in Appalach
       <description>[Cybersecurity] Keyword: data breach — PLUS: HCL, TCS, admit data breaches; South Korea to fine Apple, Google; India bans some rideshare tips; and more!</description>
       <category>Cybersecurity</category>
       <pubDate>Mon, 17 Aug 2026 02:51:21 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 600 N SAN FELIPE AVE (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117305</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117305</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1117305 | WEST Division | 8/17/2026 1:17:39 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 1:17:39 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 100 STRATFORD CT (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117113</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117113</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1117113 | SOUTH Division | 8/17/2026 12:00:45 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 12:00:45 AM</pubDate>
     </item>
   </channel>
 </rss>
