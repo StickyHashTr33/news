@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 17:22:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 18:31:43 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fifteen years of data link plastic pollution to seabird population losses</title>
+      <link>https://phys.org/news/2026-08-fifteen-years-link-plastic-pollution.html</link>
+      <guid>https://phys.org/news/2026-08-fifteen-years-link-plastic-pollution.html</guid>
+      <description>[Climate &amp; Environment] Keyword: plastic pollution — Every year, about 50 million metric tons of plastic is dumped into the environment. This waste entangles, chokes and poisons wildlife worldwide, including sable shearwaters living on the remote Australian island of Lord Howe. After hatching on the island, these birds head out to sea for several years before returning to breed as adults.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Tue, 18 Aug 2026 13:30:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 300 LABOR ST (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123996</link>
@@ -828,14 +836,6 @@ The post Book Seeks to Bridge the Gap Between Providers and Patients in Appalach
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1117529 | PRUE Division | 8/17/2026 3:09:29 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/17/2026 3:09:29 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 11000 IH 10 W (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117533</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117533</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1117533 | PRUE Division | 8/17/2026 3:11:02 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 3:11:02 AM</pubDate>
     </item>
   </channel>
 </rss>
