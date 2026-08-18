@@ -5,8 +5,33 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 13:39:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 14:28:32 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 10800 LANDS RUN (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123225</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123225</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1123225 | PRUE Division | 8/18/2026 9:14:44 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/18/2026 9:14:44 AM</pubDate>
+    </item>
+    <item>
+      <title>[$] Fedora prepares for the end of AF_ALG</title>
+      <link>https://lwn.net/Articles/1088489/</link>
+      <guid>https://lwn.net/Articles/1088489/</guid>
+      <description>[Open Source Software] Keyword: Linux kernel — The Linux kernel's user-space interface
+(AF_ALG) to the Crypto
+API has been linked to a number of recent high-profile security problems,
+including Copy Fail and successor
+vulnerabilities. It was deprecated
+earlier this year. Eric Biggers, and other kernel developers,
+have been working to remove it
+from the kernel. With that in mind, the Fedora Project is planning to
+restrict use of AF_ALG in the next Fedora release in the hopes of nudging
+remaining users of the API to prepare for its eventual re</description>
+      <category>Open Source Software</category>
+      <pubDate>Tue, 18 Aug 2026 13:48:22 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 10400 ETHAN ALLEN DR (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123017</link>
@@ -811,22 +836,6 @@ The post Book Seeks to Bridge the Gap Between Providers and Patients in Appalach
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1117113 | SOUTH Division | 8/17/2026 12:00:45 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/17/2026 12:00:45 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 9600 HILLSIDE TRL (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117130</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117130</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1117130 | PRUE Division | 8/17/2026 12:07:20 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 12:07:20 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 4100 BELLE GROVE (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117149</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117149</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1117149 | PRUE Division | 8/17/2026 12:14:40 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 12:14:40 AM</pubDate>
     </item>
   </channel>
 </rss>
