@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 16:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 17:22:08 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 300 LABOR ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123996</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123996</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1123996 | DOWNTOWN Division | 8/18/2026 12:05:32 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/18/2026 12:05:32 PM</pubDate>
+    </item>
+    <item>
+      <title>How healthy are our coral reefs? Researchers have built a tool to help find out</title>
+      <link>https://phys.org/news/2026-08-healthy-coral-reefs-built-tool.html</link>
+      <guid>https://phys.org/news/2026-08-healthy-coral-reefs-built-tool.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Researchers at the University of Sydney have harnessed more than 30 years of data to build a new method to more accurately measure the impact of climate change-induced events on the Great Barrier Reef. The findings are published in the journal Marine Environmental Research.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Tue, 18 Aug 2026 13:00:07 EDT</pubDate>
+    </item>
+    <item>
+      <title>The Trump Administration Launches a New Angle of Attack Against Trans Healthcare</title>
+      <link>https://www.motherjones.com/politics/2026/08/trump-transgender-healthcare-hhs-gender-affirming-care-billing-intimidation-campaign/</link>
+      <guid>https://www.motherjones.com/politics/2026/08/trump-transgender-healthcare-hhs-gender-affirming-care-billing-intimidation-campaign/</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Just two days after finalizing a regulation to make sure trans kids from low-income families can&amp;#8217;t afford puberty blockers or hormone therapy, the Trump administration has loosed another salvo in its bitter war against transgender people&amp;#8217;s healthcare. On Thursday, the Department of Health and Human Services published a report—authored largely by employees of right-wing advocacy [&amp;#8230;]</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Tue, 18 Aug 2026 16:40:01 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 9000 WURZBACH RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123782</link>
@@ -812,30 +836,6 @@ The post Book Seeks to Bridge the Gap Between Providers and Patients in Appalach
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1117533 | PRUE Division | 8/17/2026 3:11:02 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/17/2026 3:11:02 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 5600 UTEX BLVD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117535</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117535</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1117535 | PRUE Division | 8/17/2026 3:11:53 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 3:11:53 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 400 BONHAM (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117552</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117552</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1117552 | DOWNTOWN Division | 8/17/2026 3:23:46 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 3:23:46 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Shooting In Progress — 4400 MERCURY (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117553</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117553</guid>
-      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1117553 | EAST Division | 8/17/2026 3:24:01 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 3:24:01 AM</pubDate>
     </item>
   </channel>
 </rss>
