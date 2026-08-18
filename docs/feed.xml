@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 00:56:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 02:14:39 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 2100 SE LOOP 410 (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121258</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121258</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1121258 | EAST Division | 8/17/2026 8:56:44 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/17/2026 8:56:44 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 200 WHITEWOOD DR (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1120933</link>
@@ -819,14 +827,6 @@ The post Book Seeks to Bridge the Gap Between Providers and Patients in Appalach
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1114197 | PRUE Division | 8/16/2026 10:00:17 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/16/2026 10:00:17 AM</pubDate>
-    </item>
-    <item>
-      <title>The PM called Sally McManus a giant of the Labor movement. Now she just wants to go birding</title>
-      <link>https://www.theguardian.com/australia-news/2026/aug/17/the-pm-called-sally-mcmanus-a-giant-of-the-labor-movement-now-she-just-wants-to-go-birding</link>
-      <guid>https://www.theguardian.com/australia-news/2026/aug/17/the-pm-called-sally-mcmanus-a-giant-of-the-labor-movement-now-she-just-wants-to-go-birding</guid>
-      <description>[Labor &amp; Worker Rights] Keyword: labor movement — After securing wage rises for low-paid workers, weathering death threats and working with three PMs – the ACTU secretary is ready for a breakGet our breaking news email, free app or daily news podcastSally McManus started her job as the country’s most powerful trade union leader amid howls of criticism.Shouted down for suggesting union members were right to break “unjust” industrial laws in a live TV interview, McManus quickly adjusted to the high decibel work of being secretary of the Australia</description>
-      <category>Labor &amp; Worker Rights</category>
-      <pubDate>Sun, 16 Aug 2026 15:00:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
