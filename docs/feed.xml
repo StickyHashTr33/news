@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 18:31:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 19:24:24 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 11800 BRAESVIEW (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1124533</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1124533</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1124533 | NORTH Division | 8/18/2026 2:03:58 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/18/2026 2:03:58 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 8700 TESORO DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1124538</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1124538</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1124538 | NORTH Division | 8/18/2026 2:05:22 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/18/2026 2:05:22 PM</pubDate>
+    </item>
+    <item>
+      <title>Trump administration to rescind rule protecting old growth forests</title>
+      <link>https://www.theguardian.com/us-news/2026/aug/18/trump-administration-growth-forests</link>
+      <guid>https://www.theguardian.com/us-news/2026/aug/18/trump-administration-growth-forests</guid>
+      <description>[Ecology &amp; Conservation] Keyword: old growth forest — Almost 45m acres of national forests could be potentially opened to road construction, drilling and loggingThe Trump administration said on Tuesday it plans to rescind the “roadless rule” that has protected old growth forests in the US for 25 years, potentially opening up almost 45m acres of national forests to road construction, drilling and logging.Conservationists had feared the announcement was coming since last summer after Brooke Rollins, Trump’s secretary of agriculture, targeted a rule b</description>
+      <category>Ecology &amp; Conservation</category>
+      <pubDate>Tue, 18 Aug 2026 18:51:47 GMT</pubDate>
+    </item>
     <item>
       <title>Fifteen years of data link plastic pollution to seabird population losses</title>
       <link>https://phys.org/news/2026-08-fifteen-years-link-plastic-pollution.html</link>
@@ -812,30 +836,6 @@ The post Book Seeks to Bridge the Gap Between Providers and Patients in Appalach
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1117646 | NORTH Division | 8/17/2026 4:19:34 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/17/2026 4:19:34 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 1200 E MULBERRY AVE (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117655</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117655</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1117655 | DOWNTOWN Division | 8/17/2026 4:25:12 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 4:25:12 AM</pubDate>
-    </item>
-    <item>
-      <title>Code fixers have fired up the AI warp drive. Strange new worlds await</title>
-      <link>https://www.theregister.com/columnists/2026/08/17/code-fixers-have-fired-up-the-ai-warp-drive-strange-new-worlds-await/5287681</link>
-      <guid>https://www.theregister.com/columnists/2026/08/17/code-fixers-have-fired-up-the-ai-warp-drive-strange-new-worlds-await/5287681</guid>
-      <description>[Ecology &amp; Conservation] Keyword: endangered species — With more patches per month than at a pirate convention, the bug must be an endangered species. Well, about that</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Mon, 17 Aug 2026 11:04:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 11400 IH 10 W (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117529</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117529</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1117529 | PRUE Division | 8/17/2026 3:09:29 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 3:09:29 AM</pubDate>
     </item>
   </channel>
 </rss>
