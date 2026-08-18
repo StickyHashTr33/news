@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 07:33:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 08:30:12 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 4200 SAN LUIS ST (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122317</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122317</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1122317 | WEST Division | 8/18/2026 2:33:57 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/18/2026 2:33:57 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 1600 JACKSON-KELLER RD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122365</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122365</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1122365 | NORTH Division | 8/18/2026 3:12:30 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/18/2026 3:12:30 AM</pubDate>
+    </item>
+    <item>
+      <title>Each degree of warming could add a month of intolerable heat for 1 billion people</title>
+      <link>https://phys.org/news/2026-08-degree-month-intolerable-billion-people.html</link>
+      <guid>https://phys.org/news/2026-08-degree-month-intolerable-billion-people.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — The threat that rising temperatures fueled by climate change pose to the health of older people has been dramatically underestimated, according to a U.S. modeling study published Tuesday.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Tue, 18 Aug 2026 04:16:44 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 4600 S HACKBERRY ST (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122266</link>
@@ -803,30 +827,6 @@ The post Book Seeks to Bridge the Gap Between Providers and Patients in Appalach
       <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1114921 | CENTRAL Division | 8/16/2026 2:03:39 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/16/2026 2:03:39 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 13000 JONES MALTSBERGER RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114938</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114938</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1114938 | NORTH Division | 8/16/2026 2:07:14 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 2:07:14 PM</pubDate>
-    </item>
-    <item>
-      <title>Geekdom announces the end of its coworking space. Instead, it will focus on the startup ‘valley of death’.</title>
-      <link>https://sanantonioreport.org/geekdom-announces-end-of-coworking-space/</link>
-      <guid>https://sanantonioreport.org/geekdom-announces-end-of-coworking-space/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Much of Geekdom’s focus was turning ideas into businesses. Now, the company wants to support people who already have startups off the ground.Geekdom announces the end of its coworking space. Instead, it will focus on the startup &amp;#8216;valley of death&amp;#8217;. was first posted on August 16, 2026 at 2:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyrigh</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Sun, 16 Aug 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 13500 WEST AVE (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114740</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114740</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1114740 | NORTH Division | 8/16/2026 1:03:30 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 1:03:30 PM</pubDate>
     </item>
   </channel>
 </rss>
