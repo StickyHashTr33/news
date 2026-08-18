@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 03:40:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 04:30:49 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — ROOSEVELT AVE / PADRE DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121760</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121760</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1121760 | SOUTH Division | 8/17/2026 11:13:17 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/17/2026 11:13:17 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 13000 PARK CROSSING DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121765</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121765</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1121765 | NORTH Division | 8/17/2026 11:15:17 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/17/2026 11:15:17 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 8700 STAR CREEK DR (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121584</link>
@@ -811,22 +827,6 @@ The post Book Seeks to Bridge the Gap Between Providers and Patients in Appalach
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1114366 | WEST Division | 8/16/2026 11:01:44 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/16/2026 11:01:44 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 300 FORREST HILL (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114372</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114372</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1114372 | NORTH Division | 8/16/2026 11:02:56 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 11:02:56 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 1300 S WW WHITE RD (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114384</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114384</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1114384 | EAST Division | 8/16/2026 11:05:03 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 11:05:03 AM</pubDate>
     </item>
   </channel>
 </rss>
