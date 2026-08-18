@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 05:24:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:34:44 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Xen Project gets serious about safety in push to possibly partition robot brains</title>
+      <link>https://www.theregister.com/virtualization/2026/08/18/xen-project-gets-serious-about-safety-in-push-to-possibly-partition-robot-brains/5288914</link>
+      <guid>https://www.theregister.com/virtualization/2026/08/18/xen-project-gets-serious-about-safety-in-push-to-possibly-partition-robot-brains/5288914</guid>
+      <description>[Open Source Software] Keyword: FOSS — Boeing quietly joins FOSS hypervisor crew, as AMD and Renesas lead new effort to comply with formal standards</description>
+      <category>Open Source Software</category>
+      <pubDate>Tue, 18 Aug 2026 03:59:37 +0200</pubDate>
+    </item>
+    <item>
+      <title>Impending UNIFIL Exit Pushes Lebanon Toward Uncertainty</title>
+      <link>https://www.ipsnews.net/2026/08/impending-unifil-exit-pushes-lebanon-toward-uncertainty/</link>
+      <guid>https://www.ipsnews.net/2026/08/impending-unifil-exit-pushes-lebanon-toward-uncertainty/</guid>
+      <description>[Housing &amp; Gentrification] Keyword: displacement — Since the collapse of the ceasefire between Israel and Lebanon announced in June, the humanitarian situation in Lebanon has deteriorated sharply. Marked by high casualties, immense destruction to civilian infrastructure, and widespread displacement, access to essential services has become increasingly strained as the United Nations Interim Force in Lebanon (UNIFIL) is scheduled to end its [&amp;#8230;]</description>
+      <category>Housing &amp; Gentrification</category>
+      <pubDate>Tue, 18 Aug 2026 05:44:51 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Shooting In Progress — 4900 WOODSTONE (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121934</link>
@@ -811,22 +827,6 @@ The post Book Seeks to Bridge the Gap Between Providers and Patients in Appalach
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1114569 | PRUE Division | 8/16/2026 12:05:51 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/16/2026 12:05:51 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 7700 FLOYD CURL (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114571</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114571</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1114571 | PRUE Division | 8/16/2026 12:06:20 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 12:06:20 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 8700 STATE HWY 151 (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114355</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1114355</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1114355 | WEST Division | 8/16/2026 10:56:25 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/16/2026 10:56:25 AM</pubDate>
     </item>
   </channel>
 </rss>
