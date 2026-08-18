@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 21:19:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 22:18:21 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 200 LINARES AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1125347</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1125347</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1125347 | SOUTH Division | 8/18/2026 5:07:14 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/18/2026 5:07:14 PM</pubDate>
+    </item>
+    <item>
+      <title>Existing drug could treat invasive canine oral tumors</title>
+      <link>https://phys.org/news/2026-08-drug-invasive-canine-oral-tumors.html</link>
+      <guid>https://phys.org/news/2026-08-drug-invasive-canine-oral-tumors.html</guid>
+      <description>[Science &amp; Research] Keyword: clinical trial — A benign but invasive canine oral cancer is often mistaken for a similar malignant one, leading to misdiagnoses in close to a third of cases. But a new diagnostic tool can now distinguish between the two, according to a new study that also identified a promising FDA-approved drug ready for clinical trials.</description>
+      <category>Science &amp; Research</category>
+      <pubDate>Tue, 18 Aug 2026 17:40:07 EDT</pubDate>
+    </item>
+    <item>
+      <title>‘One party got organized’: The ballot is set for Bexar County’s appraisal district races</title>
+      <link>https://sanantonioreport.org/bexar-county-appraisal-district-board-bcad-candidates-set-for-2026/</link>
+      <guid>https://sanantonioreport.org/bexar-county-appraisal-district-board-bcad-candidates-set-for-2026/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — One incumbent made a late decision not to run, and a former state lawmaker filed for her seat. A newly appointed conservative is unopposed.&amp;#8216;One party got organized&amp;#8217;: The ballot is set for Bexar County&amp;#8217;s appraisal district races was first posted on August 18, 2026 at 5:11 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Tue, 18 Aug 2026 22:11:16 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 300 OBLATE DR (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1125094</link>
@@ -811,30 +835,6 @@ The post Texas Maternal Mortality Committee&amp;#8217;s Next Report Will Skip Po
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1117676 | CENTRAL Division | 8/17/2026 4:40:10 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/17/2026 4:40:10 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — 4900 WOODSTONE (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117704</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117704</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1117704 | PRUE Division | 8/17/2026 5:03:05 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 5:03:05 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 1300 S ALAMO ST (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117711</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117711</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1117711 | DOWNTOWN Division | 8/17/2026 5:10:17 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 5:10:17 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — 12400 STATEHOUSE DR (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117719</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117719</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1117719 | NORTH Division | 8/17/2026 5:14:56 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 5:14:56 AM</pubDate>
     </item>
   </channel>
 </rss>
