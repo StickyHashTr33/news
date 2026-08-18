@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 19:24:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 20:18:16 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 700 SANTA MONICA ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1124817</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1124817</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1124817 | CENTRAL Division | 8/18/2026 3:04:33 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/18/2026 3:04:33 PM</pubDate>
+    </item>
+    <item>
+      <title>National Park rangers blow the whistle after Flock cameras appear</title>
+      <link>https://www.alternet.org/flock-camera/</link>
+      <guid>https://www.alternet.org/flock-camera/</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Flock cameras are popping up in national forests and rangers are furious, 404 Media reported Tuesday.Flock Safety paints itself as nothing more than automated license-plate reader cameras that capture plates and other identifying vehicle details, such as the color, make, model, and any other visible features.Many civil rights advocates fear that the camera footage could be used to aid in immigration arrests, target protesters or even search women seeking reproductive healthcare.Further, there's </description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Tue, 18 Aug 2026 19:47:57 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 11800 BRAESVIEW (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1124533</link>
@@ -820,22 +836,6 @@ The post Texas Maternal Mortality Committee&amp;#8217;s Next Report Will Skip Po
 The post Book Seeks to Bridge the Gap Between Providers and Patients in Appalachia appeared first on The Daily Yonder.</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Mon, 17 Aug 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 19200 REDLAND RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117637</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117637</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1117637 | NORTH Division | 8/17/2026 4:14:29 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 4:14:29 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 100 N LOOP 1604 W (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117646</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117646</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1117646 | NORTH Division | 8/17/2026 4:19:34 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 4:19:34 AM</pubDate>
     </item>
   </channel>
 </rss>
