@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 22:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 23:18:56 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 12600 SILICON DR (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1130496</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1130496</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1130496 | PRUE Division | 8/19/2026 6:03:50 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/19/2026 6:03:50 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 500 RIDERS PT (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1130231</link>
@@ -816,14 +824,6 @@ remaining users of the API to prepare for its eventual re</description>
       <description>[Climate &amp; Environment] Keyword: climate change — In November 2018, 29-year-old Representative-elect Alexandria Ocasio-Cortez joined a group of 200 youth activists associated with the Sunrise Movement as they staged a protest at the office of then-House Minority Leader Nancy Pelosi. They were there to urge Democratic leadership to act more quickly on issues of climate change. The period between the election and swearing-in is normally when a newly elected legislator would be getting to know their future colleagues and angling for a good committ</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Tue, 18 Aug 2026 13:04:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>The National Park Service Is Using Flock. Rangers Are Pissed</title>
-      <link>https://www.404media.co/the-national-park-service-is-using-flock-rangers-are-pissed/</link>
-      <guid>https://www.404media.co/the-national-park-service-is-using-flock-rangers-are-pissed/</guid>
-      <description>[ALPR &amp; Flock Cameras] Keyword: license plate reader — “I fear for the day when a visitor's National Park experience is interrupted by being pulled over and held at gunpoint because a license plate reader misread their plate.”</description>
-      <category>ALPR &amp; Flock Cameras</category>
-      <pubDate>Tue, 18 Aug 2026 13:21:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
