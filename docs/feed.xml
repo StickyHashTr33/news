@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 12:36:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 13:40:32 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 9200 CULEBRA RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127950</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127950</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1127950 | PRUE Division | 8/19/2026 8:24:25 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/19/2026 8:24:25 AM</pubDate>
+    </item>
+    <item>
+      <title>How Trump’s Deportation Machine Deprives Deaf People of Their Humanity</title>
+      <link>https://www.motherjones.com/politics/2026/08/how-trumps-deportation-machine-deprives-deaf-people-of-their-humanity/</link>
+      <guid>https://www.motherjones.com/politics/2026/08/how-trumps-deportation-machine-deprives-deaf-people-of-their-humanity/</guid>
+      <description>[Immigration &amp; Border] Keyword: immigration detention — In February, an ICE agent directed Emilio, a Deaf man, to get onto a bus in southern Texas. By that point, Emilio had spent nine weeks in immigration detention and didn’t know what was going on. He asked for a sign language interpreter and told me he didn’t get one. It was only when he [&amp;#8230;]</description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>Wed, 19 Aug 2026 13:20:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Which San Antonio school districts have tax measures on the ballot this November?</title>
+      <link>https://sanantonioreport.org/school-tax-elections-november-2026-ballot/</link>
+      <guid>https://sanantonioreport.org/school-tax-elections-november-2026-ballot/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — SAISD, Northside ISD, East Central ISD, South San ISD and Schertz-Cibolo-Universal City ISD will ask taxpayers for more money in November.Which San Antonio school districts have tax measures on the ballot this November? was first posted on August 19, 2026 at 8:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hel</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Wed, 19 Aug 2026 13:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Coffee drinkers have less fat, more muscle, and surprising hormone differences</title>
       <link>https://www.sciencedaily.com/releases/2026/08/260819041228.htm</link>
@@ -791,30 +815,6 @@ remaining users of the API to prepare for its eventual re</description>
       <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1121604 | PRUE Division | 8/17/2026 10:28:38 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/17/2026 10:28:38 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 2100 SE LOOP 410 (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121258</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121258</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1121258 | EAST Division | 8/17/2026 8:56:44 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 8:56:44 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 200 WHITEWOOD DR (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1120933</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1120933</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1120933 | SOUTH Division | 8/17/2026 7:40:32 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 7:40:32 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 300 W HOUSTON ST (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1120935</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1120935</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1120935 | DOWNTOWN Division | 8/17/2026 7:40:39 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 7:40:39 PM</pubDate>
     </item>
   </channel>
 </rss>
