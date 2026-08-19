@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 04:32:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 05:25:19 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 18100 US HWY 281 N (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1126848</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1126848</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1126848 | NORTH Division | 8/18/2026 11:58:03 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/18/2026 11:58:03 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — W EUCLID AVE / SAN PEDRO AVE (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1126553</link>
@@ -826,15 +834,6 @@ oldest FOSS collaboration and developer infrastructur</description>
       <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1118105 | DOWNTOWN Division | 8/17/2026 8:25:10 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/17/2026 8:25:10 AM</pubDate>
-    </item>
-    <item>
-      <title>Texas Maternal Mortality Committee’s Next Report Will Skip Post-‘Roe’ Deaths. Lawmakers Suspect Political Influence.</title>
-      <link>https://www.texasobserver.org/maternal-mortality-committee-roe-deaths-lawmakers-politics/</link>
-      <guid>https://www.texasobserver.org/maternal-mortality-committee-roe-deaths-lawmakers-politics/</guid>
-      <description>[Public Health &amp; Health Equity] Keyword: maternal mortality — Hope Ngumezi never imagined he would be a single father.&amp;#160; When he met his late wife Porsha at Lamar University in Beaumont, Ngumezi was instantly enamored of her energy, drive, and compassion. Both Ngumezi and Porsha came from large families and were eager to start their own. After getting married in their late 20s, they [&amp;#8230;]
-The post Texas Maternal Mortality Committee&amp;#8217;s Next Report Will Skip Post-&amp;#8216;Roe&amp;#8217; Deaths. Lawmakers Suspect Political Influence. appeared first on </description>
-      <category>Public Health &amp; Health Equity</category>
-      <pubDate>Mon, 17 Aug 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
