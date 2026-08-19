@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 15:26:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 16:26:35 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 7400 HERCULES PT (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1128642</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1128642</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1128642 | SOUTH Division | 8/19/2026 11:10:16 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/19/2026 11:10:16 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 3600 NW LOOP 410 (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1128647</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1128647</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1128647 | PRUE Division | 8/19/2026 11:12:25 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/19/2026 11:12:25 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 100 BRACKENRIDGE AVE (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1128652</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1128652</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1128652 | DOWNTOWN Division | 8/19/2026 11:14:04 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/19/2026 11:14:04 AM</pubDate>
+    </item>
     <item>
       <title>Antarctica's brief rebound was caused by climate variability, not a 'new normal'</title>
       <link>https://phys.org/news/2026-08-antarctica-rebound-climate-variability.html</link>
@@ -792,30 +816,6 @@ remaining users of the API to prepare for its eventual re</description>
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1122266 | SOUTH Division | 8/18/2026 2:10:27 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/18/2026 2:10:27 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 100 STAPLETON DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122273</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122273</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1122273 | WEST Division | 8/18/2026 2:12:38 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 2:12:38 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Robbery of Individual — 5800 SAN PEDRO AVE (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122279</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122279</guid>
-      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1122279 | CENTRAL Division | 8/18/2026 2:15:19 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 2:15:19 AM</pubDate>
-    </item>
-    <item>
-      <title>Xen Project gets serious about safety in push to possibly partition robot brains</title>
-      <link>https://www.theregister.com/virtualization/2026/08/18/xen-project-gets-serious-about-safety-in-push-to-possibly-partition-robot-brains/5288914</link>
-      <guid>https://www.theregister.com/virtualization/2026/08/18/xen-project-gets-serious-about-safety-in-push-to-possibly-partition-robot-brains/5288914</guid>
-      <description>[Open Source Software] Keyword: FOSS — Boeing quietly joins FOSS hypervisor crew, as AMD and Renesas lead new effort to comply with formal standards</description>
-      <category>Open Source Software</category>
-      <pubDate>Tue, 18 Aug 2026 03:59:37 +0200</pubDate>
     </item>
   </channel>
 </rss>
