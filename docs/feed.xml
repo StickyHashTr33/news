@@ -5,8 +5,56 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 18:27:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 19:21:30 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 1700 N ZARZAMORA ST (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1129350</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1129350</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1129350 | WEST Division | 8/19/2026 2:01:42 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/19/2026 2:01:42 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 6700 S NEW BRAUNFELS AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1129366</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1129366</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1129366 | SOUTH Division | 8/19/2026 2:07:10 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/19/2026 2:07:10 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 2300 NW MILITARY HWY (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1129376</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1129376</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1129376 | NORTH Division | 8/19/2026 2:09:40 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/19/2026 2:09:40 PM</pubDate>
+    </item>
+    <item>
+      <title>US Army Corps Pushes Michigan Pipeline Project Ahead Over Indigenous Opposition</title>
+      <link>https://truthout.org/articles/us-army-corps-pushes-michigan-pipeline-project-ahead-over-indigenous-opposition/</link>
+      <guid>https://truthout.org/articles/us-army-corps-pushes-michigan-pipeline-project-ahead-over-indigenous-opposition/</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: treaty rights — The project, which tribes say violates treaty rights, has been the subject of heated controversy and legal battles.</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Wed, 19 Aug 2026 18:50:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI screens 100,000+ membrane combinations, predicting carbon capture performance within seconds</title>
+      <link>https://phys.org/news/2026-08-ai-screens-membrane-combinations-carbon.html</link>
+      <guid>https://phys.org/news/2026-08-ai-screens-membrane-combinations-carbon.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Reducing carbon dioxide emissions from industrial processes and energy production remains one of the major technological challenges in addressing climate change. Membrane-based gas separation offers an energy-efficient alternative to conventional separation technologies, but identifying membranes that allow gases to pass through rapidly while also separating them effectively has long presented a major materials-design challenge.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 19 Aug 2026 15:20:04 EDT</pubDate>
+    </item>
+    <item>
+      <title>Alamo Colleges District eyes higher tax rate amid enrollment growth, budget pressures</title>
+      <link>https://sanantonioreport.org/alamo-colleges-district-higher-property-tax-rate-increase-san-antonio/</link>
+      <guid>https://sanantonioreport.org/alamo-colleges-district-higher-property-tax-rate-increase-san-antonio/</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — District officials proposed a tax rate increase that is slightly higher than previously expected as they get a clearer picture of the 2027 budget. Alamo Colleges District eyes higher tax rate amid enrollment growth, budget pressures was first posted on August 19, 2026 at 1:52 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please cont</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Wed, 19 Aug 2026 18:52:30 +0000</pubDate>
+    </item>
     <item>
       <title>Otter spotted for first time in 100 years in New York City’s Bronx River</title>
       <link>https://www.theguardian.com/us-news/2026/aug/19/otter-bronx-river-new-york-city</link>
@@ -775,54 +823,6 @@ remaining users of the API to prepare for its eventual re</description>
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1122493 | NORTH Division | 8/18/2026 4:43:19 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/18/2026 4:43:19 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 5200 OVERPOOL (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122503</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122503</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1122503 | WEST Division | 8/18/2026 4:50:58 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 4:50:58 AM</pubDate>
-    </item>
-    <item>
-      <title>First day of class at Providence also marks the all-girls Catholic school’s 75th anniversary</title>
-      <link>https://sanantonioreport.org/providence-catholic-school-75th-anniversary/</link>
-      <guid>https://sanantonioreport.org/providence-catholic-school-75th-anniversary/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The start of the new school year marks the 75th anniversary of the founding of Providence Catholic School in downtown San Antonio.First day of class at Providence also marks the all-girls Catholic school&amp;#8217;s 75th anniversary was first posted on August 18, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact </description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Tue, 18 Aug 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AFL chief breaks silence over ‘deeply concerning’ Sydney Swans sexual assault allegations</title>
-      <link>https://www.theguardian.com/australia-news/2026/aug/18/afl-chief-breaks-silence-over-deeply-concerning-sydney-swans-sexual-assault-allegations-ntwnfb</link>
-      <guid>https://www.theguardian.com/australia-news/2026/aug/18/afl-chief-breaks-silence-over-deeply-concerning-sydney-swans-sexual-assault-allegations-ntwnfb</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — Andrew Dillon says the AFL ‘will consider the broader conduct of the players as more information comes to light’The AFL has declared it is prepared to act over “deeply concerning” sexual assault allegations involving Sydney Swans players.Victorian police on Tuesday confirmed the sexual crimes squad was investigating a reported sexual assault at Melbourne’s Pullman Hotel early on Monday morning. No arrests have been made and no charges have been laid. Continue reading...</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Tue, 18 Aug 2026 10:07:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 5300 MARCONI DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122382</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122382</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1122382 | WEST Division | 8/18/2026 3:27:08 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 3:27:08 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 100 DALLAS ST (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122440</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122440</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1122440 | DOWNTOWN Division | 8/18/2026 4:11:37 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 4:11:37 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 4200 SAN LUIS ST (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122317</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122317</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1122317 | WEST Division | 8/18/2026 2:33:57 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 2:33:57 AM</pubDate>
     </item>
   </channel>
 </rss>
