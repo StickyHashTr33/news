@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 21:21:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 22:20:02 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 500 RIDERS PT (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1130231</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1130231</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1130231 | SOUTH Division | 8/19/2026 5:02:45 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/19/2026 5:02:45 PM</pubDate>
+    </item>
+    <item>
+      <title>Why apples react differently to climate change than wheat</title>
+      <link>https://phys.org/news/2026-08-apples-react-differently-climate-wheat.html</link>
+      <guid>https://phys.org/news/2026-08-apples-react-differently-climate-wheat.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Although climate change is already having a negative impact on crops, declines in yields have so far been offset by technological advances in agriculture. For field crops that do not rely on pollinators, however, this trend appears to be reversing.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 19 Aug 2026 18:00:03 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 10800 W LOOP 1604 N (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1129991</link>
@@ -808,22 +824,6 @@ remaining users of the API to prepare for its eventual re</description>
       <description>[ALPR &amp; Flock Cameras] Keyword: license plate reader — “I fear for the day when a visitor's National Park experience is interrupted by being pulled over and held at gunpoint because a license plate reader misread their plate.”</description>
       <category>ALPR &amp; Flock Cameras</category>
       <pubDate>Tue, 18 Aug 2026 13:21:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>USAA announces expanded in-person insurance services in San Antonio. It’s the beginning of a shift in strategy.</title>
-      <link>https://sanantonioreport.org/usaa-in-person-insurance-services-in-san-antonio/</link>
-      <guid>https://sanantonioreport.org/usaa-in-person-insurance-services-in-san-antonio/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — USAA brought in-person insurance services back to its San Antonio HQ, and has plans to expand in-person services to other locations.USAA announces expanded in-person insurance services in San Antonio. It&amp;#8217;s the beginning of a shift in strategy. was first posted on August 18, 2026 at 8:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringe</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Tue, 18 Aug 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Florida lost 450,000 ACA enrollees in 2026 as premiums rose an average of 37% nationally, new data shows</title>
-      <link>https://theconversation.com/florida-lost-450-000-aca-enrollees-in-2026-as-premiums-rose-an-average-of-37-nationally-new-data-shows-287135</link>
-      <guid>https://theconversation.com/florida-lost-450-000-aca-enrollees-in-2026-as-premiums-rose-an-average-of-37-nationally-new-data-shows-287135</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — ACA enrollments in Florida dropped in 2026, but the decrease was smaller than anticipated.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>2026-08-18T12:42:37Z</pubDate>
     </item>
   </channel>
 </rss>
