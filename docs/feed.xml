@@ -5,8 +5,57 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 14:28:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 15:26:38 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Antarctica's brief rebound was caused by climate variability, not a 'new normal'</title>
+      <link>https://phys.org/news/2026-08-antarctica-rebound-climate-variability.html</link>
+      <guid>https://phys.org/news/2026-08-antarctica-rebound-climate-variability.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Between 2021 and 2023, Antarctica appeared to be growing. Heavy snowfall fueled by wetter weather caused parts of the continent to gain mass, leading some to question whether climate change is really causing the ice to melt. However, a new study shows that the precipitation increase was an anomaly related to extra-warm tropical ocean temperatures, not part of a long-term trend.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 19 Aug 2026 11:00:10 EDT</pubDate>
+    </item>
+    <item>
+      <title>Ukrainian diver arrested in Croatia over Nord Stream pipeline bombings</title>
+      <link>https://www.theguardian.com/business/2026/aug/19/ukrainian-diver-arrested-in-croatia-over-nord-stream-pipeline-bombings</link>
+      <guid>https://www.theguardian.com/business/2026/aug/19/ukrainian-diver-arrested-in-croatia-over-nord-stream-pipeline-bombings</guid>
+      <description>[Open Source Software] Keyword: FOSS — Berlin to seek suspect’s extradition for 2022 explosions that damaged gas pipelines to RussiaEurope live – latest updatesA Ukrainian man has been arrested in Croatia as part of an investigation into the 2022 bombing of the Nord Stream gas pipelines between Germany and Russia.Undersea explosions in September 2022, just months after Russia’s full-scale invasion of Ukraine, damaged three of the four pipelines built to carry Russian fossil gas to Germany under the Baltic Sea. Continue reading...</description>
+      <category>Open Source Software</category>
+      <pubDate>Wed, 19 Aug 2026 14:14:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>New lipid nanoparticle delivers capped circular RNA for longer-lasting gene expression</title>
+      <link>https://phys.org/news/2026-08-lipid-nanoparticle-capped-circular-rna.html</link>
+      <guid>https://phys.org/news/2026-08-lipid-nanoparticle-capped-circular-rna.html</guid>
+      <description>[Diabetes &amp; Kidney Disease] Keyword: GLP-1 — Researchers at Nagoya University in Japan in collaboration with FUJIFILM have developed a novel way of delivering circular RNA (cirRNA) into cells, paving the way for longer-lasting mRNA-based therapeutics including cancer vaccines and GLP-1 obesity treatments. The research is published in Cell Biomaterials.</description>
+      <category>Diabetes &amp; Kidney Disease</category>
+      <pubDate>Wed, 19 Aug 2026 11:00:21 EDT</pubDate>
+    </item>
+    <item>
+      <title>Activist Tree-Sit in Ancient Cottonwood Continues Against Border Wall Construction in Arizona</title>
+      <link>http://www.democracynow.org/2026/8/19/arizona_activists_protest_border_wall</link>
+      <guid>http://www.democracynow.org/2026/8/19/arizona_activists_protest_border_wall</guid>
+      <description>[Immigration &amp; Border] Keyword: border wall — A protest camp in the small border town of Lochiel, Arizona, is seeking to stop federal contractors from building another portion of President Trump&amp;#8217;s border barrier with Mexico. At the center of the protest camp is a 200-year-old cottonwood known as a &amp;#8220;grandmother&amp;#8221; tree, with activists sitting in the tree to physically stop its destruction.
+&amp;#8220;People are successfully forcing the government to stop, to slow down, or at least change course on border wall construction,&amp;#8221;</description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>Wed, 19 Aug 2026 08:49:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jellyfish reveal how rapid cell turnover may suppress early cancer growth</title>
+      <link>https://phys.org/news/2026-08-jellyfish-reveal-rapid-cell-turnover.html</link>
+      <guid>https://phys.org/news/2026-08-jellyfish-reveal-rapid-cell-turnover.html</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — Although increased cell proliferation is a hallmark of cancerous tissues, in some cases it may actually protect against tumor growth, according to a new study by Caltech researchers. Using mathematical models, the work suggests a new paradigm for the earliest stages of cancer development.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Wed, 19 Aug 2026 11:20:03 EDT</pubDate>
+    </item>
+    <item>
+      <title>Real-world study of Oregon's nonmedical psilocybin program shows promise</title>
+      <link>https://www.npr.org/2026/08/19/nx-s1-5936443/oregon-psilocybin-ptsd-depression-anxiety</link>
+      <guid>https://www.npr.org/2026/08/19/nx-s1-5936443/oregon-psilocybin-ptsd-depression-anxiety</guid>
+      <description>[Psychedelics &amp; Psilocybin Research] Keyword: psilocybin — Oregon was the first state to establish a legalized and regulated psilocybin industry. Since then, thousands have tried magic mushrooms. Here is the first data from the state's real life experiment.</description>
+      <category>Psychedelics &amp; Psilocybin Research</category>
+      <pubDate>Wed, 19 Aug 2026 11:22:35 -0400</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 8200 N LOOP 1604 W (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1128159</link>
@@ -767,54 +816,6 @@ remaining users of the API to prepare for its eventual re</description>
       <description>[Open Source Software] Keyword: FOSS — Boeing quietly joins FOSS hypervisor crew, as AMD and Renesas lead new effort to comply with formal standards</description>
       <category>Open Source Software</category>
       <pubDate>Tue, 18 Aug 2026 03:59:37 +0200</pubDate>
-    </item>
-    <item>
-      <title>Impending UNIFIL Exit Pushes Lebanon Toward Uncertainty</title>
-      <link>https://www.ipsnews.net/2026/08/impending-unifil-exit-pushes-lebanon-toward-uncertainty/</link>
-      <guid>https://www.ipsnews.net/2026/08/impending-unifil-exit-pushes-lebanon-toward-uncertainty/</guid>
-      <description>[Housing &amp; Gentrification] Keyword: displacement — Since the collapse of the ceasefire between Israel and Lebanon announced in June, the humanitarian situation in Lebanon has deteriorated sharply. Marked by high casualties, immense destruction to civilian infrastructure, and widespread displacement, access to essential services has become increasingly strained as the United Nations Interim Force in Lebanon (UNIFIL) is scheduled to end its [&amp;#8230;]</description>
-      <category>Housing &amp; Gentrification</category>
-      <pubDate>Tue, 18 Aug 2026 05:44:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Shooting In Progress — 4900 WOODSTONE (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121934</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121934</guid>
-      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1121934 | PRUE Division | 8/18/2026 12:11:01 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 12:11:01 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — ROOSEVELT AVE / PADRE DR (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121760</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121760</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1121760 | SOUTH Division | 8/17/2026 11:13:17 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 11:13:17 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 13000 PARK CROSSING DR (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121765</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121765</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1121765 | NORTH Division | 8/17/2026 11:15:17 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 11:15:17 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 8700 STAR CREEK DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121584</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121584</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1121584 | WEST Division | 8/17/2026 10:23:55 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 10:23:55 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — MONTEREY ST / SW 29TH ST (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121590</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121590</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1121590 | WEST Division | 8/17/2026 10:25:20 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 10:25:20 PM</pubDate>
     </item>
   </channel>
 </rss>
