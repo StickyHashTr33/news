@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 16:26:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 17:23:15 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'I Saw a Shiny Thing': Cop Explains Why He Used License Plate Reader to Stalk Woman</title>
+      <link>https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/</link>
+      <guid>https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: license plate reader — Body camera footage shows police surveillance abuse is common: &quot;We’ve told them over and over again: 'You see a hot chick, you don’t look them up in a database.'&quot;</description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>Wed, 19 Aug 2026 17:14:58 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 7400 HERCULES PT (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1128642</link>
@@ -808,14 +816,6 @@ remaining users of the API to prepare for its eventual re</description>
       <description>[Climate &amp; Environment] Keyword: climate change — The threat that rising temperatures fueled by climate change pose to the health of older people has been dramatically underestimated, according to a U.S. modeling study published Tuesday.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Tue, 18 Aug 2026 04:16:44 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 4600 S HACKBERRY ST (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122266</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122266</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1122266 | SOUTH Division | 8/18/2026 2:10:27 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 2:10:27 AM</pubDate>
     </item>
   </channel>
 </rss>
