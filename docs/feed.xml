@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 19:21:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:21:30 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>When home is no longer safe for older women</title>
+      <link>https://phys.org/news/2026-08-home-longer-safe-older-women.html</link>
+      <guid>https://phys.org/news/2026-08-home-longer-safe-older-women.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Climate change is making Australia's housing crisis more dangerous for older women. Extreme heat, floods, fires and storms are turning insecure housing into a safety issue, not just an affordability issue.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 19 Aug 2026 15:40:06 EDT</pubDate>
+    </item>
+    <item>
+      <title>What DeFlock? Week of Action Confronts the AI Surveillance State</title>
+      <link>https://truthout.org/articles/what-deflock-week-of-action-confronts-the-ai-surveillance-state/</link>
+      <guid>https://truthout.org/articles/what-deflock-week-of-action-confronts-the-ai-surveillance-state/</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: DeFlock — A Kansas activist discovered that police tracked him with Flock-style cameras after he wrote an op-ed criticizing them.</description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>Wed, 19 Aug 2026 20:14:36 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 1700 N ZARZAMORA ST (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1129350</link>
@@ -807,22 +823,6 @@ remaining users of the API to prepare for its eventual re</description>
       <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Indigenous communities have long advocated for the environment through the lens of their traditional knowledge systems and cultures. But much more work needs to be done to translate their presence into influence. A new report from Nia Tero, an international nonprofit that aims to strengthen Indigenous guardianship over ancestral lands and waters, examines the factors [&amp;#8230;]</description>
       <category>Indigenous News &amp; Tribal Sovereignty</category>
       <pubDate>Tue, 18 Aug 2026 11:29:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 1500 W OLMOS DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122559</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122559</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1122559 | WEST Division | 8/18/2026 5:43:48 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 5:43:48 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 18500 US HWY 281 N (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122493</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122493</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1122493 | NORTH Division | 8/18/2026 4:43:19 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 4:43:19 AM</pubDate>
     </item>
   </channel>
 </rss>
