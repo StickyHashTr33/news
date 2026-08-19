@@ -5,8 +5,31 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 17:23:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:27:48 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Otter spotted for first time in 100 years in New York City’s Bronx River</title>
+      <link>https://www.theguardian.com/us-news/2026/aug/19/otter-bronx-river-new-york-city</link>
+      <guid>https://www.theguardian.com/us-news/2026/aug/19/otter-bronx-river-new-york-city</guid>
+      <description>[Foraging &amp; Wild Plants] Keyword: foraging — Image captured in early June shows animal foraging in the waterway in first since early 1900s, signaling its recovery An otter has been spotted in the Bronx River for the first time in more than 100 years, in a further sign that New York’s previously befouled waterways are recovering some of their ecological health.The North American river otter was photographed by a motion-activated camera foraging near some vegetation in the Bronx River, a waterway that flows through New York’s Bronx and empti</description>
+      <category>Foraging &amp; Wild Plants</category>
+      <pubDate>Wed, 19 Aug 2026 17:27:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Debian weighs eight options in vote on LLM usage</title>
+      <link>https://lwn.net/Articles/1087134/</link>
+      <guid>https://lwn.net/Articles/1087134/</guid>
+      <description>[AI &amp; Automation] Keyword: large language model — The Debian Project is voting on the usage
+of large language models (LLMs) to make contributions to the project. The first
+proposal, sent in late July by Matthias Geiger, would expressly forbid any
+contributions to Debian that are created by or with the assistance of LLMs. That
+kicked off a firestorm of discussion and a flood of alternate proposals. Debian
+developers are now voting on
+eight proposals in total that range from banning LLM-assisted contributions
+to explicitly approving them, as well</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Wed, 19 Aug 2026 17:36:17 +0000</pubDate>
+    </item>
     <item>
       <title>'I Saw a Shiny Thing': Cop Explains Why He Used License Plate Reader to Stalk Woman</title>
       <link>https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/</link>
@@ -800,22 +823,6 @@ remaining users of the API to prepare for its eventual re</description>
       <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1122317 | WEST Division | 8/18/2026 2:33:57 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/18/2026 2:33:57 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 1600 JACKSON-KELLER RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122365</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122365</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1122365 | NORTH Division | 8/18/2026 3:12:30 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 3:12:30 AM</pubDate>
-    </item>
-    <item>
-      <title>Each degree of warming could add a month of intolerable heat for 1 billion people</title>
-      <link>https://phys.org/news/2026-08-degree-month-intolerable-billion-people.html</link>
-      <guid>https://phys.org/news/2026-08-degree-month-intolerable-billion-people.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — The threat that rising temperatures fueled by climate change pose to the health of older people has been dramatically underestimated, according to a U.S. modeling study published Tuesday.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 18 Aug 2026 04:16:44 EDT</pubDate>
     </item>
   </channel>
 </rss>
