@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:34:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 08:31:33 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — O'CONNOR RD / CROSSWINDS WAY (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127227</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127227</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1127227 | NORTH Division | 8/19/2026 2:42:40 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/19/2026 2:42:40 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 6900 TALLAHASSE (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127238</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127238</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1127238 | WEST Division | 8/19/2026 2:50:56 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/19/2026 2:50:56 AM</pubDate>
+    </item>
+    <item>
+      <title>US Army Corps approves a pipeline project it knows harms Indigenous lands</title>
+      <link>https://grist.org/energy/us-army-corps-approves-line-5-tunnel-project-harms-indigenous-lands/</link>
+      <guid>https://grist.org/energy/us-army-corps-approves-line-5-tunnel-project-harms-indigenous-lands/</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — </description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Wed, 19 Aug 2026 08:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 600 RUIZ ST (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127122</link>
@@ -792,37 +816,6 @@ The post Following Court Victory Against Energy Dept., American Oversight Demand
       <description>[AI &amp; Automation] Keyword: AI agent — Don't worry, this one was via a bug bounty program</description>
       <category>AI &amp; Automation</category>
       <pubDate>Mon, 17 Aug 2026 18:36:21 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 800 S GEVERS ST (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1118768</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1118768</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1118768 | EAST Division | 8/17/2026 11:06:48 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 11:06:48 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 9000 PASEO GRANDE (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1118773</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1118773</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1118773 | WEST Division | 8/17/2026 11:07:05 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 11:07:05 AM</pubDate>
-    </item>
-    <item>
-      <title>[$] Bootstrappable builds: how and why</title>
-      <link>https://lwn.net/Articles/1088279/</link>
-      <guid>https://lwn.net/Articles/1088279/</guid>
-      <description>[Open Source Software] Keyword: FOSS — This year's edition of the Free and Open
-Source Software Yearly conference, better known as &quot;FOSSY&quot;, moved north to the
-beautiful (and enormous) campus of the University of British Columbia (UBC)
-in Vancouver, Canada from its home for the three previous editions:
-Portland, Oregon, in the US.  There were many different types of talks at
-FOSSY, from deeply technical kernel-track topics, through talks on legal
-and community issues, to the &quot;FOSS in Daily Life&quot; talks. In the &quot;Toolchains
-and Other Dev</description>
-      <category>Open Source Software</category>
-      <pubDate>Mon, 17 Aug 2026 16:12:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
