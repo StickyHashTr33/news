@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 13:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 14:28:11 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 8200 N LOOP 1604 W (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1128159</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1128159</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1128159 | PRUE Division | 8/19/2026 9:09:52 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/19/2026 9:09:52 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 9200 CULEBRA RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127950</link>
@@ -807,14 +815,6 @@ remaining users of the API to prepare for its eventual re</description>
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1121590 | WEST Division | 8/17/2026 10:25:20 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/17/2026 10:25:20 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 5700 NORTH KNOLL (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121604</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1121604</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1121604 | PRUE Division | 8/17/2026 10:28:38 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 10:28:38 PM</pubDate>
     </item>
   </channel>
 </rss>
