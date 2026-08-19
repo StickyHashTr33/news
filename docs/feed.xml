@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 23:17:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 00:57:51 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ten-year-old girl found three days after she was reported missing in Perth suburbs</title>
+      <link>https://www.theguardian.com/australia-news/2026/aug/18/wa-police-appeal-for-help-to-find-10-year-old-girl-missing-from-perth-suburbs</link>
+      <guid>https://www.theguardian.com/australia-news/2026/aug/18/wa-police-appeal-for-help-to-find-10-year-old-girl-missing-from-perth-suburbs</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — The young Indigenous girl was found on Tuesday after she was last seen leaving home in Butler on Saturday evening  Get our breaking news email, free app or daily news podcastA ten-year-old First Nations girl, reported missing from Perth’s outer northern suburbs on Saturday, has been found.Western Australia police said the girl was found at 7pm on Tuesday, five hours after a press conference appealing for help to find the missing child. Continue reading...</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Tue, 18 Aug 2026 23:59:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Artificial intelligence acts as an 'ideological chameleon' and may deepen political polarization</title>
+      <link>https://phys.org/news/2026-08-artificial-intelligence-ideological-chameleon-deepen.html</link>
+      <guid>https://phys.org/news/2026-08-artificial-intelligence-ideological-chameleon-deepen.html</guid>
+      <description>[AI &amp; Automation] Keyword: large language model — Researchers at the State University of Campinas (UNICAMP) in the state of São Paulo, Brazil, examined the ideological stance of large language models—artificial intelligence systems trained to understand and generate human language—and discovered that when informed of a user's political views, they tend to mirror those views. According to the researchers, this behavior could exacerbate political polarization in Brazil.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Tue, 18 Aug 2026 19:30:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 16400 HENDERSON PASS (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1125577</link>
@@ -819,22 +835,6 @@ The post Texas Maternal Mortality Committee&amp;#8217;s Next Report Will Skip Po
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1117853 | NORTH Division | 8/17/2026 6:52:48 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/17/2026 6:52:48 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 6000 CALLAGHAN RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117886</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117886</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1117886 | WEST Division | 8/17/2026 7:06:23 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 7:06:23 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 100 N LOOP 1604 W (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117891</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117891</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1117891 | NORTH Division | 8/17/2026 7:09:21 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 7:09:21 AM</pubDate>
     </item>
   </channel>
 </rss>
