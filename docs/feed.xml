@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 00:57:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 02:18:38 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Shooting — S NEW BRAUNFELS AVE / KOEHLER CT (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1126272</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1126272</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-1126272 | SOUTH Division | 8/18/2026 9:03:44 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/18/2026 9:03:44 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 1500 BABCOCK RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1126280</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1126280</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1126280 | PRUE Division | 8/18/2026 9:05:44 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/18/2026 9:05:44 PM</pubDate>
+    </item>
+    <item>
+      <title>How does wildfire smoke affect the economy?</title>
+      <link>https://phys.org/news/2026-08-wildfire-affect-economy.html</link>
+      <guid>https://phys.org/news/2026-08-wildfire-affect-economy.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Wildfires in the United States are getting bigger, and the season is getting longer, fueled by hotter and drier weather from climate change. Even when fires are hundreds of miles away, wildfire smoke can still harm people's health and create economic costs through air pollution, said Casey Wichman, an associate professor in Georgia Tech's School of Economics.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Tue, 18 Aug 2026 21:40:01 EDT</pubDate>
+    </item>
     <item>
       <title>Ten-year-old girl found three days after she was reported missing in Perth suburbs</title>
       <link>https://www.theguardian.com/australia-news/2026/aug/18/wa-police-appeal-for-help-to-find-10-year-old-girl-missing-from-perth-suburbs</link>
@@ -811,30 +835,6 @@ The post Texas Maternal Mortality Committee&amp;#8217;s Next Report Will Skip Po
       <description>[Climate &amp; Environment] Keyword: climate change — The European Court of Human Rights has dismissed the case, but the plaintiffs aren&amp;#039;t giving up.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Mon, 17 Aug 2026 12:19:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wildfires: Belgium battles blaze, France's Lecornu jeered</title>
-      <link>https://www.dw.com/en/wildfires-belgium-battles-blaze-france-s-lecornu-jeered/a-78397186?maca=en-rss-en-all-1573-rdf</link>
-      <guid>https://www.dw.com/en/wildfires-belgium-battles-blaze-france-s-lecornu-jeered/a-78397186?maca=en-rss-en-all-1573-rdf</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Fires are raging from Belgium to Greece as Europe suffers one of its most severe wildfire seasons to date. The blazes come amid frequent heat waves and drought that studies say are driven by human-induced climate change.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>2026-08-17T12:55:00Z</pubDate>
-    </item>
-    <item>
-      <title>Tiny 1.7-billion-year-old fossils could reveal how complex life began</title>
-      <link>https://www.sciencedaily.com/releases/2026/08/260815064811.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/08/260815064811.htm</guid>
-      <description>[Open Source Software] Keyword: FOSS — Scientists are searching some of Earth’s oldest rocks for tiny fossils that could reveal how simple microbial life made the extraordinary leap toward plants, animals, and other complex organisms. Solving that ancient mystery may also help determine whether complex life could emerge on worlds beyond Earth.</description>
-      <category>Open Source Software</category>
-      <pubDate>Mon, 17 Aug 2026 08:40:17 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 1900 E SONTERRA BLVD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117853</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1117853</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1117853 | NORTH Division | 8/17/2026 6:52:48 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 6:52:48 AM</pubDate>
     </item>
   </channel>
 </rss>
