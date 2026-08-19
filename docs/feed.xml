@@ -5,8 +5,33 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 20:21:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 21:21:02 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 10800 W LOOP 1604 N (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1129991</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1129991</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1129991 | PRUE Division | 8/19/2026 4:07:26 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/19/2026 4:07:26 PM</pubDate>
+    </item>
+    <item>
+      <title>What DeFlock? Week of Action Confronts the AI Surveillance State</title>
+      <link>https://theappeal.org/what-deflock-week-of-action-confronts-the-ai-surveillance-state/</link>
+      <guid>https://theappeal.org/what-deflock-week-of-action-confronts-the-ai-surveillance-state/</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: DeFlock — A Kansas activist discovered that police tracked him with Flock-style cameras after he wrote an op-ed criticizing them.
+The post What DeFlock? Week of Action Confronts the AI Surveillance State appeared first on The Appeal.</description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>Wed, 19 Aug 2026 21:02:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protest Camp Attempts to Block Border Wall Construction in Arizona</title>
+      <link>https://truthout.org/video/protest-camp-attempts-to-block-border-wall-construction-in-arizona/</link>
+      <guid>https://truthout.org/video/protest-camp-attempts-to-block-border-wall-construction-in-arizona/</guid>
+      <description>[Immigration &amp; Border] Keyword: border wall — Activists have staged tree-sits on both sides of the US-Mexico border to prevent the destruction of ancient cottonwoods.</description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>Wed, 19 Aug 2026 21:19:02 +0000</pubDate>
+    </item>
     <item>
       <title>When home is no longer safe for older women</title>
       <link>https://phys.org/news/2026-08-home-longer-safe-older-women.html</link>
@@ -799,30 +824,6 @@ remaining users of the API to prepare for its eventual re</description>
       <description>[AI &amp; Automation] Keyword: LLM — ACA enrollments in Florida dropped in 2026, but the decrease was smaller than anticipated.</description>
       <category>AI &amp; Automation</category>
       <pubDate>2026-08-18T12:42:37Z</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 100 OLGA DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122776</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122776</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1122776 | WEST Division | 8/18/2026 7:20:21 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 7:20:21 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 12000 NETWORK BLVD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122790</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1122790</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1122790 | PRUE Division | 8/18/2026 7:24:09 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 7:24:09 AM</pubDate>
-    </item>
-    <item>
-      <title>Indigenous Peoples Call for Meaningful Influence in Climate Discussions — Nia Tero</title>
-      <link>https://www.ipsnews.net/2026/08/indigenous-peoples-call-for-meaningful-influence-in-climate-discussions-nia-tero/</link>
-      <guid>https://www.ipsnews.net/2026/08/indigenous-peoples-call-for-meaningful-influence-in-climate-discussions-nia-tero/</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Indigenous communities have long advocated for the environment through the lens of their traditional knowledge systems and cultures. But much more work needs to be done to translate their presence into influence. A new report from Nia Tero, an international nonprofit that aims to strengthen Indigenous guardianship over ancestral lands and waters, examines the factors [&amp;#8230;]</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Tue, 18 Aug 2026 11:29:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
