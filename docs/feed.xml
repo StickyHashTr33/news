@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 06:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:34:30 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 600 RUIZ ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127122</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127122</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1127122 | CENTRAL Division | 8/19/2026 1:55:14 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/19/2026 1:55:14 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 2400 W GRAMERCY PLACE (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127135</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127135</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1127135 | WEST Division | 8/19/2026 2:00:17 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/19/2026 2:00:17 AM</pubDate>
+    </item>
+    <item>
+      <title>Can we go green without forever chemicals?</title>
+      <link>https://www.dw.com/en/can-we-go-green-without-forever-chemicals/a-77888704?maca=en-rss-en-all-1573-rdf</link>
+      <guid>https://www.dw.com/en/can-we-go-green-without-forever-chemicals/a-77888704?maca=en-rss-en-all-1573-rdf</guid>
+      <description>[Climate &amp; Environment] Keyword: renewable energy — As nations globally move to ban forever chemicals, should renewable energy technologies be exempt for the sake of saving the climate?</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>2026-08-13T07:13:00Z</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 3900 EISENHAUER RD (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1126996</link>
@@ -799,30 +823,6 @@ and community issues, to the &quot;FOSS in Daily Life&quot; talks. In the &quot;
 and Other Dev</description>
       <category>Open Source Software</category>
       <pubDate>Mon, 17 Aug 2026 16:12:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 1900 E SONTERRA BLVD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1118541</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1118541</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1118541 | NORTH Division | 8/17/2026 10:10:23 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 10:10:23 AM</pubDate>
-    </item>
-    <item>
-      <title>Barn doors to open soon at historic dairy and Voelcker farmstead in Hardberger Park</title>
-      <link>https://sanantonioreport.org/historic-dairy-and-voelcker-farmstead-in-hardberger-park/</link>
-      <guid>https://sanantonioreport.org/historic-dairy-and-voelcker-farmstead-in-hardberger-park/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The Phil Hardberger Park Conservancy has nearly completed restoration of the 1800s-era Voelcker Historic Farmstead and dairy barn.Barn doors to open soon at historic dairy and Voelcker farmstead in Hardberger Park was first posted on August 17, 2026 at 10:15 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@ri</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Mon, 17 Aug 2026 15:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 6200 SAN PEDRO AVE (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1118263</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1118263</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1118263 | NORTH Division | 8/17/2026 9:05:14 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/17/2026 9:05:14 AM</pubDate>
     </item>
   </channel>
 </rss>
