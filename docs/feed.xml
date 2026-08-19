@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 11:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 12:36:46 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Coffee drinkers have less fat, more muscle, and surprising hormone differences</title>
+      <link>https://www.sciencedaily.com/releases/2026/08/260819041228.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/08/260819041228.htm</guid>
+      <description>[Diabetes &amp; Kidney Disease] Keyword: type 2 diabetes — Coffee drinkers may be getting more than an energy boost. A Finnish study found that people who drank more coffee tended to have less total and abdominal fat, more muscle, and healthier metabolic markers despite having similar BMIs. Higher coffee intake was also linked to lower levels of certain amino acids associated with insulin resistance and type 2 diabetes risk.</description>
+      <category>Diabetes &amp; Kidney Disease</category>
+      <pubDate>Wed, 19 Aug 2026 08:30:05 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 2800 W HUTCHINS PLACE (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127462</link>
@@ -807,14 +815,6 @@ remaining users of the API to prepare for its eventual re</description>
       <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1120935 | DOWNTOWN Division | 8/17/2026 7:40:39 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/17/2026 7:40:39 PM</pubDate>
-    </item>
-    <item>
-      <title>Molecular electromagnetic sensor may enable remote-controlled gene therapy</title>
-      <link>https://phys.org/news/2026-08-molecular-electromagnetic-sensor-enable-remote.html</link>
-      <guid>https://phys.org/news/2026-08-molecular-electromagnetic-sensor-enable-remote.html</guid>
-      <description>[Worker Cooperatives &amp; Solidarity Economy] Keyword: co-op — The deoxyribonucleic acid (DNA) of living organisms contains regulatory elements that control when, where and to what extent specific genes are turned on or off. They can be co-opted to create &quot;gene switches&quot; that hold significant potential for understanding gene expression and for therapeutic applications, particularly for the noninvasive treatment or management of genetic disorders.</description>
-      <category>Worker Cooperatives &amp; Solidarity Economy</category>
-      <pubDate>Mon, 17 Aug 2026 19:40:04 EDT</pubDate>
     </item>
   </channel>
 </rss>
