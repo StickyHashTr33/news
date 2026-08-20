@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 23:18:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 00:57:30 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 13000 JONES MALTSBERGER RD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1130848</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1130848</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1130848 | NORTH Division | 8/19/2026 7:41:09 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/19/2026 7:41:09 PM</pubDate>
+    </item>
+    <item>
+      <title>Climate change is rewriting England's 'green and pleasant' story</title>
+      <link>https://phys.org/news/2026-08-climate-rewriting-england-green-pleasant.html</link>
+      <guid>https://phys.org/news/2026-08-climate-rewriting-england-green-pleasant.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — In 1804, William Blake wrote in his poem Jerusalem of England's &quot;green and pleasant&quot; land. This idealized vision of English pastoral has resonated through two centuries, fusing the character of the nation with its landscape—those &quot;mountains green&quot; and &quot;pleasant pastures.&quot;</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 19 Aug 2026 20:20:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>Weekly type 2 diabetes jab could replace daily injections</title>
+      <link>https://www.bbc.co.uk/news/articles/cn8nd1n54zxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/cn8nd1n54zxo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[Diabetes &amp; Kidney Disease] Keyword: type 2 diabetes — Hundreds of thousands of people with type 2 diabetes could get access to a new weekly insulin jab to replace daily injections.</description>
+      <category>Diabetes &amp; Kidney Disease</category>
+      <pubDate>Thu, 20 Aug 2026 00:39:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Can Bexar County stay the course on avoiding a tax increase?</title>
+      <link>https://sanantonioreport.org/bexar-county-commissioners-court-tax-increase-2027-budget/</link>
+      <guid>https://sanantonioreport.org/bexar-county-commissioners-court-tax-increase-2027-budget/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — On Tuesday, Bexar County staff presented plans for a $2.6 billion budget that includes no cost of living increase for county staff, funds only a handful of critical infrastructure projects, and pulls money out of the rainy day fund to maintain popular pandemic-era programs.Can Bexar County stay the course on avoiding a tax increase? was first posted on August 19, 2026 at 6:45 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not re</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Wed, 19 Aug 2026 23:45:07 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 12600 SILICON DR (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1130496</link>
@@ -792,38 +824,6 @@ restrict use of AF_ALG in the next Fedora release in the hopes of nudging
 remaining users of the API to prepare for its eventual re</description>
       <category>Open Source Software</category>
       <pubDate>Tue, 18 Aug 2026 13:48:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 10400 ETHAN ALLEN DR (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123017</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123017</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1123017 | PRUE Division | 8/18/2026 8:23:15 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 8:23:15 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 200 E BASSE RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123025</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123025</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1123025 | NORTH Division | 8/18/2026 8:24:44 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 8:24:44 AM</pubDate>
-    </item>
-    <item>
-      <title>Aerial imagery maps hurricane wind damage and shows stronger building codes work</title>
-      <link>https://phys.org/news/2026-08-aerial-imagery-hurricane-stronger-codes.html</link>
-      <guid>https://phys.org/news/2026-08-aerial-imagery-hurricane-stronger-codes.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Massive storms like Hurricane Katrina in 2005, which caused more than $100 billion in damage, were once considered lifetime events. Increasingly, however, they are becoming the norm: a direct result of climate change, which has made large storms more frequent, intense and slower-moving, deepening their impact.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 18 Aug 2026 08:40:03 EDT</pubDate>
-    </item>
-    <item>
-      <title>The Crazy Thing About “Woke 1” Was How It Was Exploited</title>
-      <link>https://defector.com/the-crazy-thing-about-woke-1-was-how-it-was-exploited</link>
-      <guid>https://defector.com/the-crazy-thing-about-woke-1-was-how-it-was-exploited</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — In November 2018, 29-year-old Representative-elect Alexandria Ocasio-Cortez joined a group of 200 youth activists associated with the Sunrise Movement as they staged a protest at the office of then-House Minority Leader Nancy Pelosi. They were there to urge Democratic leadership to act more quickly on issues of climate change. The period between the election and swearing-in is normally when a newly elected legislator would be getting to know their future colleagues and angling for a good committ</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 18 Aug 2026 13:04:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
