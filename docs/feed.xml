@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 16:29:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 17:24:31 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 7200 BLANCO RD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1134010</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1134010</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1134010 | NORTH Division | 8/20/2026 12:12:58 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/20/2026 12:12:58 PM</pubDate>
+    </item>
+    <item>
+      <title>Israeli Settlers Have Displaced 107 Palestinian West Bank Communities Since 2023</title>
+      <link>https://truthout.org/articles/israeli-settlers-have-displaced-107-palestinian-west-bank-communities-since-2023/</link>
+      <guid>https://truthout.org/articles/israeli-settlers-have-displaced-107-palestinian-west-bank-communities-since-2023/</guid>
+      <description>[Housing &amp; Gentrification] Keyword: displacement — A new report by Human Rights Watch details how the Israeli government has directly facilitated displacement.</description>
+      <category>Housing &amp; Gentrification</category>
+      <pubDate>Thu, 20 Aug 2026 17:03:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>San Antonio votes to rename Cesar Chavez Boulevard back to Durango</title>
+      <link>https://sanantonioreport.org/san-antonio-city-council-rename-cesar-chavez-boulevard-durango/</link>
+      <guid>https://sanantonioreport.org/san-antonio-city-council-rename-cesar-chavez-boulevard-durango/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — San Antonio City Council unanimously approved renaming Cesar Chavez Boulevard back to Durango Boulevard, a change affecting 295 addresses.San Antonio votes to rename Cesar Chavez Boulevard back to Durango was first posted on August 20, 2026 at 11:54 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardrepor</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Thu, 20 Aug 2026 16:54:17 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 1300 BITTERLAKE (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1133445</link>
@@ -808,30 +832,6 @@ to explicitly approving them, as well</description>
       <description>[Tabletop RPG &amp; D&amp;D] Keyword: role-playing game — Human by day, vampire by night, Coen has difficult choices to make – beginning here in the 1300s, his adventure could span centuries in upcoming sequelsThe Blood of Dawnwalker could be the start of an epic saga. Created by some of the talent behind The Witcher 3, this dark fantasy role-playing game takes place in the 14th century in the fictional land of Vale Sangora, a Carpathian valley of wetlands, mountains and forests cut off from the rest of the world and under the rule of a vicious vampire</description>
       <category>Tabletop RPG &amp; D&amp;D</category>
       <pubDate>Wed, 19 Aug 2026 09:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Breastfeeding in Gaza: Mothers seek help to provide for their babies</title>
-      <link>https://www.aljazeera.com/features/2026/8/19/breastfeeding-in-gaza-mothers-seek-help-to-provide-for-their-babies?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/features/2026/8/19/breastfeeding-in-gaza-mothers-seek-help-to-provide-for-their-babies?traffic_source=rss</guid>
-      <description>[Housing &amp; Gentrification] Keyword: displacement — Breastfeeding mothers in Gaza struggle to feed their babies amid hunger, displacement, stress and living conditions.</description>
-      <category>Housing &amp; Gentrification</category>
-      <pubDate>Wed, 19 Aug 2026 08:46:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — O'CONNOR RD / CROSSWINDS WAY (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127227</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127227</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1127227 | NORTH Division | 8/19/2026 2:42:40 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/19/2026 2:42:40 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 6900 TALLAHASSE (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127238</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127238</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1127238 | WEST Division | 8/19/2026 2:50:56 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/19/2026 2:50:56 AM</pubDate>
     </item>
   </channel>
 </rss>
