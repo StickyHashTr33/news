@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 14:32:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:28:46 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 1300 BITTERLAKE (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1133445</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1133445</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1133445 | WEST Division | 8/20/2026 10:12:19 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/20/2026 10:12:19 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 3900 CREEK FOREST (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1133446</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1133446</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1133446 | PRUE Division | 8/20/2026 10:12:34 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/20/2026 10:12:34 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 13000 JONES MALTSBERGER RD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1133455</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1133455</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1133455 | NORTH Division | 8/20/2026 10:15:30 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/20/2026 10:15:30 AM</pubDate>
+    </item>
+    <item>
+      <title>&quot;Love Machines&quot;: James Muldoon on How AI Is Changing Relationships &amp; the Global Workers Fueling AI</title>
+      <link>http://www.democracynow.org/2026/8/20/james_muldoon_ai_love_machines</link>
+      <guid>http://www.democracynow.org/2026/8/20/james_muldoon_ai_love_machines</guid>
+      <description>[AI &amp; Automation] Keyword: large language model — James Muldoon is a sociologist who writes about the changing nature of human-technology relationships. Love Machines: How Artificial Intelligence Is Transforming Our Relationships investigates how people form emotional attachments with large language models, including OpenAI&amp;#8217;s ChatGPT and Anthropic&amp;#8217;s Claude. Feeding the Machine: The Hidden Human Labor Powering A.I., co-written by fellow researchers Mark Graham and Callum Cant and based on more than a decade of fieldwork, follows Glob</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Thu, 20 Aug 2026 08:47:17 -0400</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 100 MONTPELIER (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1133158</link>
@@ -800,38 +832,6 @@ to explicitly approving them, as well</description>
       <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1127238 | WEST Division | 8/19/2026 2:50:56 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/19/2026 2:50:56 AM</pubDate>
-    </item>
-    <item>
-      <title>US Army Corps approves a pipeline project it knows harms Indigenous lands</title>
-      <link>https://grist.org/energy/us-army-corps-approves-line-5-tunnel-project-harms-indigenous-lands/</link>
-      <guid>https://grist.org/energy/us-army-corps-approves-line-5-tunnel-project-harms-indigenous-lands/</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — </description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Wed, 19 Aug 2026 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 600 RUIZ ST (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127122</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127122</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1127122 | CENTRAL Division | 8/19/2026 1:55:14 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/19/2026 1:55:14 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 2400 W GRAMERCY PLACE (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127135</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127135</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1127135 | WEST Division | 8/19/2026 2:00:17 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/19/2026 2:00:17 AM</pubDate>
-    </item>
-    <item>
-      <title>Can we go green without forever chemicals?</title>
-      <link>https://www.dw.com/en/can-we-go-green-without-forever-chemicals/a-77888704?maca=en-rss-en-all-1573-rdf</link>
-      <guid>https://www.dw.com/en/can-we-go-green-without-forever-chemicals/a-77888704?maca=en-rss-en-all-1573-rdf</guid>
-      <description>[Climate &amp; Environment] Keyword: renewable energy — As nations globally move to ban forever chemicals, should renewable energy technologies be exempt for the sake of saving the climate?</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>2026-08-13T07:13:00Z</pubDate>
     </item>
   </channel>
 </rss>
