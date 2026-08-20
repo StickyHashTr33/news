@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 07:37:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 08:32:35 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle In Progress — 7200 WURZBACH RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132238</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132238</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1132238 | PRUE Division | 8/20/2026 2:57:23 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/20/2026 2:57:23 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 200 N PICOSO (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132242</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132242</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1132242 | CENTRAL Division | 8/20/2026 3:00:40 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/20/2026 3:00:40 AM</pubDate>
+    </item>
+    <item>
+      <title>How Florida quietly removed climate change content from textbooks</title>
+      <link>https://grist.org/politics/how-florida-quietly-removed-climate-change-content-from-textbooks/</link>
+      <guid>https://grist.org/politics/how-florida-quietly-removed-climate-change-content-from-textbooks/</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — </description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 20 Aug 2026 08:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages</title>
       <link>https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss</link>
@@ -791,30 +815,6 @@ to explicitly approving them, as well</description>
       <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1124817 | CENTRAL Division | 8/18/2026 3:04:33 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/18/2026 3:04:33 PM</pubDate>
-    </item>
-    <item>
-      <title>National Park rangers blow the whistle after Flock cameras appear</title>
-      <link>https://www.alternet.org/flock-camera/</link>
-      <guid>https://www.alternet.org/flock-camera/</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Flock cameras are popping up in national forests and rangers are furious, 404 Media reported Tuesday.Flock Safety paints itself as nothing more than automated license-plate reader cameras that capture plates and other identifying vehicle details, such as the color, make, model, and any other visible features.Many civil rights advocates fear that the camera footage could be used to aid in immigration arrests, target protesters or even search women seeking reproductive healthcare.Further, there's </description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Tue, 18 Aug 2026 19:47:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 11800 BRAESVIEW (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1124533</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1124533</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1124533 | NORTH Division | 8/18/2026 2:03:58 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 2:03:58 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 8700 TESORO DR (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1124538</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1124538</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1124538 | NORTH Division | 8/18/2026 2:05:22 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 2:05:22 PM</pubDate>
     </item>
   </channel>
 </rss>
