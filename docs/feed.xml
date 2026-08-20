@@ -5,8 +5,72 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 12:37:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:42:24 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 1500 MISSION RD (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132955</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132955</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1132955 | SOUTH Division | 8/20/2026 8:30:16 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/20/2026 8:30:16 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 2800 SIR PHILLIP (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132964</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132964</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1132964 | NORTH Division | 8/20/2026 8:31:33 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/20/2026 8:31:33 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 1300 FAIR AVE (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132965</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132965</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1132965 | EAST Division | 8/20/2026 8:31:40 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/20/2026 8:31:40 AM</pubDate>
+    </item>
+    <item>
+      <title>Ocean time travelers return with secrets of the Great Barrier Reef</title>
+      <link>https://phys.org/news/2026-08-ocean-secrets-great-barrier-reef.html</link>
+      <guid>https://phys.org/news/2026-08-ocean-secrets-great-barrier-reef.html</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — A team of Australian researchers has woven together modern science and Indigenous knowledge to reveal new insights into the evolution, history and future of the southern Great Barrier Reef. The 24-day voyage, led by The University of Queensland, returned to Brisbane today aboard research vessel (RV) Investigator, operated by CSIRO, Australia's national science agency.</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Thu, 20 Aug 2026 09:20:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>RPM 6.1.0 released</title>
+      <link>https://lwn.net/Articles/1089719/</link>
+      <guid>https://lwn.net/Articles/1089719/</guid>
+      <description>[Open Source Software] Keyword: Linux kernel — Version 6.1.0 of the RPM Package Manager has been released. Notable
+changes include the ability to provide modifiers to RPM macros at definition
+time, improved build and verification error handling, support for signing files
+with PKCS11 tokens using rpmsign, as well as
+the addition of several new man pages. The 6.1.0 release also debuts a new release model
+inspired by the Linux kernel's.</description>
+      <category>Open Source Software</category>
+      <pubDate>Thu, 20 Aug 2026 13:22:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Supply chain attack on arrayref (Rust blog)</title>
+      <link>https://lwn.net/Articles/1089720/</link>
+      <guid>https://lwn.net/Articles/1089720/</guid>
+      <description>[Cybersecurity] Keyword: supply chain attack — The Rust blog reports
+on a malicious crate, called proc-macro1, that was uploaded to the
+crates.io repository.
+
+
+	Furthermore, we discovered that the popular arrayref crate
+	had recently been republished and made to depend on this crate,
+	with the most recent versions yanked. We have removed the malicious
+	version and unyanked the maliciously-yanked versions. Other crates
+	by that author (internment, append-only-vec) were
+	also affected so we have done the same for those, and locked the
+	account</description>
+      <category>Cybersecurity</category>
+      <pubDate>Thu, 20 Aug 2026 13:26:01 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 12800 WEST AVE (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132688</link>
@@ -768,54 +832,6 @@ to explicitly approving them, as well</description>
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1127056 | DOWNTOWN Division | 8/19/2026 1:19:31 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/19/2026 1:19:31 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 4900 ARIZONA BAY (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127060</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127060</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1127060 | EAST Division | 8/19/2026 1:21:22 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/19/2026 1:21:22 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 18100 US HWY 281 N (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1126848</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1126848</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1126848 | NORTH Division | 8/18/2026 11:58:03 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 11:58:03 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — W EUCLID AVE / SAN PEDRO AVE (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1126553</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1126553</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1126553 | DOWNTOWN Division | 8/18/2026 10:25:10 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 10:25:10 PM</pubDate>
-    </item>
-    <item>
-      <title>First Nations MP resigns from NT parliament, accusing government of passing laws which are ‘dehumanising, oppressing and destroying’ Indigenous people</title>
-      <link>https://www.theguardian.com/australia-news/2026/aug/19/first-nations-mp-yingiya-guyula-resigns-nt-parliament-slow-genocide-indigenous-people-ntwnfb</link>
-      <guid>https://www.theguardian.com/australia-news/2026/aug/19/first-nations-mp-yingiya-guyula-resigns-nt-parliament-slow-genocide-indigenous-people-ntwnfb</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Yolngu independent Yiŋiya Guyula accused the CLP of ‘contributing to the breakdown of our culture and people, in what is becoming a slow genocide’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA First Nations MP from the Northern Territory has resigned from parliament, accusing the ruling Country Liberal party of introducing laws that are “dehumanising, oppressing and destroying our communities and our people”, and contributing to</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Wed, 19 Aug 2026 02:46:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Shooting — S NEW BRAUNFELS AVE / KOEHLER CT (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1126272</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1126272</guid>
-      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-1126272 | SOUTH Division | 8/18/2026 9:03:44 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 9:03:44 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 1500 BABCOCK RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1126280</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1126280</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1126280 | PRUE Division | 8/18/2026 9:05:44 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 9:05:44 PM</pubDate>
     </item>
   </channel>
 </rss>
