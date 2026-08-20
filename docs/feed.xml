@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 05:26:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 06:37:44 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 2000 BROADWAY (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132030</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132030</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1132030 | DOWNTOWN Division | 8/20/2026 1:18:31 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/20/2026 1:18:31 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 100 KATY WAY (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132033</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132033</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1132033 | EAST Division | 8/20/2026 1:20:08 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/20/2026 1:20:08 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 7500 SOUTH SEA LN (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132045</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132045</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1132045 | NORTH Division | 8/20/2026 1:25:11 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/20/2026 1:25:11 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person - Endangered — 10100 SHADYGLEN (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1131785</link>
@@ -791,30 +815,6 @@ to explicitly approving them, as well</description>
       <description>[Climate &amp; Environment] Keyword: plastic pollution — Every year, about 50 million metric tons of plastic is dumped into the environment. This waste entangles, chokes and poisons wildlife worldwide, including sable shearwaters living on the remote Australian island of Lord Howe. After hatching on the island, these birds head out to sea for several years before returning to breed as adults.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Tue, 18 Aug 2026 13:30:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 300 LABOR ST (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123996</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1123996</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1123996 | DOWNTOWN Division | 8/18/2026 12:05:32 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/18/2026 12:05:32 PM</pubDate>
-    </item>
-    <item>
-      <title>How healthy are our coral reefs? Researchers have built a tool to help find out</title>
-      <link>https://phys.org/news/2026-08-healthy-coral-reefs-built-tool.html</link>
-      <guid>https://phys.org/news/2026-08-healthy-coral-reefs-built-tool.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Researchers at the University of Sydney have harnessed more than 30 years of data to build a new method to more accurately measure the impact of climate change-induced events on the Great Barrier Reef. The findings are published in the journal Marine Environmental Research.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 18 Aug 2026 13:00:07 EDT</pubDate>
-    </item>
-    <item>
-      <title>The Trump Administration Launches a New Angle of Attack Against Trans Healthcare</title>
-      <link>https://www.motherjones.com/politics/2026/08/trump-transgender-healthcare-hhs-gender-affirming-care-billing-intimidation-campaign/</link>
-      <guid>https://www.motherjones.com/politics/2026/08/trump-transgender-healthcare-hhs-gender-affirming-care-billing-intimidation-campaign/</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Just two days after finalizing a regulation to make sure trans kids from low-income families can&amp;#8217;t afford puberty blockers or hormone therapy, the Trump administration has loosed another salvo in its bitter war against transgender people&amp;#8217;s healthcare. On Thursday, the Department of Health and Human Services published a report—authored largely by employees of right-wing advocacy [&amp;#8230;]</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Tue, 18 Aug 2026 16:40:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
