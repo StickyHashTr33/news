@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 03:42:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 04:32:21 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 9700 HIDDEN FIELD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1131665</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1131665</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1131665 | PRUE Division | 8/19/2026 11:11:54 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/19/2026 11:11:54 PM</pubDate>
+    </item>
+    <item>
+      <title>Warming waters draw summer 'feeding frenzies' by whales off Greenland</title>
+      <link>https://phys.org/news/2026-08-summer-frenzies-whales-greenland.html</link>
+      <guid>https://phys.org/news/2026-08-summer-frenzies-whales-greenland.html</guid>
+      <description>[Climate &amp; Environment] Keyword: global warming — The effects of global warming depend on species: The losers are legion, but a lucky few are winners. Now, researchers have shown that baleen whales are taking advantage of a newly opened-up fish bonanza in the Greenland Sea, east of Greenland and reaching to the Arctic Circle and beyond.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 20 Aug 2026 00:00:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 100 MAIN PLAZA (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1131188</link>
@@ -799,22 +815,6 @@ to explicitly approving them, as well</description>
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1123803 | PRUE Division | 8/18/2026 11:14:39 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/18/2026 11:14:39 AM</pubDate>
-    </item>
-    <item>
-      <title>Capitalism is killing summer</title>
-      <link>https://therealnews.com/capitalism-is-killing-summer</link>
-      <guid>https://therealnews.com/capitalism-is-killing-summer</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Everybody loves summertime. But from climate change to budget cuts on public spaces like parks and pools to a lack of vacation time, capitalism is increasingly robbing us of our summer fun.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 18 Aug 2026 15:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UT San Antonio researchers unveil Genesis 2.0, a solution to AI’s catastrophic forgetting</title>
-      <link>https://sanantonioreport.org/ut-san-antonio-researchers-genesis-2-0-ai-catastrophic-forgetting/</link>
-      <guid>https://sanantonioreport.org/ut-san-antonio-researchers-genesis-2-0-ai-catastrophic-forgetting/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Genesis 2.0 is a chip that could be an answer to a known artificial intelligence shortcoming called &quot;catastrophic forgetting.&quot; UT San Antonio researchers unveil Genesis 2.0, a solution to AI’s catastrophic forgetting was first posted on August 18, 2026 at 11:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Tue, 18 Aug 2026 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
