@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 06:37:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:37:22 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages</title>
+      <link>https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss</guid>
+      <description>[Housing &amp; Gentrification] Keyword: displacement — UN warns of surging displacement in Kordofan as power and water infrastructure come under attack in El Obeid.</description>
+      <category>Housing &amp; Gentrification</category>
+      <pubDate>Thu, 20 Aug 2026 07:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI agent suggested installing a malware package. Engineer almost took its advice</title>
+      <link>https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849</link>
+      <guid>https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — Fortunately, the company had a policy of checking source code on GitHub first</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Thu, 20 Aug 2026 09:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 2000 BROADWAY (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132030</link>
@@ -799,22 +815,6 @@ to explicitly approving them, as well</description>
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1124538 | NORTH Division | 8/18/2026 2:05:22 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/18/2026 2:05:22 PM</pubDate>
-    </item>
-    <item>
-      <title>Trump administration to rescind rule protecting old growth forests</title>
-      <link>https://www.theguardian.com/us-news/2026/aug/18/trump-administration-growth-forests</link>
-      <guid>https://www.theguardian.com/us-news/2026/aug/18/trump-administration-growth-forests</guid>
-      <description>[Ecology &amp; Conservation] Keyword: old growth forest — Almost 45m acres of national forests could be potentially opened to road construction, drilling and loggingThe Trump administration said on Tuesday it plans to rescind the “roadless rule” that has protected old growth forests in the US for 25 years, potentially opening up almost 45m acres of national forests to road construction, drilling and logging.Conservationists had feared the announcement was coming since last summer after Brooke Rollins, Trump’s secretary of agriculture, targeted a rule b</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Tue, 18 Aug 2026 18:51:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fifteen years of data link plastic pollution to seabird population losses</title>
-      <link>https://phys.org/news/2026-08-fifteen-years-link-plastic-pollution.html</link>
-      <guid>https://phys.org/news/2026-08-fifteen-years-link-plastic-pollution.html</guid>
-      <description>[Climate &amp; Environment] Keyword: plastic pollution — Every year, about 50 million metric tons of plastic is dumped into the environment. This waste entangles, chokes and poisons wildlife worldwide, including sable shearwaters living on the remote Australian island of Lord Howe. After hatching on the island, these birds head out to sea for several years before returning to breed as adults.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 18 Aug 2026 13:30:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
