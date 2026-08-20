@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 13:42:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 14:32:16 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 100 MONTPELIER (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1133158</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1133158</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1133158 | WEST Division | 8/20/2026 9:11:00 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/20/2026 9:11:00 AM</pubDate>
+    </item>
+    <item>
+      <title>Their cities dropped Flock surveillance cameras. They’re still being watched</title>
+      <link>https://www.theguardian.com/us-news/2026/aug/20/flock-cameras-surveillance</link>
+      <guid>https://www.theguardian.com/us-news/2026/aug/20/flock-cameras-surveillance</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: Flock Safety — Despite policy victories over Flock, Americans are finding themselves under similar monitoring by a new company – or unable to remove the original camerasActivists in Colorado thought they would be celebrating a victory against mass surveillance in December when the Longmont city council decided to let a contract with Flock Safety lapse.But that excitement was cut short only months later when lawmakers voted to approve a new vendor to install automated license plate readers (ALPRs) on the city’s</description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>Thu, 20 Aug 2026 13:00:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Interstellar travel IV: Solar, magnetic, &amp; directed-energy sails</title>
+      <link>https://phys.org/news/2026-08-interstellar-iv-solar-magnetic-energy.html</link>
+      <guid>https://phys.org/news/2026-08-interstellar-iv-solar-magnetic-energy.html</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — Welcome back to our series on interstellar travel! In our first installment, we examined attempts to realize nuclear propulsion and how the technology could be used to reach the nearest star. In our second, we examined how fusion power has also been considered a means of propelling spacecraft to relativistic speeds (a fraction of the speed of light). In both cases, these proposals paralleled Cold War developments in rocketry and nuclear armaments, as they did for most space age advancements.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Thu, 20 Aug 2026 10:20:09 EDT</pubDate>
+    </item>
+    <item>
+      <title>Ransomware crook poses as recovery firm to steal payments from fellow extortionists</title>
+      <link>https://www.theregister.com/cyber-crime/2026/08/20/ransomware-crook-poses-as-recovery-firm-to-steal-payments-from-fellow-extortionists/5290344</link>
+      <guid>https://www.theregister.com/cyber-crime/2026/08/20/ransomware-crook-poses-as-recovery-firm-to-steal-payments-from-fellow-extortionists/5290344</guid>
+      <description>[Cybersecurity] Keyword: ransomware — Because apparently even ransomware gangs can't trust the people they do business with</description>
+      <category>Cybersecurity</category>
+      <pubDate>Thu, 20 Aug 2026 16:27:00 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 1500 MISSION RD (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132955</link>
@@ -800,38 +832,6 @@ to explicitly approving them, as well</description>
       <description>[Climate &amp; Environment] Keyword: renewable energy — As nations globally move to ban forever chemicals, should renewable energy technologies be exempt for the sake of saving the climate?</description>
       <category>Climate &amp; Environment</category>
       <pubDate>2026-08-13T07:13:00Z</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 3900 EISENHAUER RD (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1126996</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1126996</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1126996 | EAST Division | 8/19/2026 12:51:01 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/19/2026 12:51:01 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 1400-1410 N ELMENDORF ST (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127028</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127028</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1127028 | CENTRAL Division | 8/19/2026 1:10:20 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/19/2026 1:10:20 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 11600 HUEBNER RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127029</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127029</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1127029 | PRUE Division | 8/19/2026 1:10:54 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/19/2026 1:10:54 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 700 E GRAYSON ST (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127056</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127056</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1127056 | DOWNTOWN Division | 8/19/2026 1:19:31 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/19/2026 1:19:31 AM</pubDate>
     </item>
   </channel>
 </rss>
