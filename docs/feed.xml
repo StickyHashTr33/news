@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 01:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 02:58:21 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 400 QUERETARO (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1136406</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1136406</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1136406 | WEST Division | 8/20/2026 9:46:44 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/20/2026 9:46:44 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Robbery of Individual — 4300 THOUSAND OAKS (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1135953</link>
@@ -824,14 +832,6 @@ to explicitly approving them, as well</description>
       <description>[AI &amp; Automation] Keyword: LLM — Although increased cell proliferation is a hallmark of cancerous tissues, in some cases it may actually protect against tumor growth, according to a new study by Caltech researchers. Using mathematical models, the work suggests a new paradigm for the earliest stages of cancer development.</description>
       <category>AI &amp; Automation</category>
       <pubDate>Wed, 19 Aug 2026 11:20:03 EDT</pubDate>
-    </item>
-    <item>
-      <title>Real-world study of Oregon's nonmedical psilocybin program shows promise</title>
-      <link>https://www.npr.org/2026/08/19/nx-s1-5936443/oregon-psilocybin-ptsd-depression-anxiety</link>
-      <guid>https://www.npr.org/2026/08/19/nx-s1-5936443/oregon-psilocybin-ptsd-depression-anxiety</guid>
-      <description>[Psychedelics &amp; Psilocybin Research] Keyword: psilocybin — Oregon was the first state to establish a legalized and regulated psilocybin industry. Since then, thousands have tried magic mushrooms. Here is the first data from the state's real life experiment.</description>
-      <category>Psychedelics &amp; Psilocybin Research</category>
-      <pubDate>Wed, 19 Aug 2026 11:22:35 -0400</pubDate>
     </item>
   </channel>
 </rss>
