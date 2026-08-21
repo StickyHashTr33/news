@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 02:58:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 03:51:23 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 8700 PORT OF CALL DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1136585</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1136585</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1136585 | SOUTH Division | 8/20/2026 10:39:33 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/20/2026 10:39:33 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 400 QUERETARO (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1136406</link>
@@ -824,14 +832,6 @@ to explicitly approving them, as well</description>
 &amp;#8220;People are successfully forcing the government to stop, to slow down, or at least change course on border wall construction,&amp;#8221;</description>
       <category>Immigration &amp; Border</category>
       <pubDate>Wed, 19 Aug 2026 08:49:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Jellyfish reveal how rapid cell turnover may suppress early cancer growth</title>
-      <link>https://phys.org/news/2026-08-jellyfish-reveal-rapid-cell-turnover.html</link>
-      <guid>https://phys.org/news/2026-08-jellyfish-reveal-rapid-cell-turnover.html</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — Although increased cell proliferation is a hallmark of cancerous tissues, in some cases it may actually protect against tumor growth, according to a new study by Caltech researchers. Using mathematical models, the work suggests a new paradigm for the earliest stages of cancer development.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Wed, 19 Aug 2026 11:20:03 EDT</pubDate>
     </item>
   </channel>
 </rss>
