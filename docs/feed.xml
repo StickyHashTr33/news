@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 12:36:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:41:26 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 9200 GRISSOM RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137974</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137974</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1137974 | PRUE Division | 8/21/2026 8:21:38 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/21/2026 8:21:38 AM</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Friday</title>
+      <link>https://lwn.net/Articles/1089999/</link>
+      <guid>https://lwn.net/Articles/1089999/</guid>
+      <description>[Hermeticism &amp; Esoteric] Keyword: alchemy — Security updates have been issued by AlmaLinux (ansible-core and pcp), Debian (chromium, libgit2, python-httplib2, and sabnzbdplus), Fedora (dokuwiki, domoticz, dotnet10.0, dotnet8.0, dotnet9.0, firefox, i2c-display, libgit2, lyx, ntpsec, openssh, perl-DBI, php-phpseclib3, python-alembic, python-asyncmy, python-sqlalchemy, python3.13, roundcubemail, trafficserver, wireshark, and wordpress), Red Hat (compat-openssl10, compat-openssl11, fence-agents, gnutls, kernel, kernel-rt, libarchive, libreswa</description>
+      <category>Hermeticism &amp; Esoteric</category>
+      <pubDate>Fri, 21 Aug 2026 13:17:30 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 14400 BROOK HOLLOW BLVD (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137751</link>
@@ -808,22 +824,6 @@ The post &amp;#8220;Little House on the Prairie&amp;#8221; Gains Historical Cont
       <description>[Climate &amp; Environment] Keyword: climate change — In 1804, William Blake wrote in his poem Jerusalem of England's &quot;green and pleasant&quot; land. This idealized vision of English pastoral has resonated through two centuries, fusing the character of the nation with its landscape—those &quot;mountains green&quot; and &quot;pleasant pastures.&quot;</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Wed, 19 Aug 2026 20:20:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Weekly type 2 diabetes jab could replace daily injections</title>
-      <link>https://www.bbc.co.uk/news/articles/cn8nd1n54zxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/cn8nd1n54zxo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Diabetes &amp; Kidney Disease] Keyword: type 2 diabetes — Hundreds of thousands of people with type 2 diabetes could get access to a new weekly insulin jab to replace daily injections.</description>
-      <category>Diabetes &amp; Kidney Disease</category>
-      <pubDate>Thu, 20 Aug 2026 00:39:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Can Bexar County stay the course on avoiding a tax increase?</title>
-      <link>https://sanantonioreport.org/bexar-county-commissioners-court-tax-increase-2027-budget/</link>
-      <guid>https://sanantonioreport.org/bexar-county-commissioners-court-tax-increase-2027-budget/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — On Tuesday, Bexar County staff presented plans for a $2.6 billion budget that includes no cost of living increase for county staff, funds only a handful of critical infrastructure projects, and pulls money out of the rainy day fund to maintain popular pandemic-era programs.Can Bexar County stay the course on avoiding a tax increase? was first posted on August 19, 2026 at 6:45 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not re</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Wed, 19 Aug 2026 23:45:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
