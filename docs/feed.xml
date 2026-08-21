@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 05:28:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:37:54 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 11600 IH 35 N (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137093</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137093</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1137093 | NORTH Division | 8/21/2026 1:09:20 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/21/2026 1:09:20 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 8600 FAIRHAVEN ST (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137094</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137094</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1137094 | PRUE Division | 8/21/2026 1:09:38 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/21/2026 1:09:38 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 1600 DROUGHT WAY (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137095</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137095</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1137095 | CENTRAL Division | 8/21/2026 1:09:47 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/21/2026 1:09:47 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle In Progress — 2400 S CALAVERAS (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137096</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137096</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1137096 | CENTRAL Division | 8/21/2026 1:11:21 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/21/2026 1:11:21 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 3600 CALLAGHAN RD (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1136928</link>
@@ -799,38 +831,6 @@ to explicitly approving them, as well</description>
       <description>[ALPR &amp; Flock Cameras] Keyword: license plate reader — Body camera footage shows police surveillance abuse is common: &quot;We’ve told them over and over again: 'You see a hot chick, you don’t look them up in a database.'&quot;</description>
       <category>ALPR &amp; Flock Cameras</category>
       <pubDate>Wed, 19 Aug 2026 17:14:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 7400 HERCULES PT (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1128642</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1128642</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1128642 | SOUTH Division | 8/19/2026 11:10:16 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/19/2026 11:10:16 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 3600 NW LOOP 410 (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1128647</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1128647</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1128647 | PRUE Division | 8/19/2026 11:12:25 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/19/2026 11:12:25 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 100 BRACKENRIDGE AVE (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1128652</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1128652</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1128652 | DOWNTOWN Division | 8/19/2026 11:14:04 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/19/2026 11:14:04 AM</pubDate>
-    </item>
-    <item>
-      <title>Antarctica's brief rebound was caused by climate variability, not a 'new normal'</title>
-      <link>https://phys.org/news/2026-08-antarctica-rebound-climate-variability.html</link>
-      <guid>https://phys.org/news/2026-08-antarctica-rebound-climate-variability.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Between 2021 and 2023, Antarctica appeared to be growing. Heavy snowfall fueled by wetter weather caused parts of the continent to gain mass, leading some to question whether climate change is really causing the ice to melt. However, a new study shows that the precipitation increase was an anomaly related to extra-warm tropical ocean temperatures, not part of a long-term trend.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 19 Aug 2026 11:00:10 EDT</pubDate>
     </item>
   </channel>
 </rss>
