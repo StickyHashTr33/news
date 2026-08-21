@@ -5,8 +5,33 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 09:32:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:24:44 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 400 N GENERAL MCMULLEN (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137518</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137518</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1137518 | WEST Division | 8/21/2026 4:54:09 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/21/2026 4:54:09 AM</pubDate>
+    </item>
+    <item>
+      <title>As the San Antonio River Authority plans 2027 budget, a tax rate hike is likely for second year in a row</title>
+      <link>https://sanantonioreport.org/san-antonio-river-authority-2027-budget-tax-rate-hike/</link>
+      <guid>https://sanantonioreport.org/san-antonio-river-authority-2027-budget-tax-rate-hike/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The San Antonio River Authority will consider a 2027 tax rate of $0.01930, or $1.93 cents per $100 valuation, up from the current $0.0183.As the San Antonio River Authority plans 2027 budget, a tax rate hike is likely for second year in a row was first posted on August 21, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. P</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Fri, 21 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>$50B Rural Health Transformation Program Needs More Transparency, Groups Say</title>
+      <link>https://dailyyonder.com/50b-rural-health-transformation-program-needs-more-transparency-groups-say/2026/08/21/</link>
+      <guid>https://dailyyonder.com/50b-rural-health-transformation-program-needs-more-transparency-groups-say/2026/08/21/</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — This story was originally published by KFF Health News. One year into its creation, a $50 billion federal program aimed at improving rural healthcare lacks transparency, which could make it difficult to protect against fraud, identify successful projects, and ensure the program delivers on its promise to transform the system. Transparency “is really important to [&amp;#8230;]
+The post $50B Rural Health Transformation Program Needs More Transparency, Groups Say appeared first on The Daily Yonder.</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Fri, 21 Aug 2026 09:59:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 1300 MCCULLOUGH AVE (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137410</link>
@@ -800,30 +825,6 @@ The post What DeFlock? Week of Action Confronts the AI Surveillance State appear
       <description>[Climate &amp; Environment] Keyword: climate change — Climate change is making Australia's housing crisis more dangerous for older women. Extreme heat, floods, fires and storms are turning insecure housing into a safety issue, not just an affordability issue.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Wed, 19 Aug 2026 15:40:06 EDT</pubDate>
-    </item>
-    <item>
-      <title>What DeFlock? Week of Action Confronts the AI Surveillance State</title>
-      <link>https://truthout.org/articles/what-deflock-week-of-action-confronts-the-ai-surveillance-state/</link>
-      <guid>https://truthout.org/articles/what-deflock-week-of-action-confronts-the-ai-surveillance-state/</guid>
-      <description>[ALPR &amp; Flock Cameras] Keyword: DeFlock — A Kansas activist discovered that police tracked him with Flock-style cameras after he wrote an op-ed criticizing them.</description>
-      <category>ALPR &amp; Flock Cameras</category>
-      <pubDate>Wed, 19 Aug 2026 20:14:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 1700 N ZARZAMORA ST (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1129350</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1129350</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1129350 | WEST Division | 8/19/2026 2:01:42 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/19/2026 2:01:42 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 6700 S NEW BRAUNFELS AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1129366</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1129366</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1129366 | SOUTH Division | 8/19/2026 2:07:10 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/19/2026 2:07:10 PM</pubDate>
     </item>
   </channel>
 </rss>
