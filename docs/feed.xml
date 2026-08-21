@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 20:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:19:43 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 3600 SE MILITARY DR (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1140030</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1140030</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1140030 | EAST Division | 8/21/2026 4:06:12 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/21/2026 4:06:12 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 500 COLEMAN ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1140033</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1140033</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1140033 | EAST Division | 8/21/2026 4:06:45 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/21/2026 4:06:45 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 300 CLARENCE (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1139726</link>
@@ -814,23 +830,6 @@ crates.io repository.
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1132435 | PRUE Division | 8/20/2026 5:02:05 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/20/2026 5:02:05 AM</pubDate>
-    </item>
-    <item>
-      <title>“Little House on the Prairie” Gains Historical Context, Retains Wholesome Charm, in Latest TV Remake</title>
-      <link>https://dailyyonder.com/little-house-on-the-prairie/2026/08/20/</link>
-      <guid>https://dailyyonder.com/little-house-on-the-prairie/2026/08/20/</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — New Indigenous voices and a more complicated Manifest Destiny narrative update a beloved story for audiences whose appetite for covered wagons, wide-open prairies, and snug log cabins has not abated.
-The post &amp;#8220;Little House on the Prairie&amp;#8221; Gains Historical Context, Retains Wholesome Charm, in Latest TV Remake appeared first on The Daily Yonder.</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Thu, 20 Aug 2026 09:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New extended-stay hotel opens on historic Main Plaza, bridging downtown tourism districts</title>
-      <link>https://sanantonioreport.org/extended-stay-hotel-historic-main-plaza-downtown-san-antonio/</link>
-      <guid>https://sanantonioreport.org/extended-stay-hotel-historic-main-plaza-downtown-san-antonio/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The new extended-stay hotel is located on Main Plaza between the busy tourism district and a growing Downtown West area of the city.New extended-stay hotel opens on historic Main Plaza, bridging downtown tourism districts was first posted on August 20, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at h</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Thu, 20 Aug 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
