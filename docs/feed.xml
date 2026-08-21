@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 23:21:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 01:01:23 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Robbery of Individual — 4300 THOUSAND OAKS (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1135953</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1135953</guid>
+      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1135953 | NORTH Division | 8/20/2026 7:44:00 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/20/2026 7:44:00 PM</pubDate>
+    </item>
+    <item>
+      <title>Over 153,000 students, staff affected in Canvas data breach, Hong Kong privacy watchdog says</title>
+      <link>https://hongkongfp.com/2026/08/21/over-153000-students-staff-affected-in-canvas-data-breach-hong-kong-privacy-watchdog-says/</link>
+      <guid>https://hongkongfp.com/2026/08/21/over-153000-students-staff-affected-in-canvas-data-breach-hong-kong-privacy-watchdog-says/</guid>
+      <description>[Cybersecurity] Keyword: data breach — Hong Kong’s privacy watchdog has found that more than 153,000 students and staff from four educational institutions in the city were affected in a global cyberattack on online learning platform Canvas in May. The Office of the Privacy Commissioner for Personal Data (PCPD) published its findings on Thursday based on investigations into the data breaches, [&amp;#8230;]</description>
+      <category>Cybersecurity</category>
+      <pubDate>Thu, 20 Aug 2026 23:40:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 10800 STATE HWY 151 (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1135573</link>
@@ -816,22 +832,6 @@ to explicitly approving them, as well</description>
       <description>[Psychedelics &amp; Psilocybin Research] Keyword: psilocybin — Oregon was the first state to establish a legalized and regulated psilocybin industry. Since then, thousands have tried magic mushrooms. Here is the first data from the state's real life experiment.</description>
       <category>Psychedelics &amp; Psilocybin Research</category>
       <pubDate>Wed, 19 Aug 2026 11:22:35 -0400</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 8200 N LOOP 1604 W (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1128159</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1128159</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1128159 | PRUE Division | 8/19/2026 9:09:52 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/19/2026 9:09:52 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 9200 CULEBRA RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127950</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1127950</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1127950 | PRUE Division | 8/19/2026 8:24:25 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/19/2026 8:24:25 AM</pubDate>
     </item>
   </channel>
 </rss>
