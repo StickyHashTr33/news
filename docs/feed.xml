@@ -5,8 +5,39 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 13:41:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 14:30:07 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 3300 RUIZ ST (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1138198</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1138198</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1138198 | WEST Division | 8/21/2026 9:11:11 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/21/2026 9:11:11 AM</pubDate>
+    </item>
+    <item>
+      <title>Hometown news questions whether Republican is lying about his wealth</title>
+      <link>https://www.alternet.org/brandon-herrera/</link>
+      <guid>https://www.alternet.org/brandon-herrera/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A Republican in Texas is being questioned about his brag that he's a millionaire. In an era where the affordability crisis has reached the top issue voters care about most, online influencer Brandon Herrera has spent his campaign bragging about his riches. The problem, according to The San Antonio Express News, is that the Republican hasn't got anything to back that up.The salary of the U.S. House members comes out to about $174,000 and Herrera complained that it would be &quot;a 90+ percent pay cut&quot;</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Fri, 21 Aug 2026 14:24:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[$] Considering the OpenMDW license</title>
+      <link>https://lwn.net/Articles/1089251/</link>
+      <guid>https://lwn.net/Articles/1089251/</guid>
+      <description>[AI &amp; Automation] Keyword: large language model — The open-source world has been struggling for a few years now to understand
+how to approach large language models (LLMs) and the licensing applied to
+them.  What constitutes &quot;freedom&quot; with respect to a black box filled with
+numerical weights?  The process taken by the Open Source Initiative (OSI)
+in the development of its Open AI
+Definition was controversial at best, as was its output.  Now, the
+Linux Foundation's Mike Dolan has brought
+a new license to the OSI for approval.  It is called the Op</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Fri, 21 Aug 2026 13:42:29 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 9200 GRISSOM RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137974</link>
@@ -800,30 +831,6 @@ The post &amp;#8220;Little House on the Prairie&amp;#8221; Gains Historical Cont
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1131200 | PRUE Division | 8/19/2026 9:05:08 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/19/2026 9:05:08 PM</pubDate>
-    </item>
-    <item>
-      <title>Giant whales move into Greenland waters as ice disappears</title>
-      <link>https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Melting sea ice from climate change has opened up the region for giant whales to undertake 'feeding frenzies'.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 20 Aug 2026 02:05:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 13000 JONES MALTSBERGER RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1130848</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1130848</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1130848 | NORTH Division | 8/19/2026 7:41:09 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/19/2026 7:41:09 PM</pubDate>
-    </item>
-    <item>
-      <title>Climate change is rewriting England's 'green and pleasant' story</title>
-      <link>https://phys.org/news/2026-08-climate-rewriting-england-green-pleasant.html</link>
-      <guid>https://phys.org/news/2026-08-climate-rewriting-england-green-pleasant.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — In 1804, William Blake wrote in his poem Jerusalem of England's &quot;green and pleasant&quot; land. This idealized vision of English pastoral has resonated through two centuries, fusing the character of the nation with its landscape—those &quot;mountains green&quot; and &quot;pleasant pastures.&quot;</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 19 Aug 2026 20:20:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
