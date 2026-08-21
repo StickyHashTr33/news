@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 08:34:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 09:32:04 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 1300 MCCULLOUGH AVE (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137410</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137410</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1137410 | DOWNTOWN Division | 8/21/2026 3:47:20 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/21/2026 3:47:20 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 3900 ELDRIDGE AVE (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137423</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137423</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1137423 | WEST Division | 8/21/2026 3:58:33 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/21/2026 3:58:33 AM</pubDate>
+    </item>
+    <item>
+      <title>Amid intense backlash, people are vandalizing Flock surveillance cameras</title>
+      <link>https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize</link>
+      <guid>https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: Flock camera — In dozens of states around the country, people are vandalizing, blocking and taking down Flock cameras. The surge in this type of activity underscores the growing resistance to this police surveillance technology.</description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>Fri, 21 Aug 2026 05:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sudan’s displacement crisis deepens as violence escalates</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss</guid>
+      <description>[Housing &amp; Gentrification] Keyword: displacement — Sudan’s displacement crisis deepens as violence escalates</description>
+      <category>Housing &amp; Gentrification</category>
+      <pubDate>Fri, 21 Aug 2026 08:41:13 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 2500 GOLIAD RD (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137234</link>
@@ -792,38 +824,6 @@ The post What DeFlock? Week of Action Confronts the AI Surveillance State appear
       <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1129366 | SOUTH Division | 8/19/2026 2:07:10 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/19/2026 2:07:10 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 2300 NW MILITARY HWY (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1129376</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1129376</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1129376 | NORTH Division | 8/19/2026 2:09:40 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/19/2026 2:09:40 PM</pubDate>
-    </item>
-    <item>
-      <title>US Army Corps Pushes Michigan Pipeline Project Ahead Over Indigenous Opposition</title>
-      <link>https://truthout.org/articles/us-army-corps-pushes-michigan-pipeline-project-ahead-over-indigenous-opposition/</link>
-      <guid>https://truthout.org/articles/us-army-corps-pushes-michigan-pipeline-project-ahead-over-indigenous-opposition/</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: treaty rights — The project, which tribes say violates treaty rights, has been the subject of heated controversy and legal battles.</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Wed, 19 Aug 2026 18:50:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI screens 100,000+ membrane combinations, predicting carbon capture performance within seconds</title>
-      <link>https://phys.org/news/2026-08-ai-screens-membrane-combinations-carbon.html</link>
-      <guid>https://phys.org/news/2026-08-ai-screens-membrane-combinations-carbon.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Reducing carbon dioxide emissions from industrial processes and energy production remains one of the major technological challenges in addressing climate change. Membrane-based gas separation offers an energy-efficient alternative to conventional separation technologies, but identifying membranes that allow gases to pass through rapidly while also separating them effectively has long presented a major materials-design challenge.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 19 Aug 2026 15:20:04 EDT</pubDate>
-    </item>
-    <item>
-      <title>Alamo Colleges District eyes higher tax rate amid enrollment growth, budget pressures</title>
-      <link>https://sanantonioreport.org/alamo-colleges-district-higher-property-tax-rate-increase-san-antonio/</link>
-      <guid>https://sanantonioreport.org/alamo-colleges-district-higher-property-tax-rate-increase-san-antonio/</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — District officials proposed a tax rate increase that is slightly higher than previously expected as they get a clearer picture of the 2027 budget. Alamo Colleges District eyes higher tax rate amid enrollment growth, budget pressures was first posted on August 19, 2026 at 1:52 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please cont</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Wed, 19 Aug 2026 18:52:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
