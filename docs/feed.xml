@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 05:22:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:31:49 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 1800 GOLIAD RD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1142405</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1142405</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1142405 | EAST Division | 8/22/2026 1:18:16 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/22/2026 1:18:16 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 1700 W THOMPSON PLACE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1142411</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1142411</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1142411 | SOUTH Division | 8/22/2026 1:20:25 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/22/2026 1:20:25 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 500 S CALAVERAS (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1141920</link>
@@ -798,22 +814,6 @@ The post $50B Rural Health Transformation Program Needs More Transparency, Group
       <description>[ALPR &amp; Flock Cameras] Keyword: Flock Safety — Despite policy victories over Flock, Americans are finding themselves under similar monitoring by a new company – or unable to remove the original camerasActivists in Colorado thought they would be celebrating a victory against mass surveillance in December when the Longmont city council decided to let a contract with Flock Safety lapse.But that excitement was cut short only months later when lawmakers voted to approve a new vendor to install automated license plate readers (ALPRs) on the city’s</description>
       <category>ALPR &amp; Flock Cameras</category>
       <pubDate>Thu, 20 Aug 2026 13:00:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Interstellar travel IV: Solar, magnetic, &amp; directed-energy sails</title>
-      <link>https://phys.org/news/2026-08-interstellar-iv-solar-magnetic-energy.html</link>
-      <guid>https://phys.org/news/2026-08-interstellar-iv-solar-magnetic-energy.html</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — Welcome back to our series on interstellar travel! In our first installment, we examined attempts to realize nuclear propulsion and how the technology could be used to reach the nearest star. In our second, we examined how fusion power has also been considered a means of propelling spacecraft to relativistic speeds (a fraction of the speed of light). In both cases, these proposals paralleled Cold War developments in rocketry and nuclear armaments, as they did for most space age advancements.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Thu, 20 Aug 2026 10:20:09 EDT</pubDate>
-    </item>
-    <item>
-      <title>Ransomware crook poses as recovery firm to steal payments from fellow extortionists</title>
-      <link>https://www.theregister.com/cyber-crime/2026/08/20/ransomware-crook-poses-as-recovery-firm-to-steal-payments-from-fellow-extortionists/5290344</link>
-      <guid>https://www.theregister.com/cyber-crime/2026/08/20/ransomware-crook-poses-as-recovery-firm-to-steal-payments-from-fellow-extortionists/5290344</guid>
-      <description>[Cybersecurity] Keyword: ransomware — Because apparently even ransomware gangs can't trust the people they do business with</description>
-      <category>Cybersecurity</category>
-      <pubDate>Thu, 20 Aug 2026 16:27:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
