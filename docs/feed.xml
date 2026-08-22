@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 17:16:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 18:22:01 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 4900 NW LOOP 410 (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1144179</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1144179</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1144179 | PRUE Division | 8/22/2026 1:01:44 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/22/2026 1:01:44 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 2400 W GRAMERCY PLACE (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143988</link>
@@ -806,14 +814,6 @@ The post $50B Rural Health Transformation Program Needs More Transparency, Group
       <description>[ALPR &amp; Flock Cameras] Keyword: Flock camera — In dozens of states around the country, people are vandalizing, blocking and taking down Flock cameras. The surge in this type of activity underscores the growing resistance to this police surveillance technology.</description>
       <category>ALPR &amp; Flock Cameras</category>
       <pubDate>Fri, 21 Aug 2026 05:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Sudan’s displacement crisis deepens as violence escalates</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss</guid>
-      <description>[Housing &amp; Gentrification] Keyword: displacement — Sudan’s displacement crisis deepens as violence escalates</description>
-      <category>Housing &amp; Gentrification</category>
-      <pubDate>Fri, 21 Aug 2026 08:41:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
