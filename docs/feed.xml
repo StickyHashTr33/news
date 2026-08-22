@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 02:15:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 03:38:07 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 3300 MEADOW DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1141701</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1141701</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1141701 | WEST Division | 8/21/2026 10:26:09 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/21/2026 10:26:09 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 300 SANDALWOOD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1141708</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1141708</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1141708 | NORTH Division | 8/21/2026 10:28:07 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/21/2026 10:28:07 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle In Progress — 2400 PALO ALTO RD (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1141372</link>
@@ -798,22 +814,6 @@ The post $50B Rural Health Transformation Program Needs More Transparency, Group
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1132964 | NORTH Division | 8/20/2026 8:31:33 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/20/2026 8:31:33 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 1300 FAIR AVE (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132965</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132965</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1132965 | EAST Division | 8/20/2026 8:31:40 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/20/2026 8:31:40 AM</pubDate>
-    </item>
-    <item>
-      <title>Ocean time travelers return with secrets of the Great Barrier Reef</title>
-      <link>https://phys.org/news/2026-08-ocean-secrets-great-barrier-reef.html</link>
-      <guid>https://phys.org/news/2026-08-ocean-secrets-great-barrier-reef.html</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — A team of Australian researchers has woven together modern science and Indigenous knowledge to reveal new insights into the evolution, history and future of the southern Great Barrier Reef. The 24-day voyage, led by The University of Queensland, returned to Brisbane today aboard research vessel (RV) Investigator, operated by CSIRO, Australia's national science agency.</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Thu, 20 Aug 2026 09:20:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
