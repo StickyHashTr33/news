@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 16:18:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 17:16:51 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 2400 W GRAMERCY PLACE (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143988</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143988</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1143988 | WEST Division | 8/22/2026 11:58:38 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/22/2026 11:58:38 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 500 MADISON OAK DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1144003</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1144003</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1144003 | NORTH Division | 8/22/2026 12:02:41 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/22/2026 12:02:41 PM</pubDate>
+    </item>
+    <item>
+      <title>Heat wave-hit Europe logs over 30,000 excess summer deaths: First figures</title>
+      <link>https://phys.org/news/2026-08-europe-excess-summer-deaths-figures.html</link>
+      <guid>https://phys.org/news/2026-08-europe-excess-summer-deaths-figures.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Europe saw at least 30,000 excess deaths across a blistering summer of back-to-back heat waves and drought that scientists have blamed on man-made climate change, according to provisional figures.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sat, 22 Aug 2026 12:20:03 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 4400 W COMMERCE ST (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143757</link>
@@ -790,30 +814,6 @@ The post $50B Rural Health Transformation Program Needs More Transparency, Group
       <description>[Housing &amp; Gentrification] Keyword: displacement — Sudan’s displacement crisis deepens as violence escalates</description>
       <category>Housing &amp; Gentrification</category>
       <pubDate>Fri, 21 Aug 2026 08:41:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 2500 GOLIAD RD (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137234</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137234</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1137234 | SOUTH Division | 8/21/2026 2:05:47 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/21/2026 2:05:47 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 12700 NW MILITARY HWY (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137270</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137270</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1137270 | PRUE Division | 8/21/2026 2:19:14 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/21/2026 2:19:14 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 100 COX (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137280</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137280</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1137280 | SOUTH Division | 8/21/2026 2:28:01 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/21/2026 2:28:01 AM</pubDate>
     </item>
   </channel>
 </rss>
