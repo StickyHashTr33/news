@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 10:18:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 11:16:50 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 1000 HOLMGREEN RD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1142939</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1142939</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1142939 | EAST Division | 8/22/2026 5:30:06 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/22/2026 5:30:06 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 7400 US HWY 90 W (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1142953</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1142953</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1142953 | SOUTH Division | 8/22/2026 5:45:23 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/22/2026 5:45:23 AM</pubDate>
+    </item>
+    <item>
+      <title>China mulls bid to host 2028 UN climate talks: sources</title>
+      <link>https://hongkongfp.com/2026/08/22/china-mulls-bid-to-host-2028-un-climate-talks-sources/</link>
+      <guid>https://hongkongfp.com/2026/08/22/china-mulls-bid-to-host-2028-un-climate-talks-sources/</guid>
+      <description>[Climate &amp; Environment] Keyword: global warming — China is mulling a bid to host UN climate talks in 2028, two sources familiar with the matter told AFP Friday, as it seeks to burnish its reputation as a leader in the fight against global warming. Beijing has not yet made a final decision regarding the proposal for the COP33 summit, both sources said, nor [&amp;#8230;]</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sat, 22 Aug 2026 10:47:58 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 11500 WEST AVE (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1142894</link>
@@ -790,30 +814,6 @@ The post $50B Rural Health Transformation Program Needs More Transparency, Group
       <description>[Climate &amp; Environment] Keyword: climate change — As nations race to restore ecosystems and curb climate change, research has shown that letting nature do the work is a cost-effective, viable solution. A study from the University of Queensland and the University of Newcastle found that natural forest regeneration delivered substantial carbon and biodiversity benefits and could be up to 96% cheaper than traditional tree-planting programs. The work is published in the journal Nature Ecology &amp;amp; Evolution.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Thu, 20 Aug 2026 17:40:03 EDT</pubDate>
-    </item>
-    <item>
-      <title>What’s on the November midterm ballot in Bexar County?</title>
-      <link>https://sanantonioreport.org/november-midterm-ballot-bexar-county-voter-guide/</link>
-      <guid>https://sanantonioreport.org/november-midterm-ballot-bexar-county-voter-guide/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Aside from a buzzy U.S. Senate race, voters will be asked about school funding, free Pre-K and appraisal district leaders this November.What&amp;#8217;s on the November midterm ballot in Bexar County? was first posted on August 20, 2026 at 4:54 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Thu, 20 Aug 2026 21:54:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Bank investigates LockBit's claims as ransomware crims set pay-or-leak deadline</title>
-      <link>https://www.theregister.com/security/2026/08/20/us-bank-investigates-lockbits-claims-as-ransomware-crims-set-pay-or-leak-deadline/5290560</link>
-      <guid>https://www.theregister.com/security/2026/08/20/us-bank-investigates-lockbits-claims-as-ransomware-crims-set-pay-or-leak-deadline/5290560</guid>
-      <description>[Cybersecurity] Keyword: ransomware — Follow the money</description>
-      <category>Cybersecurity</category>
-      <pubDate>Thu, 20 Aug 2026 19:30:39 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 5800 HISTORIC OLD HWY 90 (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1134502</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1134502</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1134502 | WEST Division | 8/20/2026 2:11:48 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/20/2026 2:11:48 PM</pubDate>
     </item>
   </channel>
 </rss>
