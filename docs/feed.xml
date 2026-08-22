@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 03:38:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 04:27:37 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 500 S CALAVERAS (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1141920</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1141920</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1141920 | CENTRAL Division | 8/21/2026 11:09:07 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/21/2026 11:09:07 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 9000 LUZITA LN (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1141925</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1141925</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1141925 | PRUE Division | 8/21/2026 11:09:48 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/21/2026 11:09:48 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 3300 MEADOW DR (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1141701</link>
@@ -798,22 +814,6 @@ The post $50B Rural Health Transformation Program Needs More Transparency, Group
       <description>[Cybersecurity] Keyword: ransomware — Because apparently even ransomware gangs can't trust the people they do business with</description>
       <category>Cybersecurity</category>
       <pubDate>Thu, 20 Aug 2026 16:27:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 1500 MISSION RD (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132955</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132955</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1132955 | SOUTH Division | 8/20/2026 8:30:16 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/20/2026 8:30:16 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 2800 SIR PHILLIP (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132964</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1132964</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1132964 | NORTH Division | 8/20/2026 8:31:33 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/20/2026 8:31:33 AM</pubDate>
     </item>
   </channel>
 </rss>
