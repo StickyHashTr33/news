@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 18:22:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 19:19:55 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 500 FENFIELD AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1144394</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1144394</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1144394 | SOUTH Division | 8/22/2026 2:04:02 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/22/2026 2:04:02 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 5800 BABCOCK RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1144395</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1144395</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1144395 | PRUE Division | 8/22/2026 2:04:21 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/22/2026 2:04:21 PM</pubDate>
+    </item>
+    <item>
+      <title>Mental health issues, chronic disease increasing in San Antonio homeless population, data suggests</title>
+      <link>https://sanantonioreport.org/mental-health-chronic-disease-san-antonio-homeless-population-data/</link>
+      <guid>https://sanantonioreport.org/mental-health-chronic-disease-san-antonio-homeless-population-data/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Mental and physical health issues are present in a greater share of Bexar County's homeless population compared to three years ago.Mental health issues, chronic disease increasing in San Antonio homeless population, data suggests was first posted on August 22, 2026 at 2:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sat, 22 Aug 2026 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 4900 NW LOOP 410 (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1144179</link>
@@ -790,30 +814,6 @@ a new license to the OSI for approval.  It is called the Op</description>
 The post $50B Rural Health Transformation Program Needs More Transparency, Groups Say appeared first on The Daily Yonder.</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Fri, 21 Aug 2026 09:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 1300 MCCULLOUGH AVE (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137410</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137410</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1137410 | DOWNTOWN Division | 8/21/2026 3:47:20 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/21/2026 3:47:20 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 3900 ELDRIDGE AVE (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137423</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137423</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1137423 | WEST Division | 8/21/2026 3:58:33 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/21/2026 3:58:33 AM</pubDate>
-    </item>
-    <item>
-      <title>Amid intense backlash, people are vandalizing Flock surveillance cameras</title>
-      <link>https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize</link>
-      <guid>https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize</guid>
-      <description>[ALPR &amp; Flock Cameras] Keyword: Flock camera — In dozens of states around the country, people are vandalizing, blocking and taking down Flock cameras. The surge in this type of activity underscores the growing resistance to this police surveillance technology.</description>
-      <category>ALPR &amp; Flock Cameras</category>
-      <pubDate>Fri, 21 Aug 2026 05:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
