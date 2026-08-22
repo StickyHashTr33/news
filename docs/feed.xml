@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 14:16:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 15:15:45 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 8600 MARBACH RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143514</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143514</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1143514 | WEST Division | 8/22/2026 9:56:43 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/22/2026 9:56:43 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5100 VANTAGE WAY (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143515</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143515</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1143515 | PRUE Division | 8/22/2026 9:56:44 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/22/2026 9:56:44 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 800 CANTON ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143518</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143518</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1143518 | EAST Division | 8/22/2026 9:57:36 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/22/2026 9:57:36 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 9200 GILLCROSS WAY (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143313</link>
@@ -790,30 +814,6 @@ The post $50B Rural Health Transformation Program Needs More Transparency, Group
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1137096 | CENTRAL Division | 8/21/2026 1:11:21 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/21/2026 1:11:21 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 3600 CALLAGHAN RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1136928</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1136928</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1136928 | WEST Division | 8/21/2026 12:12:02 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/21/2026 12:12:02 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 1400 PATRICIA DR (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1136949</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1136949</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1136949 | NORTH Division | 8/21/2026 12:16:10 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/21/2026 12:16:10 AM</pubDate>
-    </item>
-    <item>
-      <title>Rewilded land remains green amid drought-stricken English countryside, images show</title>
-      <link>https://www.theguardian.com/environment/2026/aug/21/somerset-rewilding-holnicote-estate-wetlands-rivers-resilience</link>
-      <guid>https://www.theguardian.com/environment/2026/aug/21/somerset-rewilding-holnicote-estate-wetlands-rivers-resilience</guid>
-      <description>[Ecology &amp; Conservation] Keyword: rewilding — National Trust’s Holnicote estate says restored wetlands and rivers offer proof of resilience to drought, wildfires and floodingAerial footage of an estate in Somerset has revealed the benefits of rewilding land in the face of extreme weather brought about by the climate crisis.The area of the National Trust’s Holnicote estate where rivers have been returned to their natural courses and wetlands have been restored have remained green and lush during the five heatwaves across the summer. In contr</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Fri, 21 Aug 2026 05:00:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
