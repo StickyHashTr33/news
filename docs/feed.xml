@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 13:28:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 14:19:02 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 1700 N LOOP 1604 E (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147990</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147990</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1147990 | NORTH Division | 8/23/2026 9:04:27 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/23/2026 9:04:27 AM</pubDate>
+    </item>
+    <item>
+      <title>Hemp industry files new lawsuit over Texas THC ban claiming job losses, medical marijuana monopoly</title>
+      <link>https://sanantonioreport.org/hemp-industry-lawsuit-texas-thc-ban-medical-marijuana/</link>
+      <guid>https://sanantonioreport.org/hemp-industry-lawsuit-texas-thc-ban-medical-marijuana/</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: hemp industry — Several members of the hemp industry are filing an additional lawsuit against the state of Texas alleging the ban on nearly all hemp-derived THC products has led to massive job loss and has created a monopoly for the state’s medical marijuana program.Hemp industry files new lawsuit over Texas THC ban claiming job losses, medical marijuana monopoly was first posted on August 23, 2026 at 9:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Sun, 23 Aug 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 100 WOODSIDE DR (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147877</link>
@@ -790,22 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1140358 | CENTRAL Division | 8/21/2026 5:06:20 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/21/2026 5:06:20 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 8100 EAGLE PEAK (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1140372</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1140372</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1140372 | PRUE Division | 8/21/2026 5:09:23 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/21/2026 5:09:23 PM</pubDate>
-    </item>
-    <item>
-      <title>How to think about this summer's slate of food safety recalls</title>
-      <link>https://www.npr.org/2026/08/21/nx-s1-5940779/how-to-think-about-this-summers-slate-of-food-safety-recalls</link>
-      <guid>https://www.npr.org/2026/08/21/nx-s1-5940779/how-to-think-about-this-summers-slate-of-food-safety-recalls</guid>
-      <description>[Science &amp; Research] Keyword: microbiology — NPR's David Folkenflik talks with Don Schaffner, a food microbiology specialist and distinguished professor at Rutgers University, about this summer's foodborne illnesses and recalls.</description>
-      <category>Science &amp; Research</category>
-      <pubDate>Fri, 21 Aug 2026 17:33:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
