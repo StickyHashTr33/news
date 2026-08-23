@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 15:17:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 16:19:17 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Shooting — 3500 ROGER BROOKE DR (SAPD OUTSIDE AREA)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1148321</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1148321</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-1148321 | SAPD OUTSIDE AREA Division | 8/23/2026 11:08:43 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/23/2026 11:08:43 AM</pubDate>
+    </item>
+    <item>
+      <title>These local high schoolers spent the summer flying drones for public health on the city’s Southwest Side</title>
+      <link>https://sanantonioreport.org/swisd-high-school-drone-internship-summer-chest/</link>
+      <guid>https://sanantonioreport.org/swisd-high-school-drone-internship-summer-chest/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — How licensed drone pilots (who are also SWISD high schoolers) flew drones to capture 3D imaging of walkability and accessibility.These local high schoolers spent the summer flying drones for public health on the city&amp;#8217;s Southwest Side was first posted on August 23, 2026 at 11:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Ple</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sun, 23 Aug 2026 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 3500 W COMMERCE ST (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1148130</link>
@@ -790,22 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1142411 | SOUTH Division | 8/22/2026 1:20:25 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/22/2026 1:20:25 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 500 S CALAVERAS (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1141920</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1141920</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1141920 | CENTRAL Division | 8/21/2026 11:09:07 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/21/2026 11:09:07 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 9000 LUZITA LN (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1141925</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1141925</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1141925 | PRUE Division | 8/21/2026 11:09:48 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/21/2026 11:09:48 PM</pubDate>
     </item>
   </channel>
 </rss>
