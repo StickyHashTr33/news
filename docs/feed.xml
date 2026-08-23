@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 06:33:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:29:29 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 2600 IH 35 N (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147139</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147139</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1147139 | EAST Division | 8/23/2026 2:16:37 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/23/2026 2:16:37 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — BROOKLYN AVE / BROADWAY (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147146</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147146</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1147146 | DOWNTOWN Division | 8/23/2026 2:18:18 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/23/2026 2:18:18 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 800 N ALAMO ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147148</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147148</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1147148 | DOWNTOWN Division | 8/23/2026 2:18:57 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/23/2026 2:18:57 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 7300 FAIRLAWN DR (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1146937</link>
@@ -782,30 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1139278 | EAST Division | 8/21/2026 1:18:53 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/21/2026 1:18:53 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 600 IOWA ST (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1139284</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1139284</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1139284 | EAST Division | 8/21/2026 1:19:59 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/21/2026 1:19:59 PM</pubDate>
-    </item>
-    <item>
-      <title>'Extraordinary' and 'unhinged': Natalie Harp’s first Trump video revealed</title>
-      <link>https://www.alternet.org/natalie-harp-trump-2677756370/</link>
-      <guid>https://www.alternet.org/natalie-harp-trump-2677756370/</guid>
-      <description>[ALPR &amp; Flock Cameras] Keyword: ALPR — Amidst growing controversy surrounding President Donald Trump’s senior aide Natalie Harp, the Daily Beast reports that an “extraordinary” and “unhinged” video has been unearthed that raises new questions about her mental state and relationship to her octogenarian boss. “The social media clip, recorded nine years ago, shows Harp, who was in her mid-20s at the time, claiming that she was the sole survivor of serious medical malpractice thanks to Trump,” reports the Daily Beast. Harp later repeated</description>
-      <category>ALPR &amp; Flock Cameras</category>
-      <pubDate>Fri, 21 Aug 2026 17:40:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 13000 JONES MALTSBERGER RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1139013</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1139013</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1139013 | NORTH Division | 8/21/2026 12:11:23 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/21/2026 12:11:23 PM</pubDate>
     </item>
   </channel>
 </rss>
