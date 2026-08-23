@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 10:19:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 11:17:03 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 20500 WILD SPRINGS DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147646</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147646</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1147646 | NORTH Division | 8/23/2026 5:50:05 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/23/2026 5:50:05 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 2800 WOODLINE DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147657</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147657</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1147657 | WEST Division | 8/23/2026 5:59:58 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/23/2026 5:59:58 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — NORTH HOLW / ECKHERT RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147551</link>
@@ -790,22 +806,6 @@
       <description>[ALPR &amp; Flock Cameras] Keyword: Flock Safety — Flock Safety is having a hard month. The surveillance technology company, which has sold more than 120,000 automated license plate reader cameras to some 6,000 police departments across the US, is up to its neck in cancelled contracts—at least 34 since the start of 2026—and public backlash. Dozens of police officers have lost their jobs [&amp;#8230;]</description>
       <category>ALPR &amp; Flock Cameras</category>
       <pubDate>Fri, 21 Aug 2026 21:33:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ceviche celebration at Mezquite to feature tastings from the sea</title>
-      <link>https://sanantonioreport.org/ceviche-celebration-mezquite-pearl-tastings-from-the-sea/</link>
-      <guid>https://sanantonioreport.org/ceviche-celebration-mezquite-pearl-tastings-from-the-sea/</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — Pullman Market is holding a chef-driven event on Sunday called Mariscos y Mezquite, that features harvested seafood and stories behind the catch from some of the city’s finest.Ceviche celebration at Mezquite to feature tastings from the sea was first posted on August 21, 2026 at 4:30 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Ple</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Fri, 21 Aug 2026 21:30:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 3600 SE MILITARY DR (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1140030</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1140030</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1140030 | EAST Division | 8/21/2026 4:06:12 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/21/2026 4:06:12 PM</pubDate>
     </item>
   </channel>
 </rss>
