@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 23:15:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 01:02:06 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — SAN PEDRO AVE / W OLMOS DR (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1145671</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1145671</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1145671 | DOWNTOWN Division | 8/22/2026 7:44:31 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/22/2026 7:44:31 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Shooting In Progress — NE LOOP 410 / AIRPORT BLVD (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1145064</link>
@@ -805,14 +813,6 @@ a new license to the OSI for approval.  It is called the Op</description>
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1137974 | PRUE Division | 8/21/2026 8:21:38 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/21/2026 8:21:38 AM</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Friday</title>
-      <link>https://lwn.net/Articles/1089999/</link>
-      <guid>https://lwn.net/Articles/1089999/</guid>
-      <description>[Hermeticism &amp; Esoteric] Keyword: alchemy — Security updates have been issued by AlmaLinux (ansible-core and pcp), Debian (chromium, libgit2, python-httplib2, and sabnzbdplus), Fedora (dokuwiki, domoticz, dotnet10.0, dotnet8.0, dotnet9.0, firefox, i2c-display, libgit2, lyx, ntpsec, openssh, perl-DBI, php-phpseclib3, python-alembic, python-asyncmy, python-sqlalchemy, python3.13, roundcubemail, trafficserver, wireshark, and wordpress), Red Hat (compat-openssl10, compat-openssl11, fence-agents, gnutls, kernel, kernel-rt, libarchive, libreswa</description>
-      <category>Hermeticism &amp; Esoteric</category>
-      <pubDate>Fri, 21 Aug 2026 13:17:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
