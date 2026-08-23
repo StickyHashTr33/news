@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 02:58:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 03:51:42 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 1300 MISSION GRANDE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1146279</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1146279</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1146279 | SOUTH Division | 8/22/2026 10:32:41 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/22/2026 10:32:41 PM</pubDate>
+    </item>
     <item>
       <title>Australia news live: Sydney Marathon admits ‘unfortunate error’ as finisher’s medal depicts Munich stadium as highlight of course</title>
       <link>https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb</link>
@@ -798,21 +806,6 @@
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A Republican in Texas is being questioned about his brag that he's a millionaire. In an era where the affordability crisis has reached the top issue voters care about most, online influencer Brandon Herrera has spent his campaign bragging about his riches. The problem, according to The San Antonio Express News, is that the Republican hasn't got anything to back that up.The salary of the U.S. House members comes out to about $174,000 and Herrera complained that it would be &quot;a 90+ percent pay cut&quot;</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Fri, 21 Aug 2026 14:24:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[$] Considering the OpenMDW license</title>
-      <link>https://lwn.net/Articles/1089251/</link>
-      <guid>https://lwn.net/Articles/1089251/</guid>
-      <description>[AI &amp; Automation] Keyword: large language model — The open-source world has been struggling for a few years now to understand
-how to approach large language models (LLMs) and the licensing applied to
-them.  What constitutes &quot;freedom&quot; with respect to a black box filled with
-numerical weights?  The process taken by the Open Source Initiative (OSI)
-in the development of its Open AI
-Definition was controversial at best, as was its output.  Now, the
-Linux Foundation's Mike Dolan has brought
-a new license to the OSI for approval.  It is called the Op</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Fri, 21 Aug 2026 13:42:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
