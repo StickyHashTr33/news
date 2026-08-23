@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 18:21:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 19:19:55 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 700 W MAYFIELD BLVD (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1148892</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1148892</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1148892 | SOUTH Division | 8/23/2026 2:08:02 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/23/2026 2:08:02 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Shooting In Progress — 300 W PALFREY AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1148894</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1148894</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1148894 | SOUTH Division | 8/23/2026 2:08:07 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/23/2026 2:08:07 PM</pubDate>
+    </item>
+    <item>
+      <title>‘Jazz, TX’: A memoir about the birth and rise of the state’s premier jazz club</title>
+      <link>https://sanantonioreport.org/jazz-tx-a-memoir-about-the-birth-and-rise-of-the-states-premier-jazz-club/</link>
+      <guid>https://sanantonioreport.org/jazz-tx-a-memoir-about-the-birth-and-rise-of-the-states-premier-jazz-club/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Ten years after opening Jazz, TX, founder Brent &quot;Doc&quot; Watkins has published a memoir to mark the anniversary.‘Jazz, TX’: A memoir about the birth and rise of the state’s premier jazz club was first posted on August 23, 2026 at 2:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sun, 23 Aug 2026 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person - Endangered — 5800 SUN RDG (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1148448</link>
@@ -782,30 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1142701 | PRUE Division | 8/22/2026 3:04:34 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/22/2026 3:04:34 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 5400 EVERS RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1142704</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1142704</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1142704 | PRUE Division | 8/22/2026 3:05:42 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 3:05:42 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 5800 S FLORES ST (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1142510</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1142510</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1142510 | SOUTH Division | 8/22/2026 1:53:54 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 1:53:54 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 8600 BRISTLECONE DR (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1142523</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1142523</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1142523 | PRUE Division | 8/22/2026 2:00:48 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 2:00:48 AM</pubDate>
     </item>
   </channel>
 </rss>
