@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 12:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 13:28:26 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 100 WOODSIDE DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147877</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147877</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1147877 | WEST Division | 8/23/2026 8:03:56 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/23/2026 8:03:56 AM</pubDate>
+    </item>
+    <item>
+      <title>Zelensky should be asked what he knew about government corruption, sacked minister tells BBC</title>
+      <link>https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[Government Accountability] Keyword: government corruption — Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.</description>
+      <category>Government Accountability</category>
+      <pubDate>Sun, 23 Aug 2026 12:56:43 GMT</pubDate>
+    </item>
     <item>
       <title>Double jeopardy? Luigi Mangione state case unlikely to proceed, experts say</title>
       <link>https://www.theguardian.com/us-news/2026/aug/23/luigi-mangione-state-case-brian-thompson</link>
@@ -790,22 +806,6 @@
       <description>[Science &amp; Research] Keyword: microbiology — NPR's David Folkenflik talks with Don Schaffner, a food microbiology specialist and distinguished professor at Rutgers University, about this summer's foodborne illnesses and recalls.</description>
       <category>Science &amp; Research</category>
       <pubDate>Fri, 21 Aug 2026 17:33:41 -0400</pubDate>
-    </item>
-    <item>
-      <title>Climate change could triple the price of wheat</title>
-      <link>https://phys.org/news/2026-08-climate-triple-price-wheat.html</link>
-      <guid>https://phys.org/news/2026-08-climate-triple-price-wheat.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Bread, pasta and breakfast cereals may seem far removed from dry fields in North America, Europe or Asia. Yet when water shortages hit several of the world's most important wheat-growing regions simultaneously, the consequences can be felt all the way to supermarket shelves and bakery aisles.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Fri, 21 Aug 2026 17:20:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>‘Darth Vader’ comes out in favor of Flock cameras at San Diego city council meeting</title>
-      <link>https://www.theguardian.com/us-news/2026/aug/21/darth-vader-flock-cameras-san-diego</link>
-      <guid>https://www.theguardian.com/us-news/2026/aug/21/darth-vader-flock-cameras-san-diego</guid>
-      <description>[ALPR &amp; Flock Cameras] Keyword: Flock Safety — The dark lord – or someone dressed like him – said the technology would aid the empire in tracking ‘rebel scum’A man dressed as Darth Vader appeared to poke fun at San Diego officials for using Flock Safety automated license plate readers at a city council meeting this week, a stunt that comes as the company faces growing backlash linked to spying concerns.The man, whose real identity remains unknown, masqueraded on Thursday as the Star Wars villain at a San Diego public safety committee meeting</description>
-      <category>ALPR &amp; Flock Cameras</category>
-      <pubDate>Fri, 21 Aug 2026 21:58:56 GMT</pubDate>
     </item>
   </channel>
 </rss>
