@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 01:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 02:58:32 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Australia news live: Sydney Marathon admits ‘unfortunate error’ as finisher’s medal depicts Munich stadium as highlight of course</title>
+      <link>https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb</link>
+      <guid>https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Follow liveVictorian Labor expands on free dental care election promiseThe Victorian premier, Ben Carroll, and health minister, Ingrid Stitt, have held a press conference this morning off the back of their announcement yesterday that the Labor government would open 10 free public dental clinics if re-elected in November.You can’t use a Medicare card for dental unless you’ve got a healthcare card or you are a category of a particular citizen, it is very difficult … I’ve been visiting a lot of den</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Sun, 23 Aug 2026 02:38:46 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — SAN PEDRO AVE / W OLMOS DR (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1145671</link>
@@ -805,14 +813,6 @@ Linux Foundation's Mike Dolan has brought
 a new license to the OSI for approval.  It is called the Op</description>
       <category>AI &amp; Automation</category>
       <pubDate>Fri, 21 Aug 2026 13:42:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 9200 GRISSOM RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137974</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1137974</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1137974 | PRUE Division | 8/21/2026 8:21:38 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/21/2026 8:21:38 AM</pubDate>
     </item>
   </channel>
 </rss>
