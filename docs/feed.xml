@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 07:54:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:42:20 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 9500 KENTON HILL (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151252</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151252</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1151252 | PRUE Division | 8/24/2026 3:00:42 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/24/2026 3:00:42 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle In Progress — 7200 LAMB RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151304</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151304</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1151304 | PRUE Division | 8/24/2026 3:26:09 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/24/2026 3:26:09 AM</pubDate>
+    </item>
+    <item>
+      <title>Iran's medicine crisis prices patients out of treatment</title>
+      <link>https://www.dw.com/en/iran-s-medicine-crisis-prices-patients-out-of-treatment/a-78455430?maca=en-rss-en-all-1573-rdf</link>
+      <guid>https://www.dw.com/en/iran-s-medicine-crisis-prices-patients-out-of-treatment/a-78455430?maca=en-rss-en-all-1573-rdf</guid>
+      <description>[Labor &amp; Worker Rights] Keyword: minimum wage — A single chemotherapy session in Iran can cost six times the monthly minimum wage. As drug prices soar and medicine is in short supply, doctors say more patients are delaying or abandoning treatment.</description>
+      <category>Labor &amp; Worker Rights</category>
+      <pubDate>2026-08-24T08:13:00Z</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 19300 US HWY 281 N (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151203</link>
@@ -782,30 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1143515 | PRUE Division | 8/22/2026 9:56:44 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/22/2026 9:56:44 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — 800 CANTON ST (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143518</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143518</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1143518 | EAST Division | 8/22/2026 9:57:36 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 9:57:36 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 9200 GILLCROSS WAY (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143313</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143313</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1143313 | PRUE Division | 8/22/2026 8:56:40 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 8:56:40 AM</pubDate>
-    </item>
-    <item>
-      <title>Archaeologists discover mysterious 400-year-old Indigenous pot in Florida</title>
-      <link>https://www.sciencedaily.com/releases/2026/08/260820202902.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/08/260820202902.htm</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — A tiny, fully intact Indigenous pot buried for roughly 400 years has left archaeologists wondering why such a usable object was deliberately abandoned. Found at a historic Potano-Timucua village in Florida, the mysterious vessel is helping reveal a complex world of Native traditions, Spanish influence, trade, and migration.</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Fri, 21 Aug 2026 22:58:44 EDT</pubDate>
     </item>
   </channel>
 </rss>
