@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 20:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 21:24:34 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 600 EMMETT AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1153748</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1153748</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1153748 | SOUTH Division | 8/24/2026 4:10:00 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/24/2026 4:10:00 PM</pubDate>
+    </item>
+    <item>
+      <title>How atmospheric dryness limits increases in typhoon rainfall</title>
+      <link>https://phys.org/news/2026-08-atmospheric-dryness-limits-typhoon-rainfall.html</link>
+      <guid>https://phys.org/news/2026-08-atmospheric-dryness-limits-typhoon-rainfall.html</guid>
+      <description>[Climate &amp; Environment] Keyword: global warming — Under global warming, scientists have widely expected tropical cyclones (including typhoons and hurricanes) to bring more intense and frequent rainfall. The underlying physics seems intuitive: Rising temperatures allow the atmosphere to hold more moisture, which, combined with intensifying storms, should theoretically trigger more destructive downpours. However, when researchers analyze climate model projections, they encounter a puzzling phenomenon.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 24 Aug 2026 17:10:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 17800 LA CANTERA TERRACE (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1153469</link>
@@ -796,22 +812,6 @@ The post Commentary: As Farm Bill Stalls, New Legislation Emerges Tackling Unfai
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1147146 | DOWNTOWN Division | 8/23/2026 2:18:18 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/23/2026 2:18:18 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 800 N ALAMO ST (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147148</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147148</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1147148 | DOWNTOWN Division | 8/23/2026 2:18:57 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/23/2026 2:18:57 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 7300 FAIRLAWN DR (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1146937</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1146937</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1146937 | EAST Division | 8/23/2026 1:14:48 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/23/2026 1:14:48 AM</pubDate>
     </item>
   </channel>
 </rss>
