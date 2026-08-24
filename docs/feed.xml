@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 08:42:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 09:41:58 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 700 MCCULLOUGH AVE (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151370</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151370</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1151370 | DOWNTOWN Division | 8/24/2026 4:10:55 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/24/2026 4:10:55 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 4500 LOS RANCHITOS (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151385</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151385</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1151385 | NORTH Division | 8/24/2026 4:24:44 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/24/2026 4:24:44 AM</pubDate>
+    </item>
+    <item>
+      <title>Spiraling health costs force Iranians to delay care</title>
+      <link>https://www.dw.com/en/spiraling-health-costs-force-iranians-to-delay-care/a-78455430?maca=en-rss-en-all-1573-rdf</link>
+      <guid>https://www.dw.com/en/spiraling-health-costs-force-iranians-to-delay-care/a-78455430?maca=en-rss-en-all-1573-rdf</guid>
+      <description>[Labor &amp; Worker Rights] Keyword: minimum wage — A single chemotherapy session in Iran can cost six times the monthly minimum wage. As drug prices soar and medicine is in short supply, doctors say more patients are delaying or abandoning treatment.</description>
+      <category>Labor &amp; Worker Rights</category>
+      <pubDate>2026-08-24T08:13:00Z</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 9500 KENTON HILL (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151252</link>
@@ -782,30 +806,6 @@
       <description>[Climate &amp; Environment] Keyword: climate change — Scientists are preserving vital climate-related information amid the Trump administration’s attacks on climate science.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Sat, 22 Aug 2026 15:32:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Health insurance company made for small businesses expands its San Antonio network</title>
-      <link>https://sanantonioreport.org/health-insurance-small-business-san-antonio-network/</link>
-      <guid>https://sanantonioreport.org/health-insurance-small-business-san-antonio-network/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Texicare, a health insurance company geared toward small businesses expanded its San Antonio network with CHRISTUS Health.Health insurance company made for small businesses expands its San Antonio network was first posted on August 22, 2026 at 11:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardrepor</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Sat, 22 Aug 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 8600 MARBACH RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143514</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143514</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1143514 | WEST Division | 8/22/2026 9:56:43 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 9:56:43 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 5100 VANTAGE WAY (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143515</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143515</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1143515 | PRUE Division | 8/22/2026 9:56:44 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 9:56:44 AM</pubDate>
     </item>
   </channel>
 </rss>
