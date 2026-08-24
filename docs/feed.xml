@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 00:59:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 02:24:40 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 4700 MILITARY DR W (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1150370</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1150370</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1150370 | SOUTH Division | 8/23/2026 9:10:44 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/23/2026 9:10:44 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 400 VINE ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1150381</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1150381</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1150381 | EAST Division | 8/23/2026 9:14:22 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/23/2026 9:14:22 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 3601-3609 FOUNTAINHEAD DR (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1150101</link>
@@ -790,22 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1142894 | NORTH Division | 8/22/2026 4:53:16 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/22/2026 4:53:16 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Robbery — 9900 W LOOP 1604 N (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1142915</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1142915</guid>
-      <description>[SAPD Calls for Service] Keyword: Robbery — Incident #SAPD-2026-1142915 | PRUE Division | 8/22/2026 5:05:23 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 5:05:23 AM</pubDate>
-    </item>
-    <item>
-      <title>‘Its pretty much a guarantee you’ll get stung’: jellyfish keep swimmers out of Delaware beaches</title>
-      <link>https://www.theguardian.com/us-news/2026/aug/22/jellyfish-sting-delaware-beaches</link>
-      <guid>https://www.theguardian.com/us-news/2026/aug/22/jellyfish-sting-delaware-beaches</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Beach patrols report hundreds of stings a day as warmer waters and drought create favorable conditions for jellyfishAn unusually high number of jellyfish are crowding Delaware’s beaches this summer amid climate change and other environmental factors – keeping some beachgoers out of the ocean and stinging lifeguards as well as bathers.Beach safety patrols in the state have reported hundreds of daily stings as the jellyfish have increased with intensifying environmental factors, including warmer w</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Sat, 22 Aug 2026 10:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
