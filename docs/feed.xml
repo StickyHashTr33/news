@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 05:34:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 06:46:52 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 2100 N ELMENDORF ST (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151089</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151089</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1151089 | WEST Division | 8/24/2026 1:30:20 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/24/2026 1:30:20 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 500 GEMBLER RD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151099</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151099</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1151099 | EAST Division | 8/24/2026 1:35:27 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/24/2026 1:35:27 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 12300 VANCE JACKSON (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151102</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151102</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1151102 | PRUE Division | 8/24/2026 1:35:32 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/24/2026 1:35:32 AM</pubDate>
+    </item>
+    <item>
+      <title>Father of USS Lincoln sailor taken into ICE detention while son deployed in Middle East</title>
+      <link>https://www.theguardian.com/us-news/2026/aug/24/uss-lincoln-sailor-deployed-iran-war-father-arrested-by-ice</link>
+      <guid>https://www.theguardian.com/us-news/2026/aug/24/uss-lincoln-sailor-deployed-iran-war-father-arrested-by-ice</guid>
+      <description>[Immigration &amp; Border] Keyword: immigration detention — Joshua Aviles says he is on a nine-month Middle East deployment and learned his has father has been arrested while he was waiting for green card approvalThe father of a US sailor on board the USS Abraham Lincoln ⁠aircraft carrier deployed in the Middle East during the Iran war has been taken into federal immigration detention, the sailor ⁠said.The border ​patrol arrested Luis Manuel Aviles Roa, originally from Nicaragua, after conducting a vehicle stop in Key West, Florida, a spokesperson for th</description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>Mon, 24 Aug 2026 05:42:44 GMT</pubDate>
+    </item>
     <item>
       <title>Air conditioning push favoured over emissions cuts in five European nations, survey finds</title>
       <link>https://www.theguardian.com/environment/2026/aug/24/air-conditioning-higher-priority-than-lowering-emissions-europeans-poll</link>
@@ -774,38 +806,6 @@
       <description>[USDA &amp; Farm Grants] Keyword: farm bill — MS NOW reporter Alex Tabet says there’s a very obvious reason the state of Iowa is slipping out of Republicans’ grasp this midterm, and it has everything to do with the Trump economy.“It's chaos,” said Iowa Farmers Association President Aaron Lehman, speaking with Tabet on a Saturday morning show. “You know, we are just not on the right path at the time. When farmers are dealing with all this uncertainty, we should be doing more to help them bring stability.”“We should be passing a farm bill tha</description>
       <category>USDA &amp; Farm Grants</category>
       <pubDate>Sat, 22 Aug 2026 13:46:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 700 MCCULLOUGH AVE (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143201</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143201</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1143201 | DOWNTOWN Division | 8/22/2026 8:10:37 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 8:10:37 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 600 S ST MARY'S ST (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143208</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143208</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1143208 | DOWNTOWN Division | 8/22/2026 8:12:37 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 8:12:37 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 11800 WEST AVE (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143217</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143217</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1143217 | NORTH Division | 8/22/2026 8:16:38 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 8:16:38 AM</pubDate>
-    </item>
-    <item>
-      <title>San Antonio’s most popular malls are headed in different directions. That’s intentional.</title>
-      <link>https://sanantonioreport.org/san-antonio-popular-malls-north-star-mall-shops-at-la-cantera/</link>
-      <guid>https://sanantonioreport.org/san-antonio-popular-malls-north-star-mall-shops-at-la-cantera/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The Shops at La Cantera and North Star Mall are adding different kinds of tenants. It's part of a strategy by owners GGP.San Antonio&amp;#8217;s most popular malls are headed in different directions. That&amp;#8217;s intentional. was first posted on August 22, 2026 at 8:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at h</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Sat, 22 Aug 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
