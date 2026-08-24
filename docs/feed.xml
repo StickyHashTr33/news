@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 04:39:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 05:34:12 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Air conditioning push favoured over emissions cuts in five European nations, survey finds</title>
+      <link>https://www.theguardian.com/environment/2026/aug/24/air-conditioning-higher-priority-than-lowering-emissions-europeans-poll</link>
+      <guid>https://www.theguardian.com/environment/2026/aug/24/air-conditioning-higher-priority-than-lowering-emissions-europeans-poll</guid>
+      <description>[Climate &amp; Environment] Keyword: carbon emissions — Poll also finds sizeable majorities who believe it should be easier to install air con in homesGiven the choice, more people across five major European nations including the UK favour encouraging the adoption of air conditioning over keeping carbon emissions down, a survey has found.After four extreme heatwaves that have caused thousands of excess deaths across the continent, the survey showed between 30% and 52% of people in six countries had feared for their household’s health in temperatures </description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 24 Aug 2026 05:00:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>New daily diabetes pill that helps with weight loss launches in UK pharmacies</title>
+      <link>https://www.theguardian.com/society/2026/aug/24/daily-diabetes-pill-foundayo-weight-loss-uk-pharmacies</link>
+      <guid>https://www.theguardian.com/society/2026/aug/24/daily-diabetes-pill-foundayo-weight-loss-uk-pharmacies</guid>
+      <description>[Diabetes &amp; Kidney Disease] Keyword: GLP-1 — Foundayo will be available on private prescription, with pharmacists warning of counterfeit GLP-1 problemA new daily pill that treats diabetes and helps with weight loss will be available in UK pharmacies from Monday.Pharmacists said the move would be welcome for people who cannot use weight-loss jabs, but also issued a warning over the growing problem of fake, unlicensed or counterfeit versions of GLP-1 tablets. Continue reading...</description>
+      <category>Diabetes &amp; Kidney Disease</category>
+      <pubDate>Mon, 24 Aug 2026 05:01:52 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Shooting In Progress — 3400 E SOUTHCROSS BLVD (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1150776</link>
@@ -790,22 +806,6 @@
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The Shops at La Cantera and North Star Mall are adding different kinds of tenants. It's part of a strategy by owners GGP.San Antonio&amp;#8217;s most popular malls are headed in different directions. That&amp;#8217;s intentional. was first posted on August 22, 2026 at 8:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at h</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Sat, 22 Aug 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 400 ROBINHOOD PLACE (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143052</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143052</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1143052 | NORTH Division | 8/22/2026 6:55:13 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 6:55:13 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 2400 VANCE JACKSON RD (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143068</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143068</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1143068 | CENTRAL Division | 8/22/2026 7:03:14 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 7:03:14 AM</pubDate>
     </item>
   </channel>
 </rss>
