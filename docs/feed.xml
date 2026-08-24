@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 03:51:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 04:39:54 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Shooting In Progress — 3400 E SOUTHCROSS BLVD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1150776</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1150776</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1150776 | EAST Division | 8/23/2026 11:22:12 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/23/2026 11:22:12 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 800 N ALAMO ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1150789</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1150789</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1150789 | DOWNTOWN Division | 8/23/2026 11:25:20 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/23/2026 11:25:20 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 16500 LA CANTERA PKWY (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1150790</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1150790</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1150790 | PRUE Division | 8/23/2026 11:25:30 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/23/2026 11:25:30 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 2800 MORALES (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1150610</link>
@@ -782,30 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1143068 | CENTRAL Division | 8/22/2026 7:03:14 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/22/2026 7:03:14 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 11800 WEST AVE (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143075</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143075</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1143075 | NORTH Division | 8/22/2026 7:05:11 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 7:05:11 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 300 E HOUSTON ST (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143080</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1143080</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1143080 | DOWNTOWN Division | 8/22/2026 7:06:34 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 7:06:34 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 1000 HOLMGREEN RD (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1142939</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1142939</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1142939 | EAST Division | 8/22/2026 5:30:06 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 5:30:06 AM</pubDate>
     </item>
   </channel>
 </rss>
