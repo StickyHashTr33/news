@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 10:33:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:23:09 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Shooting In Progress — 2400 NE LOOP 410 (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151480</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151480</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1151480 | NORTH Division | 8/24/2026 6:08:19 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/24/2026 6:08:19 AM</pubDate>
+    </item>
+    <item>
+      <title>Social media goes into overdrive with Lindsay Clancy conspiracy theories</title>
+      <link>https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-social-media-conspiracy-theories</link>
+      <guid>https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-social-media-conspiracy-theories</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Algorithms are responsible for fever pitch content surrounding trial, including misinformation, experts sayAs the trial of Lindsay Clancy, the Massachusetts mother accused of killing her three children, starts to wind down, a now international discussion on social media about the case has hit a fever pitch as viewers examine details of the trial and question the state of maternal mental healthcare in the United States.Amateur sleuths and armchair psychologists have been creating content througho</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Mon, 24 Aug 2026 11:00:31 GMT</pubDate>
+    </item>
     <item>
       <title>GEF Proposes $140 Million Program to Strengthen Drought Resilience</title>
       <link>https://www.ipsnews.net/2026/08/gef-proposes-140-million-program-to-strengthen-drought-resilience/</link>
@@ -791,22 +807,6 @@ The post Commentary: As Farm Bill Stalls, New Legislation Emerges Tackling Unfai
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1143988 | WEST Division | 8/22/2026 11:58:38 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/22/2026 11:58:38 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 500 MADISON OAK DR (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1144003</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1144003</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1144003 | NORTH Division | 8/22/2026 12:02:41 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 12:02:41 PM</pubDate>
-    </item>
-    <item>
-      <title>Heat wave-hit Europe logs over 30,000 excess summer deaths: First figures</title>
-      <link>https://phys.org/news/2026-08-europe-excess-summer-deaths-figures.html</link>
-      <guid>https://phys.org/news/2026-08-europe-excess-summer-deaths-figures.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Europe saw at least 30,000 excess deaths across a blistering summer of back-to-back heat waves and drought that scientists have blamed on man-made climate change, according to provisional figures.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Sat, 22 Aug 2026 12:20:03 EDT</pubDate>
     </item>
   </channel>
 </rss>
