@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 13:46:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 14:37:07 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 8900 ARANSAS BAY (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1152070</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1152070</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1152070 | PRUE Division | 8/24/2026 9:24:39 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/24/2026 9:24:39 AM</pubDate>
+    </item>
+    <item>
+      <title>‘Staggering’: watchdog condemns police after Indigenous teenager on bus wrongfully arrested – then searched</title>
+      <link>https://www.theguardian.com/australia-news/2026/aug/25/watchdog-scathing-after-act-police-searched-indigenous-teen-even-after-they-realised-arrest-was-mistake-ntwnfb</link>
+      <guid>https://www.theguardian.com/australia-news/2026/aug/25/watchdog-scathing-after-act-police-searched-indigenous-teen-even-after-they-realised-arrest-was-mistake-ntwnfb</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Ombudsman Iain Anderson says he is concerned police ‘had no clearly understood definition of racial profiling’Get our breaking news email, free app or daily news podcastThe commonwealth and ACT ombudsman has criticised the Australian federal police for failing to clearly define “racial profiling” after police in Canberra pulled guns on an Indigenous teenager who they mistook for a suspect in an aggravated burglary.The scathing investigation, released on Tuesday, made eight recommendations to the</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Mon, 24 Aug 2026 14:01:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Climate change is unearthing archaeological discoveries, while also threatening them</title>
+      <link>https://www.npr.org/2026/08/23/nx-s1-5938809/climate-change-is-unearthing-new-archeological-discoveries-while-also-threating-them</link>
+      <guid>https://www.npr.org/2026/08/23/nx-s1-5938809/climate-change-is-unearthing-new-archeological-discoveries-while-also-threating-them</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — NPR's Danielle Kurtzleben speaks with Jørgen Hollesen, a Senior Researcher at the National Museum of Denmark, about how climate change is impacting the study of archaeology.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sun, 23 Aug 2026 17:23:05 -0400</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 100 VANDERBILT (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151847</link>
@@ -788,30 +812,6 @@ The post Commentary: As Farm Bill Stalls, New Legislation Emerges Tackling Unfai
       <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1144862 | SOUTH Division | 8/22/2026 4:02:38 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/22/2026 4:02:38 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 8600 STARCREST DR (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1144868</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1144868</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1144868 | NORTH Division | 8/22/2026 4:06:31 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 4:06:31 PM</pubDate>
-    </item>
-    <item>
-      <title>Computer models pinpoint catalysts for replacing fossil-fueled ammonia production</title>
-      <link>https://phys.org/news/2026-08-catalysts-fossil-fueled-ammonia-production.html</link>
-      <guid>https://phys.org/news/2026-08-catalysts-fossil-fueled-ammonia-production.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — Ammonia is one of the most important chemicals produced in the world, ranking second only to sulfuric acid in the total volume produced each year. It is used mostly to make fertilizer, which is essential to feeding the world's population. Yet its production accounts for up to 2% of the world's energy consumption and about 1.5% of greenhouse gas emissions, so the search has been underway for ways to produce ammonia more sustainably.</description>
-      <category>Open Source Software</category>
-      <pubDate>Sat, 22 Aug 2026 17:00:04 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 1400 W TRAVIS ST (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1144617</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1144617</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1144617 | CENTRAL Division | 8/22/2026 2:57:10 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 2:57:10 PM</pubDate>
     </item>
   </channel>
 </rss>
