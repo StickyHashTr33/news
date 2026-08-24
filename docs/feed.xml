@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 17:26:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 18:32:55 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 100 HICKMAN ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1153001</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1153001</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1153001 | DOWNTOWN Division | 8/24/2026 1:16:31 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/24/2026 1:16:31 PM</pubDate>
+    </item>
+    <item>
+      <title>Five ways Europe's heat-wave summer is hot, hot, hot</title>
+      <link>https://phys.org/news/2026-08-ways-europe-summer-hot.html</link>
+      <guid>https://phys.org/news/2026-08-ways-europe-summer-hot.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Temperatures have been off the charts this year in Europe, the continent warming faster than any other continent. Here are five reasons why Europe's summer of 2026 will go down in the history of climate change:</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 24 Aug 2026 13:40:06 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 7600 AVENIDA AMORA (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1152750</link>
@@ -796,22 +812,6 @@ The post Commentary: As Farm Bill Stalls, New Legislation Emerges Tackling Unfai
       <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1146455 | SOUTH Division | 8/22/2026 11:17:45 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/22/2026 11:17:45 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Robbery of Individual — 13100 BROOK ARBOR (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1146467</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1146467</guid>
-      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1146467 | NORTH Division | 8/22/2026 11:20:45 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/22/2026 11:20:45 PM</pubDate>
-    </item>
-    <item>
-      <title>In rural Chad, solar kiosks bring healthcare closer</title>
-      <link>https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Sun, 23 Aug 2026 03:21:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
