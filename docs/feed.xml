@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 06:46:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:54:18 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 19300 US HWY 281 N (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151203</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151203</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1151203 | NORTH Division | 8/24/2026 2:33:07 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/24/2026 2:33:07 AM</pubDate>
+    </item>
+    <item>
+      <title>The right to health in Gaza is now a privilege</title>
+      <link>https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — The devastated healthcare system cannot reach Gaza’s most vulnerable – those who live in displacement camps</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Mon, 24 Aug 2026 07:08:07 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 2100 N ELMENDORF ST (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151089</link>
@@ -790,22 +806,6 @@
       <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — A tiny, fully intact Indigenous pot buried for roughly 400 years has left archaeologists wondering why such a usable object was deliberately abandoned. Found at a historic Potano-Timucua village in Florida, the mysterious vessel is helping reveal a complex world of Native traditions, Spanish influence, trade, and migration.</description>
       <category>Indigenous News &amp; Tribal Sovereignty</category>
       <pubDate>Fri, 21 Aug 2026 22:58:44 EDT</pubDate>
-    </item>
-    <item>
-      <title>Exercise may work better for keeping weight off than losing it</title>
-      <link>https://www.sciencedaily.com/releases/2026/08/260821012240.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/08/260821012240.htm</guid>
-      <description>[Diabetes &amp; Kidney Disease] Keyword: blood sugar — Exercise may not be a powerful weight-loss tool on its own, but it appears to play a much bigger role in preventing lost weight from returning. By preserving muscle, supporting metabolism, improving fat burning, and regulating appetite and blood sugar, regular activity can make long-term weight maintenance easier.</description>
-      <category>Diabetes &amp; Kidney Disease</category>
-      <pubDate>Sat, 22 Aug 2026 09:55:11 EDT</pubDate>
-    </item>
-    <item>
-      <title>'It’s chaos': Trump rewards red state farmers with blown profits this year</title>
-      <link>https://www.alternet.org/trump-farmers-economy-midterms/</link>
-      <guid>https://www.alternet.org/trump-farmers-economy-midterms/</guid>
-      <description>[USDA &amp; Farm Grants] Keyword: farm bill — MS NOW reporter Alex Tabet says there’s a very obvious reason the state of Iowa is slipping out of Republicans’ grasp this midterm, and it has everything to do with the Trump economy.“It's chaos,” said Iowa Farmers Association President Aaron Lehman, speaking with Tabet on a Saturday morning show. “You know, we are just not on the right path at the time. When farmers are dealing with all this uncertainty, we should be doing more to help them bring stability.”“We should be passing a farm bill tha</description>
-      <category>USDA &amp; Farm Grants</category>
-      <pubDate>Sat, 22 Aug 2026 13:46:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
