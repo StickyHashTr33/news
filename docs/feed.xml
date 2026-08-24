@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 22:21:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 23:18:49 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 200 W HARLAN AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1154228</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1154228</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1154228 | SOUTH Division | 8/24/2026 6:01:29 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/24/2026 6:01:29 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 5600 SUMMER FEST DR (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1154250</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1154250</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1154250 | EAST Division | 8/24/2026 6:06:00 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/24/2026 6:06:00 PM</pubDate>
+    </item>
+    <item>
+      <title>UIW welcomes students into its newly renovated Founders Hall expansion</title>
+      <link>https://sanantonioreport.org/uiw-welcomes-students-newly-renovated-founders-hall-san-antonio/</link>
+      <guid>https://sanantonioreport.org/uiw-welcomes-students-newly-renovated-founders-hall-san-antonio/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The former AT&amp;#038;T headquarters is now an extension of UIW's main campus welcoming students for the first time this fall.UIW welcomes students into its newly renovated Founders Hall expansion was first posted on August 24, 2026 at 5:39 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Mon, 24 Aug 2026 22:39:07 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 8600 FIVE PALMS DR (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1154013</link>
@@ -788,30 +812,6 @@ The post Commentary: As Farm Bill Stalls, New Legislation Emerges Tackling Unfai
       <description>[Labor &amp; Worker Rights] Keyword: labor movement — Since Hurricane Sandy in 2012, a growing labor movement has addressed the climate crisis and economic inequalityRyan McElroen had spent years repairing the New York City subway underground when he got the opportunity to work in the middle of the ocean.“I had no views other than the darkness at work,” he said. “Then I went polar opposite.” Continue reading...</description>
       <category>Labor &amp; Worker Rights</category>
       <pubDate>Sun, 23 Aug 2026 10:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Texas ordered to cut competency restoration waits to 21 days. In Bexar County, defendants still wait months.</title>
-      <link>https://sanantonioreport.org/texas-court-order-competency-wait-21-days-bexar-county/</link>
-      <guid>https://sanantonioreport.org/texas-court-order-competency-wait-21-days-bexar-county/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A federal judge rejected Texas’ bid to pause a 21-day competency restoration mandate as Bexar County defendants face months-long waits.Texas ordered to cut competency restoration waits to 21 days. In Bexar County, defendants still wait months. was first posted on August 23, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. </description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Sun, 23 Aug 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 8700 MARBACH RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147431</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147431</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1147431 | WEST Division | 8/23/2026 3:56:49 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/23/2026 3:56:49 AM</pubDate>
-    </item>
-    <item>
-      <title>Boulder, Colorado, and Big Oil Prepare for High-Stakes Clash in Supreme Court</title>
-      <link>https://insideclimatenews.org/news/23082026/suncor-v-boulder-supreme-court-climate-case/</link>
-      <guid>https://insideclimatenews.org/news/23082026/suncor-v-boulder-supreme-court-climate-case/</guid>
-      <description>[Open Source Software] Keyword: FOSS — Local and state governments across the United States have turned to state courts over the past nine years, filing lawsuits reminiscent of those against the tobacco industry in the 1990s against major fossil fuel companies, aiming to hold them accountable for climate change damages and alleged deception.&amp;#160; The cases are still in preliminary stages and [&amp;#8230;]</description>
-      <category>Open Source Software</category>
-      <pubDate>Sun, 23 Aug 2026 08:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
