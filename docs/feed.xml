@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 19:27:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:23:20 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 300 HAVERFORD DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1158345</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1158345</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1158345 | NORTH Division | 8/25/2026 3:08:48 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/25/2026 3:08:48 PM</pubDate>
+    </item>
+    <item>
+      <title>'Buy now, pay later' may reshape retail prices, inventory, research finds</title>
+      <link>https://phys.org/news/2026-08-buy-pay-reshape-retail-prices.html</link>
+      <guid>https://phys.org/news/2026-08-buy-pay-reshape-retail-prices.html</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — &quot;Buy now, pay later&quot; plans—which allow consumers to split purchases into a handful of interest-free installments—have become a common way for Americans to pay for everything from furniture to groceries. New research from Olin Business School at Washington University in St. Louis suggests the increasingly popular payment option can have consequences beyond the checkout screen—influencing retail prices, inventory decisions and the financial burden on consumers.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Tue, 25 Aug 2026 16:00:04 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 9400 TIMBER PATH (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1158053</link>
@@ -797,22 +813,6 @@ The post Commentary: As Farm Bill Stalls, New Legislation Emerges Tackling Unfai
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1151252 | PRUE Division | 8/24/2026 3:00:42 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/24/2026 3:00:42 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 7200 LAMB RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151304</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151304</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1151304 | PRUE Division | 8/24/2026 3:26:09 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/24/2026 3:26:09 AM</pubDate>
-    </item>
-    <item>
-      <title>Iran's medicine crisis prices patients out of treatment</title>
-      <link>https://www.dw.com/en/iran-s-medicine-crisis-prices-patients-out-of-treatment/a-78455430?maca=en-rss-en-all-1573-rdf</link>
-      <guid>https://www.dw.com/en/iran-s-medicine-crisis-prices-patients-out-of-treatment/a-78455430?maca=en-rss-en-all-1573-rdf</guid>
-      <description>[Labor &amp; Worker Rights] Keyword: minimum wage — A single chemotherapy session in Iran can cost six times the monthly minimum wage. As drug prices soar and medicine is in short supply, doctors say more patients are delaying or abandoning treatment.</description>
-      <category>Labor &amp; Worker Rights</category>
-      <pubDate>2026-08-24T08:13:00Z</pubDate>
     </item>
   </channel>
 </rss>
