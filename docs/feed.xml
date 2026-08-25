@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:26:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:22:53 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — CROWNHILL BLVD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1156025</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1156025</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1156025 | NORTH Division | 8/25/2026 5:18:04 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/25/2026 5:18:04 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 400 WARREN ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1156070</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1156070</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1156070 | DOWNTOWN Division | 8/25/2026 6:11:18 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/25/2026 6:11:18 AM</pubDate>
+    </item>
+    <item>
+      <title>Two planned datacentres will have higher UK carbon emissions than ExxonMobil, analysis finds</title>
+      <link>https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil</link>
+      <guid>https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil</guid>
+      <description>[Open Source Software] Keyword: FOSS — Exclusive: Buckinghamshire and Bedfordshire sites predicted to emit 4.5m tonnes a year when fully runningThe carbon emissions from just two planned datacentres in England will exceed all of the fossil fuel company ExxonMobil’s UK emissions, analysis has revealed.Experts have said this demonstrates the “serious threat” datacentres pose to the UK’s legally binding climate goals. Continue reading...</description>
+      <category>Open Source Software</category>
+      <pubDate>Tue, 25 Aug 2026 11:04:56 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle In Progress — 6800 N LOOP 1604 W (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1155968</link>
@@ -788,30 +812,6 @@ The post Commentary: As Farm Bill Stalls, New Legislation Emerges Tackling Unfai
       <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1149054 | PRUE Division | 8/23/2026 2:59:39 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/23/2026 2:59:39 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 2200 NW LOOP 410 (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1149055</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1149055</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1149055 | CENTRAL Division | 8/23/2026 3:00:03 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/23/2026 3:00:03 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 7500 OLD CORPUS CHRISTI RD (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1149074</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1149074</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1149074 | SOUTH Division | 8/23/2026 3:05:50 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/23/2026 3:05:50 PM</pubDate>
-    </item>
-    <item>
-      <title>Gaza’s hospitals are running out of oxygen as healthcare nears collapse</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Gaza’s hospitals face oxygen shortages, putting the lives of premature babies and critically ill patients at risk.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Sun, 23 Aug 2026 19:40:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
