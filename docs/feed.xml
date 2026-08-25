@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:40:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:36:20 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Global ocean temperatures hit record high as El Nino intensifies</title>
+      <link>https://www.aljazeera.com/news/2026/8/25/global-ocean-temperatures-hit-record-high-as-el-nino-intensifies?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/news/2026/8/25/global-ocean-temperatures-hit-record-high-as-el-nino-intensifies?traffic_source=rss</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Copernicus warns of &amp;#039;unprecedented strain&amp;#039; on world&amp;#039;s oceans as El Nino and climate change drive up sea temperatures.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Tue, 25 Aug 2026 08:10:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trees 'giving up': Climate change hammers historic English gardens</title>
+      <link>https://phys.org/news/2026-08-trees-climate-historic-english-gardens.html</link>
+      <guid>https://phys.org/news/2026-08-trees-climate-historic-english-gardens.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — At Hampton Court Palace, head gardener Graham Dillamore strode across the burned beige grass in the spectacular formal gardens southwest of London, laid out in the 17th century.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Tue, 25 Aug 2026 04:31:04 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 2000 SAN PEDRO AVE (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1155689</link>
@@ -796,22 +812,6 @@ The post Commentary: As Farm Bill Stalls, New Legislation Emerges Tackling Unfai
       <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1148130 | CENTRAL Division | 8/23/2026 9:57:53 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/23/2026 9:57:53 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 1400 PASADENA ST (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1148135</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1148135</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1148135 | WEST Division | 8/23/2026 9:58:57 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/23/2026 9:58:57 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 11000 KIMES PARK DR (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1148141</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1148141</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1148141 | PRUE Division | 8/23/2026 10:00:57 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/23/2026 10:00:57 AM</pubDate>
     </item>
   </channel>
 </rss>
