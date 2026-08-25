@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 02:19:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 03:44:09 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 11100 BALTIC DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1155163</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1155163</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1155163 | NORTH Division | 8/24/2026 10:30:17 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/24/2026 10:30:17 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 1700 FELIX TREVINO WAY (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1154894</link>
@@ -804,14 +812,6 @@ The post Commentary: As Farm Bill Stalls, New Legislation Emerges Tackling Unfai
       <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1147657 | WEST Division | 8/23/2026 5:59:58 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/23/2026 5:59:58 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — NORTH HOLW / ECKHERT RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147551</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147551</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1147551 | PRUE Division | 8/23/2026 4:44:32 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/23/2026 4:44:32 AM</pubDate>
     </item>
   </channel>
 </rss>
