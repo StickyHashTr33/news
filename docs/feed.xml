@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 03:44:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 04:34:44 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 1700 LAMPOST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1155344</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1155344</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1155344 | CENTRAL Division | 8/24/2026 11:22:15 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/24/2026 11:22:15 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 11700 BANDERA RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1155352</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1155352</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1155352 | PRUE Division | 8/24/2026 11:23:51 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/24/2026 11:23:51 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 11100 BALTIC DR (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1155163</link>
@@ -796,22 +812,6 @@ The post Commentary: As Farm Bill Stalls, New Legislation Emerges Tackling Unfai
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Defense files motion to dismiss state case after federal guilty plea but prosecutors say they are prepared to litigateAfter Luigi Mangione admitted in Manhattan federal court that he killed UnitedHealthcare CEO Brian Thompson, most experts believe that the state murder case against is highly unlikely to proceed – though some still see a slim possibility that it may yet happen.Mangione, who pleaded guilty on 14 August to two federal stalking counts, was scheduled for a New York state trial on 8 S</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Sun, 23 Aug 2026 12:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 20500 WILD SPRINGS DR (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147646</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147646</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1147646 | NORTH Division | 8/23/2026 5:50:05 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/23/2026 5:50:05 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 2800 WOODLINE DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147657</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1147657</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1147657 | WEST Division | 8/23/2026 5:59:58 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/23/2026 5:59:58 AM</pubDate>
     </item>
   </channel>
 </rss>
