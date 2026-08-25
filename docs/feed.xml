@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 04:34:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 05:27:21 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 7900 JONES MALTSBERGER RD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1155462</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1155462</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1155462 | NORTH Division | 8/25/2026 12:00:08 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/25/2026 12:00:08 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 1700 LAMPOST (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1155344</link>
@@ -804,14 +812,6 @@ The post Commentary: As Farm Bill Stalls, New Legislation Emerges Tackling Unfai
       <description>[Government Accountability] Keyword: government corruption — Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.</description>
       <category>Government Accountability</category>
       <pubDate>Sun, 23 Aug 2026 12:56:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Double jeopardy? Luigi Mangione state case unlikely to proceed, experts say</title>
-      <link>https://www.theguardian.com/us-news/2026/aug/23/luigi-mangione-state-case-brian-thompson</link>
-      <guid>https://www.theguardian.com/us-news/2026/aug/23/luigi-mangione-state-case-brian-thompson</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Defense files motion to dismiss state case after federal guilty plea but prosecutors say they are prepared to litigateAfter Luigi Mangione admitted in Manhattan federal court that he killed UnitedHealthcare CEO Brian Thompson, most experts believe that the state murder case against is highly unlikely to proceed – though some still see a slim possibility that it may yet happen.Mangione, who pleaded guilty on 14 August to two federal stalking counts, was scheduled for a New York state trial on 8 S</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Sun, 23 Aug 2026 12:00:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
