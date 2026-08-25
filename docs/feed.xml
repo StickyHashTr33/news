@@ -5,8 +5,50 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 20:23:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:22:50 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 300 DEMYA (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1158658</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1158658</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1158658 | WEST Division | 8/25/2026 4:06:55 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/25/2026 4:06:55 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 400 AGNES DR (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1158664</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1158664</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1158664 | DOWNTOWN Division | 8/25/2026 4:07:46 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/25/2026 4:07:46 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 500 AVENUE E (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1158689</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1158689</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1158689 | DOWNTOWN Division | 8/25/2026 4:12:30 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/25/2026 4:12:30 PM</pubDate>
+    </item>
+    <item>
+      <title>mklinux-v7.0-mk2 released</title>
+      <link>https://lwn.net/Articles/1090582/</link>
+      <guid>https://lwn.net/Articles/1090582/</guid>
+      <description>[Open Source Software] Keyword: Linux kernel — For people who would like to experiment with the multi-kernel Linux concept, Cong Wang has
+announced the
+release of mklinux v7.0-mk2.
+
+
+	mklinux lets one machine run several independent Linux kernels at
+	the same time on bare metal, without a hypervisor. A host kernel
+	owns a pool of CPUs, memory and PCI devices, carves that pool into
+	instances, and boots a spawn kernel into each instance through
+	kexec_file_load(). Every spawn kernel runs natively on its own
+	CPUs, its own physical memory and </description>
+      <category>Open Source Software</category>
+      <pubDate>Tue, 25 Aug 2026 20:34:31 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person - Endangered — 300 HAVERFORD DR (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1158345</link>
@@ -781,38 +823,6 @@ In this generati</description>
 The post Commentary: As Farm Bill Stalls, New Legislation Emerges Tackling Unfair Markets in Agriculture appeared first on The Daily Yonder.</description>
       <category>USDA &amp; Farm Grants</category>
       <pubDate>Mon, 24 Aug 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 700 MCCULLOUGH AVE (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151370</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151370</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1151370 | DOWNTOWN Division | 8/24/2026 4:10:55 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/24/2026 4:10:55 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 4500 LOS RANCHITOS (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151385</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151385</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1151385 | NORTH Division | 8/24/2026 4:24:44 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/24/2026 4:24:44 AM</pubDate>
-    </item>
-    <item>
-      <title>Spiraling health costs force Iranians to delay care</title>
-      <link>https://www.dw.com/en/spiraling-health-costs-force-iranians-to-delay-care/a-78455430?maca=en-rss-en-all-1573-rdf</link>
-      <guid>https://www.dw.com/en/spiraling-health-costs-force-iranians-to-delay-care/a-78455430?maca=en-rss-en-all-1573-rdf</guid>
-      <description>[Labor &amp; Worker Rights] Keyword: minimum wage — A single chemotherapy session in Iran can cost six times the monthly minimum wage. As drug prices soar and medicine is in short supply, doctors say more patients are delaying or abandoning treatment.</description>
-      <category>Labor &amp; Worker Rights</category>
-      <pubDate>2026-08-24T08:13:00Z</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 9500 KENTON HILL (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151252</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1151252</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1151252 | PRUE Division | 8/24/2026 3:00:42 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/24/2026 3:00:42 AM</pubDate>
     </item>
   </channel>
 </rss>
