@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 06:38:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:40:08 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 2000 SAN PEDRO AVE (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1155689</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1155689</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1155689 | DOWNTOWN Division | 8/25/2026 1:39:03 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/25/2026 1:39:03 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Robbery of Individual — 8800 CINNAMON CRK (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1155704</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1155704</guid>
+      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1155704 | PRUE Division | 8/25/2026 1:49:51 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/25/2026 1:49:51 AM</pubDate>
+    </item>
+    <item>
+      <title>‘Enough is enough’: 121 Indigenous Victorians have died by suicide in the past five years</title>
+      <link>https://www.theguardian.com/australia-news/2026/aug/25/indigenous-australia-victoria-suicide-mental-health-ntwnfb</link>
+      <guid>https://www.theguardian.com/australia-news/2026/aug/25/indigenous-australia-victoria-suicide-mental-health-ntwnfb</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Royal commission recommended First Nations healing centres in 2021 but the Indigenous health service says the state has ‘done nothing’ to fund itFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastOn the steps of Victorian parliament stood 121 empty chairs, marking the number of Indigenous lives lost to suicide in the state in the past five years.All of these deaths, the state’s peak body for Aboriginal health said, came after the fina</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Tue, 25 Aug 2026 07:06:54 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 200 OBLATE DR (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1155601</link>
@@ -788,30 +812,6 @@ The post Commentary: As Farm Bill Stalls, New Legislation Emerges Tackling Unfai
       <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1148141 | PRUE Division | 8/23/2026 10:00:57 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/23/2026 10:00:57 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 6000 MOUNTAIN MEADOW (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1148145</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1148145</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1148145 | EAST Division | 8/23/2026 10:03:12 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/23/2026 10:03:12 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Shooting In Progress — 9800 WESTOVER HILLS BLVD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1148153</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1148153</guid>
-      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1148153 | WEST Division | 8/23/2026 10:05:16 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/23/2026 10:05:16 AM</pubDate>
-    </item>
-    <item>
-      <title>Experimental compound helps burn fat without muscle loss</title>
-      <link>https://www.sciencedaily.com/releases/2026/08/260823014953.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/08/260823014953.htm</guid>
-      <description>[Diabetes &amp; Kidney Disease] Keyword: GLP-1 — A decades-old compound may point to a new way of treating obesity by making the body burn more energy rather than simply reducing appetite. In mice, TOFA increased energy use by as much as 18%, reduced body fat without significant muscle loss, and improved blood sugar, triglycerides, and fatty liver disease. It also produced stronger results when combined with GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound.</description>
-      <category>Diabetes &amp; Kidney Disease</category>
-      <pubDate>Sun, 23 Aug 2026 06:24:17 EDT</pubDate>
     </item>
   </channel>
 </rss>
