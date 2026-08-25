@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 12:38:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:45:06 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 500 NE LOOP 410 (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1156547</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1156547</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1156547 | NORTH Division | 8/25/2026 8:25:10 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/25/2026 8:25:10 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 4000 HORIZON HILL BLVD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1156222</link>
@@ -804,14 +812,6 @@ The post Commentary: As Farm Bill Stalls, New Legislation Emerges Tackling Unfai
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1150101 | PRUE Division | 8/23/2026 7:49:19 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/23/2026 7:49:19 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 6100 INGRAM RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1149681</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1149681</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1149681 | WEST Division | 8/23/2026 5:54:32 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/23/2026 5:54:32 PM</pubDate>
     </item>
   </channel>
 </rss>
