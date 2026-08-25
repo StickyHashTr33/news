@@ -5,8 +5,33 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 13:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:40:33 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 300 HAVERFORD DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1156811</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1156811</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1156811 | NORTH Division | 8/25/2026 9:19:36 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/25/2026 9:19:36 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 300 BLUM (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1156833</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1156833</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1156833 | DOWNTOWN Division | 8/25/2026 9:23:43 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/25/2026 9:23:43 AM</pubDate>
+    </item>
+    <item>
+      <title>Immigrants Keep Saying She’s Ripping Them Off. Why Won’t Texas Stop Her?</title>
+      <link>https://www.texasobserver.org/notario-fraud-immigrants-detention-ken-paxton/</link>
+      <guid>https://www.texasobserver.org/notario-fraud-immigrants-detention-ken-paxton/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: Bexar County — The first time I heard of Alejandra Driskell was in 2014, when the Texas Attorney General’s Office filed a lawsuit in Bexar County accusing her of practicing immigration law without a license. The assistant attorney general who’d filed the lawsuit against Driskell, her then-husband, and others was kind enough to include in the public record [&amp;#8230;]
+The post Immigrants Keep Saying She&amp;#8217;s Ripping Them Off. Why Won’t Texas Stop Her? appeared first on The Texas Observer.</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Tue, 25 Aug 2026 14:15:49 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 500 NE LOOP 410 (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1156547</link>
@@ -788,30 +813,6 @@ The post Commentary: As Farm Bill Stalls, New Legislation Emerges Tackling Unfai
       <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1150626 | PRUE Division | 8/23/2026 10:35:48 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/23/2026 10:35:48 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 4700 MILITARY DR W (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1150370</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1150370</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1150370 | SOUTH Division | 8/23/2026 9:10:44 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/23/2026 9:10:44 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 400 VINE ST (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1150381</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1150381</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1150381 | EAST Division | 8/23/2026 9:14:22 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/23/2026 9:14:22 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 3601-3609 FOUNTAINHEAD DR (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1150101</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1150101</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1150101 | PRUE Division | 8/23/2026 7:49:19 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/23/2026 7:49:19 PM</pubDate>
     </item>
   </channel>
 </rss>
