@@ -5,8 +5,17 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:30:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:24:40 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>It’s Time to Rein in Lethal AI Drones</title>
+      <link>https://theintercept.com/2026/08/26/ai-drone-warfare-russia-ukraine-openai-anthropic/</link>
+      <guid>https://theintercept.com/2026/08/26/ai-drone-warfare-russia-ukraine-openai-anthropic/</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — Humans need to act, as AI agents scheme in the digital shadows.
+The post It’s Time to Rein in Lethal AI Drones appeared first on The Intercept.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 300 TORREON (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160905</link>
@@ -809,14 +818,6 @@ The post Immigrants Keep Saying She&amp;#8217;s Ripping Them Off. Why Won’t Te
       <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1153748 | SOUTH Division | 8/24/2026 4:10:00 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/24/2026 4:10:00 PM</pubDate>
-    </item>
-    <item>
-      <title>How atmospheric dryness limits increases in typhoon rainfall</title>
-      <link>https://phys.org/news/2026-08-atmospheric-dryness-limits-typhoon-rainfall.html</link>
-      <guid>https://phys.org/news/2026-08-atmospheric-dryness-limits-typhoon-rainfall.html</guid>
-      <description>[Climate &amp; Environment] Keyword: global warming — Under global warming, scientists have widely expected tropical cyclones (including typhoons and hurricanes) to bring more intense and frequent rainfall. The underlying physics seems intuitive: Rising temperatures allow the atmosphere to hold more moisture, which, combined with intensifying storms, should theoretically trigger more destructive downpours. However, when researchers analyze climate model projections, they encounter a puzzling phenomenon.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Mon, 24 Aug 2026 17:10:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
