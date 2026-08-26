@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 09:35:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:30:19 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 300 TORREON (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160905</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160905</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1160905 | CENTRAL Division | 8/26/2026 4:39:12 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/26/2026 4:39:12 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 4800 GOLDFIELD DR (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160919</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160919</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1160919 | EAST Division | 8/26/2026 4:48:55 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/26/2026 4:48:55 AM</pubDate>
+    </item>
+    <item>
+      <title>Goodwill San Antonio to add more job training, makes progress on new HQ</title>
+      <link>https://sanantonioreport.org/goodwill-san-antonio-more-job-training-new-hq-san-antonio/</link>
+      <guid>https://sanantonioreport.org/goodwill-san-antonio-more-job-training-new-hq-san-antonio/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Now under construction, the Opportunity Center is a former office building being transformed into a 6-story Goodwill San Antonio facility.Goodwill San Antonio to add more job training, makes progress on new HQ was first posted on August 26, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardr</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 3300 SE MILITARY DR (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160733</link>
@@ -793,30 +817,6 @@ The post Immigrants Keep Saying She&amp;#8217;s Ripping Them Off. Why Won’t Te
       <description>[Climate &amp; Environment] Keyword: global warming — Under global warming, scientists have widely expected tropical cyclones (including typhoons and hurricanes) to bring more intense and frequent rainfall. The underlying physics seems intuitive: Rising temperatures allow the atmosphere to hold more moisture, which, combined with intensifying storms, should theoretically trigger more destructive downpours. However, when researchers analyze climate model projections, they encounter a puzzling phenomenon.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Mon, 24 Aug 2026 17:10:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 17800 LA CANTERA TERRACE (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1153469</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1153469</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1153469 | PRUE Division | 8/24/2026 3:10:15 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/24/2026 3:10:15 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 1900 ARBOR ST (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1153474</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1153474</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1153474 | CENTRAL Division | 8/24/2026 3:12:01 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/24/2026 3:12:01 PM</pubDate>
-    </item>
-    <item>
-      <title>Marker words suggest sharp rise in AI-assisted biomedical writing after ChatGPT</title>
-      <link>https://phys.org/news/2026-08-marker-words-sharp-ai-biomedical.html</link>
-      <guid>https://phys.org/news/2026-08-marker-words-sharp-ai-biomedical.html</guid>
-      <description>[AI &amp; Automation] Keyword: large language model — Up until two years ago, using large language models was still considered a special skill that everyone was encouraged to learn. Now, it is ubiquitous, especially in writing research papers that eventually become part of the scientific knowledge we build around a subject.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Mon, 24 Aug 2026 16:00:07 EDT</pubDate>
     </item>
   </channel>
 </rss>
