@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 07:42:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:37:52 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 15100 BLANCO RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160780</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160780</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1160780 | PRUE Division | 8/26/2026 3:20:25 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/26/2026 3:20:25 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 3800 LOCKHILL-SELMA RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160583</link>
@@ -809,14 +817,6 @@ The post Immigrants Keep Saying She&amp;#8217;s Ripping Them Off. Why Won’t Te
       <description>[Housing &amp; Gentrification] Keyword: displacement — Israel has threatened intensified attacks and forced displacement in Gaza over children’s kites</description>
       <category>Housing &amp; Gentrification</category>
       <pubDate>Mon, 24 Aug 2026 19:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alfalfa sprouts linked to food-poisoning outbreak in 15 states, US officials say</title>
-      <link>https://www.theguardian.com/us-news/2026/aug/24/food-poisoning-alfalfa-sprouts</link>
-      <guid>https://www.theguardian.com/us-news/2026/aug/24/food-poisoning-alfalfa-sprouts</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Everything Sprouts recalls products after CDC says agency is aware of dozens of food-poisoning cases nationallyUS healthcare officials recently said a food-poisoning outbreak tied to alfalfa sprouts and involving multiple germs had sickened people in at least 15 states.Officials announced the outbreak after documenting more than three dozen cases in Minnesota and Wisconsin. On Friday, the US Centers for Disease Control and Prevention (CDC) said the agency was aware of at least 55 cases nationall</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Mon, 24 Aug 2026 18:58:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
