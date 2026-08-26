@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 08:37:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 09:35:46 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 3300 SE MILITARY DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160733</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160733</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1160733 | SOUTH Division | 8/26/2026 3:00:44 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/26/2026 3:00:44 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle In Progress — 12500 PALOMA TRL (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160851</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160851</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1160851 | PRUE Division | 8/26/2026 4:00:51 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/26/2026 4:00:51 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 400-499 6TH ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160864</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160864</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1160864 | DOWNTOWN Division | 8/26/2026 4:11:02 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/26/2026 4:11:02 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 15100 BLANCO RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160780</link>
@@ -793,30 +817,6 @@ The post Immigrants Keep Saying She&amp;#8217;s Ripping Them Off. Why Won’t Te
       <description>[AI &amp; Automation] Keyword: large language model — Up until two years ago, using large language models was still considered a special skill that everyone was encouraged to learn. Now, it is ubiquitous, especially in writing research papers that eventually become part of the scientific knowledge we build around a subject.</description>
       <category>AI &amp; Automation</category>
       <pubDate>Mon, 24 Aug 2026 16:00:07 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 7900 S NEW BRAUNFELS AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1153247</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1153247</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1153247 | SOUTH Division | 8/24/2026 2:14:27 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/24/2026 2:14:27 PM</pubDate>
-    </item>
-    <item>
-      <title>It Just Got Way Easier to Sue Fossil Fuel Companies Over Climate Change</title>
-      <link>https://www.motherjones.com/environment/2026/08/it-just-got-way-easier-to-sue-fossil-fuel-companies-over-climate-change/</link>
-      <guid>https://www.motherjones.com/environment/2026/08/it-just-got-way-easier-to-sue-fossil-fuel-companies-over-climate-change/</guid>
-      <description>[Open Source Software] Keyword: FOSS — Deadly heatwaves in May smashed records in the UK, France, Spain, and parts of North Africa. India, Pakistan, and Bangladesh saw April temperatures soar to 45-50 degrees Celsius. A late spring heat dome in the US marked the hottest March on record, and in a 1,000-year July storm, parts of Texas were left reeling after [&amp;#8230;]</description>
-      <category>Open Source Software</category>
-      <pubDate>Mon, 24 Aug 2026 19:02:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israel threatens attacks in Gaza over children’s kites</title>
-      <link>https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss</guid>
-      <description>[Housing &amp; Gentrification] Keyword: displacement — Israel has threatened intensified attacks and forced displacement in Gaza over children’s kites</description>
-      <category>Housing &amp; Gentrification</category>
-      <pubDate>Mon, 24 Aug 2026 19:00:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
