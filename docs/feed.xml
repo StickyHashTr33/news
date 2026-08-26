@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 04:35:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 05:29:44 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle In Progress — 500 MCCARTY (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160395</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160395</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1160395 | NORTH Division | 8/26/2026 12:12:42 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/26/2026 12:12:42 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 9500 PERRIN BEITEL (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160400</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160400</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1160400 | NORTH Division | 8/26/2026 12:15:53 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/26/2026 12:15:53 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 700 AARON PLACE (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160244</link>
@@ -801,22 +817,6 @@ The post Immigrants Keep Saying She&amp;#8217;s Ripping Them Off. Why Won’t Te
       <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1152768 | EAST Division | 8/24/2026 12:15:36 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/24/2026 12:15:36 PM</pubDate>
-    </item>
-    <item>
-      <title>The world inches toward catastrophic climate events: 'Bigger shocks are on the way'</title>
-      <link>https://phys.org/news/2026-08-world-inches-catastrophic-climate-events.html</link>
-      <guid>https://phys.org/news/2026-08-world-inches-catastrophic-climate-events.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — In the opening scene of American writer Kim Stanley Robinson's &quot;The Ministry for the Future,&quot; a heat wave combined with a breakdown of the electrical grid in India kills 20 million people. The devastation causes the world's nations to unite to combat climate change.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Mon, 24 Aug 2026 12:42:53 EDT</pubDate>
-    </item>
-    <item>
-      <title>Problems brewing for the proper pint as Camra membership falls</title>
-      <link>https://www.theguardian.com/lifeandstyle/2026/aug/24/camra-campaign-for-real-ale-beer-breweries-pubs</link>
-      <guid>https://www.theguardian.com/lifeandstyle/2026/aug/24/camra-campaign-for-real-ale-beer-breweries-pubs</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — Cost of living has hit campaign group while multinationals are threatening to squeeze out independent  breweriesFor centuries, the wooden real ale pump has been the hallmark of a good British boozer. But now problems are brewing for the proper pint, as the Campaign for Real Ale has seen its membership sink to an eight-year low and its accounts show it is firmly in the red, making an £800,000 loss last year.Real ale is a traditional draught cask beer, a “living” product that is produced and store</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Mon, 24 Aug 2026 17:01:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
