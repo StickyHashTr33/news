@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 11:24:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:41:33 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 100 KENLEY PLACE (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1161168</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1161168</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1161168 | NORTH Division | 8/26/2026 7:15:39 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/26/2026 7:15:39 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 6600 COMANCHE VALLEY (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1161184</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1161184</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1161184 | NORTH Division | 8/26/2026 7:20:20 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/26/2026 7:20:20 AM</pubDate>
+    </item>
+    <item>
+      <title>8 dead, hundreds missing as Nepal avalanche triggers flash floods</title>
+      <link>https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods</link>
+      <guid>https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — The disaster is linked to climate change, with experts noting the region's vulnerability to extreme weather.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 26 Aug 2026 08:27:19 -0400</pubDate>
+    </item>
     <item>
       <title>It’s Time to Rein in Lethal AI Drones</title>
       <link>https://theintercept.com/2026/08/26/ai-drone-warfare-russia-ukraine-openai-anthropic/</link>
@@ -794,30 +818,6 @@ The post Immigrants Keep Saying She&amp;#8217;s Ripping Them Off. Why Won’t Te
       <description>[Data Center &amp; Grid Infrastructure] Keyword: ERCOT — The first group of large data centers in line to get connected to Texas’ grid won’t move forward until mid-December, grid officials say.&amp;#160; Electric Reliability Council of Texas (ERCOT) staff needs to vet the first 300 projects, 90 percent of which are data centers, in “Batch Zero,” and put together a community impact review as [&amp;#8230;]</description>
       <category>Data Center &amp; Grid Infrastructure</category>
       <pubDate>Mon, 24 Aug 2026 22:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Temperature-tunable micropillars enable programmable sorting of particles and cells</title>
-      <link>https://phys.org/news/2026-08-temperature-tunable-micropillars-enable-programmable.html</link>
-      <guid>https://phys.org/news/2026-08-temperature-tunable-micropillars-enable-programmable.html</guid>
-      <description>[Housing &amp; Gentrification] Keyword: displacement — A programmable microfluidic device developed at the Institute of Science Tokyo, Japan, combines deterministic lateral displacement, a microfluidic technique used to separate particles according to size, with temperature-responsive polymer micropillars to dynamically change separation conditions along a single channel. Using this device, researchers successfully separated multiple particle populations. Additionally, they efficiently isolated viable cancer cells, white blood cells and red blood ce</description>
-      <category>Housing &amp; Gentrification</category>
-      <pubDate>Mon, 24 Aug 2026 17:40:09 EDT</pubDate>
-    </item>
-    <item>
-      <title>Southstar has big plans for the old brewery. But improvements to Lone Star Boulevard will need to come first.</title>
-      <link>https://sanantonioreport.org/southstar-big-plans-old-brewery-lone-star-boulevard-san-antonio/</link>
-      <guid>https://sanantonioreport.org/southstar-big-plans-old-brewery-lone-star-boulevard-san-antonio/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Owners of the shuttered and blighted brewery site want to launch their massive redevelopment plan by first rebuilding Lone Star Boulevard.Southstar has big plans for the old brewery. But improvements to Lone Star Boulevard will need to come first. was first posted on August 24, 2026 at 5:05 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringeme</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Mon, 24 Aug 2026 22:05:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 600 EMMETT AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1153748</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1153748</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1153748 | SOUTH Division | 8/24/2026 4:10:00 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/24/2026 4:10:00 PM</pubDate>
     </item>
   </channel>
 </rss>
