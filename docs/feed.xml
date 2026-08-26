@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 03:50:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 04:35:10 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 700 AARON PLACE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160244</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160244</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1160244 | SOUTH Division | 8/25/2026 11:14:42 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/25/2026 11:14:42 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 3500 SW MILITARY DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160258</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160258</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1160258 | SOUTH Division | 8/25/2026 11:20:34 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/25/2026 11:20:34 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 6000 PLEASANT LAKE (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160259</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160259</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1160259 | EAST Division | 8/25/2026 11:20:45 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/25/2026 11:20:45 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Robbery of Individual — 500 E SUNSHINE DR (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160085</link>
@@ -793,30 +817,6 @@ The post Immigrants Keep Saying She&amp;#8217;s Ripping Them Off. Why Won’t Te
       <description>[AI &amp; Automation] Keyword: LLM — Cost of living has hit campaign group while multinationals are threatening to squeeze out independent  breweriesFor centuries, the wooden real ale pump has been the hallmark of a good British boozer. But now problems are brewing for the proper pint, as the Campaign for Real Ale has seen its membership sink to an eight-year low and its accounts show it is firmly in the red, making an £800,000 loss last year.Real ale is a traditional draught cask beer, a “living” product that is produced and store</description>
       <category>AI &amp; Automation</category>
       <pubDate>Mon, 24 Aug 2026 17:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 100 VILLA GRANDE (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1152536</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1152536</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1152536 | CENTRAL Division | 8/24/2026 11:15:06 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/24/2026 11:15:06 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 8000 FLOYD CURL (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1152537</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1152537</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1152537 | PRUE Division | 8/24/2026 11:15:10 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/24/2026 11:15:10 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 3700 IH 10 E (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1152541</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1152541</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1152541 | EAST Division | 8/24/2026 11:15:47 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/24/2026 11:15:47 AM</pubDate>
     </item>
   </channel>
 </rss>
