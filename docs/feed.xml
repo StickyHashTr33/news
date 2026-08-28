@@ -5,8 +5,56 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2026 23:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 08:42:02 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 8500 NW MILITARY HWY (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1170563</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1170563</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1170563 | PRUE Division | 8/28/2026 3:23:44 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/28/2026 3:23:44 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 200 N WW WHITE RD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1170578</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1170578</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1170578 | EAST Division | 8/28/2026 3:29:10 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/28/2026 3:29:10 AM</pubDate>
+    </item>
+    <item>
+      <title>No special carve-out for states using fossil fuel to power datacentres, Chris Bowen insists, despite new conditions</title>
+      <link>https://www.theguardian.com/technology/2026/aug/28/no-special-carve-out-for-states-using-fossil-fuel-to-power-datacentres-chris-bowen-insists-despite-new-conditions</link>
+      <guid>https://www.theguardian.com/technology/2026/aug/28/no-special-carve-out-for-states-using-fossil-fuel-to-power-datacentres-chris-bowen-insists-despite-new-conditions</guid>
+      <description>[Open Source Software] Keyword: FOSS — Energy minister says states can apply to use coal and gas supply to power datacentres but must prove it is cheaper than renewablesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastChris Bowen insists federal Labor’s new national laws on datacentre power supply will not include carve-outs for Queensland and the Northern Territory, with states that are eager to use coal and gas required to make their case to the national regulator.The </description>
+      <category>Open Source Software</category>
+      <pubDate>Fri, 28 Aug 2026 04:17:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic proposes plumbing spec to link AI agents to lab kit and robots</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135</link>
+      <guid>https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — Say you're trying to enrich Uranium and your centrifuges broke - soon it will be easy to connect an AI to figure out why</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Fri, 28 Aug 2026 01:22:35 +0200</pubDate>
+    </item>
+    <item>
+      <title>Australian cops cuff alleged TeamPCP masterminds</title>
+      <link>https://www.theregister.com/security/2026/08/28/australian-cops-cuff-alleged-teampcp-masterminds/5293157</link>
+      <guid>https://www.theregister.com/security/2026/08/28/australian-cops-cuff-alleged-teampcp-masterminds/5293157</guid>
+      <description>[Cybersecurity] Keyword: supply chain attack — Alleged crew behind the Shai-Hulud worm and other supply chain attacks nabbed with help from the FBI</description>
+      <category>Cybersecurity</category>
+      <pubDate>Fri, 28 Aug 2026 05:33:54 +0200</pubDate>
+    </item>
+    <item>
+      <title>DRC begins vaccinating front-line healthcare workers against Ebola</title>
+      <link>https://www.aljazeera.com/news/2026/8/28/drc-begins-vaccinating-front-line-healthcare-workers-against-ebola?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/news/2026/8/28/drc-begins-vaccinating-front-line-healthcare-workers-against-ebola?traffic_source=rss</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Trials for a vaccine for the Bundibugyo strain are ongoing as DRC authorities try to control the Ebola outbreak.</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Fri, 28 Aug 2026 04:27:54 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 13700 JUDSON RD (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1168981</link>
@@ -772,54 +820,6 @@ The post It’s Time to Rein in Lethal AI Drones appeared first on The Intercept
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1160258 | SOUTH Division | 8/25/2026 11:20:34 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/25/2026 11:20:34 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 6000 PLEASANT LAKE (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160259</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160259</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1160259 | EAST Division | 8/25/2026 11:20:45 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/25/2026 11:20:45 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Robbery of Individual — 500 E SUNSHINE DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160085</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160085</guid>
-      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1160085 | WEST Division | 8/25/2026 10:23:31 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/25/2026 10:23:31 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 15600 IH 10 W (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160087</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1160087</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1160087 | PRUE Division | 8/25/2026 10:24:37 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/25/2026 10:24:37 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 4900 WOODSTONE (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1159832</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1159832</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1159832 | PRUE Division | 8/25/2026 9:11:02 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/25/2026 9:11:02 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 12300 CULEBRA RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1159841</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1159841</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1159841 | WEST Division | 8/25/2026 9:13:18 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/25/2026 9:13:18 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — 4400 MEADOWLAND PLACE (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1159529</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1159529</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1159529 | EAST Division | 8/25/2026 7:48:20 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/25/2026 7:48:20 PM</pubDate>
     </item>
   </channel>
 </rss>
