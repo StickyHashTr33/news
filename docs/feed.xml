@@ -5,8 +5,67 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 03:02:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 10:41:46 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 2000 BARNEY AVE (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1177020</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1177020</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1177020 | WEST Division | 8/29/2026 5:04:02 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/29/2026 5:04:02 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Robbery In Progress — 1100 CASTROVILLE RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1177055</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1177055</guid>
+      <description>[SAPD Calls for Service] Keyword: Robbery In Progress — Incident #SAPD-2026-1177055 | WEST Division | 8/29/2026 5:27:20 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/29/2026 5:27:20 AM</pubDate>
+    </item>
+    <item>
+      <title>Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows</title>
+      <link>https://www.theguardian.com/australia-news/2026/aug/29/statins-reduce-risk-heart-attack-stroke-over-70s-clinical-trial</link>
+      <guid>https://www.theguardian.com/australia-news/2026/aug/29/statins-reduce-risk-heart-attack-stroke-over-70s-clinical-trial</guid>
+      <description>[Science &amp; Research] Keyword: clinical trial — Australian-led trial finds low risk of side effects from common cholesterol-lowering medication for otherwise healthy older peopleTaking a common cholesterol-lowering medication can reduce the risk of a heart attack or stroke for people aged over 70, with a low risk of serious side effects, a world-first clinical trial led by Australian researchers has found.Statins are already commonly prescribed to people under the age of 75 who meet certain risk criteria, such as having diabetes and high chol</description>
+      <category>Science &amp; Research</category>
+      <pubDate>Sat, 29 Aug 2026 06:25:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ryabitsev: Creepy crawlies</title>
+      <link>https://lwn.net/Articles/1091203/</link>
+      <guid>https://lwn.net/Articles/1091203/</guid>
+      <description>[Open Source Software] Keyword: Linux kernel — Konstantin Ryabitsev has written a blog post with
+hard numbers about the impact of AI crawlers on the Linux kernel
+repositories at git.kernel.org:
+
+
+Today, git.kernel.org receives about 6M daily requests demanding to see
+random commits. Of these, 66% are still immediately batted away with the Anubis
+challenge, but 33% are now solving the math and getting through to the main site
+— because apparently what we have to offer is worth spending a ton of cycles to
+calculate the Anubis challenge.
+
+It's </description>
+      <category>Open Source Software</category>
+      <pubDate>Sat, 29 Aug 2026 09:32:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Grid Has Eyes</title>
+      <link>https://insideclimatenews.org/news/29082026/alabama-power-flock-surveillance-cameras/</link>
+      <guid>https://insideclimatenews.org/news/29082026/alabama-power-flock-surveillance-cameras/</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: DeFlock — Wired for Profit: Fifth in a series about Alabama Power’s influence over electric rates, renewable energy, pollution and politics in the Yellowhammer State. BIRMINGHAM, Ala.—Darrell Nance knows he’s being watched. We all are.&amp;#160; Nance, a longtime resident of the city and founder of DeFlock Birmingham, can easily point out the cameras to you if you’re [&amp;#8230;]</description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>Sat, 29 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Veterans find community and healing through non-traditional horse riding program</title>
+      <link>https://sanantonioreport.org/new-tactics-alternative-horse-therapy-military-veterans-somerset/</link>
+      <guid>https://sanantonioreport.org/new-tactics-alternative-horse-therapy-military-veterans-somerset/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A five-acre farm just outside of San Antonio is taking a different approach to the growing trend of horse-veteran bonding. Veterans find community and healing through non-traditional horse riding program was first posted on August 29, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sat, 29 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What lessons can be learned from the Nepal-Tibet flood disaster?</title>
       <link>https://www.aljazeera.com/video/inside-story/2026/8/28/what-lessons-can-be-learned-from-the-nepal-tibet-flood?traffic_source=rss</link>
@@ -779,54 +838,6 @@ particularly interesting is that the circumven</description>
       <description>[Housing &amp; Gentrification] Keyword: displacement — Over 100,000 people displaced last year alone, adding to the 1.3 million people already forced to flee from their homes.</description>
       <category>Housing &amp; Gentrification</category>
       <pubDate>Wed, 26 Aug 2026 13:49:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>LLM-based platform for generating new materials synthesis recipes dramatically cuts trial and error</title>
-      <link>https://phys.org/news/2026-08-llm-based-platform-generating-materials.html</link>
-      <guid>https://phys.org/news/2026-08-llm-based-platform-generating-materials.html</guid>
-      <description>[AI &amp; Automation] Keyword: large language model — A research team led by Professor Sung Beom Cho of the School of Advanced Materials Science and Engineering at Sungkyunkwan University (SKKU), in collaboration with the teams of Professors Jin Sung Park and Hyunsouk Cho of Ajou University and Professor Ju Li of the Massachusetts Institute of Technology (MIT), has developed a &quot;closed-loop materials synthesis planning platform&quot; that uses a large language model (LLM) to propose synthesis conditions and procedures for complex new materials and iterat</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Wed, 26 Aug 2026 10:20:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 4300 THOUSAND OAKS DR (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1161508</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1161508</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1161508 | NORTH Division | 8/26/2026 8:36:47 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/26/2026 8:36:47 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 200 W BROADVIEW DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1161510</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1161510</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1161510 | WEST Division | 8/26/2026 8:37:08 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/26/2026 8:37:08 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 100 SAN NICOLAS WALK (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1161524</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1161524</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1161524 | CENTRAL Division | 8/26/2026 8:40:07 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/26/2026 8:40:07 AM</pubDate>
-    </item>
-    <item>
-      <title>I’m part of the team writing the next bible of psychiatry – for the first time, the DSM will use biology to understand mental disorders</title>
-      <link>https://theconversation.com/im-part-of-the-team-writing-the-next-bible-of-psychiatry-for-the-first-time-the-dsm-will-use-biology-to-understand-mental-disorders-288064</link>
-      <guid>https://theconversation.com/im-part-of-the-team-writing-the-next-bible-of-psychiatry-for-the-first-time-the-dsm-will-use-biology-to-understand-mental-disorders-288064</guid>
-      <description>[Science &amp; Research] Keyword: neuroscience — Despite advances in neuroscience, the underlying biology of mental illness has remained elusive. The DSM-6 will attempt to integrate neurobiology into how clinicians diagnose and treat psychiatric conditions.</description>
-      <category>Science &amp; Research</category>
-      <pubDate>2026-08-26T12:38:47Z</pubDate>
-    </item>
-    <item>
-      <title>Podcast: Cops Are Making Fake Flock Cameras and Amazon Packages</title>
-      <link>https://www.404media.co/podcast-cops-are-making-fake-flock-cameras-and-amazon-packages/</link>
-      <guid>https://www.404media.co/podcast-cops-are-making-fake-flock-cameras-and-amazon-packages/</guid>
-      <description>[ALPR &amp; Flock Cameras] Keyword: Flock camera — Cops making fake Flock cameras to catch people, Darth Vader unmasked, and our three year anniversary.</description>
-      <category>ALPR &amp; Flock Cameras</category>
-      <pubDate>Wed, 26 Aug 2026 13:07:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
