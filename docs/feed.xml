@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2026 17:09:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 20:26:39 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 1500 BURNET ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1183796</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1183796</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1183796 | EAST Division | 8/30/2026 3:10:35 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/30/2026 3:10:35 PM</pubDate>
+    </item>
+    <item>
+      <title>As super El Nino strengthens, study suggests that climate change is intensifying El Ninos</title>
+      <link>https://phys.org/news/2026-08-super-el-nino-climate-ninos.html</link>
+      <guid>https://phys.org/news/2026-08-super-el-nino-climate-ninos.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — A new study suggests that El Ninos—the natural climatic chaos agent that pops up periodically and spikes global temperatures—are getting stronger because of human-caused climate change.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sun, 30 Aug 2026 14:00:02 EDT</pubDate>
+    </item>
+    <item>
+      <title>With costs up, healthcare a defining issue in South Texas’ battleground House races</title>
+      <link>https://sanantonioreport.org/healthcare-defining-issue-south-texas-battleground-house-races/</link>
+      <guid>https://sanantonioreport.org/healthcare-defining-issue-south-texas-battleground-house-races/</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — In the state’s most competitive districts, Democrats are building a case around lapsed insurance subsidies and GOP-backed Medicaid cuts.With costs up, healthcare a defining issue in South Texas’ battleground House races was first posted on August 30, 2026 at 2:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hel</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Sun, 30 Aug 2026 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>West Point’s only climate scientist fired after continuing to teach human causes of climate change</title>
       <link>https://grist.org/politics/west-points-only-climate-scientist-fired-after-continuing-to-teach-human-causes-of-climate-change/</link>
@@ -816,30 +840,6 @@ The post A Giant “Grandmother” Tree Sparked a New Struggle to Block Trump’
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Bexar County proposed budget blames $1.3 billion in property value loss on the widows of disabled veterans - data paints a different story.Bexar County proposed budget blames $1.3B in property value loss on widows of disabled veterans was first posted on August 27, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please co</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Thu, 27 Aug 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI explains how its naughty AI agents attacked Hugging Face</title>
-      <link>https://www.theregister.com/security/2026/08/27/openai-explains-how-its-naughty-ai-agents-attacked-hugging-face/5292780</link>
-      <guid>https://www.theregister.com/security/2026/08/27/openai-explains-how-its-naughty-ai-agents-attacked-hugging-face/5292780</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Biz describes its act of automated irresponsibility as 'a warning shot'</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Thu, 27 Aug 2026 01:45:58 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 7100 NW LOOP 410 (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1164719</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1164719</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1164719 | WEST Division | 8/26/2026 9:30:46 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/26/2026 9:30:46 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 300 E FRENCH PLACE (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1164720</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1164720</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1164720 | DOWNTOWN Division | 8/26/2026 9:30:58 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/26/2026 9:30:58 PM</pubDate>
     </item>
   </channel>
 </rss>
