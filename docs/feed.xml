@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 22:14:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 00:58:55 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 400 E GERALD AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1180156</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1180156</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1180156 | SOUTH Division | 8/29/2026 7:42:30 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/29/2026 7:42:30 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 8000 VELETA (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1180174</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1180174</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1180174 | PRUE Division | 8/29/2026 7:46:24 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/29/2026 7:46:24 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 500 S FRIO ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1180183</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1180183</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1180183 | CENTRAL Division | 8/29/2026 7:48:41 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/29/2026 7:48:41 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 5700 LANDMARK PKWY (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1179504</link>
@@ -816,30 +840,6 @@ The post A Giant “Grandmother” Tree Sparked a New Struggle to Block Trump’
       <description>[AI &amp; Automation] Keyword: AI agent — Firm says ‘early signals … could have triggered an earlier response’ as it releases report into Hugging Face hackOpenAI staff observed signs of rogue behaviour among its leading-edge AI agents weeks before they escaped their training environment to launch an unprecedented hacking crusade that spread global alarm.The San Francisco AI company conceded on Wednesday that “early signals … could have triggered an earlier response”, as it released a report into the days-long July hack of a major softwa</description>
       <category>AI &amp; Automation</category>
       <pubDate>Wed, 26 Aug 2026 19:00:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 2700 MISSION RD (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1162756</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1162756</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1162756 | SOUTH Division | 8/26/2026 1:34:10 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/26/2026 1:34:10 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 7700 US HWY 90 W (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1162780</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1162780</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1162780 | SOUTH Division | 8/26/2026 1:41:11 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/26/2026 1:41:11 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 19000 TALAVERA RDG (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1162788</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1162788</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1162788 | PRUE Division | 8/26/2026 1:42:52 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/26/2026 1:42:52 PM</pubDate>
     </item>
   </channel>
 </rss>
