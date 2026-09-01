@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 22:20:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:34:31 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 9100 LIGHT KEEPER (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1189692</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1189692</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1189692 | SOUTH Division | 8/31/2026 8:20:34 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>8/31/2026 8:20:34 PM</pubDate>
+    </item>
+    <item>
+      <title>Even small amounts of ocean plastic can affect petrel chicks</title>
+      <link>https://phys.org/news/2026-08-small-amounts-ocean-plastic-affect.html</link>
+      <guid>https://phys.org/news/2026-08-small-amounts-ocean-plastic-affect.html</guid>
+      <description>[Climate &amp; Environment] Keyword: plastic pollution — Ocean plastic pollution is accidentally on the menu for southern giant petrel chicks. Even small nibbles of it may affect their physiology during development, according to a study from the University of California, Davis, and Argentina's National Research Council (CONICET).</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 31 Aug 2026 19:20:06 EDT</pubDate>
+    </item>
+    <item>
+      <title>Rising microplastics in soil a threat to UK food security, MPs and campaigners say</title>
+      <link>https://www.theguardian.com/environment/2026/sep/01/rising-microplastics-in-soil-a-threat-to-uk-food-security-mps-and-campaigners-say</link>
+      <guid>https://www.theguardian.com/environment/2026/sep/01/rising-microplastics-in-soil-a-threat-to-uk-food-security-mps-and-campaigners-say</guid>
+      <description>[Climate &amp; Environment] Keyword: plastic pollution — Report calls for legally binding targets to cut microplastic pollution as soil ‘is a complex living ecosystem’The accumulation of microplastics in soil presents an emerging threat to the UK’s food security, according to scientists, MPs and campaigners who have called for legally binding targets to cut microplastic pollution.UK agricultural soils have been identified as among the most contaminated by microplastics in Europe, often as a result of repeated applications of sludge from water treatmen</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 31 Aug 2026 23:01:38 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 13800 TREE CROSSING (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1188938</link>
@@ -818,31 +842,6 @@ has been present since Linux&amp;#160;2.6.27. Users are advised to upgrade.</des
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Trials for a vaccine for the Bundibugyo strain are ongoing as DRC authorities try to control the Ebola outbreak.</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Fri, 28 Aug 2026 04:27:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 13700 JUDSON RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1168981</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1168981</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1168981 | NORTH Division | 8/27/2026 6:20:27 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/27/2026 6:20:27 PM</pubDate>
-    </item>
-    <item>
-      <title>Canadian prime minister and New York lawmaker denounce Trump’s move to rename Lake Ontario as Lake America – live</title>
-      <link>https://www.theguardian.com/us-news/live/2026/aug/27/cia-moscow-nato-ratcliffe-rutte-colby-trump-paxton-voting-latest-news-updates</link>
-      <guid>https://www.theguardian.com/us-news/live/2026/aug/27/cia-moscow-nato-ratcliffe-rutte-colby-trump-paxton-voting-latest-news-updates</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Ontario is an indigenous name that predates both the US and Canada, Mark Carney says; move by Trump comes amid trade tensions Sign up for the Breaking News US emailOn Wednesday, Trump officially signed a proclamation on Wednesday that suspends higher tariffs on 300,000 metric tons of foreign beef imports for 90 days. This comes after backlash to the proposal – designed to lower grocery costs for Americans in the run-up to the November midterms.
- Several Republicans – in states with sizable cattl</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Thu, 27 Aug 2026 22:44:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Transforming polyamide microplastics into light-emitting carbon quantum dots for UV-blocking food packaging</title>
-      <link>https://phys.org/news/2026-08-polyamide-microplastics-emitting-carbon-quantum.html</link>
-      <guid>https://phys.org/news/2026-08-polyamide-microplastics-emitting-carbon-quantum.html</guid>
-      <description>[Climate &amp; Environment] Keyword: plastic pollution — Plastic pollution is one of the most urgent environmental challenges of the 21st century. As larger plastic debris breaks down through mechanical, photochemical and biological processes, it forms microplastics that have been detected in water, soil, air and even the human body. Among these materials, polyamide microplastics are of particular concern because polyamide is widely used in textiles, fishing gear, packaging and engineering materials.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 27 Aug 2026 15:40:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
