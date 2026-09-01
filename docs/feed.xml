@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 01:34:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:08:58 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 3200 NACOGDOCHES RD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1190661</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1190661</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1190661 | NORTH Division | 9/1/2026 1:55:37 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/1/2026 1:55:37 AM</pubDate>
+    </item>
+    <item>
+      <title>Flock's rapidly expanding AI surveillance network facing growing backlash in US</title>
+      <link>https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: Flock camera — BBC Verify examines the expanding network of Flock cameras in the US and the backlash against it.</description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>Tue, 01 Sep 2026 05:11:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>2M Smokehouse’s Esaul and Grecia Ramos win finale of ‘Pitmasters’ competition</title>
+      <link>https://sanantonioreport.org/san-antonio-2m-smokehouse-wins-food-network-pitmasters/</link>
+      <guid>https://sanantonioreport.org/san-antonio-2m-smokehouse-wins-food-network-pitmasters/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Esaul and Grecia Ramos celebrated winning the finale of Food Network’s “Pitmasters” television show with a huge Southtown watch party.2M Smokehouse’s Esaul and Grecia Ramos win finale of ‘Pitmasters’ competition was first posted on August 31, 2026 at 11:08 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@riva</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Tue, 01 Sep 2026 04:08:33 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 9100 LIGHT KEEPER (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1189692</link>
@@ -818,30 +842,6 @@ has been present since Linux&amp;#160;2.6.27. Users are advised to upgrade.</des
       <description>[Open Source Software] Keyword: FOSS — Energy minister says states can apply to use coal and gas supply to power datacentres but must prove it is cheaper than renewablesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastChris Bowen insists federal Labor’s new national laws on datacentre power supply will not include carve-outs for Queensland and the Northern Territory, with states that are eager to use coal and gas required to make their case to the national regulator.The </description>
       <category>Open Source Software</category>
       <pubDate>Fri, 28 Aug 2026 04:17:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic proposes plumbing spec to link AI agents to lab kit and robots</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135</link>
-      <guid>https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Say you're trying to enrich Uranium and your centrifuges broke - soon it will be easy to connect an AI to figure out why</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Fri, 28 Aug 2026 01:22:35 +0200</pubDate>
-    </item>
-    <item>
-      <title>Australian cops cuff alleged TeamPCP masterminds</title>
-      <link>https://www.theregister.com/security/2026/08/28/australian-cops-cuff-alleged-teampcp-masterminds/5293157</link>
-      <guid>https://www.theregister.com/security/2026/08/28/australian-cops-cuff-alleged-teampcp-masterminds/5293157</guid>
-      <description>[Cybersecurity] Keyword: supply chain attack — Alleged crew behind the Shai-Hulud worm and other supply chain attacks nabbed with help from the FBI</description>
-      <category>Cybersecurity</category>
-      <pubDate>Fri, 28 Aug 2026 05:33:54 +0200</pubDate>
-    </item>
-    <item>
-      <title>DRC begins vaccinating front-line healthcare workers against Ebola</title>
-      <link>https://www.aljazeera.com/news/2026/8/28/drc-begins-vaccinating-front-line-healthcare-workers-against-ebola?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/8/28/drc-begins-vaccinating-front-line-healthcare-workers-against-ebola?traffic_source=rss</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Trials for a vaccine for the Bundibugyo strain are ongoing as DRC authorities try to control the Ebola outbreak.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Fri, 28 Aug 2026 04:27:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
