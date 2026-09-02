@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 22:57:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:50:50 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Federal Judge Strikes Down New York’s Climate Change Superfund Law</title>
+      <link>https://insideclimatenews.org/news/01092026/federal-judge-strikes-down-new-york-climate-change-superfund-act/</link>
+      <guid>https://insideclimatenews.org/news/01092026/federal-judge-strikes-down-new-york-climate-change-superfund-act/</guid>
+      <description>[Open Source Software] Keyword: FOSS — A federal judge has struck down New York’s Climate Change Superfund Act, ruling that it “conflicts with” federal authority.&amp;#160;&amp;#160; The legislation would have required fossil fuel companies to help cover the costs of adapting to climate change, but it operates in an area of the law “in which the federal interest is so dominant that [&amp;#8230;]</description>
+      <category>Open Source Software</category>
+      <pubDate>Tue, 01 Sep 2026 23:19:38 +0000</pubDate>
+    </item>
     <item>
       <title>To promote climate action, emotion may matter more than information</title>
       <link>https://phys.org/news/2026-09-climate-action-emotion.html</link>
@@ -828,14 +836,6 @@ calculate the Anubis challenge.
 It's </description>
       <category>Open Source Software</category>
       <pubDate>Sat, 29 Aug 2026 09:32:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Grid Has Eyes</title>
-      <link>https://insideclimatenews.org/news/29082026/alabama-power-flock-surveillance-cameras/</link>
-      <guid>https://insideclimatenews.org/news/29082026/alabama-power-flock-surveillance-cameras/</guid>
-      <description>[ALPR &amp; Flock Cameras] Keyword: DeFlock — Wired for Profit: Fifth in a series about Alabama Power’s influence over electric rates, renewable energy, pollution and politics in the Yellowhammer State. BIRMINGHAM, Ala.—Darrell Nance knows he’s being watched. We all are.&amp;#160; Nance, a longtime resident of the city and founder of DeFlock Birmingham, can easily point out the cameras to you if you’re [&amp;#8230;]</description>
-      <category>ALPR &amp; Flock Cameras</category>
-      <pubDate>Sat, 29 Aug 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
