@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 00:50:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 05:23:19 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Climate ‘Overshoot’ Is Coming—Are We Ready?</title>
+      <link>https://insideclimatenews.org/news/02092026/un-report-climate-overshoot-warning/</link>
+      <guid>https://insideclimatenews.org/news/02092026/un-report-climate-overshoot-warning/</guid>
+      <description>[Open Source Software] Keyword: FOSS — Fossil fuel emissions are pushing Earth’s climate toward a dangerous new phase of climate “overshoot,” scientists warned Wednesday in a new report from the United Nations Environmental Programme. The report, Limiting Overshoot, projects that global temperatures will exceed the 1.5-degree Celsius (2.7 degrees Fahrenheit) warming threshold identified in the Paris Agreement within a few years, [&amp;#8230;]</description>
+      <category>Open Source Software</category>
+      <pubDate>Wed, 02 Sep 2026 04:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Honduran court drops case against ex-President Hernandez after Trump pardon</title>
+      <link>https://www.aljazeera.com/news/2026/9/2/honduran-court-drops-case-against-ex-president-hernandez-after-trump-pardon?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/news/2026/9/2/honduran-court-drops-case-against-ex-president-hernandez-after-trump-pardon?traffic_source=rss</guid>
+      <description>[Government Accountability] Keyword: government corruption — Juan Orlando Hernandez had been accused of money laundering and fraud as part of a government corruption scheme.</description>
+      <category>Government Accountability</category>
+      <pubDate>Wed, 02 Sep 2026 02:34:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Germany says Russia preparing ‘hybrid’ attacks over Ukraine support</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — Germany says an attempted drone attack at Leipzig Airport showed hallmarks of Russian hybrid operations against Ukraine.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Wed, 02 Sep 2026 04:43:57 +0000</pubDate>
+    </item>
     <item>
       <title>Federal Judge Strikes Down New York’s Climate Change Superfund Law</title>
       <link>https://insideclimatenews.org/news/01092026/federal-judge-strikes-down-new-york-climate-change-superfund-act/</link>
@@ -801,41 +825,6 @@ Responsible Use of Generative AI.
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1177020 | WEST Division | 8/29/2026 5:04:02 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>8/29/2026 5:04:02 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Robbery In Progress — 1100 CASTROVILLE RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1177055</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1177055</guid>
-      <description>[SAPD Calls for Service] Keyword: Robbery In Progress — Incident #SAPD-2026-1177055 | WEST Division | 8/29/2026 5:27:20 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>8/29/2026 5:27:20 AM</pubDate>
-    </item>
-    <item>
-      <title>Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows</title>
-      <link>https://www.theguardian.com/australia-news/2026/aug/29/statins-reduce-risk-heart-attack-stroke-over-70s-clinical-trial</link>
-      <guid>https://www.theguardian.com/australia-news/2026/aug/29/statins-reduce-risk-heart-attack-stroke-over-70s-clinical-trial</guid>
-      <description>[Science &amp; Research] Keyword: clinical trial — Australian-led trial finds low risk of side effects from common cholesterol-lowering medication for otherwise healthy older peopleTaking a common cholesterol-lowering medication can reduce the risk of a heart attack or stroke for people aged over 70, with a low risk of serious side effects, a world-first clinical trial led by Australian researchers has found.Statins are already commonly prescribed to people under the age of 75 who meet certain risk criteria, such as having diabetes and high chol</description>
-      <category>Science &amp; Research</category>
-      <pubDate>Sat, 29 Aug 2026 06:25:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ryabitsev: Creepy crawlies</title>
-      <link>https://lwn.net/Articles/1091203/</link>
-      <guid>https://lwn.net/Articles/1091203/</guid>
-      <description>[Open Source Software] Keyword: Linux kernel — Konstantin Ryabitsev has written a blog post with
-hard numbers about the impact of AI crawlers on the Linux kernel
-repositories at git.kernel.org:
-
-
-Today, git.kernel.org receives about 6M daily requests demanding to see
-random commits. Of these, 66% are still immediately batted away with the Anubis
-challenge, but 33% are now solving the math and getting through to the main site
-— because apparently what we have to offer is worth spending a ton of cycles to
-calculate the Anubis challenge.
-
-It's </description>
-      <category>Open Source Software</category>
-      <pubDate>Sat, 29 Aug 2026 09:32:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
