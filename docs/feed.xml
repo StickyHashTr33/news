@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 02:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 07:41:14 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 900 W SILVER SANDS DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1200407</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1200407</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1200407 | NORTH Division | 9/3/2026 2:26:33 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/3/2026 2:26:33 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 5800 CYPRESS BEND (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1199632</link>
@@ -808,14 +816,6 @@ Hi, I’m Tommy from the Trevor Project! The Trevor Project’s mission is to en
       <description>[Open Source Software] Keyword: FOSS — Secretive state begins repairs on ageing facilities after being revealed as worst country for leaks of potent greenhouse gasTurkmenistan has started plugging the mega-leaks of methane that spew from its ageing oil and gas facilities, the latest UN data shows, in a move hailed as a breakthrough.Methane, also called natural or fossil gas, is a potent greenhouse gas. It traps 80 times more heat than carbon dioxide and causes 25% of global heating today. Stopping leaks can be quick and cheap and, be</description>
       <category>Open Source Software</category>
       <pubDate>Mon, 31 Aug 2026 07:00:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Germany news: Police operation in Cologne after shots fired</title>
-      <link>https://www.dw.com/en/germany-news-police-operation-in-cologne-after-shots-fired/live-78568957?maca=en-rss-en-all-1573-rdf</link>
-      <guid>https://www.dw.com/en/germany-news-police-operation-in-cologne-after-shots-fired/live-78568957?maca=en-rss-en-all-1573-rdf</guid>
-      <description>[Immigration &amp; Border] Keyword: ICE operation — Police have cordoned off part of southern Cologne, reporting multiple shots fired at an apparently empty cafe early in the morning. They did not report casualties but were searching the area for a suspect. DW has more.</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>2026-08-31T08:02:00Z</pubDate>
     </item>
   </channel>
 </rss>
