@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 20:42:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 22:45:18 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 1300 S LAREDO ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1208291</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1208291</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1208291 | DOWNTOWN Division | 9/4/2026 5:28:11 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/4/2026 5:28:11 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 1200 STARHAVEN PLACE (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1208292</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1208292</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1208292 | WEST Division | 9/4/2026 5:28:12 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/4/2026 5:28:12 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — S0 IH 37 S OFRP MILITARY DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1208293</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1208293</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1208293 | SOUTH Division | 9/4/2026 5:28:14 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/4/2026 5:28:14 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 2700 SE MILITARY DR (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1207745</link>
@@ -788,30 +812,6 @@ On August 28, Texas Governor Greg Abbott banned state agencies from spending pub
       <description>[AI &amp; Automation] Keyword: LLM — Security updates have been issued by AlmaLinux (dbus-broker, freerdp, gegl, gegl04, gimp, gimp:2.8, glib2, grafana, gzip, iperf3, libssh, nodejs22, nodejs24, nodejs:22, nodejs:24, php:7.4, php:8.2, pipewire, ruby:3.3, ruby:4.0, tar, wget, and xmlrpc-c), Debian (cyrus-imapd, keystone, and lemonldap-ng), Fedora (bubblewrap, cockpit, emacs, gdk-pixbuf2, openssl, openvkl, python-linkify-it-py, python-llm, and rkcommon), Gentoo (Chromium, Google Chrome, Microsoft Edge, Opera, Vivaldi), Oracle (glib2,</description>
       <category>AI &amp; Automation</category>
       <pubDate>Wed, 02 Sep 2026 13:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic hires architect of UK AI policy as MPs warn of 'clear conflict of interest'</title>
-      <link>https://www.theregister.com/public-sector/2026/09/02/anthropic-hires-architect-of-uk-ai-policy-as-mps-warn-of-clear-conflict-of-interest/5293903</link>
-      <guid>https://www.theregister.com/public-sector/2026/09/02/anthropic-hires-architect-of-uk-ai-policy-as-mps-warn-of-clear-conflict-of-interest/5293903</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — Matt Clifford plans to keep role as ARIA chair while leading the LLM maker's dealings with governments outside North America</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Wed, 02 Sep 2026 15:15:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Whatever happened to ... children infected with HIV due to failures in healthcare?</title>
-      <link>https://www.npr.org/2026/09/02/g-s1-140934/hiv-aids-children-pakistan</link>
-      <guid>https://www.npr.org/2026/09/02/g-s1-140934/hiv-aids-children-pakistan</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — For years, Pakistan has seen cases of children infected with HIV due to unsafe treatment in clinics and hospitals. A current outbreak numbers hundreds of cases. Why does this problem keep occurring?</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Wed, 02 Sep 2026 07:58:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 1200 S NEW BRAUNFELS AVE (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1195792</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1195792</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1195792 | EAST Division | 9/2/2026 4:36:44 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/2/2026 4:36:44 AM</pubDate>
     </item>
   </channel>
 </rss>
