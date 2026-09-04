@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 22:11:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:40:28 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 500 ARTHUR ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1203916</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1203916</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1203916 | EAST Division | 9/3/2026 7:24:08 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/3/2026 7:24:08 PM</pubDate>
+    </item>
+    <item>
+      <title>Warming seas could shrink most mollusks by 2100, but some may grow</title>
+      <link>https://phys.org/news/2026-09-seas-mollusks.html</link>
+      <guid>https://phys.org/news/2026-09-seas-mollusks.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Research led by scientists at the University of Louisiana at Lafayette challenges a long-held assumption about the effects of climate change on marine life: Warmer oceans won't simply make animals smaller.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 03 Sep 2026 18:40:03 EDT</pubDate>
+    </item>
+    <item>
+      <title>Tiny fossils reveal big insights about ant ancestors</title>
+      <link>https://phys.org/news/2026-09-tiny-fossils-reveal-big-insights.html</link>
+      <guid>https://phys.org/news/2026-09-tiny-fossils-reveal-big-insights.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — Two tiny ant fossils recovered in southern Saskatchewan are helping scientists better understand the evolutionary history of modern ants. Ant fossils dating from 72–56 million years ago are rare. What happened to insects such as ants during this period that saw a mass extinction wipe out all non-bird dinosaurs? How did that event reshape their world?</description>
+      <category>Open Source Software</category>
+      <pubDate>Thu, 03 Sep 2026 19:20:01 EDT</pubDate>
+    </item>
     <item>
       <title>El Nino: A phenomenon supercharged by climate change</title>
       <link>https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss</link>
@@ -789,30 +813,6 @@ The post The Year for Magical Thinking appeared first on The Texas Observer.</de
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Clear communication is the secret sauce to safe and effective treatment.</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>2026-09-01T12:04:29Z</pubDate>
-    </item>
-    <item>
-      <title>The Amazon’s Defenders Declare a State of Emergency</title>
-      <link>https://insideclimatenews.org/news/01092026/amazons-defenders-declare-state-of-emergency/</link>
-      <guid>https://insideclimatenews.org/news/01092026/amazons-defenders-declare-state-of-emergency/</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — PUYO, Ecuador—People fighting oil wells, mines and other threats to their homelands did not come to this Amazonian city to lobby politicians at an environmental conference hosted by governments. They built the conference themselves.&amp;#160; The 12th Pan-Amazonian Social Forum, known as FOSPA, brought together Indigenous leaders, Afro-descendent communities, women, youth and other environmental defenders and [&amp;#8230;]</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Tue, 01 Sep 2026 09:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China says solar power capacity surpasses coal for first time</title>
-      <link>https://hongkongfp.com/2026/09/01/china-says-solar-power-capacity-surpasses-coal-for-first-time/</link>
-      <guid>https://hongkongfp.com/2026/09/01/china-says-solar-power-capacity-surpasses-coal-for-first-time/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — China&amp;#8217;s installed solar energy capacity has surpassed that of coal-fired power for the first time, the national energy body said Tuesday, hailing the milestone. China, the world&amp;#8217;s largest emitter of greenhouse gases that drive climate change, has pledged to peak carbon emissions by 2030 and achieve carbon neutrality by 2060. &amp;#8220;As of the end of [&amp;#8230;]</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 01 Sep 2026 12:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>High blood sugar may help cancer cells hide from the immune system</title>
-      <link>https://www.sciencedaily.com/releases/2026/08/260829235950.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/08/260829235950.htm</guid>
-      <description>[Diabetes &amp; Kidney Disease] Keyword: blood sugar — Researchers discovered a possible way cancer cells hide from the immune system: they build a thick, sugar-rich coating around themselves. High blood sugar can strengthen this protective shield under conditions that resemble the environment inside tumors, with the protein HSF1 playing a key role. Blocking this process could make cancer cells easier for the immune system to recognize and destroy.</description>
-      <category>Diabetes &amp; Kidney Disease</category>
-      <pubDate>Mon, 31 Aug 2026 22:39:55 EDT</pubDate>
     </item>
   </channel>
 </rss>
