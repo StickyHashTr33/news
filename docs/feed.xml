@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 22:45:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 00:35:23 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 8100 CROSS CRK (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1208779</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1208779</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1208779 | EAST Division | 9/4/2026 7:20:12 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/4/2026 7:20:12 PM</pubDate>
+    </item>
+    <item>
+      <title>How the hunger for a new weight loss drug is feeding an industry of fakes</title>
+      <link>https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[Science &amp; Research] Keyword: clinical trial — Counterfeit versions of a drug which is still in clinical trials are flooding the black market.</description>
+      <category>Science &amp; Research</category>
+      <pubDate>Fri, 04 Sep 2026 23:47:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Midtown TIRZ commits $166M to buy land for Spurs arena and projects at Zoo, Brackenridge Park and Botanical Gardens</title>
+      <link>https://sanantonioreport.org/midtown-tirz-commits-to-buy-land-for-spurs-arena-and-other-projects/</link>
+      <guid>https://sanantonioreport.org/midtown-tirz-commits-to-buy-land-for-spurs-arena-and-other-projects/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Not all board members of the wealthiest tax increment financing zone agreed it should chip in millions to help buy land for the Spurs arena.Midtown TIRZ commits $166M to buy land for Spurs arena and projects at Zoo, Brackenridge Park and Botanical Gardens was first posted on September 4, 2026 at 5:47 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright </description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Fri, 04 Sep 2026 22:47:32 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 1300 S LAREDO ST (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1208291</link>
@@ -788,30 +812,6 @@ On August 28, Texas Governor Greg Abbott banned state agencies from spending pub
       <description>[Climate &amp; Environment] Keyword: global warming — The world is on track to cross the 1.5°C global warming threshold, likely within the next few years, according to a major new UN Environment Programme (UNEP) report released today. Limiting Overshoot finds that even the most optimistic scenario now points to a peak temperature rise of 1.8°C, with most other projections higher still, but concludes that an &quot;overshoot, peak and decline&quot; pathway can still bring the world back below 1.5°C if governments act immediately on emissions, methane and the f</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Wed, 02 Sep 2026 09:58:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bio-based plastic turns into fertilizer after use</title>
-      <link>https://phys.org/news/2026-09-bio-based-plastic-fertilizer.html</link>
-      <guid>https://phys.org/news/2026-09-bio-based-plastic-fertilizer.html</guid>
-      <description>[Worker Cooperatives &amp; Solidarity Economy] Keyword: co-op — Plastic waste is one of the world's fastest-growing environmental problems. According to the Organization for Economic Co-operation and Development's Global Plastics Outlook: Policy Scenarios to 2060 report, global plastic use is projected to nearly triple from 460 million metric tons in 2019 to 1.2 billion metric tons by 2060 if current trends continue.</description>
-      <category>Worker Cooperatives &amp; Solidarity Economy</category>
-      <pubDate>Wed, 02 Sep 2026 10:00:07 EDT</pubDate>
-    </item>
-    <item>
-      <title>Cops Are Asking Axon to Make Their Cameras Look Different From Flock So People Don't Destroy Them</title>
-      <link>https://www.404media.co/cops-are-asking-axon-to-make-their-cameras-look-different-from-flock-so-people-dont-destroy-them/</link>
-      <guid>https://www.404media.co/cops-are-asking-axon-to-make-their-cameras-look-different-from-flock-so-people-dont-destroy-them/</guid>
-      <description>[ALPR &amp; Flock Cameras] Keyword: Flock camera — “Is there any talk to redesign the Outpost to not look exactly like the Flock camera — I think it will help agencies with the optics while we batten down the hatches,” one apparent cop asked during a now deleted Axon webinar.</description>
-      <category>ALPR &amp; Flock Cameras</category>
-      <pubDate>Wed, 02 Sep 2026 14:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Wednesday</title>
-      <link>https://lwn.net/Articles/1092149/</link>
-      <guid>https://lwn.net/Articles/1092149/</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — Security updates have been issued by AlmaLinux (dbus-broker, freerdp, gegl, gegl04, gimp, gimp:2.8, glib2, grafana, gzip, iperf3, libssh, nodejs22, nodejs24, nodejs:22, nodejs:24, php:7.4, php:8.2, pipewire, ruby:3.3, ruby:4.0, tar, wget, and xmlrpc-c), Debian (cyrus-imapd, keystone, and lemonldap-ng), Fedora (bubblewrap, cockpit, emacs, gdk-pixbuf2, openssl, openvkl, python-linkify-it-py, python-llm, and rkcommon), Gentoo (Chromium, Google Chrome, Microsoft Edge, Opera, Vivaldi), Oracle (glib2,</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Wed, 02 Sep 2026 13:16:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
