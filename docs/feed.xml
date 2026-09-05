@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 16:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 18:46:13 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 7500 S NEW BRAUNFELS AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1211972</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1211972</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1211972 | SOUTH Division | 9/5/2026 1:31:33 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/5/2026 1:31:33 PM</pubDate>
+    </item>
+    <item>
+      <title>US study tests psilocybin to fight cancer side effects</title>
+      <link>https://phys.org/news/2026-09-psilocybin-cancer-side-effects.html</link>
+      <guid>https://phys.org/news/2026-09-psilocybin-cancer-side-effects.html</guid>
+      <description>[Psychedelics &amp; Psilocybin Research] Keyword: psilocybin — Here's a novel idea for countering the painful side effects of chemotherapy: Beforehand, take the hallucinogenic drug found in magic mushrooms.</description>
+      <category>Psychedelics &amp; Psilocybin Research</category>
+      <pubDate>Sat, 05 Sep 2026 13:30:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 9200 VISTA WEST DR (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1211471</link>
@@ -795,22 +811,6 @@ The post Rural Organizers Are Building Power by Fighting Cuts to Federal Funding
       <description>[Climate &amp; Environment] Keyword: global warming — The Pacific islands will face food shortages, and drinking water will be affected by rising seas, scientists said Wednesday, as a U.N. report found the world would fail to limit global warming to 1.5°C.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Wed, 02 Sep 2026 20:40:02 EDT</pubDate>
-    </item>
-    <item>
-      <title>B&amp;Q and Five Guys among firms that paid staff below minimum wage</title>
-      <link>https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Labor &amp; Worker Rights] Keyword: minimum wage — More than 600 companies underpaid staff, with £4m returned to workers, according to the government.</description>
-      <category>Labor &amp; Worker Rights</category>
-      <pubDate>Wed, 02 Sep 2026 23:08:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Australia’s new environmental protection agency approves coal project, angering climate groups</title>
-      <link>https://www.theguardian.com/environment/2026/sep/03/saraji-qld-bhp-bma-coal-project-approved-2055-angering-climate-groups</link>
-      <guid>https://www.theguardian.com/environment/2026/sep/03/saraji-qld-bhp-bma-coal-project-approved-2055-angering-climate-groups</guid>
-      <description>[Open Source Software] Keyword: FOSS — Queensland open-cut Saraji mine will be able to keep digging until 2055 as Anthony Albanese denies tensions with Pacific leaders over fossil fuelsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAustralia’s new national agency for environmental protection has approved its first coal project, allowing a Queensland open-cut mine to keep digging until 2055 while clearing threatened woodland and koala habitat.The confirmation of the ext</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 03 Sep 2026 02:23:37 GMT</pubDate>
     </item>
   </channel>
 </rss>
