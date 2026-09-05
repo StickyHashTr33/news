@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 18:46:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 20:55:29 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 500 S ACME RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1212404</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1212404</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1212404 | WEST Division | 9/5/2026 3:42:01 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/5/2026 3:42:01 PM</pubDate>
+    </item>
+    <item>
+      <title>“I’m Walking Through the Streets… Carrying Shame and Humiliation”</title>
+      <link>https://www.motherjones.com/politics/2026/09/pierre-damas-bel-death-ice-tps/</link>
+      <guid>https://www.motherjones.com/politics/2026/09/pierre-damas-bel-death-ice-tps/</guid>
+      <description>[Science &amp; Research] Keyword: neuroscience — The family of Pierre Damas Bel, a 20-year-old Haitian immigrant in Springfield Ohio, says he died by suicide August 31 after losing Temporary Protected Status. Bel, an avid soccer player and JROTC member, was beginning his freshman year as an honors neuroscience student at Wright State University. But in July, Bel became one of about [&amp;#8230;]</description>
+      <category>Science &amp; Research</category>
+      <pubDate>Sat, 05 Sep 2026 20:27:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Possums in the roof, koalas in bed: study shows how animals resort to Australian homes after habitat loss</title>
+      <link>https://www.theguardian.com/environment/2026/sep/06/possums-in-the-roof-koalas-in-bed-study-shows-how-animals-resort-to-australian-homes-after-habitat-loss</link>
+      <guid>https://www.theguardian.com/environment/2026/sep/06/possums-in-the-roof-koalas-in-bed-study-shows-how-animals-resort-to-australian-homes-after-habitat-loss</guid>
+      <description>[Ecology &amp; Conservation] Keyword: habitat loss — Microbats and wombats among the most common species found in buildings, with some discovered in letter boxes or air conditioning systemsGet our breaking news email, free app or daily news podcastPossums in the roof, bats in the curtains and ducks on the balcony: new research has revealed how native animals are making themselves at home in our houses.Researchers have analysed a decade of wildlife rescue reports and found brushtail and ringtail possums make up half of all cases of animals in build</description>
+      <category>Ecology &amp; Conservation</category>
+      <pubDate>Sat, 05 Sep 2026 20:00:47 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 7500 S NEW BRAUNFELS AVE (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1211972</link>
@@ -787,30 +811,6 @@ The post Rural Organizers Are Building Power by Fighting Cuts to Federal Funding
       <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1199632 | NORTH Division | 9/2/2026 9:21:20 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>9/2/2026 9:21:20 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — 14200 SAGE TRL (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1199646</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1199646</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1199646 | PRUE Division | 9/2/2026 9:25:15 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/2/2026 9:25:15 PM</pubDate>
-    </item>
-    <item>
-      <title>Crash in dugong population estimates, a warning sign governments can't ignore</title>
-      <link>https://phys.org/news/2026-09-dugong-population.html</link>
-      <guid>https://phys.org/news/2026-09-dugong-population.html</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — A 50% decline in the Gulf of Carpentaria dugong population estimate is a wake-up call for urgent action to protect dugongs in the Gulf, based on surveys undertaken by researchers from James Cook University, Charles Darwin University and Indigenous Ranger groups.</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Wed, 02 Sep 2026 22:20:04 EDT</pubDate>
-    </item>
-    <item>
-      <title>Pacific islands to face food shortages due to global warming: Scientists</title>
-      <link>https://phys.org/news/2026-09-pacific-islands-food-shortages-due.html</link>
-      <guid>https://phys.org/news/2026-09-pacific-islands-food-shortages-due.html</guid>
-      <description>[Climate &amp; Environment] Keyword: global warming — The Pacific islands will face food shortages, and drinking water will be affected by rising seas, scientists said Wednesday, as a U.N. report found the world would fail to limit global warming to 1.5°C.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 02 Sep 2026 20:40:02 EDT</pubDate>
     </item>
   </channel>
 </rss>
