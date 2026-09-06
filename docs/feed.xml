@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2026 21:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 23:25:59 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 24400 DREW GAP (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1217484</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1217484</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1217484 | PRUE Division | 9/6/2026 6:06:10 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/6/2026 6:06:10 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 4800 RAY BON DR (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1216957</link>
@@ -801,14 +809,6 @@ Obviously, this phrase is not unique to this specific scandal; anyone old enough
       <description>[Climate &amp; Environment] Keyword: climate change — The color of penguin poop, as seen from space, is offering a new window into how Antarctica's ecology and environment are changing over time.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Thu, 03 Sep 2026 14:40:11 EDT</pubDate>
-    </item>
-    <item>
-      <title>Neutron bone imaging brings T. rex to life</title>
-      <link>https://phys.org/news/2026-09-neutron-bone-imaging-rex-life.html</link>
-      <guid>https://phys.org/news/2026-09-neutron-bone-imaging-rex-life.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — A broken rib from Scotty, the largest T. rex skeleton discovered, is helping scientists uncover new information about life on Earth 66 million years ago. Scotty's rib preserves something rarely seen in the fossil record: a healing injury frozen in time.</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 03 Sep 2026 13:20:11 EDT</pubDate>
     </item>
   </channel>
 </rss>
