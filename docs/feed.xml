@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2026 16:41:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 18:49:57 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 4200 MISTY GLADE (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1216441</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1216441</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1216441 | NORTH Division | 9/6/2026 1:30:42 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/6/2026 1:30:42 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 7200 SW LOOP 410 (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1216457</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1216457</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1216457 | SOUTH Division | 9/6/2026 1:34:29 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/6/2026 1:34:29 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 15600 IH 10 W (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1216469</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1216469</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1216469 | PRUE Division | 9/6/2026 1:37:55 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/6/2026 1:37:55 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 300 SAN PEDRO AVE (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1216039</link>
@@ -785,30 +809,6 @@ Obviously, this phrase is not unique to this specific scandal; anyone old enough
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Former Frost Bank president Pat Frost is stepping in to lead the Greater Chamber of Commerce until it finds a new chief.Greater Chamber taps interim CEO after leadership exodus was first posted on September 3, 2026 at 2:07 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Thu, 03 Sep 2026 19:07:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Serbians targeted with spyware in country’s ‘largest documented wave of surveillance’</title>
-      <link>https://www.theguardian.com/world/2026/sep/03/serbians-targeted-with-advanced-spyware</link>
-      <guid>https://www.theguardian.com/world/2026/sep/03/serbians-targeted-with-advanced-spyware</guid>
-      <description>[Digital Rights &amp; Privacy] Keyword: digital rights — Student protesters among those hacked, says digital rights group, though Aleksandar Vučić’s government denies spyingAt least 14 people from across Serbian civil society were targeted with advanced spyware earlier this year in what the digital rights group Share Foundation said was the largest documented ​wave of such infection in Serbia to date.The wave of spyware infections was discovered in August after Apple notified people in 110 ⁠countries that they had probably been victims ⁠of mercenary s</description>
-      <category>Digital Rights &amp; Privacy</category>
-      <pubDate>Thu, 03 Sep 2026 17:48:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 600 DAVY CROCKETT RD (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1201914</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1201914</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1201914 | SOUTH Division | 9/3/2026 11:41:18 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/3/2026 11:41:18 AM</pubDate>
-    </item>
-    <item>
-      <title>Completing the connectome: How pursuing a map of the fly brain rewired neuroscience</title>
-      <link>https://phys.org/news/2026-09-connectome-pursuing-fly-brain-rewired.html</link>
-      <guid>https://phys.org/news/2026-09-connectome-pursuing-fly-brain-rewired.html</guid>
-      <description>[Science &amp; Research] Keyword: neuroscience — When researchers at HHMI's Janelia Research Campus set out to create a map of all the neurons in the fruit fly brain in 2008, many in the scientific community thought they were out of their minds.</description>
-      <category>Science &amp; Research</category>
-      <pubDate>Thu, 03 Sep 2026 11:00:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
