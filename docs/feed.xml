@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 22:37:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 00:32:18 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Aviation faces hotter, stormier skies – and passengers might have to accept more disruption</title>
+      <link>https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sat, 05 Sep 2026 23:20:00 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person - Endangered — 300 HAWTHORNE ST (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1212774</link>
@@ -802,14 +810,6 @@ Yes, it's time for another edition of the game show to end all game shows, and m
       <description>[Worker Cooperatives &amp; Solidarity Economy] Keyword: collective bargaining — Years of wrangling over pay, union recognition and collective bargaining are now back on the negotiating table.</description>
       <category>Worker Cooperatives &amp; Solidarity Economy</category>
       <pubDate>Thu, 03 Sep 2026 11:55:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>James Talarico’s U.S. Senate campaign held a Lotería in San Antonio</title>
-      <link>https://sanantonioreport.org/james-talarico-us-senate-campaign-loteria-san-antonio/</link>
-      <guid>https://sanantonioreport.org/james-talarico-us-senate-campaign-loteria-san-antonio/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The rising Democratic star looks to harness some of his fandom to build some party infrastructure in a state where it's been lacking.James Talarico&amp;#8217;s U.S. Senate campaign held a Lotería in San Antonio was first posted on September 3, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardre</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
