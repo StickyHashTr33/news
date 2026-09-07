@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 21:53:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 23:55:35 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 7400 SADDLE BEND DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1222254</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1222254</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1222254 | WEST Division | 9/7/2026 6:43:58 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/7/2026 6:43:58 PM</pubDate>
+    </item>
+    <item>
+      <title>How Indigenous Protected Areas became a vital way to protect nature in Australia</title>
+      <link>https://phys.org/news/2026-09-indigenous-areas-vital-nature-australia.html</link>
+      <guid>https://phys.org/news/2026-09-indigenous-areas-vital-nature-australia.html</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — When you think of conservation in Australia, chances are you'll think of a national park.</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Mon, 07 Sep 2026 19:20:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 800 COLIMA ST (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1221798</link>
@@ -793,22 +809,6 @@ Obviously, this phrase is not unique to this specific scandal; anyone old enough
       <description>[Climate &amp; Environment] Keyword: plastic pollution — Plastic is a wonder material that has molded itself to fit a wide variety of applications. But it comes with a host of drawbacks that aren't fully considered. That's why the United Nations has convened to hammer out a treaty to address plastic pollution.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Fri, 04 Sep 2026 14:00:10 EDT</pubDate>
-    </item>
-    <item>
-      <title>El Niño-Induced Drought Will Reduce Shipping Through Panama Canal</title>
-      <link>https://truthout.org/articles/el-nino-induced-drought-will-reduce-shipping-through-panama-canal/</link>
-      <guid>https://truthout.org/articles/el-nino-induced-drought-will-reduce-shipping-through-panama-canal/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — The El Niño weather phenomenon is becoming more impactful due to the effects of climate change, a new study shows.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Fri, 04 Sep 2026 15:27:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wildfires Are Sweeping North America. Trump Fired the People Who Fight Them.</title>
-      <link>https://truthout.org/articles/wildfires-are-sweeping-north-america-trump-fired-the-people-who-fight-them/</link>
-      <guid>https://truthout.org/articles/wildfires-are-sweeping-north-america-trump-fired-the-people-who-fight-them/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — As climate change worsens wildfires, a gutted US Forest Service is struggling to keep up.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Fri, 04 Sep 2026 16:25:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
