@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2026 23:25:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 02:31:48 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 4800 LORD RD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1218233</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1218233</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1218233 | EAST Division | 9/6/2026 9:15:23 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/6/2026 9:15:23 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 1800 BUDDING BLVD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1218255</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1218255</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1218255 | NORTH Division | 9/6/2026 9:20:19 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/6/2026 9:20:19 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 24400 DREW GAP (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1217484</link>
@@ -793,22 +809,6 @@ Obviously, this phrase is not unique to this specific scandal; anyone old enough
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A judge found errors in Jason Wolff’s petition notarizations but declined to remove the independent candidate from the Bexar County DA ballot.Jason Wolff stays on Bexar County District Attorney ballot after failed GOP challenge was first posted on September 3, 2026 at 4:32 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Thu, 03 Sep 2026 21:32:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 7700 WOODCHASE DR (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1202546</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1202546</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1202546 | PRUE Division | 9/3/2026 2:20:45 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/3/2026 2:20:45 PM</pubDate>
-    </item>
-    <item>
-      <title>Satellite images show how penguins' diets are changing in response to Antarctic climate change</title>
-      <link>https://phys.org/news/2026-09-satellite-images-penguins-diets-response.html</link>
-      <guid>https://phys.org/news/2026-09-satellite-images-penguins-diets-response.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — The color of penguin poop, as seen from space, is offering a new window into how Antarctica's ecology and environment are changing over time.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 03 Sep 2026 14:40:11 EDT</pubDate>
     </item>
   </channel>
 </rss>
