@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 23:55:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 02:44:56 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 5800 ANALISSA (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1222830</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1222830</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1222830 | SOUTH Division | 9/7/2026 9:29:54 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/7/2026 9:29:54 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 7400 SADDLE BEND DR (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1222254</link>
@@ -801,14 +809,6 @@ Obviously, this phrase is not unique to this specific scandal; anyone old enough
       <description>[Climate &amp; Environment] Keyword: global warming — The world is set to miss the 1.5°C global warming target, and plans are underway for U.N. climate talks in the Pacific and Turkey.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Fri, 04 Sep 2026 12:00:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Want a solution to plastic pollution? Scientists urge UN to require global reporting</title>
-      <link>https://phys.org/news/2026-09-solution-plastic-pollution-scientists-urge.html</link>
-      <guid>https://phys.org/news/2026-09-solution-plastic-pollution-scientists-urge.html</guid>
-      <description>[Climate &amp; Environment] Keyword: plastic pollution — Plastic is a wonder material that has molded itself to fit a wide variety of applications. But it comes with a host of drawbacks that aren't fully considered. That's why the United Nations has convened to hammer out a treaty to address plastic pollution.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Fri, 04 Sep 2026 14:00:10 EDT</pubDate>
     </item>
   </channel>
 </rss>
