@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2026 02:44:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 07:45:28 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 5100 OVERPOOL (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1223703</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1223703</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1223703 | WEST Division | 9/8/2026 2:21:30 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/8/2026 2:21:30 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 2200 BANDERA RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1223727</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1223727</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1223727 | WEST Division | 9/8/2026 2:33:29 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/8/2026 2:33:29 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 5800 ANALISSA (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1222830</link>
@@ -793,22 +809,6 @@ The post Cassandra Crossing: The Strange Alarmism in Germany’s Secur</descript
 Obviously, this phrase is not unique to this specific scandal; anyone old enough will remember NFL comm</description>
       <category>AI &amp; Automation</category>
       <pubDate>Fri, 04 Sep 2026 18:15:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Since the 1980s, climate change has increasingly altered European bumblebee habitats</title>
-      <link>https://phys.org/news/2026-09-1980s-climate-european-bumblebee-habitats.html</link>
-      <guid>https://phys.org/news/2026-09-1980s-climate-european-bumblebee-habitats.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Global biodiversity loss is occurring at a rapid pace, driven by multiple human-caused factors, including overexploitation, pollution, invasive species and climate change. Despite increasing research on the impact of climate change on wildlife, few studies have formally attributed observed biodiversity declines to climate change or quantified its contribution relative to other factors.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Fri, 04 Sep 2026 11:20:07 EDT</pubDate>
-    </item>
-    <item>
-      <title>As global heating heads to 1.8°C, is it time to consider the 'Voldemort' of climate policy?</title>
-      <link>https://phys.org/news/2026-09-global-18c-voldemort-climate-policy.html</link>
-      <guid>https://phys.org/news/2026-09-global-18c-voldemort-climate-policy.html</guid>
-      <description>[Climate &amp; Environment] Keyword: global warming — The world is set to miss the 1.5°C global warming target, and plans are underway for U.N. climate talks in the Pacific and Turkey.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Fri, 04 Sep 2026 12:00:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
