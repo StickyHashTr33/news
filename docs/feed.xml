@@ -5,8 +5,88 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2026 05:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:27:56 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 1000 BERNARD DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1233653</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1233653</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1233653 | SOUTH Division | 9/10/2026 5:03:50 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/10/2026 5:03:50 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 2000 N FLORES ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1233657</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1233657</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1233657 | DOWNTOWN Division | 9/10/2026 5:05:46 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/10/2026 5:05:46 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 200 W BROADVIEW DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1233663</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1233663</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1233663 | WEST Division | 9/10/2026 5:11:50 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/10/2026 5:11:50 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5000 BAYHEAD DR (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1233665</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1233665</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1233665 | EAST Division | 9/10/2026 5:15:24 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/10/2026 5:15:24 AM</pubDate>
+    </item>
+    <item>
+      <title>Global heat stuck on high. Scientists say August was Earth's hottest month they've measured.</title>
+      <link>https://phys.org/news/2026-09-global-stuck-high-scientists-august.html</link>
+      <guid>https://phys.org/news/2026-09-global-stuck-high-scientists-august.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Earth cooked to its hottest month on record in August, blowing far past a key climate threshold, due to the dangerous double whammy of human-caused climate change and a supersized El Niño, according to the European climate service Copernicus.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 10 Sep 2026 03:50:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>Unaccounted climate feedback loops may amplify warming by 20–30% this century, but cutting emissions will reduce risks</title>
+      <link>https://phys.org/news/2026-09-unaccounted-climate-feedback-loops-amplify.html</link>
+      <guid>https://phys.org/news/2026-09-unaccounted-climate-feedback-loops-amplify.html</guid>
+      <description>[Climate &amp; Environment] Keyword: global warming — New research shows that warming-induced emissions—greenhouse gas emissions from natural sources driven by rising temperatures—could amplify global warming by approximately 20%–30% and add an estimated 0.2°C–0.4°C of warming this century on top of anthropogenic warming under different scenarios. These major additional drivers of warming are largely unaccounted for in current climate projections and policies.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 10 Sep 2026 05:00:03 EDT</pubDate>
+    </item>
+    <item>
+      <title>AI pinpoints when fish reach their thermal limit</title>
+      <link>https://phys.org/news/2026-09-ai-fish-thermal-limit.html</link>
+      <guid>https://phys.org/news/2026-09-ai-fish-thermal-limit.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Researchers have developed an AI-based system that automatically and objectively detects the moment when fish experience loss of equilibrium (LOE) due to temperature stress. The system combines DeepLabCut, a deep-learning AI that captures animal posture from video, with ResNet34, a deep-learning AI-based image classification technology. Their system is expected to help predict the effects of climate change on fish.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 10 Sep 2026 05:00:06 EDT</pubDate>
+    </item>
+    <item>
+      <title>Scientists say August was Earth's hottest month they've measured</title>
+      <link>https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest</link>
+      <guid>https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — The European climate service Copernicus said the Earth just sweltered through its hottest month on record in August. Scientists said the heat surge is mostly due to human-caused climate change.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 10 Sep 2026 04:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Climate ‘feedback loops’ could worsen global warming by 30%, study finds</title>
+      <link>https://www.theguardian.com/environment/2026/sep/10/climate-feedback-loops-global-warming-study</link>
+      <guid>https://www.theguardian.com/environment/2026/sep/10/climate-feedback-loops-global-warming-study</guid>
+      <description>[Open Source Software] Keyword: FOSS — Emissions of planet-heating methane and CO2 from natural sources are worsening the climate crisis, paper saysRising global temperatures caused by the burning of fossil fuels are transforming the world’s forests, wetlands and tundra to the point they are releasing emissions that could further worsen global heating by as much as 30%, a new study has found.As the world heats up, permafrost in the high latitudes is thawing, fiercer wildfires are burning in drying forests and wetlands and lakes are w</description>
+      <category>Open Source Software</category>
+      <pubDate>Thu, 10 Sep 2026 08:00:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inside San Antonio’s gut health boom where probiotics, kefir and kombucha sales thrive</title>
+      <link>https://sanantonioreport.org/probiotics-kefir-kombucha-inside-san-antonio-gut-health-boom/</link>
+      <guid>https://sanantonioreport.org/probiotics-kefir-kombucha-inside-san-antonio-gut-health-boom/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — From kefir bars to a lupus breakthrough, San Antonio is having a gut health moment. Local scientists explain what's proven and what isn't.Inside San Antonio&amp;#8217;s gut health boom where probiotics, kefir and kombucha sales thrive was first posted on September 10, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please con</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Thu, 10 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle In Progress — 600 MUNCEY (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1233130</link>
@@ -732,86 +812,6 @@ The post The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarel
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1223727 | WEST Division | 9/8/2026 2:33:29 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>9/8/2026 2:33:29 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 5800 ANALISSA (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1222830</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1222830</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1222830 | SOUTH Division | 9/7/2026 9:29:54 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/7/2026 9:29:54 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 7400 SADDLE BEND DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1222254</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1222254</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1222254 | WEST Division | 9/7/2026 6:43:58 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/7/2026 6:43:58 PM</pubDate>
-    </item>
-    <item>
-      <title>How Indigenous Protected Areas became a vital way to protect nature in Australia</title>
-      <link>https://phys.org/news/2026-09-indigenous-areas-vital-nature-australia.html</link>
-      <guid>https://phys.org/news/2026-09-indigenous-areas-vital-nature-australia.html</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — When you think of conservation in Australia, chances are you'll think of a national park.</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Mon, 07 Sep 2026 19:20:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 800 COLIMA ST (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1221798</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1221798</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1221798 | CENTRAL Division | 9/7/2026 4:34:45 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/7/2026 4:34:45 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 7000 RAY ELLISON BLVD (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1221800</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1221800</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1221800 | SOUTH Division | 9/7/2026 4:35:46 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/7/2026 4:35:46 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 100 W THEO AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1221809</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1221809</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1221809 | SOUTH Division | 9/7/2026 4:39:14 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/7/2026 4:39:14 PM</pubDate>
-    </item>
-    <item>
-      <title>How climate change may amplify the impact of earthquakes in the Arctic</title>
-      <link>https://phys.org/news/2026-09-climate-amplify-impact-earthquakes-arctic.html</link>
-      <guid>https://phys.org/news/2026-09-climate-amplify-impact-earthquakes-arctic.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Permafrost refers to permanently frozen ground. The rock is held together by ice, much like cement binds concrete. However, when the ice thaws, the ground becomes weak and unstable. During an earthquake, this can trigger a series of natural hazards. An international research team investigated precisely such an event.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Mon, 07 Sep 2026 15:00:07 EDT</pubDate>
-    </item>
-    <item>
-      <title>Council approves Esperanza Community Land Trust to support affordable housing on West Side</title>
-      <link>https://sanantonioreport.org/council-approves-esperanza-community-land-trust-san-antonio/</link>
-      <guid>https://sanantonioreport.org/council-approves-esperanza-community-land-trust-san-antonio/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Created by the advocacy nonprofit in 2021, the Esperanza Community Land Trust is designated for the underserved West Side in District 5.Council approves Esperanza Community Land Trust to support affordable housing on West Side was first posted on September 7, 2026 at 2:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact </description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Mon, 07 Sep 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stolen Generations survivors have more health challenges than other First Nations people</title>
-      <link>https://www.theguardian.com/australia-news/2026/sep/08/stolen-generations-survivors-have-more-health-challenges-than-other-first-nations-people-ntwnfb</link>
-      <guid>https://www.theguardian.com/australia-news/2026/sep/08/stolen-generations-survivors-have-more-health-challenges-than-other-first-nations-people-ntwnfb</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Indigenous Australians forcibly removed under government policies more likely to have severe or profound disability, report findsGet our breaking news email, free app or daily news podcastThe tens of thousands of Indigenous Australians and their descendents who were forcibly removed under government assimilation policies have far greater physical and health challenges when compared to the wider Indigenous and non-Indigenous populations, according to a new report.The report by the Australian Inst</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Mon, 07 Sep 2026 15:01:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>3 National Archives Locations Are Set to Close. Tribal Docs’ Fate Is Unclear.</title>
-      <link>https://truthout.org/articles/3-national-archives-locations-are-set-to-close-tribal-docs-fate-is-unclear/</link>
-      <guid>https://truthout.org/articles/3-national-archives-locations-are-set-to-close-tribal-docs-fate-is-unclear/</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Indigenous leaders say the US government's decision to close the sites was made without tribal consultation.</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Mon, 07 Sep 2026 18:20:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
