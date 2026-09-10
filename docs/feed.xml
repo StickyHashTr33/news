@@ -5,8 +5,64 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:01:07 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 2000 SAUNDERS (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1235331</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1235331</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1235331 | CENTRAL Division | 9/10/2026 12:42:28 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/10/2026 12:42:28 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 300 HOPE DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1235339</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1235339</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1235339 | WEST Division | 9/10/2026 12:44:21 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/10/2026 12:44:21 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 5900 FAIRMEADE DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1235344</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1235344</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1235344 | SOUTH Division | 9/10/2026 12:45:24 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/10/2026 12:45:24 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 4500 N LOOP 1604 W (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1235359</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1235359</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1235359 | PRUE Division | 9/10/2026 12:49:18 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/10/2026 12:49:18 PM</pubDate>
+    </item>
+    <item>
+      <title>Large protected areas help northern bird species cope with climate change</title>
+      <link>https://phys.org/news/2026-09-large-areas-northern-bird-species.html</link>
+      <guid>https://phys.org/news/2026-09-large-areas-northern-bird-species.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — A recent study coordinated by the University of Helsinki tracked the populations of 100 bird species across Finnish protected areas. Cold-dwelling species fared better in large protected areas, while the same species saw much steeper declines in smaller ones.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 10 Sep 2026 13:00:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>A fossil feather preserved inside dinosaur poop could help explain why birds survived the mass extinction</title>
+      <link>https://phys.org/news/2026-09-fossil-feather-dinosaur-poop-birds.html</link>
+      <guid>https://phys.org/news/2026-09-fossil-feather-dinosaur-poop-birds.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — About 66 million years ago, a dinosaur—maybe a T. rex or a Nanotyrannus—ate a bird. The record of that meal, in the form of fossilized poop, has survived to today, preserving the best example of a feather ever found from the age of dinosaurs. By studying this feather, scientists reported in a new study in the journal Current Biology, researchers have found clues that help explain why birds are the only group of dinosaurs that survived the mass extinction 66 million years ago.</description>
+      <category>Open Source Software</category>
+      <pubDate>Thu, 10 Sep 2026 11:00:04 EDT</pubDate>
+    </item>
+    <item>
+      <title>Fossil flowers of ancient lianas preserved in amber reveal the evolution of tropical rainforests</title>
+      <link>https://phys.org/news/2026-09-fossil-ancient-lianas-amber-reveal.html</link>
+      <guid>https://phys.org/news/2026-09-fossil-ancient-lianas-amber-reveal.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — Tiny flowers trapped in amber around 15 million years ago are offering scientists a rare glimpse into the plant life of a tropical rainforest in what is now Southeast China. Researchers have studied two exceptionally well-preserved fossil flowers from the Zhangpu flora.</description>
+      <category>Open Source Software</category>
+      <pubDate>Thu, 10 Sep 2026 11:20:08 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 5700 HEMPHILL ST (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1234472</link>
@@ -754,63 +810,6 @@ The post Cops Are Using Flock to Spy on People for the Crime of Standing Around 
       <description>[Diabetes &amp; Kidney Disease] Keyword: type 2 diabetes — Scientists have found evidence that some gut bacterial populations can spread rapidly between people and across continents, suggesting the microbiome may be more transmissible than previously thought. The research also revealed hidden bacterial groups associated with aging, colorectal cancer, inflammatory bowel disease, and type 2 diabetes.</description>
       <category>Diabetes &amp; Kidney Disease</category>
       <pubDate>Mon, 07 Sep 2026 02:34:24 EDT</pubDate>
-    </item>
-    <item>
-      <title>Ozempic and Wegovy may have an unexpected mental health benefit</title>
-      <link>https://www.sciencedaily.com/releases/2026/09/260907201601.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/09/260907201601.htm</guid>
-      <description>[Diabetes &amp; Kidney Disease] Keyword: GLP-1 — Semaglutide, the drug behind Ozempic and Wegovy, may have benefits that extend well beyond weight loss and diabetes. In a large Swedish study of nearly 15,000 people with bipolar disorder, its use was linked to a 21% lower risk of psychiatric hospitalization. Researchers think effects on inflammation and brain-related biological pathways could help stabilize mood, though other GLP-1 drugs did not show the same association.</description>
-      <category>Diabetes &amp; Kidney Disease</category>
-      <pubDate>Tue, 08 Sep 2026 08:59:00 EDT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI releases new AI agent – after admitting one went rogue</title>
-      <link>https://www.theguardian.com/technology/2026/sep/04/openai-agent-goes-rogue</link>
-      <guid>https://www.theguardian.com/technology/2026/sep/04/openai-agent-goes-rogue</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Plus: Americans think they have it bad with unwanted surveillance. They should visit LondonHello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian, writing to you after visiting Coney Island in New York City, where I ate a hotdog, rode a ferris wheel and enjoyed a quintessentially American summer holiday.Today in tech, we’re examining OpenAI’s new model release and the Silicon Valley’s monopoly power, and wondering why Brits and Americans have such vastly</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Tue, 08 Sep 2026 13:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Secretive DHS ‘Predictive Policing’ Unit is Analyzing Americans’ Financial Habits and Pulling Them Over</title>
-      <link>https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/</link>
-      <guid>https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/</guid>
-      <description>[Texas Surveillance] Keyword: predictive policing — 404 Media is revealing the name of Border Patrol's predictive policing units, which analyze financial data and have local cops pull people over. The people are not suspected of any particular crime.</description>
-      <category>Texas Surveillance</category>
-      <pubDate>Tue, 08 Sep 2026 13:10:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefighter, EMT, Stuyvesant High School Student Describe 9/11 Exposure &amp; Long Fight for Healthcare</title>
-      <link>http://www.democracynow.org/2026/9/8/firefighter_emt_stuyvesant_high_school_student</link>
-      <guid>http://www.democracynow.org/2026/9/8/firefighter_emt_stuyvesant_high_school_student</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Twenty-five years after the 9/11 attacks, many New York City residents are still grappling with complicated health conditions related to exposure to the toxic air and debris around ground zero.
-&amp;#8220;We were digging through the pile and using rakes to spread out all the debris to look for anyone&amp;#8217;s remains,&amp;#8221; says retired New York City firefighter Brenda Berkman. &amp;#8220;We were working alongside really heavy equipment, as time went on, that picked up big loads of debris and dumped it,</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Tue, 08 Sep 2026 08:28:29 -0400</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 4000 CALLAGHAN RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1224209</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1224209</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1224209 | WEST Division | 9/8/2026 7:23:04 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/8/2026 7:23:04 AM</pubDate>
-    </item>
-    <item>
-      <title>‘Limit overshoot, peak, decline’: A new global goal for climate change?</title>
-      <link>https://www.aljazeera.com/features/2026/9/8/limit-overshoot-peak-decline-a-new-global-goal-for-climate-change?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/features/2026/9/8/limit-overshoot-peak-decline-a-new-global-goal-for-climate-change?traffic_source=rss</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — The world agreed to limit temperature rises in 2015; that aim is proving impossible. Is it time for a course correction?</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 08 Sep 2026 10:58:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>German police arrest suspect in power grid sabotage case</title>
-      <link>https://www.dw.com/en/german-police-arrest-suspect-in-power-grid-sabotage-case/a-79161142?maca=en-rss-en-all-1573-rdf</link>
-      <guid>https://www.dw.com/en/german-police-arrest-suspect-in-power-grid-sabotage-case/a-79161142?maca=en-rss-en-all-1573-rdf</guid>
-      <description>[Open Source Software] Keyword: FOSS — Investigators say the suspect used homemade rockets and conductive wire to target high-voltage lines in three German states, apparently as part of a campaign against fossil fuels.</description>
-      <category>Open Source Software</category>
-      <pubDate>2026-09-08T10:54:00Z</pubDate>
     </item>
   </channel>
 </rss>
