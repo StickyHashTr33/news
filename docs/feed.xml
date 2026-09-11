@@ -5,8 +5,71 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:30:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 14:49:34 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 2800 W HUTCHINS PLACE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1239523</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1239523</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1239523 | SOUTH Division | 9/11/2026 9:36:20 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/11/2026 9:36:20 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 200 TAMPICO ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1239528</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1239528</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1239528 | CENTRAL Division | 9/11/2026 9:37:47 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/11/2026 9:37:47 AM</pubDate>
+    </item>
+    <item>
+      <title>In Denmark, the sea can’t breathe</title>
+      <link>https://www.codastory.com/climate-crisis/in-denmark-the-sea-cant-breathe/</link>
+      <guid>https://www.codastory.com/climate-crisis/in-denmark-the-sea-cant-breathe/</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Coastal fisheries are disappearing as oxygen depletion in warming Danish waters reaches record levels and climate change transforms both marine ecology and human livelihoods.
+The post In Denmark, the sea can’t breathe appeared first on Coda Story.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Fri, 11 Sep 2026 13:11:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tasmanian devils lived with people in outback Western Australia 45,000 years ago, new fossils show</title>
+      <link>https://phys.org/news/2026-09-tasmanian-devils-people-outback-western.html</link>
+      <guid>https://phys.org/news/2026-09-tasmanian-devils-people-outback-western.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — Tasmanian devils are among Australia's most distinctive mammals. Stocky, powerful and famously noisy, wild populations are now restricted to Tasmania. But this was not always the case. In fact, thousands of years ago, devils could be found across mainland Australia.</description>
+      <category>Open Source Software</category>
+      <pubDate>Fri, 11 Sep 2026 10:20:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>One giant step: first known T rex footprints found in North Dakota</title>
+      <link>https://www.theguardian.com/us-news/2026/sep/11/tyrannosaurus-rex-footprints-north-dakota</link>
+      <guid>https://www.theguardian.com/us-news/2026/sep/11/tyrannosaurus-rex-footprints-north-dakota</guid>
+      <description>[Open Source Software] Keyword: FOSS — The 23ft-long trackway, consisting of four three-toed footprints, two left and two right, date from 66.5m years ago The first known series of footprints from an adult Tyrannosaurus rex has been found in North Dakota by a team of scientists.The 23ft-long trackway – consisting of four three-toed footprints, two left and two right – was first identified in the south-west of the state, in the dinosaur fossil area known as Hell Creek Formation, last year by researchers from the Denver Museum of Natur</description>
+      <category>Open Source Software</category>
+      <pubDate>Fri, 11 Sep 2026 14:34:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eating only 8 hours a day may help control Type 1 diabetes</title>
+      <link>https://www.sciencedaily.com/releases/2026/09/260909231740.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/09/260909231740.htm</guid>
+      <description>[Diabetes &amp; Kidney Disease] Keyword: type 1 diabetes — Eating only between noon and 8 p.m. improved blood sugar control in a small study of adults with Type 1 diabetes and obesity, while avoiding an increase in serious complications. The promising findings offer the first evidence that time restricted eating could become another tool for managing the condition.</description>
+      <category>Diabetes &amp; Kidney Disease</category>
+      <pubDate>Thu, 10 Sep 2026 22:20:35 EDT</pubDate>
+    </item>
+    <item>
+      <title>[$] Accelerating the kernel's build process</title>
+      <link>https://lwn.net/Articles/1093398/</link>
+      <guid>https://lwn.net/Articles/1093398/</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — Kernel developers do a lot of kernel builds.  Since the kernel is not a
+small program, those builds can take a fair amount of time, even on a fast
+machine.  The kernel also has a complex build system; it is probably fair
+to say that few developers truly understand it, and fewer still are willing
+to try to improve it.  Lorenzo Stoakes, armed with LLM-based assistance,
+decided to give it a try, though, and has managed to reduce the time it
+takes to build a kernel — and not by a small amount.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Fri, 11 Sep 2026 14:15:32 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 300 BRENNER AVE (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1238765</link>
@@ -755,62 +818,6 @@ The post Cops Are Using Flock to Spy on People for the Crime of Standing Around 
       <description>[Climate &amp; Environment] Keyword: climate change — Every US$1 invested in tackling climate change and air pollution together can generate around US$15 in economic benefits, according to a report published today by the U.N. Environment Programme (UNEP) and the Climate and Clean Air Coalition (CCAC).</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Tue, 08 Sep 2026 20:00:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Many People Aren’t Connecting the Dots Between Climate Change and Extreme Weather</title>
-      <link>https://insideclimatenews.org/news/08092026/todays-climate-extreme-weather-attribution-disconnect/</link>
-      <guid>https://insideclimatenews.org/news/08092026/todays-climate-extreme-weather-attribution-disconnect/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — At the end of August, devastating floods and a debris flow triggered by a glacier collapse crashed through the valleys of Nepal, killing more than 1,300 people. Earlier this summer, deadly heat waves plagued much of the United States and Europe. Meanwhile, record-low snow levels and a long-term drought stoked wildfires across the western U.S. [&amp;#8230;]</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 08 Sep 2026 23:13:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>One of the oldest known 3D animal fossils found in Norwegian sheep field</title>
-      <link>https://phys.org/news/2026-09-oldest-3d-animal-fossils-norwegian.html</link>
-      <guid>https://phys.org/news/2026-09-oldest-3d-animal-fossils-norwegian.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — One of the oldest known 3D fossils of an animal has been discovered in a sheep field in the Norwegian Arctic, the first new major site of its kind anywhere in Europe in decades.</description>
-      <category>Open Source Software</category>
-      <pubDate>Tue, 08 Sep 2026 20:00:05 EDT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft breaks Patch Tuesday record with 974-CVE deluge</title>
-      <link>https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160</link>
-      <guid>https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160</guid>
-      <description>[Cybersecurity] Keyword: CVE — Adobe also brought goodies to the patch party and they deserve immediate attention</description>
-      <category>Cybersecurity</category>
-      <pubDate>Wed, 09 Sep 2026 02:25:22 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — 9100 OCEAN GATE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1226897</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1226897</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1226897 | SOUTH Division | 9/8/2026 5:46:58 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/8/2026 5:46:58 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 4000 E SOUTHCROSS BLVD (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1226908</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1226908</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1226908 | EAST Division | 9/8/2026 5:52:06 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/8/2026 5:52:06 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 900 E SONTERRA BLVD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1226911</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1226911</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1226911 | NORTH Division | 9/8/2026 5:52:47 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/8/2026 5:52:47 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 13600 ASHLEY OAKS (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1226913</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1226913</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1226913 | NORTH Division | 9/8/2026 5:53:02 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/8/2026 5:53:02 PM</pubDate>
     </item>
   </channel>
 </rss>
