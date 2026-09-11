@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2026 22:55:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 00:48:16 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 900 E RECTOR DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1237164</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1237164</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1237164 | NORTH Division | 9/10/2026 7:28:13 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/10/2026 7:28:13 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 5200 UTSA BLVD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1237196</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1237196</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1237196 | PRUE Division | 9/10/2026 7:36:55 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/10/2026 7:36:55 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 5800 HAWAIIAN CV (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1237202</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1237202</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1237202 | SOUTH Division | 9/10/2026 7:37:40 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/10/2026 7:37:40 PM</pubDate>
+    </item>
+    <item>
+      <title>Rare bird fossils from Bavaria reveal new species, including an eagle</title>
+      <link>https://phys.org/news/2026-09-rare-bird-fossils-bavaria-reveal.html</link>
+      <guid>https://phys.org/news/2026-09-rare-bird-fossils-bavaria-reveal.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — The Hammerschmiede clay pit near Pforzen in the eastern Allgäu is famous for its wealth of finds: Besides fossils of two early anthropoid apes, the remains of numerous vertebrate species have been uncovered in 11.6-million-year-old river sediments—but until now, very few birds.</description>
+      <category>Open Source Software</category>
+      <pubDate>Thu, 10 Sep 2026 19:20:05 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 7100 WOODLAKE PKWY (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1236701</link>
@@ -778,38 +810,6 @@ The post Cops Are Using Flock to Spy on People for the Crime of Standing Around 
       <description>[Climate &amp; Environment] Keyword: climate change — Drylands are defined as regions where rainfall is low relative to the atmosphere's ability to draw water from soil and plants. Expanding boundaries of these regions are frequent concerns in climate change considerations. While they can support large populations and ecosystems, dryland expansion can worsen water scarcity, land degradation and desertification.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Tue, 08 Sep 2026 13:10:02 EDT</pubDate>
-    </item>
-    <item>
-      <title>Climate change may erase 25 million hectares of kelp forests by 2050</title>
-      <link>https://phys.org/news/2026-09-climate-erase-million-hectares-kelp.html</link>
-      <guid>https://phys.org/news/2026-09-climate-erase-million-hectares-kelp.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Climate change is driving rapid declines in seaweed forests globally, outpacing restoration efforts and undermining seaweed restoration as a viable carbon dioxide removal strategy, according to an essay by Karen Filbee-Dexter at the University of Western Australia and colleagues, published Sept. 8 in the journal PLOS Biology.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 08 Sep 2026 14:00:08 EDT</pubDate>
-    </item>
-    <item>
-      <title>Too hot to learn: How climate change hurts children's chances from birth</title>
-      <link>https://phys.org/news/2026-09-hot-climate-children-chances-birth.html</link>
-      <guid>https://phys.org/news/2026-09-hot-climate-children-chances-birth.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Children across Europe have returned to school after a summer of extreme heat. As the climate warms, one question is becoming harder to ignore: How can students learn when classrooms become dangerously hot?</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 08 Sep 2026 14:40:07 EDT</pubDate>
-    </item>
-    <item>
-      <title>As Farmers Struggle, Trump’s Agriculture Secretary Profits Off High Gas Prices</title>
-      <link>https://truthout.org/articles/as-farmers-struggle-trumps-agriculture-secretary-profits-off-high-gas-prices/</link>
-      <guid>https://truthout.org/articles/as-farmers-struggle-trumps-agriculture-secretary-profits-off-high-gas-prices/</guid>
-      <description>[Open Source Software] Keyword: FOSS — Brooke Rollins and her husband, an oil industry executive, hold as much as $2.5 million in fossil fuel investments.</description>
-      <category>Open Source Software</category>
-      <pubDate>Tue, 08 Sep 2026 17:05:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>2 San Antonio chambers of commerce announce plan for closer collaboration</title>
-      <link>https://sanantonioreport.org/greater-san-antonio-chambers-of-commerce-metro-sa-closer-collaboration/</link>
-      <guid>https://sanantonioreport.org/greater-san-antonio-chambers-of-commerce-metro-sa-closer-collaboration/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The Greater San Antonio Chamber of Commerce and the Metro SA Chamber have established a joint committee to consider future collaboration.2 San Antonio chambers of commerce announce plan for closer collaboration was first posted on September 8, 2026 at 12:50 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@riv</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Tue, 08 Sep 2026 17:50:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
