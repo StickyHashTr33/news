@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 21:32:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 23:50:23 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 3800 CARNATION (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1241878</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1241878</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1241878 | SOUTH Division | 9/11/2026 6:36:07 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/11/2026 6:36:07 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 9800 HYATT RESORT DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1241882</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1241882</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1241882 | WEST Division | 9/11/2026 6:37:39 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/11/2026 6:37:39 PM</pubDate>
+    </item>
     <item>
       <title>Emerging SARS-CoV-2 sublineage RE.2.2 displays distinct structural features</title>
       <link>https://phys.org/news/2026-09-emerging-sars-cov-sublineage-re22.html</link>
@@ -801,22 +817,6 @@ For the past </description>
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — District 5 Councilwoman Teri Castillo is proposing a ban on casino-like eight-liner machines, citing concerns over illegal gambling.San Antonio councilwoman wants to ban casino-like eight-liner machines was first posted on September 9, 2026 at 10:06 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardrepor</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Wed, 09 Sep 2026 15:06:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Podcast: DHS’ Secretive ‘Predictive Policing’ Unit Pulling People Over</title>
-      <link>https://www.404media.co/podcast-dhs-secretive-predictive-policing-unit-pulling-people-over/</link>
-      <guid>https://www.404media.co/podcast-dhs-secretive-predictive-policing-unit-pulling-people-over/</guid>
-      <description>[Texas Surveillance] Keyword: predictive policing — Secretive predictive policing units; a funk shirt designed to fool AI; and our third anniversary party.</description>
-      <category>Texas Surveillance</category>
-      <pubDate>Wed, 09 Sep 2026 16:37:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 10200 BIG SPRING LN (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1229011</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1229011</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1229011 | SOUTH Division | 9/9/2026 7:14:55 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/9/2026 7:14:55 AM</pubDate>
     </item>
   </channel>
 </rss>
