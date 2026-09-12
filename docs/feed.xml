@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 14:55:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 17:40:14 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 8000 FLOYD CURL (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1245079</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1245079</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1245079 | PRUE Division | 9/12/2026 12:21:44 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/12/2026 12:21:44 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 1500 PASADENA ST (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1245106</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1245106</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1245106 | WEST Division | 9/12/2026 12:28:29 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/12/2026 12:28:29 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person - Endangered — 8400 NW MILITARY HWY (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1244474</link>
@@ -798,22 +814,6 @@ The post Yonder Radio: Buffalo harvesting, small-town movie theaters, and story 
       <description>[AI &amp; Automation] Keyword: large language model — The Human Rights Center at UC Berkeley School of Law has released a human rights assessment of the use of large language models (LLMs) in the fields of law, journalism and education.</description>
       <category>AI &amp; Automation</category>
       <pubDate>Wed, 09 Sep 2026 19:00:05 EDT</pubDate>
-    </item>
-    <item>
-      <title>AI is becoming harder to control – can humans stay in charge?</title>
-      <link>https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — AI agents went on an uncontrolled hacking spree, leaving some in the industry worried</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Wed, 09 Sep 2026 23:17:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>'Alarm bells ringing': US summer heat shatters record</title>
-      <link>https://phys.org/news/2026-09-alarm-bells-summer-shatters.html</link>
-      <guid>https://phys.org/news/2026-09-alarm-bells-summer-shatters.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — The contiguous United States has endured its hottest summer on record, a new peak that scientists said should send alarm bells ringing over the increasingly dire impacts of climate change.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 09 Sep 2026 16:00:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
