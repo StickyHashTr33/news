@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 22:48:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 00:35:05 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 200 DELMAR ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1246568</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1246568</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1246568 | EAST Division | 9/12/2026 7:15:40 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/12/2026 7:15:40 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Shooting In Progress — 6400 DE ZAVALA RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1246571</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1246571</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1246571 | PRUE Division | 9/12/2026 7:16:53 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/12/2026 7:16:53 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle In Progress — 800 DENVER BLVD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1246573</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1246573</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1246573 | EAST Division | 9/12/2026 7:17:54 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/12/2026 7:17:54 PM</pubDate>
+    </item>
+    <item>
+      <title>Anthropic boss Dario Amodei calls for AI slowdown</title>
+      <link>https://www.dw.com/en/anthropic-boss-dario-amodei-calls-for-ai-slowdown/a-79247690?maca=en-rss-en-all-1573-rdf</link>
+      <guid>https://www.dw.com/en/anthropic-boss-dario-amodei-calls-for-ai-slowdown/a-79247690?maca=en-rss-en-all-1573-rdf</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — Elon Musk and OpenAI chief Sam Altman say they agree with Amodei's view that safety measures need time to catch up to AI's rapid development, after a recent hacking incident by AI agents.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>2026-09-12T23:32:00Z</pubDate>
+    </item>
     <item>
       <title>[SAPD] Robbery In Progress — 1600 VANCE JACKSON (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1246161</link>
@@ -782,38 +814,6 @@ The post Yonder Radio: Buffalo harvesting, small-town movie theaters, and story 
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1233665 | EAST Division | 9/10/2026 5:15:24 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>9/10/2026 5:15:24 AM</pubDate>
-    </item>
-    <item>
-      <title>Global heat stuck on high. Scientists say August was Earth's hottest month they've measured.</title>
-      <link>https://phys.org/news/2026-09-global-stuck-high-scientists-august.html</link>
-      <guid>https://phys.org/news/2026-09-global-stuck-high-scientists-august.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Earth cooked to its hottest month on record in August, blowing far past a key climate threshold, due to the dangerous double whammy of human-caused climate change and a supersized El Niño, according to the European climate service Copernicus.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 10 Sep 2026 03:50:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Unaccounted climate feedback loops may amplify warming by 20–30% this century, but cutting emissions will reduce risks</title>
-      <link>https://phys.org/news/2026-09-unaccounted-climate-feedback-loops-amplify.html</link>
-      <guid>https://phys.org/news/2026-09-unaccounted-climate-feedback-loops-amplify.html</guid>
-      <description>[Climate &amp; Environment] Keyword: global warming — New research shows that warming-induced emissions—greenhouse gas emissions from natural sources driven by rising temperatures—could amplify global warming by approximately 20%–30% and add an estimated 0.2°C–0.4°C of warming this century on top of anthropogenic warming under different scenarios. These major additional drivers of warming are largely unaccounted for in current climate projections and policies.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 10 Sep 2026 05:00:03 EDT</pubDate>
-    </item>
-    <item>
-      <title>AI pinpoints when fish reach their thermal limit</title>
-      <link>https://phys.org/news/2026-09-ai-fish-thermal-limit.html</link>
-      <guid>https://phys.org/news/2026-09-ai-fish-thermal-limit.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Researchers have developed an AI-based system that automatically and objectively detects the moment when fish experience loss of equilibrium (LOE) due to temperature stress. The system combines DeepLabCut, a deep-learning AI that captures animal posture from video, with ResNet34, a deep-learning AI-based image classification technology. Their system is expected to help predict the effects of climate change on fish.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 10 Sep 2026 05:00:06 EDT</pubDate>
-    </item>
-    <item>
-      <title>Scientists say August was Earth's hottest month they've measured</title>
-      <link>https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest</link>
-      <guid>https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — The European climate service Copernicus said the Earth just sweltered through its hottest month on record in August. Scientists said the heat surge is mostly due to human-caused climate change.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 10 Sep 2026 04:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
