@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 17:53:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 20:11:54 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Blush survives South Alamo construction, expands with dinner service</title>
+      <link>https://sanantonioreport.org/blush-san-antonio-south-alamo-construction-dinner-service/</link>
+      <guid>https://sanantonioreport.org/blush-san-antonio-south-alamo-construction-dinner-service/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The owners of Blush Restaurant &amp;#038; Bakery Efren Moreno and Tanya Benavides plan to expand the brunch spot with dinner service in late October.Blush survives South Alamo construction, expands with dinner service was first posted on September 13, 2026 at 2:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sun, 13 Sep 2026 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 9200 BRISTOW BEND (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1249545</link>
@@ -806,14 +814,6 @@ The post Yonder Radio: Buffalo harvesting, small-town movie theaters, and story 
       <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1235331 | CENTRAL Division | 9/10/2026 12:42:28 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>9/10/2026 12:42:28 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 300 HOPE DR (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1235339</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1235339</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1235339 | WEST Division | 9/10/2026 12:44:21 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/10/2026 12:44:21 PM</pubDate>
     </item>
   </channel>
 </rss>
