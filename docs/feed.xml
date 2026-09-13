@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 14:52:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 17:53:14 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 9200 BRISTOW BEND (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1249545</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1249545</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1249545 | PRUE Division | 9/13/2026 12:23:31 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/13/2026 12:23:31 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 6100 CALLAGHAN RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1249573</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1249573</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1249573 | WEST Division | 9/13/2026 12:32:31 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/13/2026 12:32:31 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Shooting — 2000 S ZARZAMORA ST (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1249051</link>
@@ -798,22 +814,6 @@ The post Yonder Radio: Buffalo harvesting, small-town movie theaters, and story 
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1235339 | WEST Division | 9/10/2026 12:44:21 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>9/10/2026 12:44:21 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 5900 FAIRMEADE DR (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1235344</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1235344</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1235344 | SOUTH Division | 9/10/2026 12:45:24 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/10/2026 12:45:24 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 4500 N LOOP 1604 W (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1235359</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1235359</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1235359 | PRUE Division | 9/10/2026 12:49:18 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/10/2026 12:49:18 PM</pubDate>
     </item>
   </channel>
 </rss>
