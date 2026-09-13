@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 20:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 22:49:39 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 200 TORREON (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1250551</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1250551</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1250551 | CENTRAL Division | 9/13/2026 5:35:14 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/13/2026 5:35:14 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 6100 INGRAM RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1250553</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1250553</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1250553 | WEST Division | 9/13/2026 5:36:07 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/13/2026 5:36:07 PM</pubDate>
+    </item>
+    <item>
+      <title>San Jose officer fired for misusing Flock camera database in domestic abuse case</title>
+      <link>https://www.theguardian.com/us-news/2026/sep/13/san-jose-officer-fired-flock-camera-misuse</link>
+      <guid>https://www.theguardian.com/us-news/2026/sep/13/san-jose-officer-fired-flock-camera-misuse</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: Flock camera — Police officer shared location of a woman with his relative who is accused of abusing womanA San Jose police officer was fired for using his department’s Flock license plate tracking system to share the location of a woman with the suspect accused of abusing her, Chief Paul Joseph told NBC Bay Area on Friday.The firing marks another in a growing number of cases of misuse of a controversial surveillance technology that has expanded rapidly over the last several years. Continue reading...</description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>Sun, 13 Sep 2026 20:05:22 GMT</pubDate>
+    </item>
     <item>
       <title>Blush survives South Alamo construction, expands with dinner service</title>
       <link>https://sanantonioreport.org/blush-san-antonio-south-alamo-construction-dinner-service/</link>
@@ -790,30 +814,6 @@ The post Yonder Radio: Buffalo harvesting, small-town movie theaters, and story 
       <description>[Open Source Software] Keyword: FOSS — An extremely well preserved fossil feather could reveal why some birds survived the dinosaur-killing asteroid, and others did not.</description>
       <category>Open Source Software</category>
       <pubDate>Thu, 10 Sep 2026 14:07:57 -0400</pubDate>
-    </item>
-    <item>
-      <title>Divided council could buck San Antonio’s first tax hike in decades with just 4 votes</title>
-      <link>https://sanantonioreport.org/divided-council-san-antonio-tax-hike-4-votes/</link>
-      <guid>https://sanantonioreport.org/divided-council-san-antonio-tax-hike-4-votes/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Council members have rejected past budgets with few consequences, but there's a higher threshold to raise taxes and three already said no.Divided council could buck San Antonio&amp;#8217;s first tax hike in decades with just 4 votes was first posted on September 10, 2026 at 3:04 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please conta</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Thu, 10 Sep 2026 20:04:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>San Antonio City Council approves $102M police union contract</title>
-      <link>https://sanantonioreport.org/san-antonio-city-council-approves-102m-police-union-contract/</link>
-      <guid>https://sanantonioreport.org/san-antonio-city-council-approves-102m-police-union-contract/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — San Antonio City Council approved a $102.3 million police union contract that raises officer pay, changes health care costs and restructures patrol schedules.San Antonio City Council approves $102M police union contract was first posted on September 10, 2026 at 3:30 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at </description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Thu, 10 Sep 2026 20:30:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 2000 SAUNDERS (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1235331</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1235331</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1235331 | CENTRAL Division | 9/10/2026 12:42:28 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/10/2026 12:42:28 PM</pubDate>
     </item>
   </channel>
 </rss>
