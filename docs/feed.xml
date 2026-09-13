@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 00:35:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 05:36:58 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ozempic and Wegovy may raise hair loss risk in some men</title>
+      <link>https://www.sciencedaily.com/releases/2026/09/260911214241.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/09/260911214241.htm</guid>
+      <description>[Diabetes &amp; Kidney Disease] Keyword: GLP-1 — GLP-1 drugs such as Ozempic, Wegovy, and Zepbound may increase hair-loss risk by 7% in men who are already genetically susceptible to male-pattern baldness. The findings suggest thinning hair may not be caused only by rapid weight loss and could also reflect a biological link between GLP-1 activity and hair follicles.</description>
+      <category>Diabetes &amp; Kidney Disease</category>
+      <pubDate>Sat, 12 Sep 2026 22:18:14 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 200 DELMAR ST (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1246568</link>
@@ -806,14 +814,6 @@ The post Yonder Radio: Buffalo harvesting, small-town movie theaters, and story 
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1233663 | WEST Division | 9/10/2026 5:11:50 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>9/10/2026 5:11:50 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 5000 BAYHEAD DR (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1233665</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1233665</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1233665 | EAST Division | 9/10/2026 5:15:24 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/10/2026 5:15:24 AM</pubDate>
     </item>
   </channel>
 </rss>
