@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 22:49:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 00:38:28 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 100 DALLAS ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1250902</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1250902</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1250902 | DOWNTOWN Division | 9/13/2026 7:23:05 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/13/2026 7:23:05 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 5000 HERSHEY DR (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1250915</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1250915</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1250915 | EAST Division | 9/13/2026 7:27:33 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/13/2026 7:27:33 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 200 TORREON (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1250551</link>
@@ -798,22 +814,6 @@ The post Yonder Radio: Buffalo harvesting, small-town movie theaters, and story 
       <description>[AI &amp; Automation] Keyword: AI agent — Human operator: don't touch CIS orgs. AI agents: look a squirrel!</description>
       <category>AI &amp; Automation</category>
       <pubDate>Thu, 10 Sep 2026 20:49:43 +0200</pubDate>
-    </item>
-    <item>
-      <title>Focus on biodiversity conservation may offer a less divisive path to climate action in Japan</title>
-      <link>https://phys.org/news/2026-09-focus-biodiversity-divisive-path-climate.html</link>
-      <guid>https://phys.org/news/2026-09-focus-biodiversity-divisive-path-climate.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — If you want to drum up support for environmental action, putting climate change front and center may not always be the best strategy. A new study by Aya Takagi and Ryosuke Nakadai of Yokohama National University suggests that support for policies that emphasize biodiversity conservation, including conservation measures that also contribute to climate goals, may be less divided along cultural lines than measures explicitly associated with climate change.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 10 Sep 2026 14:40:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>A fossil feather from the age of dinosaurs may explain why only some birds survived</title>
-      <link>https://www.npr.org/2026/09/10/nx-s1-5963519/best-fossilized-bird-feather-dinosaur-feces-extinction</link>
-      <guid>https://www.npr.org/2026/09/10/nx-s1-5963519/best-fossilized-bird-feather-dinosaur-feces-extinction</guid>
-      <description>[Open Source Software] Keyword: FOSS — An extremely well preserved fossil feather could reveal why some birds survived the dinosaur-killing asteroid, and others did not.</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 10 Sep 2026 14:07:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
