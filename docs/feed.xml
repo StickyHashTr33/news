@@ -5,8 +5,64 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 21:20:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:12:03 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 5900 LITTLE BRANDYWINE (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1255578</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1255578</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1255578 | NORTH Division | 9/14/2026 6:52:54 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/14/2026 6:52:54 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 15700 KNOLLPOINT (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1255590</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1255590</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1255590 | NORTH Division | 9/14/2026 6:57:31 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/14/2026 6:57:31 PM</pubDate>
+    </item>
+    <item>
+      <title>Trump's EPA repeals pollution limits on fossil fuel power plants</title>
+      <link>https://www.npr.org/2026/09/14/nx-s1-5968785/epa-repeals-pollution-limits-on-power-plants</link>
+      <guid>https://www.npr.org/2026/09/14/nx-s1-5968785/epa-repeals-pollution-limits-on-power-plants</guid>
+      <description>[Open Source Software] Keyword: FOSS — The Trump administration is eliminating limits on climate-warming pollution from the nation's fossil fuel power plants. Environmental groups say this will impact the climate and public health.</description>
+      <category>Open Source Software</category>
+      <pubDate>Mon, 14 Sep 2026 16:34:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Landowners in Texas ask court to stop Trump border wall</title>
+      <link>https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss</guid>
+      <description>[Immigration &amp; Border] Keyword: border wall — Indigenous groups, environmentalists and locals oppose the wall; Big Bend sees about 1 percent of border arrests.</description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>Mon, 14 Sep 2026 21:44:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israeli attack targets Gaza displacement camp</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss</guid>
+      <description>[Housing &amp; Gentrification] Keyword: displacement — Israeli attack targets Gaza displacement camp</description>
+      <category>Housing &amp; Gentrification</category>
+      <pubDate>Mon, 14 Sep 2026 21:37:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dismantling San Antonio’s segregated walls starts with affordable housing</title>
+      <link>https://sanantonioreport.org/dismantling-san-antonio-segregated-affordable-housing-sponsored/</link>
+      <guid>https://sanantonioreport.org/dismantling-san-antonio-segregated-affordable-housing-sponsored/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — SPONSORED: At the root of San Antonio's web of factors contributing to poverty lies a deeper crisis: the lack of stable, affordable housing.Dismantling San Antonio’s segregated walls starts with affordable housing was first posted on September 14, 2026 at 6:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Mon, 14 Sep 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Texas governor threatens to penalize datacenters not obeying water laws</title>
+      <link>https://www.theguardian.com/us-news/2026/sep/14/greg-abbott-texas-datacenter-water-laws</link>
+      <guid>https://www.theguardian.com/us-news/2026/sep/14/greg-abbott-texas-datacenter-water-laws</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: Texas governor — Republican Greg Abbott says datacenters must help ‘protect’ drought-prone state and disclose water useGreg Abbott, the Texas governor, has directed state regulators to penalize datacenters that fail to comply with state laws requiring them to disclose their water use.“Data centers must share the duty to protect Texas water,” the Republican governor said on Monday. “The Texas Water Code requires a complete and accurate water use survey. I direct the Texas Water Development Board to use its enforc</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Mon, 14 Sep 2026 22:57:15 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 70 PECAN VALLEY CIR (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1254895</link>
@@ -768,62 +824,6 @@ We (the Emacs upstream </description>
       <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Luis Pacheco and three other Indigenous ex-leaders cleared of charges over 2023 Guatemala protests.</description>
       <category>Indigenous News &amp; Tribal Sovereignty</category>
       <pubDate>Sat, 12 Sep 2026 08:47:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Formal Repeal of Roadless Rule Directly Threatens Midwest Wilderness</title>
-      <link>https://insideclimatenews.org/news/12092026/roadless-rule-repeal-threatens-midwest-wilderness/</link>
-      <guid>https://insideclimatenews.org/news/12092026/roadless-rule-repeal-threatens-midwest-wilderness/</guid>
-      <description>[Ecology &amp; Conservation] Keyword: endangered species — Michigan’s Norwich Plains is a stretch of unbroken wilderness in the state’s Upper Peninsula dominated by northern hardwood forest, with sugar maples and old-growth aspens that provide habitat for endangered species like the eastern gray wolf and the American martin.&amp;#160; There are beaver ponds, meadows and miles of trout streams that can all be seen [&amp;#8230;]</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Sat, 12 Sep 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Corals as climate archive: Are El Ninos intensifying?</title>
-      <link>https://www.dw.com/en/corals-as-climate-archive-are-el-ninos-intensifying/a-79243425?maca=en-rss-en-all-1573-rdf</link>
-      <guid>https://www.dw.com/en/corals-as-climate-archive-are-el-ninos-intensifying/a-79243425?maca=en-rss-en-all-1573-rdf</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Records from the past few decades show that, during this period, El Nino events have been frequent and often extreme. But is this normal, or is it the result of climate change? Corals can give us a clear indication.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>2026-09-12T08:53:00Z</pubDate>
-    </item>
-    <item>
-      <title>Where I Live: Beacon Hill</title>
-      <link>https://sanantonioreport.org/where-i-live-beacon-hill-san-antonio-elise-russ/</link>
-      <guid>https://sanantonioreport.org/where-i-live-beacon-hill-san-antonio-elise-russ/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Chef Elise Russ says she has never lived in a neighborhood with as much charm and personality as Beacon Hill.Where I Live: Beacon Hill was first posted on September 12, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Sat, 12 Sep 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why are the people building the most powerful AI so worried about what it could do?</title>
-      <link>https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks</link>
-      <guid>https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — As an Anthropic resignation and OpenAI agents' hack on Hugging Face capture public attention, some researchers worry the industry is racing too fast to develop powerful AI while safety measures lag.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Sat, 12 Sep 2026 05:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 2800 AUSTIN HWY (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1243618</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1243618</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1243618 | EAST Division | 9/12/2026 2:22:16 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/12/2026 2:22:16 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — LIVE OAK ST / DAWSON ST (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1243625</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1243625</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1243625 | DOWNTOWN Division | 9/12/2026 2:24:19 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/12/2026 2:24:19 AM</pubDate>
-    </item>
-    <item>
-      <title>Artist delights in beautiful ‘mess’ and dead trees of England’s rewilding sites</title>
-      <link>https://www.theguardian.com/environment/2026/sep/12/artist-england-rewilding-sites-knepp-rebecca-howard</link>
-      <guid>https://www.theguardian.com/environment/2026/sep/12/artist-england-rewilding-sites-knepp-rebecca-howard</guid>
-      <description>[Ecology &amp; Conservation] Keyword: rewilding — Rebecca Howard spent two years visiting projects and painting landscapes that feature in West Sussex exhibitionRewilding areas do not usually conform to traditional notions of beauty in England’s green and pleasant land. Detractors may bewail the beaver-felled trees, untidy scrub, deadwood, weeds, mud and “mess”.But a new exhibition highlights the aesthetic delights that can be discovered on rewilding sites where fungi grows on dying trees, water buffalo gather in new wetlands and brown-watered </description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Sat, 12 Sep 2026 05:00:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
