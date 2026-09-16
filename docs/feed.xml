@@ -5,8 +5,56 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:40:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:00:31 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 5100 EISENHAUER RD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1260557</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1260557</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1260557 | EAST Division | 9/15/2026 7:44:23 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/15/2026 7:44:23 PM</pubDate>
+    </item>
+    <item>
+      <title>An Environmental Defender Is Murdered Every Three Days</title>
+      <link>https://insideclimatenews.org/news/15092026/at-least-124-environmental-defenders-killed-in-2025/</link>
+      <guid>https://insideclimatenews.org/news/15092026/at-least-124-environmental-defenders-killed-in-2025/</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Every three days someone is killed for defending nature.&amp;#160; In 2025, watchdog group Global Witness documented 124 such deaths worldwide, a toll researchers say is likely only a fraction of the total number because repression and armed conflict make many deaths impossible to verify.&amp;#160; The victims included Indigenous people, small-scale farmers and community organizers peacefully [&amp;#8230;]</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Tue, 15 Sep 2026 23:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New species of 240-million-year-old prehistoric animal could reshape dinosaur origins timeline</title>
+      <link>https://phys.org/news/2026-09-species-million-year-prehistoric-animal.html</link>
+      <guid>https://phys.org/news/2026-09-species-million-year-prehistoric-animal.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — A new prehistoric animal species from Tanzania dating to around 240 million years ago, during the Triassic period, has been described by an international team of researchers. Led by the University of Bristol, the new species, named Dinodontosaurus isiyavamanda, could help scientists refine the age of one of the world's most significant fossil sites and reshape the timeline of early dinosaur evolution.</description>
+      <category>Open Source Software</category>
+      <pubDate>Tue, 15 Sep 2026 19:10:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>Congressional Republicans Aim to Shield Fossil Fuel Companies From Climate Lawsuits</title>
+      <link>https://insideclimatenews.org/news/15092026/congress-republicans-introduce-bills-protecting-fossil-fuel-industry/</link>
+      <guid>https://insideclimatenews.org/news/15092026/congress-republicans-introduce-bills-protecting-fossil-fuel-industry/</guid>
+      <description>[Open Source Software] Keyword: FOSS — Republicans in Congress are continuing their efforts to shield the fossil fuel industry from legal liability for its role in unleashing the heat-trapping gases linked to a cascade of deadly, record-setting disasters across the globe.&amp;#160; On Wednesday, the House Judiciary Committee is scheduled to debate and vote on a bill introduced in April by Rep. [&amp;#8230;]</description>
+      <category>Open Source Software</category>
+      <pubDate>Tue, 15 Sep 2026 23:22:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bexar County adopts $2.6B budget</title>
+      <link>https://sanantonioreport.org/bexar-county-adopts-2-6b-budget/</link>
+      <guid>https://sanantonioreport.org/bexar-county-adopts-2-6b-budget/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Bexar County commissioners on Tuesday voted 3-2 to approve a much leaner county budget of $2.6 billion and keep the property tax steady.Bexar County adopts $2.6B budget was first posted on September 15, 2026 at 6:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Tue, 15 Sep 2026 23:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>16 North East ISD schools listed for possible closure</title>
+      <link>https://sanantonioreport.org/neisd-school-closure-list/</link>
+      <guid>https://sanantonioreport.org/neisd-school-closure-list/</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — North East ISD has identified 16 schools that meet the district’s criteria for possible closure to reduce costs amid declining enrollment.16 North East ISD schools listed for possible closure was first posted on September 15, 2026 at 7:54 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Wed, 16 Sep 2026 00:54:22 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person - Endangered — 700 PICKWELL DR (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1260020</link>
@@ -779,54 +827,6 @@ We (the Emacs upstream </description>
       <description>[Open Source Software] Keyword: FOSS — Before Iowa was the nation’s most wind-powered state, it generated nearly all of its electricity with coal. Since 2000, the fossil fuel’s role in the state’s power mix has diminished as utilities built a massive fleet of wind turbines that now provides nearly two-thirds of the state’s power.&amp;#160; But as the artificial intelligence boom drives [&amp;#8230;]</description>
       <category>Open Source Software</category>
       <pubDate>Mon, 14 Sep 2026 08:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meet San Antonio’s new director of the Military and Veterans Affairs Department</title>
-      <link>https://sanantonioreport.org/qa-san-antonio-new-director-scott-jackson-military-veterans-affairs/</link>
-      <guid>https://sanantonioreport.org/qa-san-antonio-new-director-scott-jackson-military-veterans-affairs/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — After 10 years under the leadership of retired Maj. Gen. Juan Ayala the city's Military and Veterans Affairs Department has a new leader.Meet San Antonio&amp;#8217;s new director of the Military and Veterans Affairs Department was first posted on September 14, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me </description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Mon, 14 Sep 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Disaster insurance, datacenters, right to repair: meet the midterm candidates running on green policies</title>
-      <link>https://www.theguardian.com/us-news/2026/sep/14/midterm-candidates-climate-datacenter-policies</link>
-      <guid>https://www.theguardian.com/us-news/2026/sep/14/midterm-candidates-climate-datacenter-policies</guid>
-      <description>[Digital Rights &amp; Privacy] Keyword: right to repair — Some of the everyday struggles animating voters have a climate link lurking in the backgroundWhen Florida governor Ron DeSantis signed a law erasing the words “climate change” from state statutes in May 2024 – colloquially known as the “don’t say climate change” law – Democrats were outraged. Just six months later, many liberal politicians began to go quiet on the issue themselves. After Donald Trump won the 2024 election, mentions of the climate crisis started to disappear from Democrats’ rheto</description>
-      <category>Digital Rights &amp; Privacy</category>
-      <pubDate>Mon, 14 Sep 2026 11:00:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 1500 W SUNSHINE (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1251829</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1251829</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1251829 | WEST Division | 9/14/2026 12:12:02 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/14/2026 12:12:02 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 800 E PARK AVE (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1251834</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1251834</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1251834 | DOWNTOWN Division | 9/14/2026 12:15:18 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/14/2026 12:15:18 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 300 WESTMINSTER AVE (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1251846</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1251846</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1251846 | WEST Division | 9/14/2026 12:19:55 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/14/2026 12:19:55 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 100 DURANT ST (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1251879</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1251879</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1251879 | WEST Division | 9/14/2026 12:30:18 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/14/2026 12:30:18 AM</pubDate>
     </item>
   </channel>
 </rss>
