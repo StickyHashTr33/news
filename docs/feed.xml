@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:52:27 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 3800 PERRIN CENTRAL (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1261413</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1261413</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1261413 | NORTH Division | 9/16/2026 12:23:25 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/16/2026 12:23:25 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 8100 BRIARGATE DR (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1261449</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1261449</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1261449 | PRUE Division | 9/16/2026 12:38:48 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/16/2026 12:38:48 AM</pubDate>
+    </item>
+    <item>
+      <title>Airlines should pay for CO2 removal if Heathrow expands, say climate advisers</title>
+      <link>https://www.theguardian.com/environment/2026/sep/16/heathrow-airport-should-pay-co2-removal-expand-climate-advisers</link>
+      <guid>https://www.theguardian.com/environment/2026/sep/16/heathrow-airport-should-pay-co2-removal-expand-climate-advisers</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Climate Change Committee says government cannot expand airport without requiring aviation industry to clean up its emissions Heathrow airport should be allowed to expand only if airlines pay for the removal of carbon dioxide from the atmosphere, the government’s climate advisers have said.Building a third runway and new terminals, as some in government want to do, would breach the UK’s carbon budgets and make reaching net zero by 2050 impossible, on current policies, according to the Climate Cha</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 16 Sep 2026 04:00:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Renewed Hostilities In Yemen Inflame Displacement and Regional Risks</title>
+      <link>https://www.ipsnews.net/2026/09/renewed-hostilities-in-yemen-inflame-displacement-and-regional-risks/</link>
+      <guid>https://www.ipsnews.net/2026/09/renewed-hostilities-in-yemen-inflame-displacement-and-regional-risks/</guid>
+      <description>[Housing &amp; Gentrification] Keyword: displacement — In recent days, the humanitarian situation in Yemen has deteriorated sharply following a new escalation of hostilities between the Iran-backed Houthi rebels and the Saudi-backed Presidential Leadership Council (PLC). This follows four years of relative stability, marking the most severe resurgence of violence since the collapse of the United Nations (UN)-mediated ceasefire in October 2022. [&amp;#8230;]</description>
+      <category>Housing &amp; Gentrification</category>
+      <pubDate>Wed, 16 Sep 2026 05:25:28 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 5100 EISENHAUER RD (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1260557</link>
@@ -795,38 +827,6 @@ We (the Emacs upstream </description>
       <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Indigenous senators have criticised One Nation leader saying the comments showed ‘wilful ignorance’Follow our Australia news live blog for latest updatesGet our new political email, free app or daily news podcastFederal parliamentarians from across the political spectrum have joined in condemning resurfaced comments by Pauline Hanson as “nasty” and “derogatory”, after she labelled Indigenous Australians the “most primitive race on Earth”.The Indigenous affairs minister, Malarndirri McCarthy, a Y</description>
       <category>Indigenous News &amp; Tribal Sovereignty</category>
       <pubDate>Mon, 14 Sep 2026 06:38:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Japan's biomass energy boom threatens further deforestation in Indonesia</title>
-      <link>https://phys.org/news/2026-09-japan-biomass-energy-boom-threatens.html</link>
-      <guid>https://phys.org/news/2026-09-japan-biomass-energy-boom-threatens.html</guid>
-      <description>[Climate &amp; Environment] Keyword: deforestation — A surge in Indonesia's wood pellet and chip production is driving a new wave of deforestation, threatening the vast archipelago's remaining tropical forests, vital biodiversity hot spots and the land of Indigenous peoples, according to new satellite analysis from environmental nongovernmental organizations.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Mon, 14 Sep 2026 03:53:33 EDT</pubDate>
-    </item>
-    <item>
-      <title>Improved climate forecasts alone won't protect Africa's poorest farmers</title>
-      <link>https://phys.org/news/2026-09-climate-wont-africa-poorest-farmers.html</link>
-      <guid>https://phys.org/news/2026-09-climate-wont-africa-poorest-farmers.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — As Africa prepares for the arrival of a powerful El Niño weather event, an international team of researchers led by the University of Sydney and Imperial College London has found that access to improved forecasts alone will not protect many of the region's poorest livestock farmers from the impacts of climate change.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Mon, 14 Sep 2026 05:00:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>CPython eases Rust requirements as assimilation continues</title>
-      <link>https://www.theregister.com/devops/2026/09/14/cpython-eases-rust-requirements-as-assimilation-continues/5296010</link>
-      <guid>https://www.theregister.com/devops/2026/09/14/cpython-eases-rust-requirements-as-assimilation-continues/5296010</guid>
-      <description>[Open Source Software] Keyword: Linux kernel — By making Rust opt-in, the Python builders hope to enjoy Rust bennies without the backlash that roiled the Linux kernel keepers</description>
-      <category>Open Source Software</category>
-      <pubDate>Mon, 14 Sep 2026 12:45:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>As Power Demand Rises, a Clean-Energy State Falls Back on Coal</title>
-      <link>https://insideclimatenews.org/news/14092026/iowa-increases-coal-power-to-meet-electricity-demand/</link>
-      <guid>https://insideclimatenews.org/news/14092026/iowa-increases-coal-power-to-meet-electricity-demand/</guid>
-      <description>[Open Source Software] Keyword: FOSS — Before Iowa was the nation’s most wind-powered state, it generated nearly all of its electricity with coal. Since 2000, the fossil fuel’s role in the state’s power mix has diminished as utilities built a massive fleet of wind turbines that now provides nearly two-thirds of the state’s power.&amp;#160; But as the artificial intelligence boom drives [&amp;#8230;]</description>
-      <category>Open Source Software</category>
-      <pubDate>Mon, 14 Sep 2026 08:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
