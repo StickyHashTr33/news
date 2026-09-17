@@ -5,8 +5,72 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:53:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 23:21:11 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 6600 HONEY HILL (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1269713</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1269713</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1269713 | PRUE Division | 9/17/2026 6:07:05 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/17/2026 6:07:05 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 7500 INGRAM RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1269727</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1269727</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1269727 | WEST Division | 9/17/2026 6:08:59 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/17/2026 6:08:59 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 16700 LA CANTERA PKWY (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1269730</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1269730</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1269730 | PRUE Division | 9/17/2026 6:09:25 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/17/2026 6:09:25 PM</pubDate>
+    </item>
+    <item>
+      <title>Trump administration overhauls key protection for endangered species</title>
+      <link>https://phys.org/news/2026-09-trump-administration-overhauls-key-endangered.html</link>
+      <guid>https://phys.org/news/2026-09-trump-administration-overhauls-key-endangered.html</guid>
+      <description>[Ecology &amp; Conservation] Keyword: endangered species — President Donald Trump's administration will no longer treat the unintentional killing of protected wildlife as unlawful, officials confirmed Thursday, in a shift conservationists say effectively guts the Endangered Species Act (ESA).</description>
+      <category>Ecology &amp; Conservation</category>
+      <pubDate>Thu, 17 Sep 2026 17:40:04 EDT</pubDate>
+    </item>
+    <item>
+      <title>Why global wind energy may stay steady even as storm tracks shift poleward</title>
+      <link>https://phys.org/news/2026-09-global-energy-stay-steady-storm.html</link>
+      <guid>https://phys.org/news/2026-09-global-energy-stay-steady-storm.html</guid>
+      <description>[Climate &amp; Environment] Keyword: global warming — Understanding how wind changes in response to global warming is necessary for accurately modeling climate and weather, identifying risks to infrastructure, and assessing global wind power capacity.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 17 Sep 2026 18:00:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>Climate change contributing to permafrost thawing and glacial thinning</title>
+      <link>https://phys.org/news/2026-09-climate-contributing-permafrost-glacial-thinning.html</link>
+      <guid>https://phys.org/news/2026-09-climate-contributing-permafrost-glacial-thinning.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — An international team of glaciologists and climate scientists, including professor Bethan Davies from Newcastle University, carried out a rapid scientific analysis and identified the role of climate change and its impacts on the high-altitude landscape.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 17 Sep 2026 18:00:04 EDT</pubDate>
+    </item>
+    <item>
+      <title>This week in science: T. rex footprints, solar 'superflares,' and benefits of reading</title>
+      <link>https://www.npr.org/2026/09/17/nx-s1-5970337/this-week-in-science-t-rex-footprints-solar-superflares-and-benefits-of-reading</link>
+      <guid>https://www.npr.org/2026/09/17/nx-s1-5970337/this-week-in-science-t-rex-footprints-solar-superflares-and-benefits-of-reading</guid>
+      <description>[Open Source Software] Keyword: FOSS — Paleontologists have discovered the tracks of a giant — the fossilized footprints of T. rex. Plus, solar &quot;superflares&quot; and the brain benefits of reading in this week's Short Wave science news roundup.</description>
+      <category>Open Source Software</category>
+      <pubDate>Thu, 17 Sep 2026 17:41:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft</title>
+      <link>https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/</link>
+      <guid>https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — &quot;Millions of people around the world will soon consider large models ‘hoovering up’ all their work to be an astonishing theft of unprecedented proportions.&quot;</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Thu, 17 Sep 2026 22:01:43 GMT</pubDate>
+    </item>
     <item>
       <title>US: Trump administration weakens Endangered Species Act</title>
       <link>https://www.dw.com/en/us-trump-administration-weakens-endangered-species-act/a-79316188?maca=en-rss-en-all-1573-rdf</link>
@@ -751,70 +815,6 @@ Solano described the </description>
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Bexar County commissioners on Tuesday voted 3-2 to approve a much leaner county budget of $2.6 billion and keep the property tax steady.Bexar County adopts $2.6B budget was first posted on September 15, 2026 at 6:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Tue, 15 Sep 2026 23:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>16 North East ISD schools listed for possible closure</title>
-      <link>https://sanantonioreport.org/neisd-school-closure-list/</link>
-      <guid>https://sanantonioreport.org/neisd-school-closure-list/</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — North East ISD has identified 16 schools that meet the district’s criteria for possible closure to reduce costs amid declining enrollment.16 North East ISD schools listed for possible closure was first posted on September 15, 2026 at 7:54 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Wed, 16 Sep 2026 00:54:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — 700 PICKWELL DR (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1260020</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1260020</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1260020 | EAST Division | 9/15/2026 5:28:51 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/15/2026 5:28:51 PM</pubDate>
-    </item>
-    <item>
-      <title>Mexican Activists Are Fighting Climate Crises by Stopping Extractive Violence</title>
-      <link>https://deceleration.news/mexican-activists-are-fighting-climate-crises-by-stopping-extractive-violence/</link>
-      <guid>https://deceleration.news/mexican-activists-are-fighting-climate-crises-by-stopping-extractive-violence/</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Indigenous activists and water defenders in Mexico are organizing to combat what they call “signs of planetary death.”</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Tue, 15 Sep 2026 19:49:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pushback Mounts Against Trump’s Attacks on the Endangered Species Act</title>
-      <link>https://insideclimatenews.org/news/15092026/todays-climate-trump-endangered-species-act-pushback-lawsuits/</link>
-      <guid>https://insideclimatenews.org/news/15092026/todays-climate-trump-endangered-species-act-pushback-lawsuits/</guid>
-      <description>[Ecology &amp; Conservation] Keyword: endangered species — A Trump administration rule eviscerating widespread habitat protections for endangered species just went into effect.&amp;#160; First proposed in April, the rule rescinds the long-held definition for a single word—harm—under the Endangered Species Act, a landmark law enacted in 1973 to conserve the country’s imperiled animals and plants. This seemingly tiny tweak has profound consequences, clearing [&amp;#8230;]</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Tue, 15 Sep 2026 22:25:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>How a pathogen turns flowers into leaves</title>
-      <link>https://phys.org/news/2026-09-pathogen.html</link>
-      <guid>https://phys.org/news/2026-09-pathogen.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Scientists have found how a protein produced by bacteria disrupts the mechanism that controls flower development in plants, turning reproductive organs into leaf-like structures. These findings shed light on a plant disease that is expected to spread as climate change expands the range of its insect vectors in northern latitudes. They used a synchrotron technique at ESRF, the European Synchrotron in Grenoble, France. The results are an Editor's Pick in the Journal of Biological Chemistry.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 15 Sep 2026 16:20:04 EDT</pubDate>
-    </item>
-    <item>
-      <title>Big, bigger, biggest: The case of the planned residential tower that keeps on getting taller</title>
-      <link>https://sanantonioreport.org/san-antonio-planned-downtown-residential-tower-keeps-getting-taller/</link>
-      <guid>https://sanantonioreport.org/san-antonio-planned-downtown-residential-tower-keeps-getting-taller/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The long-delayed project recently made headway when a city panel approved changes that took it from 12 stories to a proposed 17 in plans approved by a city panel.Big, bigger, biggest: The case of the planned residential tower that keeps on getting taller was first posted on September 15, 2026 at 3:53 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright </description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Tue, 15 Sep 2026 20:53:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your AI agents' reports and questions have a new inbox, courtesy of AWS</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/09/15/your-ai-agents-reports-and-questions-have-a-new-inbox-courtesy-of-aws/5296661</link>
-      <guid>https://www.theregister.com/ai-and-ml/2026/09/15/your-ai-agents-reports-and-questions-have-a-new-inbox-courtesy-of-aws/5296661</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Pizza Bot runs locally and lets users interact with AI agents in an email-like interface. Perfect for blowing them off just like your human colleagues!</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Tue, 15 Sep 2026 22:25:44 +0200</pubDate>
-    </item>
-    <item>
-      <title>AI Agent Platform Reinvents Spam, Floods Inboxes Worldwide</title>
-      <link>https://www.404media.co/ai-agent-platform-reinvents-spam-floods-inboxes-worldwide/</link>
-      <guid>https://www.404media.co/ai-agent-platform-reinvents-spam-floods-inboxes-worldwide/</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — iLands and its AI agents are doing completely useless tasks, then begging for money.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Tue, 15 Sep 2026 20:08:56 GMT</pubDate>
     </item>
   </channel>
 </rss>
