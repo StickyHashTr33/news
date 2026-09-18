@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:55:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 19:24:39 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Shooting — 1300 MCCULLOUGH AVE (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1273387</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1273387</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-1273387 | DOWNTOWN Division | 9/18/2026 2:03:50 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/18/2026 2:03:50 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 200 SANDMEYER ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1273409</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1273409</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1273409 | EAST Division | 9/18/2026 2:07:28 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/18/2026 2:07:28 PM</pubDate>
+    </item>
+    <item>
+      <title>Local veterans stress importance of a diverse military amid DEI purge</title>
+      <link>https://sanantonioreport.org/latino-military-veterans-storytelling-san-antonio/</link>
+      <guid>https://sanantonioreport.org/latino-military-veterans-storytelling-san-antonio/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Latino veterans storytelling event highlights the experiences of minorities in the military. Local veterans stress importance of a diverse military amid DEI purge was first posted on September 18, 2026 at 2:15 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Fri, 18 Sep 2026 19:15:58 +0000</pubDate>
+    </item>
     <item>
       <title>Trump officials move to dismantle key protection for US endangered species</title>
       <link>https://www.theguardian.com/us-news/2026/sep/17/endangered-species-trump-officials</link>
@@ -791,30 +815,6 @@ Solano described the </description>
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Women make up the fastest-growing group of U.S. veterans, but fewer than half of female veterans are enrolled in VA health care.The VA is reaching out to female veterans, who sometimes are hesitant to identify as veterans at all was first posted on September 16, 2026 at 10:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please cont</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Godfather of AI’ says tech regulation is nearing Covid-style pivot moment</title>
-      <link>https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio</link>
-      <guid>https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Safety crisis makes it more likely that governments will be spurred into action, says Yoshua BengioConcerns over AI safety are reaching a point where governments realise they must act to protect the public, similarly to in the Covid pandemic, according to one of the “godfathers” of the technology.Yoshua Bengio said recent events, including a “swarm” of OpenAI agents hacking a startup and tech insider warnings of an existential threat, were cutting through – making government action more likely. </description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Wed, 16 Sep 2026 15:00:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump just activated a secret 1990s court</title>
-      <link>https://www.alternet.org/alternet-exclusives/trump-secret-court/</link>
-      <guid>https://www.alternet.org/alternet-exclusives/trump-secret-court/</guid>
-      <description>[Cybersecurity] Keyword: CVE — Last Friday, for the first time in American history, a brand new court in America deported to Afghanistan Nazira Haji Zada, a 47-year-old lawful permanent resident living in Fort Worth. She was never charged with a crime, and wasn’t allowed to see the evidence against her (and neither were her lawyers). Attorney General Todd Blanche called the whole thing “a win for national security and the rule of law.”This was possible because, in a moment of national hysteria following the Tim McVeigh bombin</description>
-      <category>Cybersecurity</category>
-      <pubDate>Wed, 16 Sep 2026 10:53:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nine in 10 UK gambling websites breach data privacy law, study finds</title>
-      <link>https://phys.org/news/2026-09-uk-gambling-websites-breach-privacy.html</link>
-      <guid>https://phys.org/news/2026-09-uk-gambling-websites-breach-privacy.html</guid>
-      <description>[Digital Rights &amp; Privacy] Keyword: data privacy — Nearly nine in 10 (86%) UK-licensed online gambling websites are operating in breach of the General Data Protection Regulation, according to new research from the Gambling Research, Education and Treatment (GREAT) Center at Swansea University published in the journal Computers in Human Behavior Reports.</description>
-      <category>Digital Rights &amp; Privacy</category>
-      <pubDate>Wed, 16 Sep 2026 07:00:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
