@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 23:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 02:52:05 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 7500 SOUTH SEA (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1270566</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1270566</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1270566 | NORTH Division | 9/17/2026 9:33:35 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/17/2026 9:33:35 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 7000 CULEBRA RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1270593</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1270593</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1270593 | WEST Division | 9/17/2026 9:41:08 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/17/2026 9:41:08 PM</pubDate>
+    </item>
+    <item>
+      <title>In hottest summer on record, 2 in 3 Americans say climate change is increasing heat-related illnesses</title>
+      <link>https://phys.org/news/2026-09-hottest-summer-americans-climate-illnesses.html</link>
+      <guid>https://phys.org/news/2026-09-hottest-summer-americans-climate-illnesses.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Nearly two-thirds of the American public say climate change is increasing the risk of respiratory diseases and heat- and insect-related illnesses, according to a new survey from the Annenberg Public Policy Center (APPC) of the University of Pennsylvania.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 17 Sep 2026 22:20:02 EDT</pubDate>
+    </item>
+    <item>
+      <title>Fossil plankton shells reveal reduced nitrogen fixation in warmer oceans 3 million years ago</title>
+      <link>https://phys.org/news/2026-09-fossil-plankton-shells-reveal-nitrogen.html</link>
+      <guid>https://phys.org/news/2026-09-fossil-plankton-shells-reveal-nitrogen.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — Nitrogen is a key nutrient because it fuels the growth of plankton, which forms the basis of the marine food web. Two opposing processes determine the global nitrogen cycle: nitrogen fixation and denitrification.</description>
+      <category>Open Source Software</category>
+      <pubDate>Thu, 17 Sep 2026 20:00:05 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 6600 HONEY HILL (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1269713</link>
@@ -783,38 +815,6 @@ Solano described the </description>
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1260557 | EAST Division | 9/15/2026 7:44:23 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>9/15/2026 7:44:23 PM</pubDate>
-    </item>
-    <item>
-      <title>An Environmental Defender Is Murdered Every Three Days</title>
-      <link>https://insideclimatenews.org/news/15092026/at-least-124-environmental-defenders-killed-in-2025/</link>
-      <guid>https://insideclimatenews.org/news/15092026/at-least-124-environmental-defenders-killed-in-2025/</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Every three days someone is killed for defending nature.&amp;#160; In 2025, watchdog group Global Witness documented 124 such deaths worldwide, a toll researchers say is likely only a fraction of the total number because repression and armed conflict make many deaths impossible to verify.&amp;#160; The victims included Indigenous people, small-scale farmers and community organizers peacefully [&amp;#8230;]</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Tue, 15 Sep 2026 23:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New species of 240-million-year-old prehistoric animal could reshape dinosaur origins timeline</title>
-      <link>https://phys.org/news/2026-09-species-million-year-prehistoric-animal.html</link>
-      <guid>https://phys.org/news/2026-09-species-million-year-prehistoric-animal.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — A new prehistoric animal species from Tanzania dating to around 240 million years ago, during the Triassic period, has been described by an international team of researchers. Led by the University of Bristol, the new species, named Dinodontosaurus isiyavamanda, could help scientists refine the age of one of the world's most significant fossil sites and reshape the timeline of early dinosaur evolution.</description>
-      <category>Open Source Software</category>
-      <pubDate>Tue, 15 Sep 2026 19:10:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Congressional Republicans Aim to Shield Fossil Fuel Companies From Climate Lawsuits</title>
-      <link>https://insideclimatenews.org/news/15092026/congress-republicans-introduce-bills-protecting-fossil-fuel-industry/</link>
-      <guid>https://insideclimatenews.org/news/15092026/congress-republicans-introduce-bills-protecting-fossil-fuel-industry/</guid>
-      <description>[Open Source Software] Keyword: FOSS — Republicans in Congress are continuing their efforts to shield the fossil fuel industry from legal liability for its role in unleashing the heat-trapping gases linked to a cascade of deadly, record-setting disasters across the globe.&amp;#160; On Wednesday, the House Judiciary Committee is scheduled to debate and vote on a bill introduced in April by Rep. [&amp;#8230;]</description>
-      <category>Open Source Software</category>
-      <pubDate>Tue, 15 Sep 2026 23:22:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bexar County adopts $2.6B budget</title>
-      <link>https://sanantonioreport.org/bexar-county-adopts-2-6b-budget/</link>
-      <guid>https://sanantonioreport.org/bexar-county-adopts-2-6b-budget/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Bexar County commissioners on Tuesday voted 3-2 to approve a much leaner county budget of $2.6 billion and keep the property tax steady.Bexar County adopts $2.6B budget was first posted on September 15, 2026 at 6:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Tue, 15 Sep 2026 23:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
