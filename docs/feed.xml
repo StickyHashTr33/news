@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 02:52:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:54:57 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 600 SPRINGFIELD RD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1271392</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1271392</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1271392 | EAST Division | 9/18/2026 2:28:03 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/18/2026 2:28:03 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 12900 PARK CROSSING DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1271420</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1271420</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1271420 | NORTH Division | 9/18/2026 2:42:17 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/18/2026 2:42:17 AM</pubDate>
+    </item>
+    <item>
+      <title>The Cost of Excluding Refugees</title>
+      <link>https://www.ipsnews.net/2026/09/the-cost-of-excluding-refugees/</link>
+      <guid>https://www.ipsnews.net/2026/09/the-cost-of-excluding-refugees/</guid>
+      <description>[Housing &amp; Gentrification] Keyword: displacement — Without the resources to educate, train and economically include refugees, displacement will continue to drive onward migration</description>
+      <category>Housing &amp; Gentrification</category>
+      <pubDate>Fri, 18 Sep 2026 04:36:58 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 7500 SOUTH SEA (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1270566</link>
@@ -791,30 +815,6 @@ Solano described the </description>
       <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1261449 | PRUE Division | 9/16/2026 12:38:48 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>9/16/2026 12:38:48 AM</pubDate>
-    </item>
-    <item>
-      <title>Airlines should pay for CO2 removal if Heathrow expands, say climate advisers</title>
-      <link>https://www.theguardian.com/environment/2026/sep/16/heathrow-airport-should-pay-co2-removal-expand-climate-advisers</link>
-      <guid>https://www.theguardian.com/environment/2026/sep/16/heathrow-airport-should-pay-co2-removal-expand-climate-advisers</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Climate Change Committee says government cannot expand airport without requiring aviation industry to clean up its emissions Heathrow airport should be allowed to expand only if airlines pay for the removal of carbon dioxide from the atmosphere, the government’s climate advisers have said.Building a third runway and new terminals, as some in government want to do, would breach the UK’s carbon budgets and make reaching net zero by 2050 impossible, on current policies, according to the Climate Cha</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 16 Sep 2026 04:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Renewed Hostilities In Yemen Inflame Displacement and Regional Risks</title>
-      <link>https://www.ipsnews.net/2026/09/renewed-hostilities-in-yemen-inflame-displacement-and-regional-risks/</link>
-      <guid>https://www.ipsnews.net/2026/09/renewed-hostilities-in-yemen-inflame-displacement-and-regional-risks/</guid>
-      <description>[Housing &amp; Gentrification] Keyword: displacement — In recent days, the humanitarian situation in Yemen has deteriorated sharply following a new escalation of hostilities between the Iran-backed Houthi rebels and the Saudi-backed Presidential Leadership Council (PLC). This follows four years of relative stability, marking the most severe resurgence of violence since the collapse of the United Nations (UN)-mediated ceasefire in October 2022. [&amp;#8230;]</description>
-      <category>Housing &amp; Gentrification</category>
-      <pubDate>Wed, 16 Sep 2026 05:25:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 5100 EISENHAUER RD (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1260557</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1260557</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1260557 | EAST Division | 9/15/2026 7:44:23 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/15/2026 7:44:23 PM</pubDate>
     </item>
   </channel>
 </rss>
