@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 00:55:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 05:26:54 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 900 AVENUE B (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1275669</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1275669</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1275669 | DOWNTOWN Division | 9/19/2026 12:10:19 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/19/2026 12:10:19 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 15600 IH 10 W (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1275705</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1275705</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1275705 | PRUE Division | 9/19/2026 12:15:01 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/19/2026 12:15:01 AM</pubDate>
+    </item>
     <item>
       <title>Trump administration pushes on with construction of controversial Big Bend border wall</title>
       <link>https://www.theguardian.com/us-news/2026/sep/18/trump-administration-big-bend-border-wall-texas-construction</link>
@@ -792,22 +808,6 @@ For over 35 years, EFFector has been your guide to understanding the intersect
       <description>[Open Source Software] Keyword: FOSS — &quot;Sediment and fossil records are a major pillar of our understanding of how the climate works—but climate scientists have gotten something wrong about Australia's ice age,&quot; says Dr. Alex F. Wall, lead author of a new research paper published in Quaternary Science Reviews.</description>
       <category>Open Source Software</category>
       <pubDate>Wed, 16 Sep 2026 07:20:11 EDT</pubDate>
-    </item>
-    <item>
-      <title>Half-billion-year-old fossils rewrite the origin story of starfish</title>
-      <link>https://phys.org/news/2026-09-billion-year-fossils-rewrite-story.html</link>
-      <guid>https://phys.org/news/2026-09-billion-year-fossils-rewrite-story.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — Scientists have discovered several 518-million-year-old fossils that reshape understanding of the origins of the animal group containing starfish. The fossils show that these animals ate using tentacles rather than passively using their gills, as previously thought.</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 16 Sep 2026 11:00:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>A 240-million-year-old fossil just changed the dinosaur timeline</title>
-      <link>https://www.sciencedaily.com/releases/2026/09/260915232128.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/09/260915232128.htm</guid>
-      <description>[Open Source Software] Keyword: FOSS — A newly identified 240-million-year-old animal from Tanzania is forcing scientists to rethink the early dinosaur timeline. Dinodontosaurus isiyavamanda belongs to a group previously known only from South America, linking fossil deposits on the two continents. That connection suggests Tanzania’s supposed oldest dinosaur fossils may actually be millions of years younger than previously thought.</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 16 Sep 2026 09:48:08 EDT</pubDate>
     </item>
   </channel>
 </rss>
