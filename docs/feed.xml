@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 17:43:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 19:57:25 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 4600 THOUSAND OAKS (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1277950</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1277950</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1277950 | NORTH Division | 9/19/2026 2:39:40 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/19/2026 2:39:40 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 7200 MILL VALLEY DR (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1277960</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1277960</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1277960 | SOUTH Division | 9/19/2026 2:43:24 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/19/2026 2:43:24 PM</pubDate>
+    </item>
+    <item>
+      <title>Roundup of mental health resources for San Antonio military veterans</title>
+      <link>https://sanantonioreport.org/roundup-mental-health-resources-san-antonio-military-veterans/</link>
+      <guid>https://sanantonioreport.org/roundup-mental-health-resources-san-antonio-military-veterans/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Sept. 22 marks Texas Veteran Suicide Prevention Day, in recognition of the estimate that 22 veterans die by suicide per day. Roundup of mental health resources for San Antonio military veterans was first posted on September 19, 2026 at 2:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sat, 19 Sep 2026 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 1100 E SONTERRA BLVD (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1277493</link>
@@ -782,30 +806,6 @@
       <description>[Climate &amp; Environment] Keyword: climate change — Climate attribution researchers say “there is absolutely no doubt” that decades of global warming set the stage for the deadly rock and glacier collapse on Langtang Lirung Mountain in Nepal. At least 1,300 people died in August when a cascade of semi-frozen sludge, boulders, trees and other debris roared through the region at speeds up [&amp;#8230;]</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Wed, 16 Sep 2026 23:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI agents can modify themselves without humans telling them to do so</title>
-      <link>https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991</link>
-      <guid>https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — This is a test - it is only a test</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Thu, 17 Sep 2026 00:10:24 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 300 E PYRON AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1264751</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1264751</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1264751 | SOUTH Division | 9/16/2026 5:21:34 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/16/2026 5:21:34 PM</pubDate>
-    </item>
-    <item>
-      <title>NIOSA paused indefinitely amid declining attendance, financial losses</title>
-      <link>https://sanantonioreport.org/niosa-paused-san-antonio-fiesta-declining-attendance-financial-losses/</link>
-      <guid>https://sanantonioreport.org/niosa-paused-san-antonio-fiesta-declining-attendance-financial-losses/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The San Antonio Conservation Society is pausing NIOSA after four years of financial losses and a 48% decline in attendance since the pandemic.NIOSA paused indefinitely amid declining attendance, financial losses was first posted on September 16, 2026 at 5:08 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@ri</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Wed, 16 Sep 2026 22:08:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
