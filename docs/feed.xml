@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 19:57:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 22:07:35 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 7700 NW LOOP 410 (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1278416</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1278416</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1278416 | WEST Division | 9/19/2026 4:54:32 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/19/2026 4:54:32 PM</pubDate>
+    </item>
+    <item>
+      <title>How the malaria parasite boosts its transmission potential under stress conditions</title>
+      <link>https://phys.org/news/2026-09-malaria-parasite-boosts-transmission-potential.html</link>
+      <guid>https://phys.org/news/2026-09-malaria-parasite-boosts-transmission-potential.html</guid>
+      <description>[Science &amp; Research] Keyword: microbiology — The malaria parasite is able to detect changes in its host's environment and respond by increasing the production of sexual forms capable of being transmitted to mosquitoes. A study led by the Barcelona Institute for Global Health (ISGlobal) identifies the molecular mechanism underlying this process. The findings, published in Nature Microbiology, answer what has been one of the major unanswered questions in malaria research for decades.</description>
+      <category>Science &amp; Research</category>
+      <pubDate>Sat, 19 Sep 2026 17:00:05 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 4600 THOUSAND OAKS (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1277950</link>
@@ -790,22 +806,6 @@
       <description>[Science &amp; Research] Keyword: scientific study — Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in AugustClimate breakdown probably weakened the glacier that collapsed causing catastrophic floods and killing hundreds of people in Nepal and Tibet last month, the first scientific study of the disaster has found.Researchers identified unusually warm conditions before the glacier’s collapse, which sent an avalanche of 110m cubic metres (3,885 cu ft) of snow and ice into the valley below. This trigg</description>
       <category>Science &amp; Research</category>
       <pubDate>Wed, 16 Sep 2026 23:01:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>How climate change worsened Nepal's deadly mountain collapse</title>
-      <link>https://www.dw.com/en/how-climate-change-worsened-nepal-s-deadly-mountain-collapse/a-79293578?maca=en-rss-en-all-1573-rdf</link>
-      <guid>https://www.dw.com/en/how-climate-change-worsened-nepal-s-deadly-mountain-collapse/a-79293578?maca=en-rss-en-all-1573-rdf</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — A glacier and rock collapse in Nepal killed nearly 1,400 people and left thousands missing. Scientists say decades of warming helped set the disaster in motion.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>2026-09-16T23:03:00Z</pubDate>
-    </item>
-    <item>
-      <title>Climate Change Primed Nepal Glacier for Deadly Collapse</title>
-      <link>https://insideclimatenews.org/news/16092026/research-links-warming-rocks-thawing-permafrost-melting-ice-to-nepal-flood/</link>
-      <guid>https://insideclimatenews.org/news/16092026/research-links-warming-rocks-thawing-permafrost-melting-ice-to-nepal-flood/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Climate attribution researchers say “there is absolutely no doubt” that decades of global warming set the stage for the deadly rock and glacier collapse on Langtang Lirung Mountain in Nepal. At least 1,300 people died in August when a cascade of semi-frozen sludge, boulders, trees and other debris roared through the region at speeds up [&amp;#8230;]</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 16 Sep 2026 23:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
