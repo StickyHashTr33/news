@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 22:12:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 00:55:51 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trump administration pushes on with construction of controversial Big Bend border wall</title>
+      <link>https://www.theguardian.com/us-news/2026/sep/18/trump-administration-big-bend-border-wall-texas-construction</link>
+      <guid>https://www.theguardian.com/us-news/2026/sep/18/trump-administration-big-bend-border-wall-texas-construction</guid>
+      <description>[Immigration &amp; Border] Keyword: border wall — Customs and Border Protection faces bipartisan backlash from locals for 30ft border wall through Texas national parkThe Trump administration is pressing forward with construction on the controversial border wall in the Big Bend region of west Texas, even as Customs and Border Protection (CBP) faces furious backlash from local leaders and landowners for its fast-moving plans.Construction began this week in Hudspeth county, which lies just east of the city of El Paso. CBP has been pressing landown</description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>Fri, 18 Sep 2026 23:07:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft agentically ports Copilot runtime to Rust for $120K</title>
+      <link>https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549</link>
+      <guid>https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — The Rust compiler remains unperturbed by the antics of the LLM</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Fri, 18 Sep 2026 23:11:05 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 5800 UTSA BLVD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1274057</link>
@@ -792,29 +808,6 @@ For over 35 years, EFFector has been your guide to understanding the intersect
       <description>[Open Source Software] Keyword: FOSS — A newly identified 240-million-year-old animal from Tanzania is forcing scientists to rethink the early dinosaur timeline. Dinodontosaurus isiyavamanda belongs to a group previously known only from South America, linking fossil deposits on the two continents. That connection suggests Tanzania’s supposed oldest dinosaur fossils may actually be millions of years younger than previously thought.</description>
       <category>Open Source Software</category>
       <pubDate>Wed, 16 Sep 2026 09:48:08 EDT</pubDate>
-    </item>
-    <item>
-      <title>[$] Ways to encrypt data on servers</title>
-      <link>https://lwn.net/Articles/1092553/</link>
-      <guid>https://lwn.net/Articles/1092553/</guid>
-      <description>[Open Source Software] Keyword: FOSS — At the 2026 edition of FOSSY, Romeo
-Solano gave a fast-paced, humorous presentation on what could have been a
-rather boring topic: server encryption.  There are a number of threats that
-we face in today's world, from criminals, government overreach, espionage,
-and more, that can be thwarted with encryption.  But encrypting data on a
-system that may live elsewhere, without any access to its keyboard at boot
-time, is rather more difficult than encrypting the disk of a laptop.
-Solano described the </description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 16 Sep 2026 14:17:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>How the American revolt against Flock cameras mirrors the Boston Tea Party of 1773</title>
-      <link>https://theconversation.com/how-the-american-revolt-against-flock-cameras-mirrors-the-boston-tea-party-of-1773-290399</link>
-      <guid>https://theconversation.com/how-the-american-revolt-against-flock-cameras-mirrors-the-boston-tea-party-of-1773-290399</guid>
-      <description>[ALPR &amp; Flock Cameras] Keyword: license plate reader — The bipartisan revolution against automated license plate readers suggests Americans have not entirely lost their rebellious spirit.</description>
-      <category>ALPR &amp; Flock Cameras</category>
-      <pubDate>2026-09-16T12:35:27Z</pubDate>
     </item>
   </channel>
 </rss>
