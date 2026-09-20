@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2026 17:55:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 20:12:39 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 8700 BOWENS CROSSING (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1282351</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1282351</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1282351 | PRUE Division | 9/20/2026 2:54:52 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/20/2026 2:54:52 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 4800 CASTLE PATH DR (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1281939</link>
@@ -798,14 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1266960 | DOWNTOWN Division | 9/17/2026 7:42:33 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>9/17/2026 7:42:33 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 400 MEBANE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1266984</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1266984</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1266984 | SOUTH Division | 9/17/2026 7:48:17 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/17/2026 7:48:17 AM</pubDate>
     </item>
   </channel>
 </rss>
