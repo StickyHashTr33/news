@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2026 14:27:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 17:55:05 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 4800 CASTLE PATH DR (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1281939</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1281939</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1281939 | EAST Division | 9/20/2026 12:35:02 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/20/2026 12:35:02 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 4900 USAA BLVD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1281957</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1281957</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1281957 | PRUE Division | 9/20/2026 12:41:42 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/20/2026 12:41:42 PM</pubDate>
+    </item>
+    <item>
+      <title>Boys and Girls Clubs of San Antonio to close 2 clubhouses due to financial challenges</title>
+      <link>https://sanantonioreport.org/boys-girls-clubs-of-san-antonio-close-2-clubhouses-financial-challenges/</link>
+      <guid>https://sanantonioreport.org/boys-girls-clubs-of-san-antonio-close-2-clubhouses-financial-challenges/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Financial challenges are forcing the Boys &amp;#038; Girls Clubs of San Antonio to shut down two more clubhouses at the end of September.Boys and Girls Clubs of San Antonio to close 2 clubhouses due to financial challenges was first posted on September 20, 2026 at 11:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at </description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sun, 20 Sep 2026 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 300 VICKERS AVE (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1281346</link>
@@ -782,30 +806,6 @@
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1266984 | SOUTH Division | 9/17/2026 7:48:17 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>9/17/2026 7:48:17 AM</pubDate>
-    </item>
-    <item>
-      <title>‘No doubt’ of climate change role in deadly China-Nepal flood: scientists</title>
-      <link>https://hongkongfp.com/2026/09/17/no-doubt-of-climate-change-role-in-deadly-china-nepal-flood-scientists/</link>
-      <guid>https://hongkongfp.com/2026/09/17/no-doubt-of-climate-change-role-in-deadly-china-nepal-flood-scientists/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Climate change was a core factor in last month&amp;#8217;s deadly glacial mountain collapse on the China-Nepal border that killed more than 1,400 people and left at least 6,600 missing, scientists said Thursday. However, scientists from the World Weather Attribution (WWA) group said, the disaster was not caused by a single extreme weather event, rather a [&amp;#8230;]</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 17 Sep 2026 11:02:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Climate change had major role in triggering Nepal floods, scientists say</title>
-      <link>https://www.aljazeera.com/news/2026/9/17/climate-change-had-major-role-in-triggering-nepal-floods-scientists-say?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/9/17/climate-change-had-major-role-in-triggering-nepal-floods-scientists-say?traffic_source=rss</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — The combined toll from the deadly incident now stands at 1,446 people dead and at least 6,669 missing.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 17 Sep 2026 11:19:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Climate change made deadly Nepal glacier and rock collapse more likely, according to analysis</title>
-      <link>https://phys.org/news/2026-09-climate-deadly-nepal-glacier-collapse.html</link>
-      <guid>https://phys.org/news/2026-09-climate-deadly-nepal-glacier-collapse.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Human-caused global warming thinned glaciers and thawed mountain permafrost, likely helping to destabilize the Himalayan slope that collapsed last month and unleashed catastrophic flooding across Nepal, according to a report released Thursday.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 17 Sep 2026 04:02:41 EDT</pubDate>
     </item>
   </channel>
 </rss>
