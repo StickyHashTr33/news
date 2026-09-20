@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 22:07:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 00:35:47 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 400 S WW WHITE RD (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1278959</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1278959</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1278959 | EAST Division | 9/19/2026 7:25:41 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/19/2026 7:25:41 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 7700 NW LOOP 410 (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1278416</link>
@@ -798,14 +806,6 @@
       <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Archaeologists have analyzed insect remains preserved in the 7th to 9th centuries AD funerary cave of Cruz de la Esquina, Gran Canaria, and found that it was used by the island's Indigenous people for food storage before being adapted into a burial site. The findings have been published in the journal Antiquity.</description>
       <category>Indigenous News &amp; Tribal Sovereignty</category>
       <pubDate>Wed, 16 Sep 2026 19:00:08 EDT</pubDate>
-    </item>
-    <item>
-      <title>Climate crisis likely behind devastating Nepal-Tibet floods that killed more than 1,300, first study finds</title>
-      <link>https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods</link>
-      <guid>https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods</guid>
-      <description>[Science &amp; Research] Keyword: scientific study — Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in AugustClimate breakdown probably weakened the glacier that collapsed causing catastrophic floods and killing hundreds of people in Nepal and Tibet last month, the first scientific study of the disaster has found.Researchers identified unusually warm conditions before the glacier’s collapse, which sent an avalanche of 110m cubic metres (3,885 cu ft) of snow and ice into the valley below. This trigg</description>
-      <category>Science &amp; Research</category>
-      <pubDate>Wed, 16 Sep 2026 23:01:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
