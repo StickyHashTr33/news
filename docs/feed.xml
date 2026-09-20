@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2026 10:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 14:27:19 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 300 VICKERS AVE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1281346</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1281346</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1281346 | SOUTH Division | 9/20/2026 9:11:58 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/20/2026 9:11:58 AM</pubDate>
+    </item>
+    <item>
+      <title>A 66-million-year-old tooth reveals T. rex was nearly as warm as a human</title>
+      <link>https://www.sciencedaily.com/releases/2026/09/260919031020.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/09/260919031020.htm</guid>
+      <description>[Open Source Software] Keyword: FOSS — Chemical clues preserved inside fossilized T. rex teeth reveal that the dinosaur maintained a body temperature of about 97 degrees Fahrenheit, almost identical to humans. The finding provides direct evidence that the giant predator was warm-blooded, helping explain how it stayed active and survived in chilly environments as far north as Alaska.</description>
+      <category>Open Source Software</category>
+      <pubDate>Sun, 20 Sep 2026 01:56:26 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 9800 CAMINO VILLA (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1280930</link>
@@ -790,22 +806,6 @@
       <description>[Climate &amp; Environment] Keyword: climate change — Human-caused global warming thinned glaciers and thawed mountain permafrost, likely helping to destabilize the Himalayan slope that collapsed last month and unleashed catastrophic flooding across Nepal, according to a report released Thursday.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Thu, 17 Sep 2026 04:02:41 EDT</pubDate>
-    </item>
-    <item>
-      <title>Omarchy gains $18.5M in backing, fresh converts – and fierce critics</title>
-      <link>https://www.theregister.com/software/2026/09/17/omarchy-gains-185m-in-backing-fresh-converts-and-fierce-critics/5296780</link>
-      <guid>https://www.theregister.com/software/2026/09/17/omarchy-gains-185m-in-backing-fresh-converts-and-fierce-critics/5296780</guid>
-      <description>[Open Source Software] Keyword: FOSS — DHH's Arch-based desktop becomes the latest front in FOSS's culture wars</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 17 Sep 2026 12:44:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Trump’s love of fossil fuels is about more than money | Moira Donegan</title>
-      <link>https://www.theguardian.com/commentisfree/2026/sep/17/trump-fossil-fuels-industry</link>
-      <guid>https://www.theguardian.com/commentisfree/2026/sep/17/trump-fossil-fuels-industry</guid>
-      <description>[Open Source Software] Keyword: FOSS — The US decision to remove limits on coal and gas plant emissions is rooted in a perception of manliness in these industriesYou can impress a certain kind of person at a party by reciting the fact that there are more yoga instructors in the US than there are coalminers. In fact, the disparity is greater than this catchy phrasing suggests: there are actually more yoga instructors in the US than there are people employed in the entirely of the coalmining industry, miners and otherwise. It’s not eve</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 17 Sep 2026 10:00:45 GMT</pubDate>
     </item>
   </channel>
 </rss>
