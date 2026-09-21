@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2026 22:55:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:47:57 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Robbery of Individual — 2100 SE LOOP 410 (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1283329</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1283329</guid>
+      <description>[SAPD Calls for Service] Keyword: Robbery of Individual — Incident #SAPD-2026-1283329 | EAST Division | 9/20/2026 7:35:50 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/20/2026 7:35:50 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 9900 STATE HWY 16 S (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1283332</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1283332</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1283332 | SOUTH Division | 9/20/2026 7:36:16 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/20/2026 7:36:16 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — NOGALITOS ST / RIPFORD ST (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1283337</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1283337</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1283337 | SOUTH Division | 9/20/2026 7:37:23 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/20/2026 7:37:23 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 4700 N LOOP 1604 E (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1282950</link>
@@ -782,30 +806,6 @@
       <description>[Climate &amp; Environment] Keyword: climate change — Climate change is increasing the likelihood and intensity of extreme rainfall, putting China's agricultural land at growing risk of flooding, disruption and damage, according to new research led by Dr. Haoyu Hu from the University of Manchester.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Thu, 17 Sep 2026 12:40:27 EDT</pubDate>
-    </item>
-    <item>
-      <title>Scientists discover a mysterious new frog hiding in the Amazon</title>
-      <link>https://www.sciencedaily.com/releases/2026/09/260917003737.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/09/260917003737.htm</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Scientists discovered a new frog species in the flooded forests of the western Amazon, distinguishing it from nearly identical relatives through DNA and its unique call. Adenomera varcena highlights how much Amazonian biodiversity remains hidden even as habitat loss and climate change threaten these poorly understood species.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 17 Sep 2026 10:08:44 EDT</pubDate>
-    </item>
-    <item>
-      <title>A New Book Examines The Wickedness Of Trump. Sort Of.</title>
-      <link>https://defector.com/a-new-book-examines-the-wickedness-of-trump-sort-of</link>
-      <guid>https://defector.com/a-new-book-examines-the-wickedness-of-trump-sort-of</guid>
-      <description>[Small Farm &amp; Urban Agriculture] Keyword: cottage industry — There is a cottage industry in publishing dedicated to understanding Donald Trump and his followers. Since his election in 2016, a spate of books have attempted to contextualize, deconstruct, and analyze the President’s ascendency. The second Trump term has been no less prolific. This year alone has seen juggernaut bestsellers like Regime Change by Maggie Haberman and Jonathan Swan and the upcoming Profiles in Cowardice by Jacob Weisberg. “Trump 2.0 is all about this break with the stylistic nor</description>
-      <category>Small Farm &amp; Urban Agriculture</category>
-      <pubDate>Thu, 17 Sep 2026 17:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Capybaras in the desert? Fossil casts doubt on Atacama as world's oldest continuously dry region</title>
-      <link>https://phys.org/news/2026-09-capybaras-fossil-atacama-world-oldest.html</link>
-      <guid>https://phys.org/news/2026-09-capybaras-fossil-atacama-world-oldest.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — Ask any zoo-goer and they will tell you that capybaras are adorable. Ask a scientist specializing in the rodents, which resemble oversized guinea pigs, and they will tell you they are obligate semiaquatic herbivores that indicate persistent riparian ecosystems. In plain English: Capybaras like it wet.</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 17 Sep 2026 12:20:24 EDT</pubDate>
     </item>
   </channel>
 </rss>
