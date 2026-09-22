@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 00:32:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 05:47:54 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Climate change also poses a threat to cultural heritage</title>
+      <link>https://phys.org/news/2026-09-climate-poses-threat-cultural-heritage.html</link>
+      <guid>https://phys.org/news/2026-09-climate-poses-threat-cultural-heritage.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — When we talk about climate change, the debate usually centers on energy, biodiversity, carbon emissions or the economic costs of the transition. But another aspect of the problem remains largely underestimated: the impact of climate change on our cultural heritage.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 21 Sep 2026 23:40:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>Stopping Ozempic may raise heart attack and stroke risk</title>
+      <link>https://www.sciencedaily.com/releases/2026/09/260920222414.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/09/260920222414.htm</guid>
+      <description>[Diabetes &amp; Kidney Disease] Keyword: GLP-1 — A large study suggests the cardiovascular benefits of GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound can disappear surprisingly quickly when treatment stops. After two years off the medications, patients had a 22% higher risk of heart attack, stroke, and death compared with those who stayed on them.</description>
+      <category>Diabetes &amp; Kidney Disease</category>
+      <pubDate>Mon, 21 Sep 2026 09:35:30 EDT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic-linked CVEs pile up, attackers mostly shrug</title>
+      <link>https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018</link>
+      <guid>https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018</guid>
+      <description>[Cybersecurity] Keyword: CVE — Of 225 flaws found by Glasswing and tracked by VulnCheck researcher, just one has confirmed exploitation in the wild</description>
+      <category>Cybersecurity</category>
+      <pubDate>Tue, 22 Sep 2026 00:32:51 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 5900 WOODHILL (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1288069</link>
@@ -790,30 +814,6 @@ worker-owned cooperative, does its work in ways that benefit th</description>
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The shovel-ready property would help attract larger investments and manufacturers like recent entrants JCB and IEM to San Antonio.How the deal Brooks brokered to create a mini megasite, Project Oso, came together was first posted on September 18, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@r</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Fri, 18 Sep 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The ideal database for AI agents doesn't exist yet, says Percona CEO</title>
-      <link>https://www.theregister.com/databases/2026/09/18/the-ideal-database-for-ai-agents-doesnt-exist-yet-says-percona-ceo/5296906</link>
-      <guid>https://www.theregister.com/databases/2026/09/18/the-ideal-database-for-ai-agents-doesnt-exist-yet-says-percona-ceo/5296906</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Iterative workloads caught vendors off guard, but requirements for a clean-slate solution remain unclear</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Fri, 18 Sep 2026 14:34:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot</title>
-      <link>https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot</link>
-      <guid>https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot</guid>
-      <description>[Cybersecurity] Keyword: security researcher — US cybersecurity researchers who conducted hack say ‘scope of what we could theoretically access was huge’Cybersecurity researchers have hacked into OpenAI with the help of Anthropic’s Claude chatbot, in the latest example of security issues at the company.A team at a US-based startup compromised a number of OpenAI employees’ ChatGPT accounts, starting a process that enabled them to access their target’s software cache – and potentially more. Continue reading...</description>
-      <category>Cybersecurity</category>
-      <pubDate>Fri, 18 Sep 2026 11:20:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 600 SPRINGFIELD RD (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1271392</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1271392</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1271392 | EAST Division | 9/18/2026 2:28:03 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/18/2026 2:28:03 AM</pubDate>
     </item>
   </channel>
 </rss>
