@@ -5,8 +5,33 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 22:57:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 01:11:44 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5800 NW LOOP 410 (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1302208</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1302208</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1302208 | WEST Division | 9/24/2026 7:54:14 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/24/2026 7:54:14 PM</pubDate>
+    </item>
+    <item>
+      <title>Why winter cold spells are getting milder</title>
+      <link>https://phys.org/news/2026-09-winter-cold-milder.html</link>
+      <guid>https://phys.org/news/2026-09-winter-cold-milder.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — The Beast from the East ravaged much of the U.K. and Europe in February and March 2018, bringing severe storms, snow showers and bitter winds. But as the climate changes, rising average temperatures will affect the severity of extremely cold weather like this.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 24 Sep 2026 20:40:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>Flock Wants The Most Detailed Map of Its Surveillance Cameras Taken Offline</title>
+      <link>https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/</link>
+      <guid>https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/</guid>
+      <description>[Cybersecurity] Keyword: security researcher — A security researcher’s map revealed more locations of Flock devices than any other. Flock is trying to take it down.
+The post Flock Wants The Most Detailed Map of Its Surveillance Cameras Taken Offline appeared first on The Intercept.</description>
+      <category>Cybersecurity</category>
+      <pubDate>Thu, 24 Sep 2026 23:21:24 +0000</pubDate>
+    </item>
     <item>
       <title>Just transformative conservation requires challenging existing structures and strengthening local agency</title>
       <link>https://phys.org/news/2026-09-requires-local-agency.html</link>
@@ -783,30 +808,6 @@
       <description>[Open Source Software] Keyword: FOSS — US officials have begun to buy back wind leases as president seek to block renewables in favor of fossil fuelsDemocratic attorneys general from California and New York have sued the Trump administration over its plans to buy back offshore wind leases as Donald Trump seeks to discourage the expansion of wind energy in favor of fossil fuels.California attorney general Rob Bonta said he was suing over removal of a project off his state’s coast planned by Chicago-based Invenergy. The Trump administr</description>
       <category>Open Source Software</category>
       <pubDate>Tue, 22 Sep 2026 21:35:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bexar County breaks ground on new $12M animal shelter as roaming animals strain capacity</title>
-      <link>https://sanantonioreport.org/bexar-county-breaks-ground-new-animal-shelter-stray-dogs-demand/</link>
-      <guid>https://sanantonioreport.org/bexar-county-breaks-ground-new-animal-shelter-stray-dogs-demand/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Bexar County broke ground on a nearly $12 million animal care facility that will expand services for in unincorporated areas.Bexar County breaks ground on new $12M animal shelter as roaming animals strain capacity was first posted on September 22, 2026 at 4:02 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Tue, 22 Sep 2026 21:02:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Boys &amp; Girls Clubs of San Antonio to keep Eastside clubhouse open after donations come in</title>
-      <link>https://sanantonioreport.org/boys-and-girls-clubs-of-san-antonio-eastside-clubhouse-donations/</link>
-      <guid>https://sanantonioreport.org/boys-and-girls-clubs-of-san-antonio-eastside-clubhouse-donations/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Community donations will keep the Boys &amp;#038; Girls Clubs of San Antonio's Eastside clubhouse open at limited capacity. Boys &amp;amp; Girls Clubs of San Antonio to keep Eastside clubhouse open after donations come in was first posted on September 22, 2026 at 5:24 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Tue, 22 Sep 2026 22:24:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tiny quantum nanostructures could make AI less of an energy hog</title>
-      <link>https://phys.org/news/2026-09-tiny-quantum-nanostructures-ai-energy.html</link>
-      <guid>https://phys.org/news/2026-09-tiny-quantum-nanostructures-ai-energy.html</guid>
-      <description>[AI &amp; Automation] Keyword: large language model — Engineers at the University of Wisconsin–Madison have designed a new type of quantum nanostructure that could enable optical neural networks. This emerging technology has the potential to make artificial intelligence systems, like large language models and image generation, faster and significantly more energy efficient.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Tue, 22 Sep 2026 15:40:06 EDT</pubDate>
     </item>
   </channel>
 </rss>
