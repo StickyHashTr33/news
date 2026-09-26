@@ -5,8 +5,48 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 00:23:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 05:47:38 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5400 W LOOP 1604 N (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1307999</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1307999</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1307999 | WEST Division | 9/26/2026 12:34:56 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/26/2026 12:34:56 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 1500 MISSION RD (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1308007</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1308007</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1308007 | SOUTH Division | 9/26/2026 12:36:30 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/26/2026 12:36:30 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person/Runaway — 400 MILLWOOD LN (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1308017</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1308017</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1308017 | NORTH Division | 9/26/2026 12:37:21 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/26/2026 12:37:21 AM</pubDate>
+    </item>
+    <item>
+      <title>The treasured 'eternal snow' on this tropical island is about to disappear forever</title>
+      <link>https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Fri, 25 Sep 2026 22:12:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach</title>
+      <link>https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[Cybersecurity] Keyword: data breach — Current and former agents speak to the BBC about the devastating impact of the FBI hack.</description>
+      <category>Cybersecurity</category>
+      <pubDate>Fri, 25 Sep 2026 23:05:40 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 3100 TAMPICO ST (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1306713</link>
@@ -773,46 +813,6 @@ The post Flock Wants The Most Detailed Map of Its Surveillance Cameras Taken Off
       <description>[Open Source Software] Keyword: FOSS — A federal court in Michigan has tossed out a pioneering antitrust lawsuit brought by the state of Michigan against four major oil and gas companies and their largest U.S. trade association that alleged a conspiracy to forestall the transition to renewable energy and electric vehicles in order to maintain market dominance of fossil fuels. Michigan [&amp;#8230;]</description>
       <category>Open Source Software</category>
       <pubDate>Wed, 23 Sep 2026 21:45:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Twenty years after An Inconvenient Truth, Al Gore still believes in the climate fight: ‘We are going to win this’</title>
-      <link>https://www.theguardian.com/us-news/2026/sep/23/al-gore-climate-crisis-an-inconvenient-truth</link>
-      <guid>https://www.theguardian.com/us-news/2026/sep/23/al-gore-climate-crisis-an-inconvenient-truth</guid>
-      <description>[Open Source Software] Keyword: FOSS — Former US vice-president still has optimism for climate advocacy two decades after groundbreaking documentaryTwo decades after the release of his groundbreaking documentary An Inconvenient Truth, Al Gore has admitted he was surprised by the ferocious, ongoing backlash from the fossil fuel industry and its political allies. But the former US vice-president insists he still has optimism the world will confront the climate crisis.At a New York event to mark the 20th anniversary of the release of th</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 23 Sep 2026 21:43:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Soil heterogeneity helps bacteria find nutrients</title>
-      <link>https://phys.org/news/2026-09-soil-heterogeneity-bacteria-nutrients.html</link>
-      <guid>https://phys.org/news/2026-09-soil-heterogeneity-bacteria-nutrients.html</guid>
-      <description>[Foraging &amp; Wild Plants] Keyword: foraging — Microorganisms regulate key processes in soils and aquifers, including nutrient cycling, carbon turnover and contaminant degradation. Many bacteria use chemotaxis, the ability to sense and swim toward chemical signals, to locate nutrient-rich hotspots. However, natural subsurface environments are highly heterogeneous, containing complex pore networks that create strong variations in fluid flow and nutrient availability. How these physical conditions influence bacterial foraging has remained poor</description>
-      <category>Foraging &amp; Wild Plants</category>
-      <pubDate>Wed, 23 Sep 2026 14:20:02 EDT</pubDate>
-    </item>
-    <item>
-      <title>Anthony Albanese says OpenAI agent hacked Medicare and he expressed ‘extreme concern’ to Sam Altman</title>
-      <link>https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman</link>
-      <guid>https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Prime minister says he expressed ‘disappointment’ to chief executive it had taken the company ‘way too long’ to inform his government about the breachFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAnthony Albanese says an artificial intelligence agent developed by OpenAI hacked Medicare in June.Australia’s prime minister made the comments at the UN summit in New York, saying it appeared no personal information had been accessed. C</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Wed, 23 Sep 2026 21:38:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 4300 RENAULT (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1295852</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1295852</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1295852 | EAST Division | 9/23/2026 12:52:51 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/23/2026 12:52:51 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 4800 W COMMERCE ST (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1295881</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1295881</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1295881 | WEST Division | 9/23/2026 1:00:54 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/23/2026 1:00:54 PM</pubDate>
     </item>
   </channel>
 </rss>
