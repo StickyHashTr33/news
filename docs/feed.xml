@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2026 20:45:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 23:34:24 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 500 COOPER ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1315346</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1315346</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1315346 | EAST Division | 9/27/2026 6:15:33 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/27/2026 6:15:33 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 6400 DE ZAVALA RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1315361</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1315361</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1315361 | PRUE Division | 9/27/2026 6:20:56 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/27/2026 6:20:56 PM</pubDate>
+    </item>
+    <item>
+      <title>Who is responsible for limiting global warming to 1.5°?</title>
+      <link>https://phys.org/news/2026-09-responsible-limiting-global.html</link>
+      <guid>https://phys.org/news/2026-09-responsible-limiting-global.html</guid>
+      <description>[Climate &amp; Environment] Keyword: global warming — Even if industry rapidly becomes more sustainable, households will still need to change their lifestyles to meet climate targets. Industrial ecologist Stephanie Cap warns that households cannot do this alone: Businesses and governments must create the conditions to make these changes possible. Cap defends her dissertation titled &quot;Everything Must Change: 1.5°C decarbonisation scenarios across industries and households&quot; on Oct. 1.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sun, 27 Sep 2026 17:00:01 EDT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 200 BEXAR (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1314761</link>
@@ -788,30 +812,6 @@ The post Flock Wants The Most Detailed Map of Its Surveillance Cameras Taken Off
       <description>[Labor &amp; Worker Rights] Keyword: minimum wage — If we want to clean up the mayhem Trump and his regime have created — and prevent anything like this from happening again — here are the 10 big reforms every political candidate should support. They’re structural reforms in how our political system works, rather than policies such as Medicare for All, affordable housing, childcare, or a $20 minimum wage. But these structural reforms are necessary prerequisites to getting good policies enacted. They must be passed by Congress in order for anythin</description>
       <category>Labor &amp; Worker Rights</category>
       <pubDate>Thu, 24 Sep 2026 18:10:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>A treasure map to search for past marine life</title>
-      <link>https://phys.org/news/2026-09-treasure-marine-life.html</link>
-      <guid>https://phys.org/news/2026-09-treasure-marine-life.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — Fossils offer a glimpse into Earth's distant past. They provide insights into extinct animals and plants, as well as past ecosystems. However, the fossil record is incomplete: Fossilization is rare, and only a small fraction of Earth's organisms are preserved this way. In addition, geological strata from different eras must be accessible today for fossils to be found in them.</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 24 Sep 2026 14:40:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>New catalogs map the quantum possibilities of atomically thin materials</title>
-      <link>https://phys.org/news/2026-09-quantum-possibilities-atomically-thin-materials.html</link>
-      <guid>https://phys.org/news/2026-09-quantum-possibilities-atomically-thin-materials.html</guid>
-      <description>[Hermeticism &amp; Esoteric] Keyword: alchemy — Twistronics has become a new alchemy of materials. By choosing atomically thin layers, stacking them and changing their relative angle, researchers can create electronic behavior absent from the original ingredients. Twisted graphene and transition metal dichalcogenides have already yielded superconductivity and fractional Chern insulators, states with fractionally charged excitations. One of physics' most active frontiers now has a moonshot ambition: to design entirely new forms of quantum matt</description>
-      <category>Hermeticism &amp; Esoteric</category>
-      <pubDate>Thu, 24 Sep 2026 14:00:06 EDT</pubDate>
-    </item>
-    <item>
-      <title>Houthi advances in Yemen drive displacement, deepen humanitarian crisis</title>
-      <link>https://www.dw.com/en/houthi-advances-in-yemen-drive-displacement-deepen-humanitarian-crisis/a-79414280?maca=en-rss-en-all-1573-rdf</link>
-      <guid>https://www.dw.com/en/houthi-advances-in-yemen-drive-displacement-deepen-humanitarian-crisis/a-79414280?maca=en-rss-en-all-1573-rdf</guid>
-      <description>[Housing &amp; Gentrification] Keyword: displacement — With more than 132,000 people already displaced by the latest fighting and Houthi territorial gains, Yemen is on the brink of slipping back into a full-fledged humanitarian emergency. DW spoke with people on the ground.</description>
-      <category>Housing &amp; Gentrification</category>
-      <pubDate>2026-09-24T16:26:00Z</pubDate>
     </item>
   </channel>
 </rss>
