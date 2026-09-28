@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2026 23:34:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 03:14:40 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 4000 SHERRIL BROOK DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1316181</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1316181</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1316181 | WEST Division | 9/27/2026 9:56:36 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/27/2026 9:56:36 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 300 SEGURA (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1316184</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1316184</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1316184 | WEST Division | 9/27/2026 9:57:45 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/27/2026 9:57:45 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 500 COOPER ST (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1315346</link>
@@ -796,22 +812,6 @@ The post Flock Wants The Most Detailed Map of Its Surveillance Cameras Taken Off
       <description>[Climate &amp; Environment] Keyword: climate change — As climate change brings more extreme weather events, strengthening families before disasters strike can help protect children's health and well-being, says Mary McKay, a professor at the Brown School at Washington University in St. Louis and an expert on child mental health.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Thu, 24 Sep 2026 12:40:10 EDT</pubDate>
-    </item>
-    <item>
-      <title>Gavin Newsom condemns Democrats’ ‘climate hushing’, predicts Trump’s downfall and expects AOC to run in 2028</title>
-      <link>https://www.theguardian.com/us-news/2026/sep/24/gavin-newsom-interview-trump-aoc</link>
-      <guid>https://www.theguardian.com/us-news/2026/sep/24/gavin-newsom-interview-trump-aoc</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Democrats must show links of climate shocks to ‘kitchen table’ issues, California governor saysIt’s a mistake for Democratic politicians not to talk about climate change, and the reason they don’t is “because they don’t know how to talk about it”, the California governor, Gavin Newsom, said on Wednesday in an interview with the Guardian and the global journalism collaboration Covering Climate Now.Speaking on the sidelines of the UN General Assembly meeting and New York Climate Week, Newsom also </description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 24 Sep 2026 16:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>The only way to fix Trump's mayhem</title>
-      <link>https://www.alternet.org/the-only-way-to-fix-what-trump-has-broken/</link>
-      <guid>https://www.alternet.org/the-only-way-to-fix-what-trump-has-broken/</guid>
-      <description>[Labor &amp; Worker Rights] Keyword: minimum wage — If we want to clean up the mayhem Trump and his regime have created — and prevent anything like this from happening again — here are the 10 big reforms every political candidate should support. They’re structural reforms in how our political system works, rather than policies such as Medicare for All, affordable housing, childcare, or a $20 minimum wage. But these structural reforms are necessary prerequisites to getting good policies enacted. They must be passed by Congress in order for anythin</description>
-      <category>Labor &amp; Worker Rights</category>
-      <pubDate>Thu, 24 Sep 2026 18:10:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
