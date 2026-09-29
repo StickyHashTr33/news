@@ -5,8 +5,80 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 23:38:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 03:52:35 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 1000 JULIA ROSS ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1320938</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1320938</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1320938 | CENTRAL Division | 9/28/2026 10:32:37 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/28/2026 10:32:37 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Robbery In Progress — 2300 E EVANS RD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1320950</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1320950</guid>
+      <description>[SAPD Calls for Service] Keyword: Robbery In Progress — Incident #SAPD-2026-1320950 | NORTH Division | 9/28/2026 10:38:24 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>9/28/2026 10:38:24 PM</pubDate>
+    </item>
+    <item>
+      <title>How Bolsonaro's statements destroyed the rainforest</title>
+      <link>https://phys.org/news/2026-09-bolsonaro-statements-destroyed-rainforest.html</link>
+      <guid>https://phys.org/news/2026-09-bolsonaro-statements-destroyed-rainforest.html</guid>
+      <description>[Climate &amp; Environment] Keyword: deforestation — Former Brazilian President Jair Bolsonaro contributed to deforestation through statements opposing forest conservation, according to an international study led by the University of Bonn. The study found that destruction of the Amazon rainforest accelerated when Bolsonaro and his ministers posted messages opposing forest conservation on Twitter. Brazil's environmental authorities were greatly weakened during Bolsonaro's presidency, but the analysis suggests that even a perceived low risk of punis</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 28 Sep 2026 20:20:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>Dutch government turns to NixOS for a sovereign desktop</title>
+      <link>https://www.theregister.com/os-platforms/2026/09/28/dutch-government-turns-to-nixos-for-a-sovereign-desktop/5299501</link>
+      <guid>https://www.theregister.com/os-platforms/2026/09/28/dutch-government-turns-to-nixos-for-a-sovereign-desktop/5299501</guid>
+      <description>[Open Source Software] Keyword: open source tool — DAWO combines a Linux-based client with open source tools for cloud, communications, and collaborative work</description>
+      <category>Open Source Software</category>
+      <pubDate>Mon, 28 Sep 2026 17:05:54 +0200</pubDate>
+    </item>
+    <item>
+      <title>Alito’s Recusal From Climate Case: Too Little, Too Late?</title>
+      <link>https://insideclimatenews.org/news/28092026/alitos-recusal-from-climate-case-too-little-too-late/</link>
+      <guid>https://insideclimatenews.org/news/28092026/alitos-recusal-from-climate-case-too-little-too-late/</guid>
+      <description>[Open Source Software] Keyword: FOSS — Justice Samuel Alito decided Monday to sit out one of the most consequential climate change cases to reach the Supreme Court, but legal experts expected continuing ramifications due to his ownership of individual corporate stocks, including in the fossil fuel industry. After months of resisting calls for his recusal, Alito reversed himself one week before [&amp;#8230;]</description>
+      <category>Open Source Software</category>
+      <pubDate>Tue, 29 Sep 2026 01:24:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta’s AI agent Muse gives out user’s home address without permission, sending buyer to his house</title>
+      <link>https://www.theguardian.com/technology/2026/sep/28/metas-ai-agent-muse-home-address</link>
+      <guid>https://www.theguardian.com/technology/2026/sep/28/metas-ai-agent-muse-home-address</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — The new AI agent, Muse, was released last week and has been downloaded by 3 million usersWhen Usman asked if a keyboard for sale on Facebook Marketplace was still available on Saturday, he received an enthusiastic and immediate response.“Yep still available!” wrote Matt Robb. Continue reading...</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Mon, 28 Sep 2026 23:31:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI GPT-6 Astra really good at supply chain attacks, UK gov warns</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/09/28/openai-gpt-6-astra-really-good-at-supply-chain-attacks-uk-gov-warns/5299588</link>
+      <guid>https://www.theregister.com/ai-and-ml/2026/09/28/openai-gpt-6-astra-really-good-at-supply-chain-attacks-uk-gov-warns/5299588</guid>
+      <description>[Cybersecurity] Keyword: supply chain attack — During testing, the model showed it can violate security rules more often than its predecessors</description>
+      <category>Cybersecurity</category>
+      <pubDate>Mon, 28 Sep 2026 21:44:34 +0200</pubDate>
+    </item>
+    <item>
+      <title>JadePuffer crims hijacked Azure identities and used them to blow up cloud resources</title>
+      <link>https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591</link>
+      <guid>https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591</guid>
+      <description>[Cybersecurity] Keyword: ransomware — Smells like more agentic ransomware, Redmond warns</description>
+      <category>Cybersecurity</category>
+      <pubDate>Mon, 28 Sep 2026 22:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>From Amazon retreats to clinical research: The rise of psychedelic therapy</title>
+      <link>https://www.bbc.co.uk/news/articles/cmvgy9ew7815o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/cmvgy9ew7815o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[Psychedelics &amp; Psilocybin Research] Keyword: psychedelic therapy — Could hallucinogenic drugs become part of mainstream NHS care to treat depression?</description>
+      <category>Psychedelics &amp; Psilocybin Research</category>
+      <pubDate>Tue, 29 Sep 2026 00:59:52 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 5200 GAVILAN DR (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1320109</link>
@@ -737,78 +809,6 @@ The post A Texas Soldier&amp;#8217;s Death Casts Doubt on Federal Whistleblower 
       <description>[Climate &amp; Environment] Keyword: climate change — This week’s United Nations General Assembly in New York featured pleas for urgent action on climate change, with heads of state and Secretary-General António Guterres warning that the window for action is narrowing. Yet climate was a footnote amid the issues commanding public attention, including President Donald Trump’s talk of annihilating Iran, the walkout that [&amp;#8230;]</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Fri, 25 Sep 2026 20:05:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Jersey lieutenant governor resigns after sexual harassment accusation</title>
-      <link>https://www.theguardian.com/us-news/2026/sep/25/new-jersey-lieutenant-governor-resigns-dale-caldwell</link>
-      <guid>https://www.theguardian.com/us-news/2026/sep/25/new-jersey-lieutenant-governor-resigns-dale-caldwell</guid>
-      <description>[Government Accountability] Keyword: ethics violation — Investigation determined Dale Caldwell violated state ethics rules and engaged in harassing behaviorDale Caldwell, the lieutenant governor of New Jersey, resigned from his position on Friday, after the release of a report accusing him of sexually harassing a female staffer, among other ethics violations.New Jersey’s governor, Mikie Sherrill, announced on Friday afternoon that Caldwell had submitted his resignation to her earlier in the day. Continue reading...</description>
-      <category>Government Accountability</category>
-      <pubDate>Fri, 25 Sep 2026 19:52:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Families fleeing Yemen’s war face displacement, hunger and water shortages</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss</guid>
-      <description>[Housing &amp; Gentrification] Keyword: displacement — Fighting between Houthi and government-aligned forces forces families out of their homes in Yemen.</description>
-      <category>Housing &amp; Gentrification</category>
-      <pubDate>Fri, 25 Sep 2026 18:15:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>San Antonio’s Coca-Cola bottling plant gets $42M expansion, adds 80 workers</title>
-      <link>https://sanantonioreport.org/san-antonio-coca-cola-bottling-plant-42-million-expansion-eastside/</link>
-      <guid>https://sanantonioreport.org/san-antonio-coca-cola-bottling-plant-42-million-expansion-eastside/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Arca Continental Coca-Cola Southwest Beverages announced a $42 million, 170,000-square-foot expansion to its Eastside facility.San Antonio&amp;#8217;s Coca-Cola bottling plant gets $42M expansion, adds 80 workers was first posted on September 25, 2026 at 3:02 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivar</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Fri, 25 Sep 2026 20:02:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Texas RioGrande Legal Aid resumes in-person services in San Antonio</title>
-      <link>https://sanantonioreport.org/texas-riogrande-legal-aid-nonprofit-resumes-in-person-services-san-antonio/</link>
-      <guid>https://sanantonioreport.org/texas-riogrande-legal-aid-nonprofit-resumes-in-person-services-san-antonio/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — TRLA, one of the largest legal aid nonprofits in the state, is bringing in-person civil legal aid services back to Bexar County.Texas RioGrande Legal Aid resumes in-person services in San Antonio was first posted on September 25, 2026 at 4:09 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Fri, 25 Sep 2026 21:09:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>This “rare” autism-linked genetic disorder may be far more common than scientists thought</title>
-      <link>https://www.sciencedaily.com/releases/2026/09/260924020405.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/09/260924020405.htm</guid>
-      <description>[Science &amp; Research] Keyword: clinical trial — A major analysis suggests Phelan-McDermid syndrome, a genetic disorder closely linked to autism, may affect about 1 in 7,300 people and more than 45,000 Americans. Researchers warn that thousands of cases may remain hidden because genetic testing is often not performed, even as targeted treatments move into clinical trials.</description>
-      <category>Science &amp; Research</category>
-      <pubDate>Fri, 25 Sep 2026 09:32:46 EDT</pubDate>
-    </item>
-    <item>
-      <title>Students help researchers study how people experience temperature</title>
-      <link>https://phys.org/news/2026-09-students-people-temperature.html</link>
-      <guid>https://phys.org/news/2026-09-students-people-temperature.html</guid>
-      <description>[Ecology &amp; Conservation] Keyword: citizen science — Are there any geographical differences in how people experience weather conditions? This question was investigated in the citizen science project Kallt och svettigt (Cold and sweaty) for a year with the help of school pupils throughout Sweden.</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Fri, 25 Sep 2026 12:40:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Satellite data expose an escalating 'boom-and-bust' dynamic in greening drylands</title>
-      <link>https://phys.org/news/2026-09-satellite-expose-escalating-boom-dynamic.html</link>
-      <guid>https://phys.org/news/2026-09-satellite-expose-escalating-boom-dynamic.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Dryland ecosystems cover 40% of the Earth's land surface and support more than 2 billion people. According to a new study published in Nature Climate Change, they're becoming increasingly unstable.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Fri, 25 Sep 2026 10:00:02 EDT</pubDate>
-    </item>
-    <item>
-      <title>Last Stand for Santa Ana National Wildlife Refuge?</title>
-      <link>https://deceleration.news/last-stand-for-santa-ana-national-wildlife-refuge/</link>
-      <guid>https://deceleration.news/last-stand-for-santa-ana-national-wildlife-refuge/</guid>
-      <description>[Immigration &amp; Border] Keyword: border wall — Congress repeatedly shielded the Santa Ana National Wildlife Refuge from the border wall. Now, construction has begun—and an irrigation district lawsuit may be the only option left to buy time for lawmakers to act.</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Fri, 25 Sep 2026 15:00:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>‘It saddens me’: Texas historical association leader chokes up discussing ousted Alamo CEO</title>
-      <link>https://sanantonioreport.org/texas-state-historical-association-director-defends-kate-rogers-alamo/</link>
-      <guid>https://sanantonioreport.org/texas-state-historical-association-director-defends-kate-rogers-alamo/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A longtime leader with the Texas State Historical Association was moved to tears Thursday while discussing former Alamo Trust CEO Kate Rogers’ ouster last year.&amp;#8216;It saddens me&amp;#8217;: Texas historical association leader chokes up discussing ousted Alamo CEO was first posted on September 25, 2026 at 12:46 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of c</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Fri, 25 Sep 2026 17:46:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
