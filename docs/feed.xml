@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 00:28:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:36:58 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 1900 NE LOOP 410 (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1335138</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1335138</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1335138 | NORTH Division | 10/2/2026 1:19:35 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/2/2026 1:19:35 AM</pubDate>
+    </item>
+    <item>
+      <title>Metal-organic interactions identified as a key factor in carbon cycling, improving predictions under climate change</title>
+      <link>https://phys.org/news/2026-10-metal-interactions-key-factor-carbon.html</link>
+      <guid>https://phys.org/news/2026-10-metal-interactions-key-factor-carbon.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — The global annual amount of carbon dioxide (CO₂) released through the microbial decomposition of soil organic carbon is estimated to be approximately five times greater than anthropogenic CO₂ emissions, highlighting the importance of understanding how climate change affects soil CO₂ release dynamics.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 01 Oct 2026 22:20:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>Almost half of Fayed abuse accusers are potential trafficking victims, MPs told</title>
+      <link>https://www.theguardian.com/world/2026/oct/02/mohamed-al-fayed-abuse-claims-potential-trafficking-victims</link>
+      <guid>https://www.theguardian.com/world/2026/oct/02/mohamed-al-fayed-abuse-claims-potential-trafficking-victims</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — Exclusive: Met police say 70 women’s accounts have hallmarks of trafficking, suggesting case numbers could riseAlmost half of the women who reported allegations of sexual abuse by Mohamed Al Fayed to the Metropolitan police are potential victims of human trafficking, MPs have been told.In a briefing for the all-party parliamentary group (APPG) for the survivors of Fayed and Harrods in July, senior Met officers said a review earlier this year found 70 survivors’ accounts bore the hallmarks of tra</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Fri, 02 Oct 2026 06:00:13 GMT</pubDate>
+    </item>
     <item>
       <title>Where the waters meet: Connecting global limits and river basin management</title>
       <link>https://phys.org/news/2026-10-global-limits-river-basin.html</link>
@@ -799,30 +823,6 @@ We know innocent drivers will be stopped and menaced by officers because of erro
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1324291 | DOWNTOWN Division | 9/29/2026 4:02:07 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>9/29/2026 4:02:07 PM</pubDate>
-    </item>
-    <item>
-      <title>This startup wants to prove gene-editing embryos is safe for making healthy babies</title>
-      <link>https://www.npr.org/2026/09/29/nx-s1-5950439/embryo-gene-editing-babies-biotech</link>
-      <guid>https://www.npr.org/2026/09/29/nx-s1-5950439/embryo-gene-editing-babies-biotech</guid>
-      <description>[Science &amp; Research] Keyword: genomics — Origin Genomics aims to prove that the potential benefits of its technology for editing disease-causing genes in human embryos outweigh the risks.</description>
-      <category>Science &amp; Research</category>
-      <pubDate>Tue, 29 Sep 2026 13:00:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>Plant lovers wanted: Study highlights demand for citizen science</title>
-      <link>https://phys.org/news/2026-09-lovers-highlights-demand-citizen-science.html</link>
-      <guid>https://phys.org/news/2026-09-lovers-highlights-demand-citizen-science.html</guid>
-      <description>[Ecology &amp; Conservation] Keyword: citizen science — Over the last several years, invasive plant and insect species have found their way into more and more social media feeds. From the tree of heaven to Bradford pear trees and the ubiquitous spotted lanternfly, home gardeners are spreading the word about problematic species to their networks.</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Tue, 29 Sep 2026 13:20:04 EDT</pubDate>
-    </item>
-    <item>
-      <title>We can finally measure the damage each new coal, gas or oil project will do to people and nature</title>
-      <link>https://phys.org/news/2026-09-coal-gas-oil-people-nature.html</link>
-      <guid>https://phys.org/news/2026-09-coal-gas-oil-people-nature.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — We have long known every tonne of carbon dioxide matters to the climate. But governments keep approving new fossil fuel projects—even as climate change worsens.</description>
-      <category>Open Source Software</category>
-      <pubDate>Tue, 29 Sep 2026 15:40:09 EDT</pubDate>
     </item>
   </channel>
 </rss>
