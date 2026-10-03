@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 01:41:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 07:30:05 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 15600 MARKET HILL BLVD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1339768</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1339768</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1339768 | PRUE Division | 10/3/2026 2:10:12 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/3/2026 2:10:12 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 600 N PARK BLVD (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1339769</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1339769</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1339769 | CENTRAL Division | 10/3/2026 2:10:50 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/3/2026 2:10:50 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 2600 ROBLES ST (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1338609</link>
@@ -800,22 +816,6 @@ kernel's security team is handling this deluge.  His core message was
       <description>[Climate &amp; Environment] Keyword: climate change — Sea-level rise is one of the most visible signs of climate change, one that is threatening low-lying coastal communities around the world. Today, about 1 billion people live in coastal areas; about 100 million live within 1 meter (3.3 feet) of sea level, highly exposed to coastal flooding.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Wed, 30 Sep 2026 14:20:13 EDT</pubDate>
-    </item>
-    <item>
-      <title>Adult fossil strengthens evidence for Homo erectus in southern Africa 2 million years ago</title>
-      <link>https://phys.org/news/2026-09-adult-fossil-evidence-homo-erectus.html</link>
-      <guid>https://phys.org/news/2026-09-adult-fossil-evidence-homo-erectus.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — La Trobe archaeologists have described 18 new hominin fossils, including a second Homo erectus skull fragment that confirms the species first appeared in southern Africa 2.0 million years ago—200,000 years earlier than traditionally thought.</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 30 Sep 2026 14:00:02 EDT</pubDate>
-    </item>
-    <item>
-      <title>This 245-million-year-old fossil still has its stomach and intestines</title>
-      <link>https://www.sciencedaily.com/releases/2026/09/260927225036.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/09/260927225036.htm</guid>
-      <description>[Open Source Software] Keyword: FOSS — A 245-million-year-old marine reptile fossil preserves an astonishing amount of detail, including its stomach, liver, and intestines. The discovery reveals that Austronaga minuta was highly adapted for swimming even though its digestive system remained surprisingly simple.</description>
-      <category>Open Source Software</category>
-      <pubDate>Tue, 29 Sep 2026 07:39:27 EDT</pubDate>
     </item>
   </channel>
 </rss>
