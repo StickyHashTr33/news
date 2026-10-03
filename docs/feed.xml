@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 22:48:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 01:41:12 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 2600 ROBLES ST (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1338609</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1338609</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1338609 | SOUTH Division | 10/2/2026 8:29:46 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/2/2026 8:29:46 PM</pubDate>
+    </item>
+    <item>
+      <title>Federal judge halts Big Bend border wall construction in blow to Trump agenda</title>
+      <link>https://www.theguardian.com/us-news/2026/oct/02/big-bend-national-park-border-wall-halt</link>
+      <guid>https://www.theguardian.com/us-news/2026/oct/02/big-bend-national-park-border-wall-halt</guid>
+      <description>[Immigration &amp; Border] Keyword: border wall — Plan to install barriers through popular national park sparked outrage from advocates and politicians alikeA federal judge has temporarily blocked the Trump administration from expanding the border wall and other security infrastructure across the Big Bend region of west Texas, where contentious plans to build roads and vehicle barriers through a popular national park have led to furious backlash and public protests.US district judge Kathleen Cardone’s ruling after a Friday hearing in El Paso de</description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>Fri, 02 Oct 2026 23:32:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>San Antonio mayor backs legal action to halt East Side ICE facility</title>
+      <link>https://sanantonioreport.org/gina-ortiz-jones-backs-legal-action-to-halt-eastside-ice-facility/</link>
+      <guid>https://sanantonioreport.org/gina-ortiz-jones-backs-legal-action-to-halt-eastside-ice-facility/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The announcement came on the eve of a protest march urging city officials to take a stronger stance against the planned ICE facility.San Antonio mayor backs legal action to halt East Side ICE facility was first posted on October 2, 2026 at 6:48 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Fri, 02 Oct 2026 23:48:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump heads to San Antonio for race deemed the ‘whole enchilada’ in the 2026 midterms</title>
+      <link>https://sanantonioreport.org/trump-heads-to-san-antonio-for-tx35-campaign-event/</link>
+      <guid>https://sanantonioreport.org/trump-heads-to-san-antonio-for-tx35-campaign-event/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — He'll appear at the Freeman Coliseum with Republican Carlos De La Cruz, who is running in the newly redrawn 35th Congressional District.Trump heads to San Antonio for race deemed the &amp;#8216;whole enchilada&amp;#8217; in the 2026 midterms was first posted on October 2, 2026 at 7:20 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please con</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sat, 03 Oct 2026 00:20:02 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 900 SADDLEBROOK DR (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1337957</link>
@@ -784,44 +816,6 @@ kernel's security team is handling this deluge.  His core message was
       <description>[Open Source Software] Keyword: FOSS — A 245-million-year-old marine reptile fossil preserves an astonishing amount of detail, including its stomach, liver, and intestines. The discovery reveals that Austronaga minuta was highly adapted for swimming even though its digestive system remained surprisingly simple.</description>
       <category>Open Source Software</category>
       <pubDate>Tue, 29 Sep 2026 07:39:27 EDT</pubDate>
-    </item>
-    <item>
-      <title>Bats may have first evolved in Europe 65 million years ago</title>
-      <link>https://www.sciencedaily.com/releases/2026/09/260929053531.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/09/260929053531.htm</guid>
-      <description>[Open Source Software] Keyword: FOSS — A huge genomic and fossil study suggests bats first evolved in Europe around 65 to 60 million years ago before spreading across the globe. The findings also indicate that flight and echolocation emerged near the beginning of bat evolution, potentially helping explain how bats became one of the most successful mammal groups on Earth.</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 30 Sep 2026 01:12:36 EDT</pubDate>
-    </item>
-    <item>
-      <title>[$] Comparing Chromium development at Google and Igalia</title>
-      <link>https://lwn.net/Articles/1094721/</link>
-      <guid>https://lwn.net/Articles/1094721/</guid>
-      <description>[Open Source Software] Keyword: FOSS — Sharon Yang is a Chromium developer who worked at Google on the browser
-and now works on it at Igalia.  On the final day of FOSSY 2026, she gave a
-presentation on her experiences with both of those companies, comparing and
-contrasting the ways the each operates and how that affects work on the
-code base.  She enjoyed working at Google and feels the same about Igalia,
-so the talk was not aimed at complaints—instead it was meant to give a feel
-for two companies that are rather different.</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 30 Sep 2026 14:16:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Blatant Giveaway to Big Oil and Big Tech: Oil Change International Opposes Potential Permitting Bill</title>
-      <link>https://www.commondreams.org/newswire/a-blatant-giveaway-to-big-oil-and-big-tech-oil-change-international-opposes-potential-permitting-bill</link>
-      <guid>https://www.commondreams.org/newswire/a-blatant-giveaway-to-big-oil-and-big-tech-oil-change-international-opposes-potential-permitting-bill</guid>
-      <description>[Open Source Software] Keyword: FOSS — The Senate may imminently announce a permitting reform bill that would gut bedrock environmental laws to enable a massive buildout of fossil fuel infrastructure, data centers, and other projects that harm our climate. This “dirty deal” offers even greater concessions to Big Oil and Big Tech than previous iterations of the bill, while drastically curtailing communities’ ability to voice their concerns about polluting projects planned for their area. In response, Oil Change International U.S. Camp</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 30 Sep 2026 16:13:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Democrats Abandon Environmental Laws to Advance Pro-Fossil Fuel ‘Permitting Reform’</title>
-      <link>https://www.commondreams.org/newswire/democrats-abandon-environmental-laws-to-advance-pro-fossil-fuel-permitting-reform</link>
-      <guid>https://www.commondreams.org/newswire/democrats-abandon-environmental-laws-to-advance-pro-fossil-fuel-permitting-reform</guid>
-      <description>[Open Source Software] Keyword: FOSS — Sens. Martin Heinrich and Sheldon Whitehouse today released a top-line summary of an agreement with Sen. Shelly Moore Capito and Rep. Bruce Westerman to advance so-called “permitting reform.”The legislative package, cynically titled the “Bipartisan American Affordability and Jobs Act of 2026,” would provide massive long-term structural advantages to the fossil fuel industry and minimal short-term improvements to electricity transmission policy that might marginally benefit renewable energy. The </description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 30 Sep 2026 18:06:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
