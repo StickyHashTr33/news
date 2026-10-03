@@ -5,8 +5,40 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 17:06:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 20:31:25 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 2200 E HOUSTON ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1341964</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1341964</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1341964 | EAST Division | 10/3/2026 3:13:12 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/3/2026 3:13:12 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 18100 US HWY 281 N (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1341988</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1341988</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1341988 | NORTH Division | 10/3/2026 3:17:03 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/3/2026 3:17:03 PM</pubDate>
+    </item>
+    <item>
+      <title>GOP burns itself down with latest 'political malpractice': conservative insider</title>
+      <link>https://www.alternet.org/republican-midterms-jack-smith-sykes/</link>
+      <guid>https://www.alternet.org/republican-midterms-jack-smith-sykes/</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: ALPR — On Saturday, a longtime conservative commentator laid out the “political malpractice” that will cost the GOP its congressional majorities. According to political analyst Charlie Sykes – who broke with the Republican Party over its embrace of President Donald Trump – the GOP’s “cognitive dissonance” between its agenda and what voters really want is going to torpedo the party at the ballot box. Sykes was speaking with journalist Jonathan Rauch when he brought up the GOP’s “complete face plant” ear</description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>Sat, 03 Oct 2026 18:05:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome to the Flock Elections</title>
+      <link>https://www.motherjones.com/politics/2026/10/flock-cameras-midterm-elections-democrats-republicans-alpr-axon-motorola/</link>
+      <guid>https://www.motherjones.com/politics/2026/10/flock-cameras-midterm-elections-democrats-republicans-alpr-axon-motorola/</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: license plate reader — Over the past six months, Americans have become increasingly aware of automated license plate readers, used by almost 80 percent of American police departments to trace vehicles and their drivers without the hassle of a warrant. ALPRs perch on power poles and stoplights, quietly encroaching on the most sacred silo of American life—the car. People [&amp;#8230;]</description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>Sat, 03 Oct 2026 18:52:29 +0000</pubDate>
+    </item>
     <item>
       <title>When the atmosphere slows the Earth: Uncovering a subtle signal of climate change</title>
       <link>https://phys.org/news/2026-10-atmosphere-earth-uncovering-subtle-climate.html</link>
@@ -784,38 +816,6 @@ kernel's security team is handling this deluge.  His core message was
       <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1329483 | WEST Division | 9/30/2026 5:36:39 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>9/30/2026 5:36:39 PM</pubDate>
-    </item>
-    <item>
-      <title>Watch: Climate Week Panel on China’s Global Development Push</title>
-      <link>https://insideclimatenews.org/news/30092026/planet-china-climate-week-panel/</link>
-      <guid>https://insideclimatenews.org/news/30092026/planet-china-climate-week-panel/</guid>
-      <description>[Climate &amp; Environment] Keyword: renewable energy — As governments and global funds pour billions into oil, gas, renewable energy, digital infrastructure and mining, the future of cross-border investment is becoming a defining issue for environmental protection and climate action. China’s Belt and Road Initiative has been central to this trend, with more than a trillion dollars deployed since the early 2000s and [&amp;#8230;]</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 30 Sep 2026 22:22:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fossil long known as world's oldest reptile dethroned</title>
-      <link>https://phys.org/news/2026-09-fossil-world-oldest-reptile-dethroned.html</link>
-      <guid>https://phys.org/news/2026-09-fossil-world-oldest-reptile-dethroned.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — For nearly 30 years, a small fossil from Scotland has been celebrated as one of the earliest known reptiles. A new study out today in Nature and led by researchers at the American Museum of Natural History and the University of Oxford, in collaboration with the European Synchrotron Radiation Facility, is rewriting that story.</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 30 Sep 2026 17:00:02 EDT</pubDate>
-    </item>
-    <item>
-      <title>The real cost of coal mines to people and planet</title>
-      <link>https://phys.org/news/2026-09-real-coal-people-planet.html</link>
-      <guid>https://phys.org/news/2026-09-real-coal-people-planet.html</guid>
-      <description>[Open Source Software] Keyword: FOSS — The longer it takes to transition away from fossil fuels such as coal, the more costs accrue as climate change accelerates.</description>
-      <category>Open Source Software</category>
-      <pubDate>Wed, 30 Sep 2026 18:20:05 EDT</pubDate>
-    </item>
-    <item>
-      <title>Question of whether taxpayers or fossil fuel companies pay for climate change damage heads to Supreme Court</title>
-      <link>https://theconversation.com/question-of-whether-taxpayers-or-fossil-fuel-companies-pay-for-climate-change-damage-heads-to-supreme-court-292847</link>
-      <guid>https://theconversation.com/question-of-whether-taxpayers-or-fossil-fuel-companies-pay-for-climate-change-damage-heads-to-supreme-court-292847</guid>
-      <description>[Open Source Software] Keyword: FOSS — If fossil fuel companies misled the public about the dangers of their products, should they be required to pay for damages from climate-related disasters?</description>
-      <category>Open Source Software</category>
-      <pubDate>2026-09-30T20:21:09Z</pubDate>
     </item>
   </channel>
 </rss>
