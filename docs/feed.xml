@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 20:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 23:29:24 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 1500 W CRAIG PLACE (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1342725</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1342725</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1342725 | WEST Division | 10/3/2026 6:14:38 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/3/2026 6:14:38 PM</pubDate>
+    </item>
+    <item>
+      <title>Protesters march to East Side ICE facility as calls for legal action grow</title>
+      <link>https://sanantonioreport.org/protesters-march-to-east-side-ice-facility-as-calls-for-legal-action-grow/</link>
+      <guid>https://sanantonioreport.org/protesters-march-to-east-side-ice-facility-as-calls-for-legal-action-grow/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Opponents marched through San Antonio’s East Side on Saturday as local officials weigh legal action against a planned ICE detention facility.Protesters march to East Side ICE facility as calls for legal action grow was first posted on October 3, 2026 at 3:40 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@ri</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sat, 03 Oct 2026 20:40:14 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 2200 E HOUSTON ST (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1341964</link>
@@ -800,22 +816,6 @@ kernel's security team is handling this deluge.  His core message was
       <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1329467 | SOUTH Division | 9/30/2026 5:30:28 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>9/30/2026 5:30:28 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 4100 KING KREST (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1329475</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1329475</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1329475 | EAST Division | 9/30/2026 5:34:04 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/30/2026 5:34:04 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 7000 CULEBRA RD (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1329483</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1329483</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1329483 | WEST Division | 9/30/2026 5:36:39 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/30/2026 5:36:39 PM</pubDate>
     </item>
   </channel>
 </rss>
