@@ -5,8 +5,56 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 10:27:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 15:37:50 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 10500 POTRANCO RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1345607</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1345607</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1345607 | WEST Division | 10/4/2026 10:16:07 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/4/2026 10:16:07 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 3200 W TRAVIS ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1345614</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1345614</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1345614 | CENTRAL Division | 10/4/2026 10:18:11 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/4/2026 10:18:11 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 1500 AUSTIN HWY (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1345642</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1345642</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1345642 | EAST Division | 10/4/2026 10:26:21 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/4/2026 10:26:21 AM</pubDate>
+    </item>
+    <item>
+      <title>Vitamin D drug may help crack pancreatic cancer’s protective shield</title>
+      <link>https://www.sciencedaily.com/releases/2026/09/260930225501.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/09/260930225501.htm</guid>
+      <description>[Science &amp; Research] Keyword: clinical trial — A vitamin D analog may help break down pancreatic cancer’s protective defenses, potentially making tumors more vulnerable to chemotherapy and immune attack. A small clinical trial found encouraging responses, especially in patients whose tumors had high levels of the vitamin D receptor.</description>
+      <category>Science &amp; Research</category>
+      <pubDate>Sat, 03 Oct 2026 23:10:23 EDT</pubDate>
+    </item>
+    <item>
+      <title>Diet drinks work as well as water for weight loss, major trial finds</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261002080017.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261002080017.htm</guid>
+      <description>[Science &amp; Research] Keyword: clinical trial — A two-year randomized clinical trial involving 493 adults with overweight or obesity found that diet soft drinks were essentially as effective as water for long-term weight loss and weight maintenance. Participants drinking beverages sweetened with aspartame, acesulfame-K, or sucralose lost a similar amount of weight to those drinking water, while both groups also saw improvements in waist size, body composition, and several metabolic measures.</description>
+      <category>Science &amp; Research</category>
+      <pubDate>Sat, 03 Oct 2026 22:10:59 EDT</pubDate>
+    </item>
+    <item>
+      <title>Australia and Turkey criticised for hosting UN climate conference while embracing coal</title>
+      <link>https://www.theguardian.com/environment/2026/oct/05/australia-and-turkey-criticised-for-hosting-un-climate-conference-while-embracing-coal</link>
+      <guid>https://www.theguardian.com/environment/2026/oct/05/australia-and-turkey-criticised-for-hosting-un-climate-conference-while-embracing-coal</guid>
+      <description>[Open Source Software] Keyword: FOSS — Global campaign group 350.org urges Cop31 hosts to announce a coal phase-out date and national roadmaps to get off fossil fuelsSign up for climate and environment editor Adam Morton’s free Clear Air newsletter hereThe hosts of the next major United Nation climate conference, Turkey and Australia, are facing criticism for being partners in a coal supply chain while remaining near silent on the need for a global deal to rapidly get off fossil fuels.With the Cop31 summit in the Turkish Mediterranea</description>
+      <category>Open Source Software</category>
+      <pubDate>Sun, 04 Oct 2026 14:00:32 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 4000 CORAL SUNRISE (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1344852</link>
@@ -768,54 +816,6 @@ kernel's security team is handling this deluge.  His core message was
       <description>[Climate &amp; Environment] Keyword: climate change — Switzerland's glaciers, which are disproportionately affected by climate change, have lost nearly 20% of their mass in five years, experts said Thursday, with 2026 registering the second-biggest melt on record.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Thu, 01 Oct 2026 02:50:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years</title>
-      <link>https://www.theguardian.com/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe</link>
-      <guid>https://www.theguardian.com/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe</guid>
-      <description>[Open Source Software] Keyword: FOSS — Alpine regions in Europe experiencing extreme glacier collapse due to heat-trapping effects of fossil fuel pollutionSwitzerland has lost almost one-fifth of its ice in just five years, research has found, in a dramatic reshaping of the Alpine country whose big white glaciers have been reduced to moonlike rock deserts, scientists say.Swiss glaciers shrank by 5.5% in the first eight months of 2026, according to an annual monitoring report, after a summer of scorching heatwaves that followed a wint</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 01 Oct 2026 04:00:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>The tech industry is hot for shopping bots, but they're years away</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/10/01/the-tech-industry-is-hot-for-shopping-bots-but-theyre-years-away/5300325</link>
-      <guid>https://www.theregister.com/ai-and-ml/2026/10/01/the-tech-industry-is-hot-for-shopping-bots-but-theyre-years-away/5300325</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — What's good for human shoppers does not work with probabilistic AI agents</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Thu, 01 Oct 2026 09:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 2500-2698 N HUNT LN (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1330144</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1330144</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1330144 | WEST Division | 9/30/2026 8:26:07 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/30/2026 8:26:07 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 1900 REBECCAS TRL (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1330149</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1330149</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1330149 | WEST Division | 9/30/2026 8:28:28 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/30/2026 8:28:28 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 5800 N LOOP 1604 W (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1330170</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1330170</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1330170 | PRUE Division | 9/30/2026 8:35:06 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/30/2026 8:35:06 PM</pubDate>
-    </item>
-    <item>
-      <title>Son who used AI to help save mum's life hopes case unlocks clues for other Parkinson's patients</title>
-      <link>https://www.bbc.co.uk/news/articles/cmy0zewj483wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/cmy0zewj483wo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Science &amp; Research] Keyword: clinical trial — Doctors say clinical trials are needed to understand more after Ed Patrick identified a potential side effect of a Parkinson's drug.</description>
-      <category>Science &amp; Research</category>
-      <pubDate>Thu, 01 Oct 2026 00:52:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
