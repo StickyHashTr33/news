@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 23:29:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 03:58:34 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ballots reach remote Indigenous Brazilians ahead of presidential election</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/4/ballots-reach-remote-indigenous-brazilians-ahead-of-presidential-election?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/video/newsfeed/2026/10/4/ballots-reach-remote-indigenous-brazilians-ahead-of-presidential-election?traffic_source=rss</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Ballot boxes reach remote Indigenous communities by boat as Brazil votes, with Amazon conservation a key issue.</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Sun, 04 Oct 2026 02:57:48 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 1500 W CRAIG PLACE (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1342725</link>
@@ -808,14 +816,6 @@ kernel's security team is handling this deluge.  His core message was
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1329461 | SOUTH Division | 9/30/2026 5:28:44 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>9/30/2026 5:28:44 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 5900 FAIRWOOD (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1329467</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1329467</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1329467 | SOUTH Division | 9/30/2026 5:30:28 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>9/30/2026 5:30:28 PM</pubDate>
     </item>
   </channel>
 </rss>
