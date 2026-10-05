@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 01:31:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 08:10:46 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle In Progress — 4800 LIMESTONE WELL DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1348653</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1348653</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1348653 | NORTH Division | 10/5/2026 2:36:52 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/5/2026 2:36:52 AM</pubDate>
+    </item>
+    <item>
+      <title>Climate Change Is Becoming a Pregnancy Hazard Worldwide, Survey Finds</title>
+      <link>https://www.ipsnews.net/2026/10/climate-change-is-becoming-a-pregnancy-hazard-worldwide-survey-finds/</link>
+      <guid>https://www.ipsnews.net/2026/10/climate-change-is-becoming-a-pregnancy-hazard-worldwide-survey-finds/</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Extreme heat is increasingly threatening pregnant women and newborn babies around the world, with almost all maternal health professionals surveyed across five continents saying they have cared for women or infants whose health was affected by high temperatures. The findings, released as climate ministers gathered in the Pacific ahead of the COP31 climate summit, provide [&amp;#8230;]</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 05 Oct 2026 03:30:58 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary in Progress — 7100 WOODLAKE PKWY (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1347571</link>
@@ -792,24 +808,6 @@ In a win for digital rights, a federal judge has issued a preliminary injunction
       <description>[Government Accountability] Keyword: public records — As the Cornell 7 case highlights the importance of student journalism, public records reveal how schools try to censor on-campus news outlets.</description>
       <category>Government Accountability</category>
       <pubDate>Thu, 01 Oct 2026 14:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Search For Movie History In Upstate New York</title>
-      <link>https://defector.com/a-search-for-movie-history-in-upstate-new-york</link>
-      <guid>https://defector.com/a-search-for-movie-history-in-upstate-new-york</guid>
-      <description>[Stoicism &amp; Philosophy] Keyword: Seneca — The following is excerpted from Every Time a Bell Rings, a book of essays about It's A Wonderful Life by Lauren Theisen and Emily St. James. It is available for purchase now.
-
-The bridge in Seneca Falls really does look just like the one that George and Clarence find themselves underneath in It’s a Wonderful Life. It’s short, accessible to pedestrians, made of steel beams that join together to form triangles, and stands just a little bit detached from the town’s main street. I knew when I starte</description>
-      <category>Stoicism &amp; Philosophy</category>
-      <pubDate>Thu, 01 Oct 2026 14:32:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>The trouble with Flock cameras is the surveillance system’s architecture, not just some of its users</title>
-      <link>https://theconversation.com/the-trouble-with-flock-cameras-is-the-surveillance-systems-architecture-not-just-some-of-its-users-291621</link>
-      <guid>https://theconversation.com/the-trouble-with-flock-cameras-is-the-surveillance-systems-architecture-not-just-some-of-its-users-291621</guid>
-      <description>[ALPR &amp; Flock Cameras] Keyword: license plate reader — The architecture of automated license plate readers turns local cameras into a far-reaching surveillance network that can be accessed by agencies that never purchased the devices.</description>
-      <category>ALPR &amp; Flock Cameras</category>
-      <pubDate>2026-10-01T12:41:24Z</pubDate>
     </item>
   </channel>
 </rss>
