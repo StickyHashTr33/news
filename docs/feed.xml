@@ -5,8 +5,72 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 23:38:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 04:31:03 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 300 ADAES (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1352636</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1352636</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1352636 | CENTRAL Division | 10/5/2026 11:07:43 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/5/2026 11:07:43 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 10 VIADUCT POST (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1352651</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1352651</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1352651 | PRUE Division | 10/5/2026 11:10:45 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/5/2026 11:10:45 PM</pubDate>
+    </item>
+    <item>
+      <title>Why some Indigenous communities don't resist oil extraction in their territories</title>
+      <link>https://phys.org/news/2026-10-indigenous-communities-dont-resist-oil.html</link>
+      <guid>https://phys.org/news/2026-10-indigenous-communities-dont-resist-oil.html</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — More than half of the Ecuadorian Amazon has been marked for oil drilling, overlapping with Indigenous territories and areas of high biodiversity. The ecological and cultural impacts of oil extraction are well documented and have fueled some of Latin America's most prominent environmental movements. Yet at the local level, extraction is not always met with resistance.</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Mon, 05 Oct 2026 21:00:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>Political orientation and institutional trust emerge as key factors in local wind energy support</title>
+      <link>https://phys.org/news/2026-10-political-emerge-key-factors-local.html</link>
+      <guid>https://phys.org/news/2026-10-political-emerge-key-factors-local.html</guid>
+      <description>[Climate &amp; Environment] Keyword: renewable energy — Why does the expansion of wind energy sometimes meet with local resistance, even though renewable energy generally enjoys broad support? RIFS researcher Jörg Radtke used a representative survey of 6,284 people in North Rhine-Westphalia to investigate which social characteristics are linked to the acceptance of wind energy.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 05 Oct 2026 20:20:02 EDT</pubDate>
+    </item>
+    <item>
+      <title>Global review reveals major blind spots in our understanding of climate change impacts on Mediterranean ecosystems</title>
+      <link>https://phys.org/news/2026-10-global-reveals-major-climate-impacts.html</link>
+      <guid>https://phys.org/news/2026-10-global-reveals-major-climate-impacts.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — A new global review of observed climate change impacts on plant communities reveals major gaps in where and how we monitor some of the world's most climate-vulnerable ecosystems.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 05 Oct 2026 21:40:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>Can Big Food Make Good on Promises of Regenerative Agriculture?</title>
+      <link>https://civileats.com/2026/09/14/can-big-food-make-good-on-promises-of-regenerative-agriculture/</link>
+      <guid>https://civileats.com/2026/09/14/can-big-food-make-good-on-promises-of-regenerative-agriculture/</guid>
+      <description>[Small Farm &amp; Urban Agriculture] Keyword: regenerative agriculture — By Lisa Held &amp;bull; September 14, 2026A Consumer Reports survey shows awareness of the term is growing, but questions remain about standards, oversight, and greenwashing.Read the full article &amp;rarr;</description>
+      <category>Small Farm &amp; Urban Agriculture</category>
+      <pubDate>Mon, 14 Sep 2026 08:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citrix NetScaler security snafus get even worse amid more 0-day reports</title>
+      <link>https://www.theregister.com/security/2026/10/05/citrix-netscaler-security-snafus-get-even-worse-amid-more-0-day-reports/5301232</link>
+      <guid>https://www.theregister.com/security/2026/10/05/citrix-netscaler-security-snafus-get-even-worse-amid-more-0-day-reports/5301232</guid>
+      <description>[Cybersecurity] Keyword: CVE — The new vuln, CVE-2026-88779, is a memory overflow bug that leads to denial of service</description>
+      <category>Cybersecurity</category>
+      <pubDate>Mon, 05 Oct 2026 23:18:48 +0200</pubDate>
+    </item>
+    <item>
+      <title>Security researcher claims they found KVM guest-host escape flaw</title>
+      <link>https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-they-found-kvm-guest-host-escape-flaw/5301267</link>
+      <guid>https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-they-found-kvm-guest-host-escape-flaw/5301267</guid>
+      <description>[Cybersecurity] Keyword: security researcher — Firecracker MicroVMs, which started at AWS, seem to be the problem</description>
+      <category>Cybersecurity</category>
+      <pubDate>Tue, 06 Oct 2026 04:06:20 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 500 N PICOSO (CENTRAL)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1351751</link>
@@ -749,70 +813,6 @@ Gushchin, the maintainer of Sashiko, provid</description>
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Unlike other states that allow same-day voter registration, Texans who want to participate in the 2026 midterms must be registered in advance.The voter registration deadline for the November midterm election is Monday, Oct. 5 was first posted on October 2, 2026 at 1:13 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me </description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Fri, 02 Oct 2026 18:13:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI's wandering AI agents earn it a California subpoena</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850</link>
-      <guid>https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Plus: Attorneys-general say investigators should have direct access to AI companies' records when things go wrong</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Fri, 02 Oct 2026 16:34:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>The ‘WarGames’ problem: Computer science has long understood what it takes to keep AI under control</title>
-      <link>https://theconversation.com/the-wargames-problem-computer-science-has-long-understood-what-it-takes-to-keep-ai-under-control-292884</link>
-      <guid>https://theconversation.com/the-wargames-problem-computer-science-has-long-understood-what-it-takes-to-keep-ai-under-control-292884</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — A hit 1983 movie illustrates what computer scientists have long known: If you give an AI agent a goal but don’t control what it can and can’t do, you shouldn’t be surprised by what it does.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>2026-09-29T21:11:58Z</pubDate>
-    </item>
-    <item>
-      <title>OpenAI’s Medicare attack has exposed Australia’s ‘tech debt’. Fixing it could bring a big bill for taxpayers</title>
-      <link>https://www.theguardian.com/australia-news/2026/oct/03/openais-medicare-attack-has-exposed-australias-tech-debt-fixing-it-could-bring-a-big-bill-for-taxpayers</link>
-      <guid>https://www.theguardian.com/australia-news/2026/oct/03/openais-medicare-attack-has-exposed-australias-tech-debt-fixing-it-could-bring-a-big-bill-for-taxpayers</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Home affairs department orders all federal government agencies to conduct review of ‘legacy technology’ amid fallout from AI agent hacks Get our breaking news email, free app or daily news podcastThe Australian government faces significant “tech debt” that could bring a big bill for taxpayers after the OpenAI Medicare breach, as government agencies will need to fortify their defences against future attacks by AI agents.This week, the home affairs department ordered all federal government agencie</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Fri, 02 Oct 2026 15:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Israeli barrier cuts off water to West Bank Palestinians before elections</title>
-      <link>https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Residents of Ras al-Ahmar say Israeli restrictions have cut access to water, animal feed, healthcare.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Fri, 02 Oct 2026 18:18:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?</title>
-      <link>https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first</link>
-      <guid>https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — The America First strategy asks for a Memorandum of Understanding as a condition for healthcare and development aid. It's been praised for promoting self-reliance but criticized for its conditions.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Fri, 02 Oct 2026 14:16:07 -0400</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 500 W CESAR CHAVEZ BLVD (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1335874</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1335874</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1335874 | CENTRAL Division | 10/2/2026 8:15:07 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/2/2026 8:15:07 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 4000 E SOUTHCROSS BLVD (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1335878</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1335878</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1335878 | EAST Division | 10/2/2026 8:15:44 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/2/2026 8:15:44 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 1500 THOUSAND OAKS (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1335889</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1335889</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1335889 | NORTH Division | 10/2/2026 8:17:33 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/2/2026 8:17:33 AM</pubDate>
     </item>
   </channel>
 </rss>
