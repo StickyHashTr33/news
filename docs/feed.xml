@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 20:30:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:28:18 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 5000 GLEN RDG (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1370334</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1370334</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1370334 | PRUE Division | 10/9/2026 7:14:25 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/9/2026 7:14:25 PM</pubDate>
+    </item>
+    <item>
+      <title>Looking for Oil in Alaska, No Environmental Strings Attached</title>
+      <link>https://insideclimatenews.org/news/09102026/bureau-of-land-management-accelerates-arctic-oil-exploration-permit/</link>
+      <guid>https://insideclimatenews.org/news/09102026/bureau-of-land-management-accelerates-arctic-oil-exploration-permit/</guid>
+      <description>[Open Source Software] Keyword: FOSS — Oil companies will no longer be required to conduct environmental reviews before exploring for fossil fuel reservoirs in the Western Arctic, the largest tract of federally managed public land in the United States. The Bureau of Land Management announced a categorical exclusion under the National Environmental Policy Act for winter oil and gas exploration in [&amp;#8230;]</description>
+      <category>Open Source Software</category>
+      <pubDate>Fri, 09 Oct 2026 22:30:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Women with PMOS should get subsidised weight-loss drugs, Australian advocates say</title>
+      <link>https://www.theguardian.com/australia-news/2026/oct/10/women-with-pmos-should-get-subsidised-weight-loss-drugs-advocates-say</link>
+      <guid>https://www.theguardian.com/australia-news/2026/oct/10/women-with-pmos-should-get-subsidised-weight-loss-drugs-advocates-say</guid>
+      <description>[Diabetes &amp; Kidney Disease] Keyword: GLP-1 — With GLP-1s to treat the condition not specifically approved by the TGA, patients are being prescribed them off-labelGet our breaking news email, free app or daily news podcastWomen living with a chronic hormonal condition should have access to taxpayer-funded weight-loss medications, advocates say.The Polyendrocrine Metabolic Ovarian Syndrome Association of Australia (POSAA) is urging for GLP-1 drugs to be approved on the Pharmaceutical Benefits Scheme for people living with the condition. Cont</description>
+      <category>Diabetes &amp; Kidney Disease</category>
+      <pubDate>Fri, 09 Oct 2026 23:00:41 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 19600 IH 10 W (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1369350</link>
@@ -784,30 +808,6 @@ The post  A ‘Politically Motivated Cover-Up’: Why the State&amp;#8217;s Mat
       <description>[Climate &amp; Environment] Keyword: climate change — Scientists who believe technology will largely solve the problems caused by climate change are 23% less likely to engage in civic climate action and 18% less likely to make high-impact lifestyle changes compared with scientists who disagree with this belief.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Wed, 07 Oct 2026 10:00:05 EDT</pubDate>
-    </item>
-    <item>
-      <title>New climate connectivity taxonomy reveals how different communities talk about climate risk</title>
-      <link>https://phys.org/news/2026-10-climate-taxonomy-reveals-communities.html</link>
-      <guid>https://phys.org/news/2026-10-climate-taxonomy-reveals-communities.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Climate change adaptation requires rapid, informed decision-making. Yet the knowledge needed to make those decisions is often hard to find, scattered across online platforms and described using inconsistent terminology.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 07 Oct 2026 11:40:05 EDT</pubDate>
-    </item>
-    <item>
-      <title>World's largest penguin colony hit by 'alarming' decline in numbers</title>
-      <link>https://www.bbc.co.uk/news/articles/cr9dzy24g2l7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/cr9dzy24g2l7o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Climate change is blamed for dramatic decline of chinstrap penguins living on a remote volcanic island.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 07 Oct 2026 15:00:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners</title>
-      <link>https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners</link>
-      <guid>https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners</guid>
-      <description>[Climate &amp; Environment] Keyword: deforestation — Inquest under way into why President Lula’s success in curbing Amazon deforestation has not lead to success at pollsMore fire, more ash, more crime, more death. And a globally important ecosystem driven ever more rapidly towards a point of no return. That is the prospect for the Amazon rainforest for at least the next four years if Flávio Bolsonaro holds on to the lead he established this week in the first round of Brazil’s presidential election.This appears to be of far more concern to the outs</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 07 Oct 2026 12:03:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
