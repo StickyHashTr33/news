@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 00:28:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:39:05 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 800 N ALAMO ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1371762</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1371762</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1371762 | DOWNTOWN Division | 10/10/2026 1:23:25 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/10/2026 1:23:25 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 5000 GLEN RDG (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1370334</link>
@@ -800,14 +808,6 @@ The post  A ‘Politically Motivated Cover-Up’: Why the State&amp;#8217;s Mat
       <description>[Climate &amp; Environment] Keyword: climate change — A 13-year-old girl has called on world leaders to act on climate change and save her country, Tuvalu.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Wed, 07 Oct 2026 10:55:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Techno-optimistic scientists take fewer climate actions, study finds</title>
-      <link>https://phys.org/news/2026-10-techno-optimistic-scientists-climate-actions.html</link>
-      <guid>https://phys.org/news/2026-10-techno-optimistic-scientists-climate-actions.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Scientists who believe technology will largely solve the problems caused by climate change are 23% less likely to engage in civic climate action and 18% less likely to make high-impact lifestyle changes compared with scientists who disagree with this belief.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 07 Oct 2026 10:00:05 EDT</pubDate>
     </item>
   </channel>
 </rss>
