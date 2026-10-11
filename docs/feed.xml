@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 22:11:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 01:31:31 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 900 VFW BLVD (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1374943</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1374943</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1374943 | SOUTH Division | 10/10/2026 8:20:34 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/10/2026 8:20:34 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 2500 NE LOOP 410 (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1374190</link>
@@ -799,14 +807,6 @@ The post Armed Border Agents Arrest Protesters, Bulldoze 200-Year-Old Tree to Bu
       <description>[Ecology &amp; Conservation] Keyword: endangered species — A landmark survey of the world's largest free-roaming giant tortoise population has revealed that the once-endangered species is thriving and stable in the Seychelles.</description>
       <category>Ecology &amp; Conservation</category>
       <pubDate>Wed, 07 Oct 2026 16:50:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Boosting seawater alkalinity could help communities tackle local carbon emissions, researchers argue</title>
-      <link>https://phys.org/news/2026-10-boosting-seawater-alkalinity-communities-tackle.html</link>
-      <guid>https://phys.org/news/2026-10-boosting-seawater-alkalinity-communities-tackle.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — When scientists discovered that increasing the ocean's natural alkalinity could enhance seawater's capacity to absorb and store carbon dioxide (CO₂), the idea quickly gained attention as a potential geoengineering solution to climate change. Early visions suggested it could remove gigatonnes of CO₂ from the atmosphere each year. But the reality is far more complex.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 07 Oct 2026 15:00:09 EDT</pubDate>
     </item>
   </channel>
 </rss>
