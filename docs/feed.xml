@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 23:25:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 03:59:31 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 6700 IH 35 N (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1379674</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1379674</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1379674 | EAST Division | 10/11/2026 10:41:59 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/11/2026 10:41:59 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 6700 IH 35 N (EAST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1378137</link>
@@ -799,14 +807,6 @@ The post Armed Border Agents Arrest Protesters, Bulldoze 200-Year-Old Tree to Bu
       <description>[Diabetes &amp; Kidney Disease] Keyword: type 2 diabetes — A large analysis of 22 studies found that the trans fats naturally present in dairy foods such as milk, butter, yogurt, and cheese do not appear to raise the risk of heart disease or type 2 diabetes. Unlike industrial trans fats from partially hydrogenated oils, dairy trans fats showed no meaningful harmful effects on blood fats in controlled trials and were not linked to higher rates of heart disease, stroke, cardiovascular death, or diabetes in long-term studies.</description>
       <category>Diabetes &amp; Kidney Disease</category>
       <pubDate>Wed, 07 Oct 2026 23:00:54 EDT</pubDate>
-    </item>
-    <item>
-      <title>Trump interrupted by protesters at Texas rally</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/10/8/trump-interrupted-by-protesters-at-texas-rally?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/video/newsfeed/2026/10/8/trump-interrupted-by-protesters-at-texas-rally?traffic_source=rss</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — At least 10 protesters were removed from a Trump rally in San Antonio as he was heckled during his speech.</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Thu, 08 Oct 2026 04:30:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
