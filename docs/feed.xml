@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 20:48:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 02:23:40 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 200 ARCHIMEDES DR (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1383789</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1383789</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1383789 | EAST Division | 10/12/2026 9:05:26 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/12/2026 9:05:26 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 400 MARGO ST (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1383807</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1383807</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1383807 | SOUTH Division | 10/12/2026 9:12:56 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/12/2026 9:12:56 PM</pubDate>
+    </item>
+    <item>
+      <title>A guide to Día de los Muertos 2026 in San Antonio</title>
+      <link>https://sanantonioreport.org/dia-de-los-muertos-schedule-san-antonio-2026/</link>
+      <guid>https://sanantonioreport.org/dia-de-los-muertos-schedule-san-antonio-2026/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Observed on Nov. 1 and 2, this annual tradition with roots in Mexico and Central America is also celebrated by many in the U.S.A guide to Día de los Muertos 2026 in San Antonio was first posted on October 12, 2026 at 4:22 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Mon, 12 Oct 2026 21:22:03 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 13000 JONES MALTSBERGER RD (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1382547</link>
@@ -788,30 +812,6 @@ bugs and long-term succession planning.</description>
       <description>[Immigration &amp; Border] Keyword: visa program — An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.</description>
       <category>Immigration &amp; Border</category>
       <pubDate>Thu, 08 Oct 2026 21:37:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Border Patrol Unleashes Violence on Protesters Over Trump’s Border Wall</title>
-      <link>https://truthout.org/articles/border-patrol-unleashes-violence-on-protesters-over-trumps-border-wall/</link>
-      <guid>https://truthout.org/articles/border-patrol-unleashes-violence-on-protesters-over-trumps-border-wall/</guid>
-      <description>[Immigration &amp; Border] Keyword: border wall — Activists say federal agents dragged protesters across a barbed wire and used “extreme pain compliance&quot; tactics.</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Thu, 08 Oct 2026 20:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CPS Energy drops rate hike request citing ‘financial pressures’ on customers</title>
-      <link>https://sanantonioreport.org/cps-energy-rate-increase-deferred-to-2027/</link>
-      <guid>https://sanantonioreport.org/cps-energy-rate-increase-deferred-to-2027/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The city-owned utility has dropped the idea of requesting to increase customer rates this year, deferring a decision to mid-2027.CPS Energy drops rate hike request citing &amp;#8216;financial pressures&amp;#8217; on customers was first posted on October 8, 2026 at 4:31 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Thu, 08 Oct 2026 21:31:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Podcast: Leak Show Cops Can Break into Locked iPhones</title>
-      <link>https://www.404media.co/podcast-leak-show-cops-can-break-into-locked-iphones/</link>
-      <guid>https://www.404media.co/podcast-leak-show-cops-can-break-into-locked-iphones/</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — Cops are getting around a very important iPhone security feature; someone made an LLM torture chamber; and lawyers going wild with ChatGPT.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Thu, 08 Oct 2026 16:11:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
