@@ -5,8 +5,56 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 01:34:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:02:36 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 100 DALLAS ST (DOWNTOWN)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1389071</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1389071</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1389071 | DOWNTOWN Division | 10/14/2026 1:38:19 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/14/2026 1:38:19 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 200 CACTUS ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1389106</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1389106</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1389106 | EAST Division | 10/14/2026 1:52:25 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/14/2026 1:52:25 AM</pubDate>
+    </item>
+    <item>
+      <title>Court overturns Tanya Plibersek’s protection order which stalled controversial NSW goldmine</title>
+      <link>https://www.theguardian.com/environment/2026/oct/14/federal-court-overturns-tanya-plibersek-protection-order-nsw-goldmine-mcphillamys-blaney</link>
+      <guid>https://www.theguardian.com/environment/2026/oct/14/federal-court-overturns-tanya-plibersek-protection-order-nsw-goldmine-mcphillamys-blaney</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Federal court overrules decision by former environment minister for the McPhillamys goldmine development at BlayneyFollow our Australian politics live blog for latest updatesGet our breaking news email, free app or daily news podcastThe federal court has overturned a rare protection order issued by former environment minister Tanya Plibersek under Indigenous heritage legislation, which the company said effectively blocked a goldmine in the central west of New South Wales.Regis Resources challeng</description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Wed, 14 Oct 2026 04:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wednesday briefing: ​Why small boat crossings are here to stay ​</title>
+      <link>https://www.theguardian.com/world/2026/oct/14/wednesday-briefing-why-small-boat-crossings-are-here-to-stay</link>
+      <guid>https://www.theguardian.com/world/2026/oct/14/wednesday-briefing-why-small-boat-crossings-are-here-to-stay</guid>
+      <description>[Immigration &amp; Border] Keyword: border enforcement — In today’s newsletter: The ​collapse of the UK’s ‘one in, one out’ asylum deal with France exposes the limits of border enforcement that did little to stop crossings, and only made them more dangerousGood morning. You’d be forgiven for missing it. Earlier this month, the government quietly scrapped its “one in, one out” deal with France. The partnership was supposed to eliminate small boat crossings by deterring asylum seekers from making the treacherous journey across the world’s busiest shippi</description>
+      <category>Immigration &amp; Border</category>
+      <pubDate>Wed, 14 Oct 2026 05:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Colombia peace tribunal charges ex-FARC members with anti-Indigenous crimes</title>
+      <link>https://www.aljazeera.com/news/2026/10/14/colombia-peace-tribunal-charges-ex-farc-members-with-anti-indigenous-crimes?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/news/2026/10/14/colombia-peace-tribunal-charges-ex-farc-members-with-anti-indigenous-crimes?traffic_source=rss</guid>
+      <description>[Housing &amp; Gentrification] Keyword: displacement — The former rebels are accused of abuses such as torture, murder and the displacement of Indigenous communities.</description>
+      <category>Housing &amp; Gentrification</category>
+      <pubDate>Wed, 14 Oct 2026 01:43:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware gets personal: 'We-know-where-you-are kind of stuff'</title>
+      <link>https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939</link>
+      <guid>https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939</guid>
+      <description>[Cybersecurity] Keyword: ransomware — 37% of ransomware attacks involve psychological or physical threats, global survey found</description>
+      <category>Cybersecurity</category>
+      <pubDate>Wed, 14 Oct 2026 07:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 7100 OAKLAWN (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1388194</link>
@@ -775,54 +823,6 @@ bugs and long-term succession planning.</description>
       <description>[Diabetes &amp; Kidney Disease] Keyword: GLP-1 — Scant data about serious adverse effects makes it harder to answer scientific and legal questions about how often the drugs might cause serious harm like blindness or pancreatitis.</description>
       <category>Diabetes &amp; Kidney Disease</category>
       <pubDate>Sat, 10 Oct 2026 07:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Microsoft suspended from applying for green cards for H-1B workers, JD Vance says</title>
-      <link>https://www.theguardian.com/technology/2026/oct/08/jd-vance-microsoft-visa-workers-green-card-suspension</link>
-      <guid>https://www.theguardian.com/technology/2026/oct/08/jd-vance-microsoft-visa-workers-green-card-suspension</guid>
-      <description>[Immigration &amp; Border] Keyword: visa program — Vice-president also says Adobe is barred from visa program that allows high-skilled workers to apply for US residencyMicrosoft is suspended from applying for permanent residency for workers employed through a US visa program for high-skilled workers, JD Vance announced on Thursday.The US vice-president accused the tech company of abusing the H-1B system, which allows those on the visa to work while they apply for and are in the process of obtaining a green card. Continue reading...</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Thu, 08 Oct 2026 18:23:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Here’s a first look at how the new San Antonio airport terminal is coming along</title>
-      <link>https://sanantonioreport.org/first-look-new-san-antonio-airport-terminal/</link>
-      <guid>https://sanantonioreport.org/first-look-new-san-antonio-airport-terminal/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Construction on SAT's new Terminal C, which will double the size of the airport, has almost reached the halfway point.Here&amp;#8217;s a first look at how the new San Antonio airport terminal is coming along was first posted on October 10, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Sat, 10 Oct 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rogue Anthropic AI agent gave US police fake tip in unsolved murder case</title>
-      <link>https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Philadelphia police said the tip was &quot;flagged as spam&quot;, but criticised the tech company for taking more than two months to detect and report the breach.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Sat, 10 Oct 2026 10:06:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing</title>
-      <link>https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Continuing attacks, restrictions on medical aid and delayed evacuations are still killing Palestinians.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Sat, 10 Oct 2026 09:30:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘No regulation’: Trump officials bypass the public to boost invisible code</title>
-      <link>https://www.alternet.org/medicare-artificial-intelligence/</link>
-      <guid>https://www.alternet.org/medicare-artificial-intelligence/</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — A cadre of elite techies, financiers, and high-level Trump administration officials have spent a year quietly charting an extraordinary and rapid campaign to persuade Americans to use apps and other artificial intelligence-powered tools to manage their healthcare and medical records.As that campaign has unfolded, administration officials have granted tech companies an unusual opportunity to nudge the nation’s health department toward a loosely regulated future for AI health apps in which the gov</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Sat, 10 Oct 2026 11:50:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 800 N ALAMO ST (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1371762</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1371762</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1371762 | DOWNTOWN Division | 10/10/2026 1:23:25 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/10/2026 1:23:25 AM</pubDate>
     </item>
   </channel>
 </rss>
