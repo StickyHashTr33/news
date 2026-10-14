@@ -5,8 +5,93 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 07:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:16:33 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 100 VINE ST (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1389799</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1389799</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1389799 | EAST Division | 10/14/2026 7:57:26 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/14/2026 7:57:26 AM</pubDate>
+    </item>
+    <item>
+      <title>America’s AI ambitions threaten Indigenous lands in the Philippines</title>
+      <link>https://grist.org/indigenous/americas-ai-ambitions-threaten-indigenous-lands-in-the-philippines/</link>
+      <guid>https://grist.org/indigenous/americas-ai-ambitions-threaten-indigenous-lands-in-the-philippines/</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — </description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Wed, 14 Oct 2026 08:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global deforestation slowed in 2025 but surged in Congo basin: Study</title>
+      <link>https://phys.org/news/2026-10-global-deforestation-surged-congo-basin.html</link>
+      <guid>https://phys.org/news/2026-10-global-deforestation-surged-congo-basin.html</guid>
+      <description>[Climate &amp; Environment] Keyword: deforestation — Deforestation slowed worldwide last year, but the improvement is unlikely to last as the situation deteriorates in Central Africa and an exceptionally strong El Niño weather pattern intensifies, a new study said on Wednesday.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 14 Oct 2026 05:10:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>World Lost More Than 7 Million Hectares of Forest in 2025</title>
+      <link>https://www.ipsnews.net/2026/10/world-lost-more-than-7-million-hectares-of-forest-in-2025/</link>
+      <guid>https://www.ipsnews.net/2026/10/world-lost-more-than-7-million-hectares-of-forest-in-2025/</guid>
+      <description>[Climate &amp; Environment] Keyword: deforestation — The world lost more than 7 million hectares of forest to deforestation in 2025, a modest improvement on recent years but still far from what is needed to meet global forest protection targets by 2030, according to a new assessment of international conservation efforts. The Forest Declaration Assessment 2026, prepared by a coalition of civil [&amp;#8230;]</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 14 Oct 2026 07:53:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ancient climate shifts may explain why today's flowering plants are so diverse</title>
+      <link>https://phys.org/news/2026-10-ancient-climate-shifts-today-diverse.html</link>
+      <guid>https://phys.org/news/2026-10-ancient-climate-shifts-today-diverse.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — The two warmest time periods on Earth in the past 140 million years drove both mass extinctions and explosions in plant diversity, according to researchers in Australia and Austria who say this could explain how flowering plants became dominant among land plants. The study, published in Nature Plants, examined fossilized pollen and spores to show that the mid-Cretaceous and early Cenozoic periods of extreme global warmth were central to plant evolution. This applies not only to flowering plants,</description>
+      <category>Open Source Software</category>
+      <pubDate>Wed, 14 Oct 2026 05:00:06 EDT</pubDate>
+    </item>
+    <item>
+      <title>Scientists discover how harmful “zombie cells” hide from the immune system</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261013015800.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261013015800.htm</guid>
+      <description>[Diabetes &amp; Kidney Disease] Keyword: blood sugar — Scientists have discovered a protein that may help harmful aging cells hide from the immune system, allowing them to accumulate and fuel age-related health problems. Blocking the protein in mice reduced these cells and inflammation while improving blood sugar regulation and strength, offering a promising new direction for anti-aging research.</description>
+      <category>Diabetes &amp; Kidney Disease</category>
+      <pubDate>Wed, 14 Oct 2026 06:17:58 EDT</pubDate>
+    </item>
+    <item>
+      <title>Here are the top races to watch this November 2026 election</title>
+      <link>https://sanantonioreport.org/top-races-to-watch-this-november-2026-election/</link>
+      <guid>https://sanantonioreport.org/top-races-to-watch-this-november-2026-election/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Trump campaigns for a should-be-safe U.S. Senate seat while Democrats are urging their national party to help Gov. Greg Abbott's challenger.Here are the top races to watch this November 2026 election was first posted on October 14, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[$] GCC development with large-language models</title>
+      <link>https://lwn.net/Articles/1098672/</link>
+      <guid>https://lwn.net/Articles/1098672/</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — After much deliberation, the GCC project recently came up with a policy on the use of large
+language models for development of the compiler suite.  It is somewhat
+restrictive, but still leaves room for LLMs in the development process.  At
+the 2026 GNU Tools Cauldron,
+Jeff Law and Kyrill Tkachov discussed how these tools have been useful for
+them.</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Wed, 14 Oct 2026 13:13:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia, worth $5.5tn, donates $250m to UK for AI safety research</title>
+      <link>https://www.theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research</link>
+      <guid>https://www.theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — Pledge spanning five years from world’s most valuable firm comes as concerns about AI agents have risenBusiness live – latest updatesThe $5.5tn (£4.1tn) US chipmaker Nvidia is donating $250m worth of computing power to the UK to support AI safety research.The donation from the world’s most valuable company comes as the UK government confirmed its AI Security Institute (AISI), which tests advance AI models, will be able to examine cutting-edge technology developed by companies such as OpenAI, Ant</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Wed, 14 Oct 2026 10:10:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>In the Right to Repair Revolt, Nebraska Leads With Farm-Data Ownership Law</title>
+      <link>https://civileats.com/2026/10/14/in-the-right-to-repair-revolt-nebraska-leads-with-farm-data-ownership-law/</link>
+      <guid>https://civileats.com/2026/10/14/in-the-right-to-repair-revolt-nebraska-leads-with-farm-data-ownership-law/</guid>
+      <description>[Digital Rights &amp; Privacy] Keyword: right to repair — By Elsa Wenzel &amp;bull; October 14, 2026Farmers are organizing against equipment and seed companies profiting from their data and using it against them. Similar laws in other states have so far failed.Read the full article &amp;rarr;</description>
+      <category>Digital Rights &amp; Privacy</category>
+      <pubDate>Wed, 14 Oct 2026 08:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 100 DALLAS ST (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1389071</link>
@@ -743,86 +828,6 @@ bugs and long-term succession planning.</description>
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — The TVSA project is envisioned as an outdoor podcast studio — a production and community space that will support TVSA programming,City panel approves plans for podcasting studio and pocket park at Plaza de Armas was first posted on October 10, 2026 at 2:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@riva</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Sat, 10 Oct 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hundreds of doctors demand World Medical Association suspend Israel</title>
-      <link>https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Physicians accuse Israeli Medical Association of remaining silent as Palestinian healthcare is systematically destroyed.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Sat, 10 Oct 2026 21:12:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Against the odds: Why some ecosystems thrive</title>
-      <link>https://phys.org/news/2026-10-odds-ecosystems.html</link>
-      <guid>https://phys.org/news/2026-10-odds-ecosystems.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — From coral reefs in Papua New Guinea to chimpanzees in West Africa, grizzly bears in Canada and albatross colonies off Tasmania, some ecosystems are thriving despite climate change, habitat loss and other environmental pressures.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Sat, 10 Oct 2026 09:40:10 EDT</pubDate>
-    </item>
-    <item>
-      <title>Extreme Weather Disasters Cost Hundreds of Billions. Let’s Make Polluters Pay.</title>
-      <link>https://truthout.org/articles/extreme-weather-disasters-cost-hundreds-of-billions-lets-make-polluters-pay/</link>
-      <guid>https://truthout.org/articles/extreme-weather-disasters-cost-hundreds-of-billions-lets-make-polluters-pay/</guid>
-      <description>[Open Source Software] Keyword: FOSS — As the Trump administration guts disaster aid, it’s time for an extreme weather superfund paid for by fossil fuel firms.</description>
-      <category>Open Source Software</category>
-      <pubDate>Sat, 10 Oct 2026 16:43:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amid Backlash, Surveillance Company Flock Is Cutting Staff</title>
-      <link>https://www.motherjones.com/politics/2026/10/flock-surveillance-backlash-layoffs/</link>
-      <guid>https://www.motherjones.com/politics/2026/10/flock-surveillance-backlash-layoffs/</guid>
-      <description>[ALPR &amp; Flock Cameras] Keyword: Flock Safety — Flock Safety, the AI-powered traffic camera company that has everyone from Josh Hawley to Bernie Sanders angry, might be feeling the heat financially: Reuters reported Friday that the company is planning to cut roughly 18 percent of its staff, or 270 workers. Flock, which operates a network of 120,000 cameras nationwide, is the largest maker [&amp;#8230;]</description>
-      <category>ALPR &amp; Flock Cameras</category>
-      <pubDate>Sat, 10 Oct 2026 15:46:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Elite' Border Patrol Unit Joins Attacks on Protesters Resisting Trump’s Border Wall</title>
-      <link>https://deceleration.news/border-patrol-unleashes-violence-on-protesters-over-trump-border-wall/</link>
-      <guid>https://deceleration.news/border-patrol-unleashes-violence-on-protesters-over-trump-border-wall/</guid>
-      <description>[Immigration &amp; Border] Keyword: border wall — Activists say federal agents dragged protesters across a barbed wire and used “extreme pain compliance” tactics.</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Sat, 10 Oct 2026 15:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bexar County will elect a new generation of leaders this November. Meet the candidates.</title>
-      <link>https://sanantonioreport.org/meet-the-candidates-bexar-county-top-leadership-2026/</link>
-      <guid>https://sanantonioreport.org/meet-the-candidates-bexar-county-top-leadership-2026/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Democrats have controlled the countywide offices for more than a decade — but turnover in two top offices means change, no matter what.Bexar County will elect a new generation of leaders this November. Meet the candidates. was first posted on October 10, 2026 at 11:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me a</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Sat, 10 Oct 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 300 W MANDALAY DR (CENTRAL)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1372513</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1372513</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1372513 | CENTRAL Division | 10/10/2026 7:58:36 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/10/2026 7:58:36 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 13100 LA VENTANA (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1372514</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1372514</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1372514 | NORTH Division | 10/10/2026 7:58:51 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/10/2026 7:58:51 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 12000 VISTA NOGAL (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1372525</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1372525</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1372525 | NORTH Division | 10/10/2026 8:03:53 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/10/2026 8:03:53 AM</pubDate>
-    </item>
-    <item>
-      <title>Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often</title>
-      <link>https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic</link>
-      <guid>https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic</guid>
-      <description>[Diabetes &amp; Kidney Disease] Keyword: GLP-1 — Scant data about serious adverse effects makes it harder to answer scientific and legal questions about how often the drugs might cause serious harm like blindness or pancreatitis.</description>
-      <category>Diabetes &amp; Kidney Disease</category>
-      <pubDate>Sat, 10 Oct 2026 07:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
