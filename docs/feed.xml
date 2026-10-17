@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 20:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 22:08:53 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 1700 W THOMPSON PLACE (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1406804</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1406804</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1406804 | SOUTH Division | 10/17/2026 4:55:54 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/17/2026 4:55:54 PM</pubDate>
+    </item>
+    <item>
+      <title>Protesters allege police brutality as violent clashes rage on in Albania</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss</guid>
+      <description>[Police &amp; Criminal Justice] Keyword: police brutality — Protesters in Albania accuse riot police of brutality as clashes turn violent outside the Education Ministry.</description>
+      <category>Police &amp; Criminal Justice</category>
+      <pubDate>Sat, 17 Oct 2026 20:40:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ken Paxton to close Senate campaign with ‘Come and Take It’ bus tour ending at the Alamo</title>
+      <link>https://sanantonioreport.org/ken-paxton-to-close-senate-campaign-with-come-and-take-it-bus-tour-ending-at-the-alamo/</link>
+      <guid>https://sanantonioreport.org/ken-paxton-to-close-senate-campaign-with-come-and-take-it-bus-tour-ending-at-the-alamo/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Republican U.S. Senate nominee Ken Paxton is setting off on an 18-day bus tour Saturday that will take him to over 30 stops across the state leading up to Election Day.Ken Paxton to close Senate campaign with &amp;#8216;Come and Take It&amp;#8217; bus tour ending at the Alamo was first posted on October 17, 2026 at 4:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty o</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sat, 17 Oct 2026 21:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault — 5100 GLEN RDG (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1406339</link>
@@ -794,39 +818,6 @@ The post Yonder Radio: Flock Cameras, PBS&amp;#8217; &amp;#8220;American Creed&a
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Joaquin Castro’s redrawn district may not be in play, but he says it’s clear from Donald Trump's recent San Antonio rally that Texas is.A remapped district all but securing his seat, Rep. Castro focuses on immigration reform and flipping the House was first posted on October 15, 2026 at 12:20 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringe</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Thu, 15 Oct 2026 17:20:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Despite Surge in Prison Overdoses, State Agency Requests No New Treatment Funding</title>
-      <link>https://www.texasobserver.org/surge-prison-overdoses-tdcj-treatment-budget/</link>
-      <guid>https://www.texasobserver.org/surge-prison-overdoses-tdcj-treatment-budget/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: Texas legislature — From 2020 to 2025, the number of confirmed overdose deaths in Texas prisons rose from just four to at least 131. Despite this surge in fatalities, however, the Texas Department of Criminal Justice (TDCJ) did not request any additional funding to expand its drug rehabilitation programs in its recent proposed budget to the Texas Legislature [&amp;#8230;]
-The post Despite Surge in Prison Overdoses, State Agency Requests No New Treatment Funding appeared first on The Texas Observer.</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Thu, 15 Oct 2026 14:47:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Workday wants a slice of customers' labour budget that its AI agents could replace</title>
-      <link>https://www.theregister.com/saas/2026/10/15/workday-wants-a-slice-of-customers-labour-budget-that-its-ai-agents-could-replace/5303281</link>
-      <guid>https://www.theregister.com/saas/2026/10/15/workday-wants-a-slice-of-customers-labour-budget-that-its-ai-agents-could-replace/5303281</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — CEO eyes usage-based billing as automation pushes HR software vendor beyond traditional IT spending</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Thu, 15 Oct 2026 18:15:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Seven stable kernels for Thursday with fix for critical vulnerability</title>
-      <link>https://lwn.net/Articles/1100611/</link>
-      <guid>https://lwn.net/Articles/1100611/</guid>
-      <description>[Cybersecurity] Keyword: CVE — Greg Kroah-Hartman has announced the release of the 7.2.11, 6.18.57,
-6.12.113, 6.6.159, 6.1.190,
-5.15.223, and 5.10.272 stable kernels. This series includes,
-among other things, a fix for a
-critical vulnerability (CVE-2026-99999). The
-flaw in skb_checksum_help()
-would allow an IPv4 packet with bad checksum metadata to &quot;corrupt the network
-header and cause a bunch of mischief&quot; in the words of patch author Michael
-S. Tsirkin. As usual, all users are advised to upgrade.</description>
-      <category>Cybersecurity</category>
-      <pubDate>Thu, 15 Oct 2026 13:01:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
