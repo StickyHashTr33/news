@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 01:29:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 07:03:31 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 4400 EAGLE NEST DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1418016</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1418016</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1418016 | NORTH Division | 10/20/2026 1:38:17 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/20/2026 1:38:17 AM</pubDate>
+    </item>
+    <item>
+      <title>The human cost of surging US air strikes in Somalia</title>
+      <link>https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers?traffic_source=rss</guid>
+      <description>[Housing &amp; Gentrification] Keyword: displacement — Families recount deaths, injuries and displacement as Trump accelerates US strikes against armed groups in Somalia.</description>
+      <category>Housing &amp; Gentrification</category>
+      <pubDate>Tue, 20 Oct 2026 01:52:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>More than 42,000 vote on first day of early voting in Bexar County, up 32% from 2022</title>
+      <link>https://sanantonioreport.org/bexar-county-early-voting-turnout-2/</link>
+      <guid>https://sanantonioreport.org/bexar-county-early-voting-turnout-2/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Early voting is underway in Bexar County, with 42,333 people casting ballots on the first day, an increase from the 2022 midterm elections.More than 42,000 vote on first day of early voting in Bexar County, up 32% from 2022 was first posted on October 19, 2026 at 9:58 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me a</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Tue, 20 Oct 2026 02:58:59 +0000</pubDate>
+    </item>
     <item>
       <title>How much of a basin's drainage network should flood models capture?</title>
       <link>https://phys.org/news/2026-10-basin-drainage-network-capture.html</link>
@@ -796,30 +820,6 @@ The post The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong? ap
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1404787 | CENTRAL Division | 10/17/2026 6:41:34 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>10/17/2026 6:41:34 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person - Endangered — 1600 ENCINO RIO (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1404794</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1404794</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1404794 | NORTH Division | 10/17/2026 6:46:45 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/17/2026 6:46:45 AM</pubDate>
-    </item>
-    <item>
-      <title>Plaque telling story of African-Caribbean prisoners in Britain stolen within days</title>
-      <link>https://www.theguardian.com/uk-news/2026/oct/17/plaque-honouring-african-caribbean-prisoners-in-britain-stolen-portchester-castle</link>
-      <guid>https://www.theguardian.com/uk-news/2026/oct/17/plaque-honouring-african-caribbean-prisoners-in-britain-stolen-portchester-castle</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Descendants say theft from Portchester Castle reflects spirit of racism that has haunted ‘generation after generation’The theft of a plaque in Hampshire that told the little-known story of African-Caribbean prisoners in 18th-century Britain reflects the enduring racism that has fuelled centuries of atrocities against Black and Indigenous Caribbean people, their descendants say.Drummer Ronald Raymond McDonald was part of a delegation that travelled from Belize and elsewhere to Portchester Castle </description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Sat, 17 Oct 2026 11:00:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>US corporate lobbyists mounted ‘blitz’ to dilute landmark EU deforestation law, report finds</title>
-      <link>https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation</link>
-      <guid>https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation</guid>
-      <description>[Climate &amp; Environment] Keyword: deforestation — Environmental watchdog Mighty Earth reveals two-year effort to postpone and weaken EU Deforestation RegulationUS corporate lobbyists launched a two-year “blitz” to postpone and weaken the world’s most progressive legislation to protect forests, according to a new investigation by the environmental watchdog Mighty Earth.Major US firms and trade associations, including Cargill, Bunge, Mondelēz and the US Soybean Export Council, as well as numerous other US firms and organizations, sought to influe</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Sat, 17 Oct 2026 11:00:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
