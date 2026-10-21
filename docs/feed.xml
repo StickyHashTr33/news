@@ -5,8 +5,123 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 12:42:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:51:31 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary — 8600 STARCREST DR (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1425313</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1425313</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1425313 | NORTH Division | 10/21/2026 12:29:54 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/21/2026 12:29:54 PM</pubDate>
+    </item>
+    <item>
+      <title>Burnham approves Jackdaw – and Labour’s unity on climate action is imperilled with the stroke of a pen | Zoe Williams</title>
+      <link>https://www.theguardian.com/commentisfree/2026/oct/21/andy-burnham-approve-jackdaw-labour-climate-action</link>
+      <guid>https://www.theguardian.com/commentisfree/2026/oct/21/andy-burnham-approve-jackdaw-labour-climate-action</guid>
+      <description>[Ecology &amp; Conservation] Keyword: rewilding — This foolish decision undermines hopes that this government will take the necessary steps the climate crisis demands  When the news broke that the UK government had approved the Jackdaw gasfield, I was at a Guardian climate event at the Royal Geographical Society. Appropriately, the theme suggested by readers was what can the public actually do in the face of what feels like paralysing climate doom?There is so much going on that is hopeful: biodiversity tracking, river protection, rewilding. Shr</description>
+      <category>Ecology &amp; Conservation</category>
+      <pubDate>Wed, 21 Oct 2026 17:14:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>How climate change, new technology are shaping the future of extremes in peak power demands</title>
+      <link>https://phys.org/news/2026-10-climate-technology-future-extremes-peak.html</link>
+      <guid>https://phys.org/news/2026-10-climate-technology-future-extremes-peak.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — New research led by the University of Michigan provides utilities and policymakers with forecasts that can help them better prepare for future extremes in peak energy demand in the United States.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 21 Oct 2026 10:40:14 EDT</pubDate>
+    </item>
+    <item>
+      <title>UN projections say world is losing ground in fight to curb climate change, faulting US a bit</title>
+      <link>https://phys.org/news/2026-10-world-ground-curb-climate-faulting.html</link>
+      <guid>https://phys.org/news/2026-10-world-ground-curb-climate-faulting.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Losing more ground in the fight against climate change, humanity is heading for a hotter world than experts projected last year—and the United States is a big reason for that, a new United Nations report says.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 21 Oct 2026 11:20:25 EDT</pubDate>
+    </item>
+    <item>
+      <title>'The fishing's terrible': Deforestation devastates Central African river</title>
+      <link>https://phys.org/news/2026-10-fishing-terrible-deforestation-devastates-central.html</link>
+      <guid>https://phys.org/news/2026-10-fishing-terrible-deforestation-devastates-central.html</guid>
+      <description>[Climate &amp; Environment] Keyword: deforestation — Sitting in his narrow dugout canoe, Jean-Romeo Senguemboli frowned at the meager catch in his nets on the Central African Republic's Mbali River, where experts say deforestation is devastating the fish population.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 21 Oct 2026 11:40:06 EDT</pubDate>
+    </item>
+    <item>
+      <title>How life on Earth experiences climate change</title>
+      <link>https://phys.org/news/2026-10-life-earth-climate.html</link>
+      <guid>https://phys.org/news/2026-10-life-earth-climate.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Climate change can look very different at the scale of a forest, field or hillside. A new review shows how changes in vegetation and atmospheric conditions can cause local microclimates to warm at very different rates from the regional climate—and why this matters for understanding how biodiversity will respond to climate change.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 21 Oct 2026 12:20:23 EDT</pubDate>
+    </item>
+    <item>
+      <title>Africa's bats could survive climate change—if they can find somewhere to live</title>
+      <link>https://phys.org/news/2026-10-africa-survive-climate.html</link>
+      <guid>https://phys.org/news/2026-10-africa-survive-climate.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Climate change and changes in the way land is used are the two biggest threats to wildlife because they change the environment in which animals survive and thrive. Knowing how species respond to these pressures is central to planning conservation actions.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 21 Oct 2026 12:50:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>Upstreaming Tyr: Rust, DRM, and the Linux Kernel (Collabora)</title>
+      <link>https://lwn.net/Articles/1102024/</link>
+      <guid>https://lwn.net/Articles/1102024/</guid>
+      <description>[Open Source Software] Keyword: Linux kernel — The Collabora blog provides
+an update on Tyr, a driver for Arm Mali GPUs.
+
+
+	One of our biggest challenges has been developing Tyr while the
+	Rust kernel abstractions and driver interfaces are also being
+	developed. As the driver interfaces are naturally revised and
+	improved, we have rewritten Tyr several times to adapt to the
+	larger Rust ecosystem. This not only makes progress much slower
+	than it would be with a mature API, but also stalls progress for
+	capabilities, such as job scheduling, </description>
+      <category>Open Source Software</category>
+      <pubDate>Wed, 21 Oct 2026 14:58:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guatemalan man sentenced to 30 years for role in 2022 San Antonio human smuggling tragedy</title>
+      <link>https://sanantonioreport.org/san-antonio-guatemalan-30-years-sentence-human-smuggling-tragedy/</link>
+      <guid>https://sanantonioreport.org/san-antonio-guatemalan-30-years-sentence-human-smuggling-tragedy/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A Guatemalan man has been sentenced to 30 years in federal prison for his role in a 2022 human smuggling operation that left 53 people dead.Guatemalan man sentenced to 30 years for role in 2022 San Antonio human smuggling tragedy was first posted on October 21, 2026 at 10:45 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please conta</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Wed, 21 Oct 2026 15:45:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poll: Bobby Pulido Appears Poised to Flip the 15th Congressional District</title>
+      <link>https://www.texasobserver.org/poll-bobby-pulido-flip-15th-congressional-district/</link>
+      <guid>https://www.texasobserver.org/poll-bobby-pulido-flip-15th-congressional-district/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — This article is a collaboration between the San Antonio Express-News, El Pais, and Puente News Collaborative, a bilingual nonprofit newsroom and funder dedicated to high-quality, fact-based news and information from the U.S.-Mexico border. EDINBURG — South Texas voters who embraced Don Trump two years ago have largely soured on the two-term president, and many of them are [&amp;#8230;]
+The post Poll: Bobby Pulido Appears Poised to Flip the 15th Congressional District appeared first on The Texas Obse</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Wed, 21 Oct 2026 14:23:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>New prize launches for books co-written with AI</title>
+      <link>https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france</link>
+      <guid>https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — After months of controversy over the possible use of AI by winners of prestigious awards, the Prix Pascal de Littérature IA is rewarding fiction written with the help of LLMsA prize for AI-written books has launched this week.The Prix Pascal de Littérature IA invites submissions of manuscripts co-written with AI tools, with the winner promised publication. Continue reading...</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Wed, 21 Oct 2026 14:59:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Private Contractors Are Set to Cash In as Millions of Americans Lose Healthcare</title>
+      <link>https://www.motherjones.com/politics/2026/10/contractors-profit-obbb-bill-medicaid-cuts-work-requirements-deloitte-gainwell/</link>
+      <guid>https://www.motherjones.com/politics/2026/10/contractors-profit-obbb-bill-medicaid-cuts-work-requirements-deloitte-gainwell/</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — On January 1, new Medicaid work requirements will kick in nationwide, and states are scrambling to comply—a chaotic process which will lead to millions of people losing healthcare access. Many states are paying third-party contractors millions to design and operate systems to determine which Americans remain eligible under the new law. And some of the [&amp;#8230;]</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Tue, 20 Oct 2026 23:13:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>New human data hints at psychedelics' potential to combat inflammation</title>
+      <link>https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system</link>
+      <guid>https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system</guid>
+      <description>[Psychedelics &amp; Psilocybin Research] Keyword: psilocybin — Lab studies have shown that psychedelics like psilocybin can lower inflammation and may be protective for a range of illnesses. Now, researchers are publishing some of the first data in humans that signals this holds potential for patients with neurodegenerative diseases like Parkinson's disease.</description>
+      <category>Psychedelics &amp; Psilocybin Research</category>
+      <pubDate>Wed, 21 Oct 2026 11:33:18 -0400</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 700 ROBINHOOD PLACE (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1423896</link>
@@ -722,111 +837,6 @@ Install Privacy Bad</description>
       <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1413658 | PRUE Division | 10/19/2026 6:06:04 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>10/19/2026 6:06:04 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 2900 RAVINA DR (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1413699</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1413699</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1413699 | EAST Division | 10/19/2026 6:36:16 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/19/2026 6:36:16 AM</pubDate>
-    </item>
-    <item>
-      <title>The massive $1 billion Trump corruption scandal hiding in plain sight</title>
-      <link>https://www.alternet.org/trump-oil-2678104872/</link>
-      <guid>https://www.alternet.org/trump-oil-2678104872/</guid>
-      <description>[Open Source Software] Keyword: FOSS — President Donald Trump’s reported $1 billion pitch to oil executives is a massive corruption that has been overlooked, according to a new analysis that accuses politicians and the media of ignoring an alleged pay-to-play arrangement that has delivered major benefits to the fossil fuel industry.Writing in The New Republic on Monday, climate journalist Mark Hertsgaard said Trump’s pre-2024 election promises to oil executives are getting too little attention now that his administration is pursuing </description>
-      <category>Open Source Software</category>
-      <pubDate>Mon, 19 Oct 2026 11:27:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>How a Muay Thai injury led this Ukrainian startup founder to San Antonio</title>
-      <link>https://sanantonioreport.org/muay-thai-injury-ukrainian-startup-founder-san-antonio-ilya-popov/</link>
-      <guid>https://sanantonioreport.org/muay-thai-injury-ukrainian-startup-founder-san-antonio-ilya-popov/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — A Muay Thai injury inspired Ilya Popov to build smart crutches. Nearly seven years later, he's still working to get them on the market.How a Muay Thai injury led this Ukrainian startup founder to San Antonio was first posted on October 19, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardre</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will developing nations be able to handle millions of AI agents?</title>
-      <link>https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeds</link>
-      <guid>https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeds</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — It may be some time before AI agents can fully navigate the complexities and cultural nuances of developing nations.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong?</title>
-      <link>https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber/</link>
-      <guid>https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber/</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Documents obtained by The Intercept show the military is trying to deploy autonomous AI agents to hack its adversaries.
-The post The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong? appeared first on The Intercept.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Republicans shift to healthcare fraud as costs dominate voter fears</title>
-      <link>https://www.alternet.org/healthcare-fraud/</link>
-      <guid>https://www.alternet.org/healthcare-fraud/</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Heading into the midterm elections, high healthcare costs rank among voters’ biggest concerns. But lately, there’s a twist giving the issue new momentum on campaign agendas: a focus on fraud in government health programs.The administration of President Donald Trump has used claims of widespread wrongdoing to justify investigations, suspensions of billions of dollars in payments to states, and the cancellation of Affordable Care Act health coverage for hundreds of thousands of people.The effort h</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Mon, 19 Oct 2026 11:17:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — W BITTERS RD / CUTTER GREEN DR (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1413048</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1413048</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1413048 | PRUE Division | 10/19/2026 12:13:58 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/19/2026 12:13:58 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Missing Person/Runaway — 3000 CATO BLVD (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1413056</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1413056</guid>
-      <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1413056 | SOUTH Division | 10/19/2026 12:16:59 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/19/2026 12:16:59 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 20700 HUEBNER RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1413075</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1413075</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1413075 | NORTH Division | 10/19/2026 12:23:36 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/19/2026 12:23:36 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 5400 EVERS RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1413091</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1413091</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1413091 | PRUE Division | 10/19/2026 12:28:34 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/19/2026 12:28:34 AM</pubDate>
-    </item>
-    <item>
-      <title>Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking</title>
-      <link>https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744</link>
-      <guid>https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744</guid>
-      <description>[Cybersecurity] Keyword: CVE — Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape</description>
-      <category>Cybersecurity</category>
-      <pubDate>Mon, 19 Oct 2026 02:33:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 2100 HARRY DR (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1411464</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1411464</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1411464 | SOUTH Division | 10/18/2026 4:56:57 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/18/2026 4:56:57 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 12319-12399 STABLE WOOD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1411467</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1411467</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1411467 | PRUE Division | 10/18/2026 4:57:28 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/18/2026 4:57:28 PM</pubDate>
     </item>
   </channel>
 </rss>
