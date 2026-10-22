@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 00:23:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 05:42:05 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How 39 young people experience climate education in a rapidly changing world</title>
+      <link>https://phys.org/news/2026-10-young-people-climate-rapidly-world.html</link>
+      <guid>https://phys.org/news/2026-10-young-people-climate-rapidly-world.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Ecological grief is growing—and our current approach to climate change education isn't keeping pace.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Wed, 21 Oct 2026 21:40:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>Criminals who skip sentencing will face solitary confinement or lose social visits</title>
+      <link>https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[Police &amp; Criminal Justice] Keyword: solitary confinement — Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing.</description>
+      <category>Police &amp; Criminal Justice</category>
+      <pubDate>Thu, 22 Oct 2026 01:17:25 GMT</pubDate>
+    </item>
     <item>
       <title>Study finds air quality warnings had only a modest impact on Montrealers' movements during wildfires</title>
       <link>https://phys.org/news/2026-10-air-quality-modest-impact-montrealers.html</link>
@@ -811,22 +827,6 @@ Where these systems still operate, courts and state legislatures must reduce the
       <description>[Police &amp; Criminal Justice] Keyword: police brutality — French leaders condemned the uprising, while the left highlighted escalating police brutality against young protesters.</description>
       <category>Police &amp; Criminal Justice</category>
       <pubDate>Mon, 19 Oct 2026 20:28:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Texas Continued Permitting Data Centers After Abbott’s Pause, Report Finds</title>
-      <link>https://insideclimatenews.org/news/19102026/texas-continued-permitting-data-centers-after-moratorium/</link>
-      <guid>https://insideclimatenews.org/news/19102026/texas-continued-permitting-data-centers-after-moratorium/</guid>
-      <description>[Government Accountability] Keyword: public records — Regulators in Texas did not stop processing permits for data center projects when Gov. Greg Abbott ordered a pause last month, according to an analysis of public records released Monday by the oil and gas watchdog group FracTracker.&amp;#160; Amid an upswell of public opposition to the booming buildout of digital infrastructure in Texas, Abbott directed [&amp;#8230;]</description>
-      <category>Government Accountability</category>
-      <pubDate>Mon, 19 Oct 2026 21:58:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>In Virginia, Racism and Redlining Are Fueling a Flock Camera Backlash</title>
-      <link>https://truthout.org/articles/in-virginia-racism-and-redlining-are-fueling-a-flock-camera-backlash/</link>
-      <guid>https://truthout.org/articles/in-virginia-racism-and-redlining-are-fueling-a-flock-camera-backlash/</guid>
-      <description>[ALPR &amp; Flock Cameras] Keyword: Flock camera — Police in Hampton Roads saturated Black and low-income neighborhoods with Flock-style cameras, a study found.</description>
-      <category>ALPR &amp; Flock Cameras</category>
-      <pubDate>Mon, 19 Oct 2026 21:17:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
