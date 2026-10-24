@@ -5,8 +5,64 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 10:09:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 14:13:11 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 5500 N LOOP 1604 W (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1439913</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1439913</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1439913 | PRUE Division | 10/24/2026 8:47:32 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/24/2026 8:47:32 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 100 EASTWOOD DR (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1439962</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1439962</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1439962 | EAST Division | 10/24/2026 9:02:00 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/24/2026 9:02:00 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 4900 CANNON (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1439965</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1439965</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1439965 | WEST Division | 10/24/2026 9:02:39 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/24/2026 9:02:39 AM</pubDate>
+    </item>
+    <item>
+      <title>Could lowering high blood pressure be as simple as stimulating your ear?</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261023023732.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261023023732.htm</guid>
+      <description>[Science &amp; Research] Keyword: clinical trial — A small device that gently stimulates nerves through the ear could offer a new way to tackle stubborn high blood pressure. In a clinical trial of 63 patients already taking medication, the treatment proved safe, easy to use at home, and well tolerated. Although it did not significantly outperform a placebo overall, patients with more severe hypertension showed promising reductions in blood pressure.</description>
+      <category>Science &amp; Research</category>
+      <pubDate>Sat, 24 Oct 2026 09:15:00 EDT</pubDate>
+    </item>
+    <item>
+      <title>New long‑clawed British dinosaur is the first of its kind in Europe</title>
+      <link>https://phys.org/news/2026-10-longclawed-british-dinosaur-kind-europe.html</link>
+      <guid>https://phys.org/news/2026-10-longclawed-british-dinosaur-kind-europe.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — The fossilized skull of a new species of mysterious meat-eating dinosaur from the Isle of Wight has been rediscovered in the collections of the Natural History Museum after over 100 years in storage.</description>
+      <category>Open Source Software</category>
+      <pubDate>Sat, 24 Oct 2026 08:00:01 EDT</pubDate>
+    </item>
+    <item>
+      <title>This 150-million-year-old bird had dinosaur teeth and a strange secret</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261023023710.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261023023710.htm</guid>
+      <description>[Open Source Software] Keyword: FOSS — A 150-million-year-old fossil discovered in China reveals a bizarre early bird with sharp teeth, a dinosaur-like claw, and a body built for life on the ground rather than flight. Scientists believe it represents the earliest known example of flight loss in birds, overturning assumptions about how these animals evolved.</description>
+      <category>Open Source Software</category>
+      <pubDate>Fri, 23 Oct 2026 22:42:19 EDT</pubDate>
+    </item>
+    <item>
+      <title>Medical experts shocked by Tennessee team’s ‘malpractice’ in Christa Pike’s failed execution</title>
+      <link>https://www.theguardian.com/us-news/2026/oct/24/christa-pike-execution-medical-experts</link>
+      <guid>https://www.theguardian.com/us-news/2026/oct/24/christa-pike-execution-medical-experts</guid>
+      <description>[ALPR &amp; Flock Cameras] Keyword: ALPR — New details of IV team’s attempts to find a vein shared by Pike’s lawyer ‘shocked and disturbed’ practitionersMedical experts have expressed shock at the apparent incompetence shown by Tennessee’s execution team during the failed lethal injection of Christa Pike, the prisoner who survived a normally fatal dose of pentobarbital, which they say would be considered medical malpractice in any other setting.New details emerged on Thursday of how Tennessee’s intravenous (IV) team struggled for almost </description>
+      <category>ALPR &amp; Flock Cameras</category>
+      <pubDate>Sat, 24 Oct 2026 11:00:30 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 100 PEACH VALLEY (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1439466</link>
@@ -752,63 +808,6 @@ The post Can LLMs Supercharge Geolocations? Our Tests Show Big Improvements But 
       <description>[Climate &amp; Environment] Keyword: climate change — Ahead of the U.N. Climate Change Conference (COP31) meeting in Antalya, Turkiye, held in Nov. 2026, an expert writing in The BMJ's climate issue argues that accurate data on greenhouse gas emissions during armed conflict is urgently needed to hold militaries, governments and individuals accountable for the environmental impact of war.</description>
       <category>Climate &amp; Environment</category>
       <pubDate>Wed, 21 Oct 2026 18:30:06 EDT</pubDate>
-    </item>
-    <item>
-      <title>Sweeping changes to agri-food supply chain needed to tackle global food shortages</title>
-      <link>https://phys.org/news/2026-10-agri-food-chain-tackle-global.html</link>
-      <guid>https://phys.org/news/2026-10-agri-food-chain-tackle-global.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Systemic changes are needed across the entire agri-food supply chain to address the global impact of conflict and climate change on food shortages, writes an expert in The BMJ's climate issue.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 21 Oct 2026 18:30:09 EDT</pubDate>
-    </item>
-    <item>
-      <title>AI listens to bee buzzes to monitor activity without lethal traps</title>
-      <link>https://phys.org/news/2026-10-ai-bee-lethal.html</link>
-      <guid>https://phys.org/news/2026-10-ai-bee-lethal.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Populations of many pollinators, including bumblebees, have been crashing over the last few decades, thanks to the widespread use of chemical pesticides, loss of habitat and the acceleration of climate change. But it can be hard to know just how bad the problem is, or whether conservation strategies are helping, without relying on lethal traps—which can kill tens of thousands of bees in order to get an accurate count of their populations.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 21 Oct 2026 19:40:05 EDT</pubDate>
-    </item>
-    <item>
-      <title>Limiting Global Warming to 1.5 Degrees Celsius Is No Longer Feasible, UN Report Finds</title>
-      <link>https://insideclimatenews.org/news/21102026/limiting-global-warming-to-1-5-degrees-no-longer-realistic/</link>
-      <guid>https://insideclimatenews.org/news/21102026/limiting-global-warming-to-1-5-degrees-no-longer-realistic/</guid>
-      <description>[Climate &amp; Environment] Keyword: global warming — A new report from the United Nations Environment Programme suggests that limiting global warming to 1.5 degrees Celsius above pre-industrial levels is no longer a realistic outcome, even under the most ambitious emissions-reduction scenarios. The report’s lowest-warming scenario, which would require steep cuts in greenhouse gas emissions, would only limit peak global warming to 1.7 [&amp;#8230;]</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 21 Oct 2026 21:34:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>EFF’s State Legislative Agenda to End ALPR Mass Surveillance</title>
-      <link>https://www.eff.org/deeplinks/2026/10/effs-state-legislative-agenda-end-alpr-mass-surveillance</link>
-      <guid>https://www.eff.org/deeplinks/2026/10/effs-state-legislative-agenda-end-alpr-mass-surveillance</guid>
-      <description>[ALPR &amp; Flock Cameras] Keyword: license plate reader — Police agencies across the U.S. have deployed Automated License Plate Readers (ALPRs) to capture images of passing vehicles along with time, date, and GPS coordinates. While the technology itself isn’t new (ALPRs have existed in various forms for more than 50 years, and in the U.S. since 1998), the surveillance landscape has shifted dramatically. Rapid advances in artificial intelligence and national data sharing have transformed police ALPRs into an interconnected, nationwide tracking network. </description>
-      <category>ALPR &amp; Flock Cameras</category>
-      <pubDate>Wed, 21 Oct 2026 17:52:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>CPS Energy is here to help this fall and winter</title>
-      <link>https://sanantonioreport.org/cps-energy-is-here-to-help-this-fall-and-winter-sponsored/</link>
-      <guid>https://sanantonioreport.org/cps-energy-is-here-to-help-this-fall-and-winter-sponsored/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — SPONSORED: For some households, energy costs can add another challenge to an already tight budget. CPS Energy has resources that can help.CPS Energy is here to help this fall and winter was first posted on October 21, 2026 at 6:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Wed, 21 Oct 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EFF to Brazil’s ANPD: Data Privacy and Free Expression Must Underpin Platform Regulations</title>
-      <link>https://www.eff.org/deeplinks/2026/10/eff-brazils-anpd-data-privacy-and-free-expression-must-underpin-platform</link>
-      <guid>https://www.eff.org/deeplinks/2026/10/eff-brazils-anpd-data-privacy-and-free-expression-must-underpin-platform</guid>
-      <description>[Digital Rights &amp; Privacy] Keyword: data privacy — The Brazilian National Data Protection Agency (ANPD) plays a pivotal role in the regulation of digital platforms according to new legislation approved in Brazil. Throughout this year, EFF has presented comments, filed submissions, and met with the agency to emphasize crucial guardrails that the enforcement of new regulations should ensure. 
-ANPD is responsible for detailing and applying obligations set in Law n. 15.211/2025, which established rules for the protection of children and adolescents </description>
-      <category>Digital Rights &amp; Privacy</category>
-      <pubDate>Wed, 21 Oct 2026 22:11:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 21000 PEDREGOSO LN (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1426316</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1426316</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1426316 | NORTH Division | 10/21/2026 3:52:35 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/21/2026 3:52:35 PM</pubDate>
     </item>
   </channel>
 </rss>
