@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 20:06:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 22:50:36 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Shooting — 200 MERIDA ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1441827</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1441827</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-1441827 | CENTRAL Division | 10/24/2026 5:29:36 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/24/2026 5:29:36 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary — 6800 BETTY LEVY (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1441830</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1441830</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1441830 | WEST Division | 10/24/2026 5:29:56 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/24/2026 5:29:56 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 7600 CYPRESS VINE (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1441858</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1441858</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1441858 | EAST Division | 10/24/2026 5:37:30 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/24/2026 5:37:30 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 5500 N LOOP 1604 W (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1441235</link>
@@ -784,30 +808,6 @@ The post Can LLMs Supercharge Geolocations? Our Tests Show Big Improvements But 
       <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1428936 | EAST Division | 10/22/2026 5:41:56 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>10/22/2026 5:41:56 AM</pubDate>
-    </item>
-    <item>
-      <title>US is a big reason for the world losing ground in the fight against climate change, UN report says</title>
-      <link>https://phys.org/news/2026-10-big-world-ground-climate.html</link>
-      <guid>https://phys.org/news/2026-10-big-world-ground-climate.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Losing more ground in the fight against climate change, humanity is heading for a hotter world than experts projected last year—and the United States is a big reason for that, a new United Nations report says.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 22 Oct 2026 04:50:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Bangladesh’s Hidden Climate Bill: How Much Are We Losing Without Counting It?</title>
-      <link>https://www.ipsnews.net/2026/10/bangladeshs-hidden-climate-bill-how-much-are-we-losing-without-counting-it/</link>
-      <guid>https://www.ipsnews.net/2026/10/bangladeshs-hidden-climate-bill-how-much-are-we-losing-without-counting-it/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Bangladesh has earned global recognition for reducing deaths from cyclones and floods. Early warning systems, cyclone shelters, embankments and community preparedness have transformed the country’s disaster response. Yet another climate crisis is receiving far less attention: the economic damage climate change is quietly inflicting on households, farmers, workers, businesses and public finances. The question is [&amp;#8230;]</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 22 Oct 2026 05:49:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>International Day of Climate Action 2026</title>
-      <link>https://www.ipsnews.net/2026/10/international-day-of-climate-action-2026/</link>
-      <guid>https://www.ipsnews.net/2026/10/international-day-of-climate-action-2026/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — &amp;#160; The world is getting hotter. And the consequences are already being felt. From devastating floods and prolonged droughts to intensifying heatwaves, climate change is disrupting lives and livelihoods across the globe. According to the World Meteorological Organization, the eleven years from 2015 to 2025 were the hottest ever recorded. In 2025, global temperatures were [&amp;#8230;]</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 22 Oct 2026 06:52:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
