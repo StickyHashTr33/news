@@ -5,8 +5,64 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 10:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:44:55 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — HAVEN FOR HOPE WAY (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1444857</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1444857</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1444857 | CENTRAL Division | 10/25/2026 9:25:46 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/25/2026 9:25:46 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault — 2900 STEVES AVE (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1444870</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1444870</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1444870 | EAST Division | 10/25/2026 9:28:29 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/25/2026 9:28:29 AM</pubDate>
+    </item>
+    <item>
+      <title>Higher temperatures fuel gun violence. Now we know how much is from climate change.</title>
+      <link>https://grist.org/extreme-heat/higher-temperatures-fuel-gun-violence-now-we-know-how-much-is-from-climate-change/</link>
+      <guid>https://grist.org/extreme-heat/higher-temperatures-fuel-gun-violence-now-we-know-how-much-is-from-climate-change/</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — </description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Sun, 25 Oct 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New evidence suggests spinosaurus spent most of its life underwater</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261024221956.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261024221956.htm</guid>
+      <description>[Open Source Software] Keyword: FOSS — Millions of years after animals first conquered land, some took an extraordinary evolutionary U-turn and returned to the water. Using machine learning and thousands of fossil measurements, Yale scientists have uncovered surprising clues about which prehistoric creatures truly became aquatic. Their findings suggest that Spinosaurus spent most of its life underwater, while some ancient marine reptiles previously thought to be fully aquatic actually spent considerable time on land.</description>
+      <category>Open Source Software</category>
+      <pubDate>Sun, 25 Oct 2026 07:52:54 EDT</pubDate>
+    </item>
+    <item>
+      <title>This mysterious mushroom makes people see hundreds of tiny humans</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261024222021.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261024222021.htm</guid>
+      <description>[Foraging &amp; Wild Plants] Keyword: wild mushroom — For nearly a century, people in distant parts of the world have reported a bizarre experience after eating certain wild mushrooms: seeing dozens or even hundreds of tiny, colorful humans moving through the real world. Now, scientists have identified a mushroom species, Lanmaoa asiatica, responsible for these extraordinary hallucinations in China and the Philippines.</description>
+      <category>Foraging &amp; Wild Plants</category>
+      <pubDate>Sun, 25 Oct 2026 02:36:10 EDT</pubDate>
+    </item>
+    <item>
+      <title>Abandoned Oil Well Spreads Toxic Fumes in San Antonio Subdivision as Underground Methane Creeps Closer</title>
+      <link>https://deceleration.news/abandoned-oil-well-spreads-toxic-fumes-san-antonio-subdivision/</link>
+      <guid>https://deceleration.news/abandoned-oil-well-spreads-toxic-fumes-san-antonio-subdivision/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — As new neighborhoods are built in Texas, residents don’t always know they are living on top of old oilfields.</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sun, 25 Oct 2026 14:14:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump administration has pushed off 13% of Americans enrolled in food stamps</title>
+      <link>https://www.theguardian.com/us-news/2026/oct/25/trump-food-stamp-cuts</link>
+      <guid>https://www.theguardian.com/us-news/2026/oct/25/trump-food-stamp-cuts</guid>
+      <description>[AI &amp; Automation] Keyword: LLM — Stakeholders concerned more people at risk of food insecurity after One Big Beautiful Act took effectEnrollment in the Supplemental Nutrition Assistance Program (Snap) has decreased significantly over the past year in the US following restrictions imposed by the Trump administration, which has forced more people to seek help from food banks or go hungry, stakeholders say.The number of people who receive food stamps has dropped from 41.6 million in July 2025, before the One Big Beautiful Act took</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Sun, 25 Oct 2026 11:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Shooting — 3300 RESEARCH PLAZA (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1444393</link>
@@ -751,62 +807,6 @@ The post AI Can Destroy Humanity. But Why Would </description>
       <description>[AI &amp; Automation] Keyword: AI agent — Leading US banks have reportedly found unapproved AI agents operating inside customer accounts on users&amp;#8217; behalf, sometimes acting independent of their instructions. In response, many institutions are resorting to blocking the tools or rethinking their security policies.  According to a Thursday Axios report, unauthorized activity typically occurs after a user grants permission and login information [&amp;#8230;]</description>
       <category>AI &amp; Automation</category>
       <pubDate>Thu, 22 Oct 2026 18:49:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 10800 STATE HWY 151 (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1430330</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1430330</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1430330 | WEST Division | 10/22/2026 11:17:58 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/22/2026 11:17:58 AM</pubDate>
-    </item>
-    <item>
-      <title>World-first basic income trial boosts Indigenous livelihoods and Amazon rainforest protection</title>
-      <link>https://phys.org/news/2026-10-world-basic-income-trial-boosts.html</link>
-      <guid>https://phys.org/news/2026-10-world-basic-income-trial-boosts.html</guid>
-      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — A pilot project in which Indigenous people in the Peruvian Amazon were given an unconditional basic income significantly improved community well-being, strengthened food security and supported rainforest protection, according to analysis by the University of Bath released today.</description>
-      <category>Indigenous News &amp; Tribal Sovereignty</category>
-      <pubDate>Thu, 22 Oct 2026 11:30:07 EDT</pubDate>
-    </item>
-    <item>
-      <title>People are taking an unapproved weight-loss drug. AI found something surprising</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261020085018.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/10/261020085018.htm</guid>
-      <description>[Science &amp; Research] Keyword: clinical trial — Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected symptom reports linked by users to unapproved versions of retatrutide, including increased appetite, sleep disturbances, and elevated heart rates. The findings differ from clinical trial results and highlight how AI could help identify potential drug safety signals that warrant further investigation.</description>
-      <category>Science &amp; Research</category>
-      <pubDate>Wed, 21 Oct 2026 22:37:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>A simple 15-minute treatment could help patients avoid carpal tunnel surgery</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261020085020.htm</link>
-      <guid>https://www.sciencedaily.com/releases/2026/10/261020085020.htm</guid>
-      <description>[Science &amp; Research] Keyword: clinical trial — A simple, steroid-free procedure could offer lasting relief for people struggling with carpal tunnel syndrome, potentially helping them avoid surgery. In a clinical trial involving 63 patients, researchers found that ultrasound-guided hydrodissection, which uses fluid to free a compressed nerve in the wrist, provided longer-lasting improvements in pain, numbness, and hand function than traditional steroid injections.</description>
-      <category>Science &amp; Research</category>
-      <pubDate>Wed, 21 Oct 2026 23:03:08 EDT</pubDate>
-    </item>
-    <item>
-      <title>The great moth revival: how bogongs have bounced back</title>
-      <link>https://www.theguardian.com/news/2026/oct/23/the-great-moth-revival-how-bogongs-have-bounced-back</link>
-      <guid>https://www.theguardian.com/news/2026/oct/23/the-great-moth-revival-how-bogongs-have-bounced-back</guid>
-      <description>[Ecology &amp; Conservation] Keyword: endangered species — This animated map shows the insect’s population exploding in Australia’s eastern states, with the endangered species coming back from the brinkIf you live anywhere on the eastern side of Australia, you’ve probably noticed that bogong moths are back in a big way.While we don’t yet have figures from ecologist-led surveys to compare with previous years, there is a wealth of data on the great moth revival being generated by citizen scientists across the eastern states. Continue reading...</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Thu, 22 Oct 2026 14:00:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Some fish might thrive in a warming climate</title>
-      <link>https://phys.org/news/2026-10-fish-climate.html</link>
-      <guid>https://phys.org/news/2026-10-fish-climate.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Adelaide University researchers have found that some estuarine fishes that live in habitats with highly variable temperatures can withstand the warmer ocean conditions expected to result from climate change.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 22 Oct 2026 08:40:01 EDT</pubDate>
-    </item>
-    <item>
-      <title>Word choice matters: 'Extinction of plants and animals' raises more concern than 'biodiversity loss'</title>
-      <link>https://phys.org/news/2026-10-word-choice-extinction-animals-biodiversity.html</link>
-      <guid>https://phys.org/news/2026-10-word-choice-extinction-animals-biodiversity.html</guid>
-      <description>[Climate &amp; Environment] Keyword: biodiversity loss — The loss of Earth's animal and plant species is a crisis. Just don't call it an &quot;extinction crisis&quot; if you aim to mobilize public concern.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 22 Oct 2026 11:40:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
