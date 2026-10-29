@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 23:50:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 04:02:27 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — TEZEL RD / OLD TEZEL RD (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1463040</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1463040</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1463040 | PRUE Division | 10/28/2026 10:36:55 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/28/2026 10:36:55 PM</pubDate>
+    </item>
+    <item>
+      <title>US Health Secretary RFK Jr to expand access to unapproved peptides</title>
+      <link>https://www.bbc.co.uk/news/articles/cmq8nwd748v3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid>https://www.bbc.co.uk/news/articles/cmq8nwd748v3o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>[Science &amp; Research] Keyword: clinical trial — Health experts have cautioned against use of the drugs, citing a lack of clinical trials for humans and the unknown long-term effects.</description>
+      <category>Science &amp; Research</category>
+      <pubDate>Thu, 29 Oct 2026 03:09:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>US: Department of Homeland Security data leak exposes details of more than 40,000 employees</title>
+      <link>https://www.dw.com/en/us-department-of-homeland-security-data-leak-exposes-details-of-more-than-40-000-employees/a-79791765?maca=en-rss-en-all-1573-rdf</link>
+      <guid>https://www.dw.com/en/us-department-of-homeland-security-data-leak-exposes-details-of-more-than-40-000-employees/a-79791765?maca=en-rss-en-all-1573-rdf</guid>
+      <description>[Cybersecurity] Keyword: data breach — The leaked information reportedly includes names, phone numbers and email addresses of personnel across several US security agencies. This follows recent data breaches involving the FBI and the Defense Department.</description>
+      <category>Cybersecurity</category>
+      <pubDate>2026-10-29T03:21:00Z</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person/Runaway — 18900 REDLAND RD (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1462122</link>
@@ -790,30 +814,6 @@ The post Inside the New AI Slop Era of Texas Politics appeared first on The Texa
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — A Hong Kong lawmaker has questioned whether fines under a government proposal to increase price transparency among the city&amp;#8217;s private healthcare providers are too low to serve as an effective deterrent. Under the proposed bill introduced to the Legislative Council by health minister Lo Chung-mau on Friday, private healthcare providers will be required to provide [&amp;#8230;]</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Mon, 26 Oct 2026 10:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 4600 VANCE JACKSON RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1448170</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1448170</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1448170 | PRUE Division | 10/26/2026 2:56:24 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/26/2026 2:56:24 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 300 N MAIN AVE (DOWNTOWN)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1448205</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1448205</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1448205 | DOWNTOWN Division | 10/26/2026 3:11:03 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/26/2026 3:11:03 AM</pubDate>
-    </item>
-    <item>
-      <title>Climate change rarely goes on trial. This one could be a landmark.</title>
-      <link>https://grist.org/climate/climate-change-rarely-goes-on-trial-this-one-could-be-a-landmark/</link>
-      <guid>https://grist.org/climate/climate-change-rarely-goes-on-trial-this-one-could-be-a-landmark/</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — </description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Mon, 26 Oct 2026 08:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
