@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 01:23:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 07:55:38 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 6600 CARMONA PASS (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1473258</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1473258</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1473258 | SOUTH Division | 10/31/2026 2:41:08 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/31/2026 2:41:08 AM</pubDate>
+    </item>
+    <item>
+      <title>US execution survivor Christa Pike says she is now in ‘constant pain’</title>
+      <link>https://www.aljazeera.com/news/2026/10/31/us-execution-survivor-christa-pike-says-she-is-now-in-constant?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/news/2026/10/31/us-execution-survivor-christa-pike-says-she-is-now-in-constant?traffic_source=rss</guid>
+      <description>[Police &amp; Criminal Justice] Keyword: solitary confinement — Pike, 50, is being held in solitary confinement and faces an uncertain future after surviving a failed lethal injection.</description>
+      <category>Police &amp; Criminal Justice</category>
+      <pubDate>Sat, 31 Oct 2026 03:42:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Luigi Mangione’s lawyers file to dismiss state charges, citing double jeopardy law</title>
+      <link>https://www.theguardian.com/us-news/2026/oct/31/luigi-mangione-new-york-case</link>
+      <guid>https://www.theguardian.com/us-news/2026/oct/31/luigi-mangione-new-york-case</guid>
+      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Mangione pleaded guilty in August in federal case in the killing of UnitedHealthcare executive Brian ThompsonLuigi Mangione’s lawyers filed paperwork on Friday once again pushing for dismissal of his state-level case in the killing of UnitedHealthcare executive Brian Thompson following his federal guilty plea.Mangione pleaded guilty on 14 August to federal charges in Thompson’s grisly death outside a Manhattan hotel on 4 December 2024. The shocking plea came less than a month before his state mu</description>
+      <category>Cannabis, Hemp &amp; Drug Policy</category>
+      <pubDate>Sat, 31 Oct 2026 04:09:50 GMT</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 5500 N LOOP 1604 W (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1471757</link>
@@ -811,30 +835,6 @@ the project's development and security processes.</description>
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Increase will add strain on healthcare system already struggling amid cuts by Trump administration, experts sayThe number of people with dementia in the United States is projected to increase dramatically over the next 25 years, which will place increasing strain on a healthcare system already struggling to help them amid cuts by the Trump administration, experts say.According to a new study in Jama Neurology, the annual incidence of new dementia cases globally will more than double, from 11.4m </description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Wed, 28 Oct 2026 12:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Shooting — 12600 JONES MALTSBERGER RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1458272</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1458272</guid>
-      <description>[SAPD Calls for Service] Keyword: Shooting — Incident #SAPD-2026-1458272 | NORTH Division | 10/28/2026 12:57:38 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/28/2026 12:57:38 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 5900 AUTUMN LAKE (EAST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1458329</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1458329</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1458329 | EAST Division | 10/28/2026 1:23:06 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/28/2026 1:23:06 AM</pubDate>
-    </item>
-    <item>
-      <title>Researchers produce urea in the field using system powered by biobatteries and solar energy</title>
-      <link>https://phys.org/news/2026-10-urea-field-powered-biobatteries-solar.html</link>
-      <guid>https://phys.org/news/2026-10-urea-field-powered-biobatteries-solar.html</guid>
-      <description>[Climate &amp; Environment] Keyword: renewable energy — The CONFETI project, coordinated by the Universitat Autònoma de Barcelona (UAB), has concluded three years of research with the commissioning of a pilot system capable of producing urea, a nitrogen fertilizer widely used in agriculture, directly in the field using renewable energy. This fertilizer is produced from carbon dioxide (CO₂) and nitrates in an electrochemical reactor powered by energy from biobatteries and solar panels.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Tue, 27 Oct 2026 21:40:01 EDT</pubDate>
     </item>
   </channel>
 </rss>
