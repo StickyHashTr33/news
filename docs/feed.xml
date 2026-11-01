@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 16:41:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 20:56:47 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Missing Person - Endangered — 100 MUSKOGEE ST (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1480540</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1480540</guid>
+      <description>[SAPD Calls for Service] Keyword: Missing Person - Endangered — Incident #SAPD-2026-1480540 | WEST Division | 11/1/2026 2:37:35 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>11/1/2026 2:37:35 PM</pubDate>
+    </item>
+    <item>
+      <title>'Air-con nation' Singapore eyes alternatives to cool down</title>
+      <link>https://phys.org/news/2026-11-air-con-nation-singapore-eyes.html</link>
+      <guid>https://phys.org/news/2026-11-air-con-nation-singapore-eyes.html</guid>
+      <description>[Housing &amp; Gentrification] Keyword: displacement — Long dubbed an &quot;air-conditioned nation,&quot; Singapore is experimenting with cooling alternatives from chilled beams to &quot;passive displacement&quot; to curb its thirst for energy-guzzling air conditioning.</description>
+      <category>Housing &amp; Gentrification</category>
+      <pubDate>Sun, 01 Nov 2026 14:20:02 EST</pubDate>
+    </item>
+    <item>
+      <title>Fewer deaths, persistent violence: What Bexar County’s latest family violence data shows</title>
+      <link>https://sanantonioreport.org/fewer-deaths-persistent-violence-what-bexar-countys-latest-family-violence-data-shows/</link>
+      <guid>https://sanantonioreport.org/fewer-deaths-persistent-violence-what-bexar-countys-latest-family-violence-data-shows/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Bexar County recorded fewer family violence homicides in 2025, as more people connected with support resources.Fewer deaths, persistent violence: What Bexar County’s latest family violence data shows was first posted on November 1, 2026 at 2:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sun, 01 Nov 2026 20:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 10100 CULEBRA RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1479676</link>
@@ -804,30 +828,6 @@ attacker-con</description>
       <description>[SAPD Calls for Service] Keyword: Missing Person/Runaway — Incident #SAPD-2026-1462122 | NORTH Division | 10/28/2026 6:36:43 PM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>10/28/2026 6:36:43 PM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 100 AMES AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1462133</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1462133</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1462133 | SOUTH Division | 10/28/2026 6:39:07 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/28/2026 6:39:07 PM</pubDate>
-    </item>
-    <item>
-      <title>‘Worldwide legacy’: almost $20m raised to protect majestic tract of land in far north Queensland</title>
-      <link>https://www.theguardian.com/australia-news/2026/oct/29/worldwide-legacy-almost-20m-raised-to-protect-majestic-tract-of-land-in-far-north-queensland</link>
-      <guid>https://www.theguardian.com/australia-news/2026/oct/29/worldwide-legacy-almost-20m-raised-to-protect-majestic-tract-of-land-in-far-north-queensland</guid>
-      <description>[Ecology &amp; Conservation] Keyword: endangered species — Bush Heritage hopes to buy Wooroora station, which links wet sclerophyll forest and savanna woodland and is home to 12 endangered species  Get our breaking news email, free app or daily news podcastA majestic tract of land in far north Queensland that links wet tropics and world heritage rainforest, and contains headwaters that flow to the Great Barrier Reef, could be bought and protected by Christmas, after a conservation group raised more than $19m in private donations to buy the cattle statio</description>
-      <category>Ecology &amp; Conservation</category>
-      <pubDate>Wed, 28 Oct 2026 21:06:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>What the Budget offers for under 25s - and what it leaves out</title>
-      <link>https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Labor &amp; Worker Rights] Keyword: minimum wage — The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.</description>
-      <category>Labor &amp; Worker Rights</category>
-      <pubDate>Wed, 28 Oct 2026 20:02:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
