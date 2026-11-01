@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 02:01:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 09:59:34 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Shooting In Progress — 8800 GOODWICK HTS (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1478810</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1478810</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1478810 | PRUE Division | 11/1/2026 3:46:39 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>11/1/2026 3:46:39 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Shooting In Progress — 5900 BLK S ZARZAMORA ST (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1478817</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1478817</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1478817 | SOUTH Division | 11/1/2026 3:47:57 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>11/1/2026 3:47:57 AM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 3800 SOMERS CREST (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1476594</link>
@@ -819,22 +835,6 @@ the project's development and security processes.</description>
       <description>[Cybersecurity] Keyword: ransomware — Artem Stryzhak joined both gangs, which targeted businesses and a hospital during the pandemic</description>
       <category>Cybersecurity</category>
       <pubDate>Wed, 28 Oct 2026 15:52:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle — 3700 OAKLYN PASS (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1459332</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1459332</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1459332 | NORTH Division | 10/28/2026 8:30:28 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/28/2026 8:30:28 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 900 JENNINGS AVE (SOUTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1459345</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1459345</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1459345 | SOUTH Division | 10/28/2026 8:31:44 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/28/2026 8:31:44 AM</pubDate>
     </item>
   </channel>
 </rss>
