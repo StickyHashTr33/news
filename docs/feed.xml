@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 23:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 02:01:26 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 3800 SOMERS CREST (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1476594</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1476594</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1476594 | SOUTH Division | 10/31/2026 8:43:09 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/31/2026 8:43:09 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 9400 ARCADIA CRK (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1476622</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1476622</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1476622 | WEST Division | 10/31/2026 8:50:42 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>10/31/2026 8:50:42 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 200 MEADOW GLADE (WEST)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1475925</link>
@@ -819,22 +835,6 @@ the project's development and security processes.</description>
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1459345 | SOUTH Division | 10/28/2026 8:31:44 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>10/28/2026 8:31:44 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 8500 HUEBNER RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1459353</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1459353</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1459353 | PRUE Division | 10/28/2026 8:33:35 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/28/2026 8:33:35 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 13600 LARKBROOK DR (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1459369</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1459369</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1459369 | NORTH Division | 10/28/2026 8:35:36 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>10/28/2026 8:35:36 AM</pubDate>
     </item>
   </channel>
 </rss>
