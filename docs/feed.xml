@@ -5,8 +5,64 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 00:42:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:36:19 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault In Progress — 400 MOSELLE AVE (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1503155</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1503155</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1503155 | WEST Division | 11/6/2026 1:04:07 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>11/6/2026 1:04:07 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 5400 IH 35 N (EAST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1503193</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1503193</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1503193 | EAST Division | 11/6/2026 1:22:18 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>11/6/2026 1:22:18 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 2700 WHEATFIELD DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1503195</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1503195</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1503195 | WEST Division | 11/6/2026 1:22:47 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>11/6/2026 1:22:47 AM</pubDate>
+    </item>
+    <item>
+      <title>Adaptation isn't keeping up with global warming, UN warns</title>
+      <link>https://phys.org/news/2026-11-isnt-global.html</link>
+      <guid>https://phys.org/news/2026-11-isnt-global.html</guid>
+      <description>[Climate &amp; Environment] Keyword: global warming — With global warming set to exceed 1.5°C, adaptation finance falls far short of needs, implementation is constrained by institutional barriers, and losses and damages are mounting, according to a new report from the United Nations Environment Programme (UNEP).</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 05 Nov 2026 23:00:02 EST</pubDate>
+    </item>
+    <item>
+      <title>Investigation links Australian deforestation to beef farming and major bank loans</title>
+      <link>https://phys.org/news/2026-11-links-australian-deforestation-beef-farming.html</link>
+      <guid>https://phys.org/news/2026-11-links-australian-deforestation-beef-farming.html</guid>
+      <description>[Climate &amp; Environment] Keyword: deforestation — ACF's latest report, &quot;Bulldozers and Broken Promises,&quot; an investigation into deforestation, has ruffled a few feathers. But someone has to do it. Why? Because deforestation is a huge problem in Australia.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 05 Nov 2026 23:40:01 EST</pubDate>
+    </item>
+    <item>
+      <title>Kenya’s Civil Society Calls on COP31 Climate Negotiators To Draw From Grassroots</title>
+      <link>https://www.ipsnews.net/2026/11/kenyas-civil-society-calls-on-cop31-climate-negotiators-to-draw-from-grassroots/</link>
+      <guid>https://www.ipsnews.net/2026/11/kenyas-civil-society-calls-on-cop31-climate-negotiators-to-draw-from-grassroots/</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — As the world prepares for the 31st United Nations Conference on Climate Change (COP31) in Antalya, Türkiye, Kenya’s priorities for the negotiations are being shaped by lived experiences of communities who are on the frontline of the climate crisis. At the recently concluded annual Tharaka Biocultural Festival in Tharaka-Nithi County, farmers gathered to showcase, exchange [&amp;#8230;]</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Fri, 06 Nov 2026 06:41:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI agents are a ‘bane’ for some website operators, says Cloudflare</title>
+      <link>https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022</link>
+      <guid>https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022</guid>
+      <description>[AI &amp; Automation] Keyword: AI agent — CEO says sovereigns probably exploited PHP2SHELL ages ago, and suggests containers are dead</description>
+      <category>AI &amp; Automation</category>
+      <pubDate>Fri, 06 Nov 2026 04:25:14 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Missing Person - Endangered — 8600 HUEBNER RD (PRUE)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1501778</link>
@@ -766,62 +822,6 @@ raised a number of objectio</description>
       <description>[ALPR &amp; Flock Cameras] Keyword: license plate reader — In a respite from election commentary, while we were visiting Wellfleet, Mass., last week, a town meeting voted unanimously to ban automatic license plate reader (ALPR) systems such as Flock camera systems.An hour later, the town Selectboard made the policy local law, and added a ban on tracking boats in town waters for good measure. Wellfleet, population 3,556, became the first jurisdiction on Cape Cod to bar license plate readers and one of about 40 cities in the state to do so. Local police a</description>
       <category>ALPR &amp; Flock Cameras</category>
       <pubDate>Tue, 03 Nov 2026 12:17:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>All eyes on Texas as Paxton, Talarico make final pitches in nationally targeted Senate race</title>
-      <link>https://sanantonioreport.org/james-talarico-ken-paxton-final-2026-pitches-in-san-antonio/</link>
-      <guid>https://sanantonioreport.org/james-talarico-ken-paxton-final-2026-pitches-in-san-antonio/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Texas has already broken turnout and spending records. Now national and international media are flooding into the state to watch.All eyes on Texas as Paxton, Talarico make final pitches in nationally targeted Senate race was first posted on November 3, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at h</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Tue, 03 Nov 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open models can do 90% of agentic work at a twentieth of the cost of a frontier LLM: Gartner</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132</link>
-      <guid>https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — Models are commodities, harnesses are the valuable part</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Tue, 03 Nov 2026 06:19:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Britain on notice: AI-powered ransomware attacks to arrive by 2028</title>
-      <link>https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200</link>
-      <guid>https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200</guid>
-      <description>[Cybersecurity] Keyword: ransomware — Cyber agency warns critical infrastructure is a likely target as chief urges bosses to stop doing 'tech on the cheap'</description>
-      <category>Cybersecurity</category>
-      <pubDate>Tue, 03 Nov 2026 12:39:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta’s $25B fine left out accountability for the Cambridge Analytica data privacy scandal</title>
-      <link>https://theconversation.com/metas-25b-fine-left-out-accountability-for-the-cambridge-analytica-data-privacy-scandal-295620</link>
-      <guid>https://theconversation.com/metas-25b-fine-left-out-accountability-for-the-cambridge-analytica-data-privacy-scandal-295620</guid>
-      <description>[Digital Rights &amp; Privacy] Keyword: data privacy — A New Mexico judge’s fine hit Meta for deception about the data privacy violations, not for the harm they caused. A researcher who helped uncover the scandal explains.</description>
-      <category>Digital Rights &amp; Privacy</category>
-      <pubDate>2026-11-03T13:23:29Z</pubDate>
-    </item>
-    <item>
-      <title>Facebook quietly pays off the biggest political scandal in tech history</title>
-      <link>https://www.alternet.org/facebook-cambridge-analytica/</link>
-      <guid>https://www.alternet.org/facebook-cambridge-analytica/</guid>
-      <description>[Digital Rights &amp; Privacy] Keyword: data privacy — “The harm in this matter is difficult to overstate,” wrote a New Mexico judge who ordered tech giant Meta to pay one of the largest data privacy case penalties in American history. The US$25 billion fine came in a case about how Trump campaign firm Cambridge Analytica deceptively used data from Facebook users without their permission to create psychographic profiles to target voters in the lead-up to the 2016 presidential election.But the New Mexico penalty was for statements Facebook made that </description>
-      <category>Digital Rights &amp; Privacy</category>
-      <pubDate>Tue, 03 Nov 2026 14:10:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary Vehicle In Progress — 5200 FREDERICKSBURG RD (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1487680</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1487680</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle In Progress — Incident #SAPD-2026-1487680 | PRUE Division | 11/3/2026 1:16:37 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>11/3/2026 1:16:37 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault — 200 S SAN FELIPE AVE (WEST)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1487687</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1487687</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1487687 | WEST Division | 11/3/2026 1:19:49 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>11/3/2026 1:19:49 AM</pubDate>
     </item>
   </channel>
 </rss>
