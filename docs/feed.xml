@@ -5,8 +5,24 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 17:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 21:37:01 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 200 E SONTERRA BLVD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1514563</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1514563</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1514563 | NORTH Division | 11/8/2026 3:21:05 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>11/8/2026 3:21:05 PM</pubDate>
+    </item>
+    <item>
+      <title>Without property taxes, school districts on military bases find ways to survive</title>
+      <link>https://sanantonioreport.org/rare-san-antonio-military-base-school-districts-funding/</link>
+      <guid>https://sanantonioreport.org/rare-san-antonio-military-base-school-districts-funding/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Randolph Field, Fort Sam Houston and Lackland Independent School Districts are confined entirely within the bounds of their respective military bases, only seven districts like this exist in the country. Unlike other public school districts, they receive no money from property taxes.Without property taxes, school districts on military bases find ways to survive was first posted on November 8, 2026 at 1:00 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commerci</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Sun, 08 Nov 2026 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 7700 KENNEDY HILL (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1513853</link>
@@ -812,22 +828,6 @@ EFF monitored nearly 100 bills in the state over the two-year session. These inc
       <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1498111 | PRUE Division | 11/5/2026 3:52:27 AM</description>
       <category>SAPD Calls for Service</category>
       <pubDate>11/5/2026 3:52:27 AM</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary in Progress — 2400 GOLD CANYON RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1498215</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1498215</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1498215 | NORTH Division | 11/5/2026 4:44:41 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>11/5/2026 4:44:41 AM</pubDate>
-    </item>
-    <item>
-      <title>UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI</title>
-      <link>https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy</link>
-      <guid>https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy</guid>
-      <description>[Climate &amp; Environment] Keyword: renewable energy — Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification The UK is “dangerously” dependent on China for critical raw materials needed for the military, renewable energy infrastructure and AI, a parliamentary investigation has found.MPs on the business select committee called for an urgent centralised policy and the creation of a “critical minerals finance facility” to help fund rare earth and other critical mineral mines, and deploy </description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Thu, 05 Nov 2026 05:00:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
