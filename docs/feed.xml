@@ -5,8 +5,48 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 23:22:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 04:00:43 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Assault — 7000 CULEBRA RD (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1511815</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1511815</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault — Incident #SAPD-2026-1511815 | WEST Division | 11/7/2026 9:39:50 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>11/7/2026 9:39:50 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 9200 BRINK (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1511819</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1511819</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1511819 | SOUTH Division | 11/7/2026 9:41:12 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>11/7/2026 9:41:12 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 100 REDROCK DR (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1511821</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1511821</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1511821 | CENTRAL Division | 11/7/2026 9:41:59 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>11/7/2026 9:41:59 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 2000 W POPLAR ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1511839</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1511839</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1511839 | CENTRAL Division | 11/7/2026 9:50:06 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>11/7/2026 9:50:06 PM</pubDate>
+    </item>
+    <item>
+      <title>Why the tropics lose the most birds when cities expand</title>
+      <link>https://phys.org/news/2026-11-tropics-birds-cities.html</link>
+      <guid>https://phys.org/news/2026-11-tropics-birds-cities.html</guid>
+      <description>[Open Source Software] Keyword: FOSS — Tropical ecosystems are famous for their teeming, exuberant diversity. In fact, the dramatic increase in biodiversity from the poles to the tropics—known as the latitudinal diversity gradient—is pervasive across branches of the tree of life, and fossil evidence suggests it has existed for millennia.</description>
+      <category>Open Source Software</category>
+      <pubDate>Sat, 07 Nov 2026 20:30:01 EST</pubDate>
+    </item>
     <item>
       <title>[SAPD] Assault In Progress — 12300 IH 35 N (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1510852</link>
@@ -794,46 +834,6 @@ In the wake of vouchers, Democrats with public education backgrounds won up and 
       <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Transparency and advertising experts say trust in politics could be further eroded as a result of ‘lies, deepfakes and AI-generated politicians’Get our daily political email, free app or daily news podcastIt’s the night of Halloween and Jess Wilson has appeared on social media feeds with a warning about a scary prospect: “Americanised healthcare” under a future Liberal government.“If you had a heart attack, you would have to pay $150,000 for care,” the Victorian Liberal leader says, mid-trick or</description>
       <category>Cannabis, Hemp &amp; Drug Policy</category>
       <pubDate>Wed, 04 Nov 2026 23:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Burglary — 18200 BULVERDE RD (NORTH)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1495895</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1495895</guid>
-      <description>[SAPD Calls for Service] Keyword: Burglary — Incident #SAPD-2026-1495895 | NORTH Division | 11/4/2026 4:11:53 PM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>11/4/2026 4:11:53 PM</pubDate>
-    </item>
-    <item>
-      <title>AlphaFold 3 predicts complex immune interactions using protein sequences alone</title>
-      <link>https://phys.org/news/2026-11-alphafold-complex-immune-interactions-protein.html</link>
-      <guid>https://phys.org/news/2026-11-alphafold-complex-immune-interactions-protein.html</guid>
-      <description>[Science &amp; Research] Keyword: genomics — Researchers at the Translational Genomics Research Institute (TGen), part of City of Hope, have developed a new approach using the artificial intelligence platform AlphaFold 3 to predict whether a T cell receptor will recognize a specific antigen based solely on its genetic sequence. The advancement could help scientists more rapidly decode immune responses to infectious diseases, tumors and other health threats.</description>
-      <category>Science &amp; Research</category>
-      <pubDate>Wed, 04 Nov 2026 14:20:01 EST</pubDate>
-    </item>
-    <item>
-      <title>Long-term temperature records reveal a surprising picture of climate change on Kilimanjaro</title>
-      <link>https://phys.org/news/2026-11-term-temperature-reveal-picture-climate.html</link>
-      <guid>https://phys.org/news/2026-11-term-temperature-reveal-picture-climate.html</guid>
-      <description>[Climate &amp; Environment] Keyword: climate change — Mount Kilimanjaro is warming in some places and cooling in others, according to a new study by the University of Portsmouth, published in npj Climate and Atmospheric Science.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 04 Nov 2026 13:20:11 EST</pubDate>
-    </item>
-    <item>
-      <title>Trained dogs detected invasive plant species in Germany with 75% accuracy</title>
-      <link>https://phys.org/news/2026-11-dogs-invasive-species-germany-accuracy.html</link>
-      <guid>https://phys.org/news/2026-11-dogs-invasive-species-germany-accuracy.html</guid>
-      <description>[Climate &amp; Environment] Keyword: biodiversity loss — Invasive alien species (IAS) are one of the main causes of biodiversity loss worldwide. A study published Nov. 4, 2026, in the journal PLOS One by Annegret Grimm-Seyfarth at Helmholtz-Centre for Environmental Research—UFZ, Germany, and colleagues found that with training, volunteer dog-handler teams could locate invasive species in the wild with 75% accuracy.</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 04 Nov 2026 14:00:13 EST</pubDate>
-    </item>
-    <item>
-      <title>New data infrastructure service strengthens interdisciplinary research</title>
-      <link>https://phys.org/news/2026-11-infrastructure-interdisciplinary.html</link>
-      <guid>https://phys.org/news/2026-11-infrastructure-interdisciplinary.html</guid>
-      <description>[Climate &amp; Environment] Keyword: environmental justice — The &quot;Geolinking Service SoRa&quot; research data infrastructure helps to close a gap in the German research landscape. Many questions—such as those regarding social inequality or environmental justice—can only be answered through interdisciplinary analyses, such as linking social science and spatial science data: Does the proportion of green space in a residential neighborhood affect health and well-being? Are people who live in single-family homes happier than residents of densely built-up urban nei</description>
-      <category>Climate &amp; Environment</category>
-      <pubDate>Wed, 04 Nov 2026 15:20:22 EST</pubDate>
     </item>
   </channel>
 </rss>
