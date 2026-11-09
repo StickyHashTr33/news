@@ -5,8 +5,32 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 21:37:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 01:23:43 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary in Progress — 14600 NACOGDOCHES RD (NORTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1515271</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1515271</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1515271 | NORTH Division | 11/8/2026 7:11:50 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>11/8/2026 7:11:50 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Assault In Progress — 10100 STATE HWY 16 S (SOUTH)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1515272</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1515272</guid>
+      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1515272 | SOUTH Division | 11/8/2026 7:12:01 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>11/8/2026 7:12:01 PM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary in Progress — 9200 VISTA WEST DR (WEST)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1515276</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1515276</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary in Progress — Incident #SAPD-2026-1515276 | WEST Division | 11/8/2026 7:13:14 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>11/8/2026 7:13:14 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary Vehicle — 200 E SONTERRA BLVD (NORTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1514563</link>
@@ -804,30 +828,6 @@ EFF monitored nearly 100 bills in the state over the two-year session. These inc
       <description>[Cybersecurity] Keyword: ransomware — No gang has claimed the attack on incredible neighborhood resource yet</description>
       <category>Cybersecurity</category>
       <pubDate>Thu, 05 Nov 2026 12:10:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Southport and Nottingham attack victims demand end to data breaches</title>
-      <link>https://www.bbc.co.uk/news/articles/c60qkxkl9kkno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid>https://www.bbc.co.uk/news/articles/c60qkxkl9kkno?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>[Cybersecurity] Keyword: data breach — Families described the unauthorised access of confidential medical records as an &quot;abuse of power&quot;.</description>
-      <category>Cybersecurity</category>
-      <pubDate>Thu, 05 Nov 2026 17:52:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress</title>
-      <link>https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss</guid>
-      <description>[Cannabis, Hemp &amp; Drug Policy] Keyword: THCA — Former army surgeon and Gaza volunteer Hamawy is the first Muslim American elected to the US Congress from New Jersey.</description>
-      <category>Cannabis, Hemp &amp; Drug Policy</category>
-      <pubDate>Thu, 05 Nov 2026 14:30:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SAPD] Assault In Progress — 8600 CINNAMON CRK (PRUE)</title>
-      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1498111</link>
-      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1498111</guid>
-      <description>[SAPD Calls for Service] Keyword: Assault In Progress — Incident #SAPD-2026-1498111 | PRUE Division | 11/5/2026 3:52:27 AM</description>
-      <category>SAPD Calls for Service</category>
-      <pubDate>11/5/2026 3:52:27 AM</pubDate>
     </item>
   </channel>
 </rss>
