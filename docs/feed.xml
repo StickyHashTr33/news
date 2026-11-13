@@ -5,8 +5,48 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 23:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 04:45:35 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Shooting In Progress — 12700 VISTA DEL NORTE (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1535376</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1535376</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1535376 | PRUE Division | 11/12/2026 10:27:43 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>11/12/2026 10:27:43 PM</pubDate>
+    </item>
+    <item>
+      <title>Ancient climate records reveal how East Asian monsoon shifted abruptly into cold and drought</title>
+      <link>https://phys.org/news/2026-11-ancient-climate-reveal-east-asian.html</link>
+      <guid>https://phys.org/news/2026-11-ancient-climate-reveal-east-asian.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — How does climate change affect the East Asian monsoon? Researchers from Utrecht University's Faculty of Geosciences, together with colleagues at research institutes in China and Belgium, are investigating this question by looking back 250,000 years. They found that, over long timescales, the monsoon system tracks changes in incoming solar radiation caused by variations in Earth's orbit and tilt. But when radiation falls below a certain threshold, abrupt periods of extreme cold and drought occur,</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 12 Nov 2026 18:20:01 EST</pubDate>
+    </item>
+    <item>
+      <title>Climate change has different consequences for the health of women and men</title>
+      <link>https://phys.org/news/2026-11-climate-consequences-health-women-men.html</link>
+      <guid>https://phys.org/news/2026-11-climate-consequences-health-women-men.html</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — The health risks men and women are exposed to and the illnesses they develop vary widely across lifetimes and places. Yet climate policy and health services often overlook these differences.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Thu, 12 Nov 2026 20:40:01 EST</pubDate>
+    </item>
+    <item>
+      <title>A new treasure map reveals where Earth's lost prehistoric life may be hiding</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261112025529.htm</link>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261112025529.htm</guid>
+      <description>[Open Source Software] Keyword: FOSS — A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously unknown species lie in relatively recent geological periods, rather than the distant past. By mapping unexplored fossil-rich regions around the world, researchers have created a powerful tool to guide future excavations.</description>
+      <category>Open Source Software</category>
+      <pubDate>Thu, 12 Nov 2026 06:24:47 EST</pubDate>
+    </item>
+    <item>
+      <title>Otto’s Ice House to close at Pearl</title>
+      <link>https://sanantonioreport.org/ottos-ice-house-restaurant-close-pearl-san-antonio/</link>
+      <guid>https://sanantonioreport.org/ottos-ice-house-restaurant-close-pearl-san-antonio/</guid>
+      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Less than 20 months after opening at Pearl, Otto's Ice House will serve its final comfort-food meal on Friday, Nov. 20.Otto’s Ice House to close at Pearl was first posted on November 12, 2026 at 6:10 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@rivardreport.com</description>
+      <category>Texas &amp; San Antonio Local</category>
+      <pubDate>Fri, 13 Nov 2026 00:10:43 +0000</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 100 HAYNES (DOWNTOWN)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1534029</link>
@@ -783,52 +823,6 @@ Despite t</description>
       <description>[Immigration &amp; Border] Keyword: border wall — The House could vote to impeach Hegseth, but removing him from office will be tough. And, SCOTUS ruled that a federal judge did not have the authority to halt border wall construction.</description>
       <category>Immigration &amp; Border</category>
       <pubDate>Tue, 10 Nov 2026 07:01:04 -0500</pubDate>
-    </item>
-    <item>
-      <title>Mayor Jones seeks to expand San Antonio’s legislative agenda after Democrats’ Texas victories</title>
-      <link>https://sanantonioreport.org/mayor-jones-expand-san-antonio-legislative-agenda-democrats-texas-victories/</link>
-      <guid>https://sanantonioreport.org/mayor-jones-expand-san-antonio-legislative-agenda-democrats-texas-victories/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Mayor Gina Ortiz Jones wants to expand San Antonio’s legislative agenda to include Medicaid expansion, voting rights and immigration reform.Mayor Jones seeks to expand San Antonio’s legislative agenda after Democrats’ Texas victories  was first posted on November 10, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please </description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Tue, 10 Nov 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[$] Synaptics patent claims stop work on DisplayLink drivers</title>
-      <link>https://lwn.net/Articles/1102549/</link>
-      <guid>https://lwn.net/Articles/1102549/</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — Mike Lothian owns a docking station (or dock) that uses a DisplayLink chipset
-that had, at least in his opinion, subpar performance on Linux. He
-decided to try improving the Linux driver, with LLM assistance, but ran into one
-problem that he could not solve&amp;mdash;so he asked for help, hoping that
-Synaptics's developers would lend a hand. (DisplayLink was acquired by
-Synaptics in 2022.) Rather than help him in improving the
-driver, however, the Synaptics legal team responded with patent infringem</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Tue, 10 Nov 2026 15:38:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625</link>
-      <guid>https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625</guid>
-      <description>[AI &amp; Automation] Keyword: AI agent — Post-quantum handshake and Triple Ratchet get a formal security check</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fireworks AI gets burned twice as customer data exposure widens</title>
-      <link>https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722</link>
-      <guid>https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — Inference biz pins latest breach on cloud provider and LLMJacking miscreants</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Tue, 10 Nov 2026 15:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Even Martin Scorsese uses AI for storyboards. Can the art survive?</title>
-      <link>https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai</link>
-      <guid>https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai</guid>
-      <description>[AI &amp; Automation] Keyword: large language model — As Hollywood begins to adopt the technology, the professionals in most direct jeopardy are the illustrators mapping out directors’ first visions. They sketch out what could be lostA film industry dominated by AI is a dystopian prospect: stories and dialogue generated by large language models, populated by reincarnated screen icons and uncanny humanoids. That is in the future, but the real-world impact of AI is already directly affecting jobs behind the scenes, as Hollywood’s biggest film-makers </description>
-      <category>AI &amp; Automation</category>
-      <pubDate>Tue, 10 Nov 2026 13:00:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
