@@ -5,8 +5,56 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 00:39:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:34:57 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Shooting In Progress — 1300 ALAMETOS ST (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1549066</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1549066</guid>
+      <description>[SAPD Calls for Service] Keyword: Shooting In Progress — Incident #SAPD-2026-1549066 | CENTRAL Division | 11/16/2026 12:56:37 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>11/16/2026 12:56:37 AM</pubDate>
+    </item>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 3700 WEST AVE (CENTRAL)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1549092</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1549092</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1549092 | CENTRAL Division | 11/16/2026 1:11:12 AM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>11/16/2026 1:11:12 AM</pubDate>
+    </item>
+    <item>
+      <title>‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon</title>
+      <link>https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment</link>
+      <guid>https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment</guid>
+      <description>[Indigenous News &amp; Tribal Sovereignty] Keyword: Indigenous — Pontiff delivers forceful speech in Peru as he travels from high in the Andes into the AmazonPope Leo XIV has demanded justice for environmental defenders killed for protecting the Amazon and backed efforts by Indigenous peoples to stop their lands from being ravaged by logging and illegal mining.On the penultimate day of his South American tour, Leo on Sunday travelled into the Peruvian Amazon and channelled one of Pope Francis’s core teachings that links care for the most vulnerable with care </description>
+      <category>Indigenous News &amp; Tribal Sovereignty</category>
+      <pubDate>Mon, 16 Nov 2026 01:13:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pope urges end to Amazon deforestation</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-urges-end-to-amazon-deforestation?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-urges-end-to-amazon-deforestation?traffic_source=rss</guid>
+      <description>[Climate &amp; Environment] Keyword: deforestation — Pope Leo XIV warns deforestation and illegal mining are threatening the Amazon rainforest and the local communities.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 16 Nov 2026 01:44:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon</title>
+      <link>https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss</link>
+      <guid>https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss</guid>
+      <description>[Climate &amp; Environment] Keyword: deforestation — Pontiff says he supports Indigenous efforts to protect their lands, demands justice for slain environmental defenders.</description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 16 Nov 2026 01:52:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weakening UK electric vehicle targets would hurt car industry, ministers told</title>
+      <link>https://www.theguardian.com/environment/2026/nov/16/weakening-uk-electric-vehicle-targets-would-hurt-car-industry-ministers-told</link>
+      <guid>https://www.theguardian.com/environment/2026/nov/16/weakening-uk-electric-vehicle-targets-would-hurt-car-industry-ministers-told</guid>
+      <description>[Climate &amp; Environment] Keyword: climate change — Exclusive: Experts say watering down ZEV mandate would slow market and hamper efforts to reduce cost of livingMoves to weaken the UK’s targets on electric vehicles would hurt the car industry as well as consumers, campaigners and experts have said before a key intervention from government advisers expected this week.The climate change committee (CCC) will write to ministers on Wednesday about the effects of changing the zero emissions vehicle (ZEV) mandate on the cost of living and the UK’s net </description>
+      <category>Climate &amp; Environment</category>
+      <pubDate>Mon, 16 Nov 2026 06:00:37 GMT</pubDate>
+    </item>
     <item>
       <title>Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour</title>
       <link>https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss</link>
@@ -760,66 +808,6 @@ The post Q&amp;amp;A: Walter Panzirer on Philanthropy and Rural Healthcare appea
       <description>[Open Source Software] Keyword: FOSS — They are in our shampoo bottles, power our cars and heat our homes. But what actually are fossil fuels, and why do they matter?</description>
       <category>Open Source Software</category>
       <pubDate>2026-11-12T12:04:00Z</pubDate>
-    </item>
-    <item>
-      <title>Stenberg: 30 years of Internet transfers with curl</title>
-      <link>https://lwn.net/Articles/1107151/</link>
-      <guid>https://lwn.net/Articles/1107151/</guid>
-      <description>[Open Source Software] Keyword: open source license — Daniel Stenberg reflects
-on the 30th anniversary of the curl project.
-
-
-	libcurl runs in an estimated thirty billion installations today. It
-	is a rough estimate since the majority of all libcurl users never
-	tell us they use it, but we need to find it mentioned in their
-	credit screens, open source license windows or their manuals. A
-	super popular app might use libcurl today and not tomorrow, or vice
-	versa, which can make the numbers shift by several billions
-	overnight. In reality of course,</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 12 Nov 2026 14:24:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sen. Whitehouse at COP31 While Advancing Trump-Backed Fossil Fuel Giveaway at Home</title>
-      <link>https://www.commondreams.org/newswire/sen-whitehouse-at-cop31-while-advancing-trump-backed-fossil-fuel-giveaway-at-home</link>
-      <guid>https://www.commondreams.org/newswire/sen-whitehouse-at-cop31-while-advancing-trump-backed-fossil-fuel-giveaway-at-home</guid>
-      <description>[Open Source Software] Keyword: FOSS — In response to news that U.S. Senator Sheldon Whitehouse (D-RI) is attending COP31 today, Oil Change International's United States Campaign Manager, Collin Rees, said, “Senator Whitehouse is a reliably strong voice for climate action and a frequent presence at the climate talks. This makes it even more disappointing that he’s choosing to introduce and champion a Trump-backed bill that would accelerate massive buildout of fossil fuel projects and AI data centers by weakening environmental protect</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 12 Nov 2026 13:13:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fossil Fuel Giants Have Sued States for Over $443 Billion Under Trade Deals</title>
-      <link>https://truthout.org/articles/fossil-fuel-giants-have-sued-states-for-over-443-billion-under-trade-deals/</link>
-      <guid>https://truthout.org/articles/fossil-fuel-giants-have-sued-states-for-over-443-billion-under-trade-deals/</guid>
-      <description>[Open Source Software] Keyword: FOSS — Critics say the companies are weaponizing provisions to siphon money from public budgets that are already stretched.</description>
-      <category>Open Source Software</category>
-      <pubDate>Thu, 12 Nov 2026 15:43:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Expert And A Noob Play ‘Final Fantasy Resonance’</title>
-      <link>https://defector.com/an-expert-and-a-noob-play-final-fantasy-resonance</link>
-      <guid>https://defector.com/an-expert-and-a-noob-play-final-fantasy-resonance</guid>
-      <description>[Tabletop RPG &amp; D&amp;D] Keyword: role-playing game — While there are many fantastic Japanese role-playing game (JRPG, for short) series out there, and with apologies to Dragon Quest and Persona, Final Fantasy is the biggest and most important of them all. Every numbered entry in the main series is an event, and since almost every game is its own story (to date, there have been two main games to get direct sequels: X got X-2, and XIII inexplicably got two sequels), there are swaths of new gamers dipping in every time a new game releases.
-
-Despite t</description>
-      <category>Tabletop RPG &amp; D&amp;D</category>
-      <pubDate>Thu, 12 Nov 2026 14:53:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Four people shot in Washington DC</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss</link>
-      <guid>https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss</guid>
-      <description>[Immigration &amp; Border] Keyword: ICE operation — A major police operation is underway in Washington DC where four people have reportedly been shot</description>
-      <category>Immigration &amp; Border</category>
-      <pubDate>Thu, 12 Nov 2026 15:42:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>On Veterans Day, House pushes through massive and controversial veterans bill</title>
-      <link>https://sanantonioreport.org/san-antonio-texas-veterans-day-benefits-bill-passes-tcava/</link>
-      <guid>https://sanantonioreport.org/san-antonio-texas-veterans-day-benefits-bill-passes-tcava/</guid>
-      <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Despite concerns over veteran disability compensation, Republicans pushed through a huge veterans' benefits bill on a voice vote Wednesday.On Veterans Day, House pushes through massive and controversial veterans bill was first posted on November 12, 2026 at 5:00 am.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hell</description>
-      <category>Texas &amp; San Antonio Local</category>
-      <pubDate>Thu, 12 Nov 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
