@@ -5,8 +5,16 @@
     <link>https://StickyHashTr33.github.io/news-keyword-monitor</link>
     <description>Keyword-monitored news feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 23:36:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 05:19:20 +0000</lastBuildDate>
     <atom:link href="https://StickyHashTr33.github.io/news-keyword-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[SAPD] Burglary Vehicle — 15600 IH 10 W (PRUE)</title>
+      <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1573577</link>
+      <guid>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1573577</guid>
+      <description>[SAPD Calls for Service] Keyword: Burglary Vehicle — Incident #SAPD-2026-1573577 | PRUE Division | 11/20/2026 11:01:31 PM</description>
+      <category>SAPD Calls for Service</category>
+      <pubDate>11/20/2026 11:01:31 PM</pubDate>
+    </item>
     <item>
       <title>[SAPD] Burglary — 3100 WEIR AVE (SOUTH)</title>
       <link>https://webapp3.sanantonio.gov/policecalls/Calls.aspx#SAPD-2026-1572170</link>
@@ -820,14 +828,6 @@ At the COP31 climate conference in Turkey, we speak with Aakaluk Adrienne Blatch
       <description>[Texas &amp; San Antonio Local] Keyword: San Antonio — Terry Black's had its San Antonio debut on Tuesday. The first customers arrived at 8:30 a.m., two hours early, to celebrate a 50th birthday.Terry Black’s BBQ opens with Texas-sized appetites, smokers and plates was first posted on November 18, 2026 at 4:30 pm.&amp;copy;2021 &amp;quot;San Antonio Report&amp;quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at hello@riva</description>
       <category>Texas &amp; San Antonio Local</category>
       <pubDate>Wed, 18 Nov 2026 22:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grand Theft Auto VI released as gamers rejoice globally</title>
-      <link>https://www.dw.com/en/grand-theft-auto-vi-released-as-gamers-rejoice-globally/a-79986461?maca=en-rss-en-all-1573-rdf</link>
-      <guid>https://www.dw.com/en/grand-theft-auto-vi-released-as-gamers-rejoice-globally/a-79986461?maca=en-rss-en-all-1573-rdf</guid>
-      <description>[AI &amp; Automation] Keyword: LLM — After 13 years of waiting, fans around the world will get to play the latest installment in the blockbuster video game series. In focus: A tale of crime and violence in a fictionalized version of Miami.</description>
-      <category>AI &amp; Automation</category>
-      <pubDate>2026-11-18T23:58:00Z</pubDate>
     </item>
   </channel>
 </rss>
